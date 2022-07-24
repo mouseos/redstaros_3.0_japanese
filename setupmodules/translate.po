@@ -1,0 +1,171 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk20\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-13 11:01-0500\n"
+"PO-Revision-Date: 2022-07-24 16:46+0900\n"
+"Last-Translator: \n"
+"Language-Team: <en@li.org>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid "Upgrade"
+msgstr "アップグレード"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Copyright"
+msgstr "著作権"
+
+msgid "Summary"
+msgstr "まとめ"
+
+msgid "searching..."
+msgstr "検索中..."
+
+msgid "for upgrade, click Next"
+msgstr "アップグレードするには、[次へ]をクリックします"
+
+msgid "there is no item for upgrade."
+msgstr "アップグレードするアイテムはありません。"
+
+msgid "Please insert installation CD, or click Cancel to abort."
+msgstr ""
+"インストールCDを挿入するか、[キャンセル]をクリックして中止してください。"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid ""
+"You need to restart the computer for a system installation.\n"
+"Restart now?"
+msgstr ""
+"システムのインストールには、コンピュータを再起動する必要があります。\n"
+"今すぐ再起動しますか？"
+
+msgid ""
+"Upgrading is finished. for using new system rebooting is needed. eject "
+"installation media and click OK."
+msgstr ""
+"アップグレードは終了です。新しいシステムを使用するためには、再起動が必要"
+"です。"
+
+msgid "RedStar3.0_Install"
+msgstr "RedStar3.0_インストール"
+
+msgid "Previous"
+msgstr "前へ"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "Finish"
+msgstr "終了"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid ""
+"Error is occured while preparing installation. seemed too long url seted "
+"install image path"
+msgstr ""
+"インストール準備中にエラーが発生しました。 インストールイメージパスを設定"
+"したURLが長すぎるようです。"
+
+msgid "Error is occured while preparing installation."
+msgstr "インストールの準備中にエラーが発生しました。"
+
+msgid "Error is occured while processing installation."
+msgstr "インストールの処理中にエラーが発生しました。"
+
+msgid ""
+"You need to restart the computer for a system installation. Eject "
+"installation media and reboot"
+msgstr ""
+"システムインストールを行うには、コンピュータを再起動する必要があります。"
+"インストールメディアを取り出し、再起動する"
+
+msgid ""
+"Error is occured while preparing installation. seemed wrong installation "
+"version."
+msgstr ""
+"インストール準備中にエラーが発生しました。 インストールのバージョンが違っ"
+"ていたようです。"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid " Setup"
+msgstr "セットアップ"
+
+msgid "Install RedStar3"
+msgstr "RedStar3をインストールします"
+
+msgid "Upgrade current system."
+msgstr "現在のシステムをアップグレードします。"
+
+msgid "Exit program."
+msgstr "プログラムを終了します。"
+
+msgid "Exit(_Q)"
+msgstr "終了（_Q）"
+
+msgid "Upgrading is finished."
+msgstr "アップグレードが終了しました。"
+
+msgid "Cancel Install\n"
+msgstr "インストールをキャンセルします\n"
+
+msgid "Exit Install\n"
+msgstr "インストールを終了します\n"
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Cancel Install"
+msgstr "インストールのキャンセル"
+
+msgid "open failed\n"
+msgstr "開くことができませんでした\n"
+
+msgid "install failed\n"
+msgstr "インストールに失敗しました\n"
+
+msgid "Abort install?"
+msgstr "インストールを中止しますか？"
+
+msgid "%dMB needed."
+msgstr "％dMBが必要です。"
+
+msgid "System is rebooting..."
+msgstr "システムが再起動しています..."
+
+msgid ""
+"You are using non iMac-Setup program. \n"
+"Try again using iMac_Setup program"
+msgstr ""
+"iMac-Setup以外のプログラムを使用しています。\n"
+"iMac_Setupプログラムを使用して再試行してください。"
+
+msgid "Install Error"
+msgstr "インストールエラー"
+
+msgid "Can not install with normal user"
+msgstr "通常のユーザーではインストールできません"
