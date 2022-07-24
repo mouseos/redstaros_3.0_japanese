@@ -1,0 +1,12 @@
+#!/usr/bin/python
+#JSH:for manage po files, must deleted in release Version
+import sys,os
+os.system('rm *.mo')
+files=os.listdir("./")
+for f in files:
+    if f.endswith('.po'):
+    	try:
+    	    f=f[:-3]
+    	    os.system("msgfmt -o %s.mo %s.po" % (f, f))
+    	except:
+    	    os.system("echo cannotFormat:%s" % f)

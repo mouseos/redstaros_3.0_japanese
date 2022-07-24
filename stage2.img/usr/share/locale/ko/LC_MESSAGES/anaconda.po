@@ -1,0 +1,6741 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-02-13 13:24-0500\n"
+"PO-Revision-Date: 2006-02-14 09:33+1000\n"
+"Last-Translator: \n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+msgid ""
+"\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"\n"
+"\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"\n"
+"\n"
+"The following packages were available in this version but NOT installed:\n"
+msgstr ""
+"\n"
+"\n"
+"다음의 패키지들은 이번 판본에서 사용할수 있지만 설치되지 않았습니다.\n"
+
+msgid ""
+"\n"
+"\n"
+"The following packages were available in this version but NOT upgraded:\n"
+msgstr ""
+"\n"
+"\n"
+"다음의 패키지들은 이번 판본에서 사용할수 있지만 갱신하지 않았습니다.\n"
+
+msgid ""
+"\n"
+"\n"
+"The installer has detected %s MB of RAM.\n"
+msgstr ""
+"\n"
+"\n"
+"%sMB크기의 RAM이 검출되였습니다.\n"
+
+msgid ""
+"\n"
+"\n"
+"WARNING! ALL DATA ON THE TARGET DRIVES WILL BE DESTROYED."
+msgstr ""
+"\n"
+"\n"
+"목적구획의 모든 자료가 지워집니다."
+
+msgid ""
+"\n"
+"\n"
+"WARNING!!! VNC server running with NO PASSWORD!\n"
+"You can use the vncpassword=<password> boot option\n"
+"if you would like to secure the server.\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"VNC봉사가 통과암호없이 실행되고있습니다!\n"
+"보안을 높이려면, vncpassword=<password> 기동선택항목을\n"
+"사용하여야 합니다.\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"You can choose a different automatic partitioning option, or click 'Back' to "
+"select manual partitioning.\n"
+"\n"
+"Press 'OK' to continue."
+msgstr ""
+"\n"
+"\n"
+"다른 자동구획관리를 선택하거나 〈뒤로〉 단추를 눌러 수동구획관리를 선택할수 "
+"있습니다.\n"
+"\n"
+"〈확 인〉 단추를 누르면 설치를 계속 진행합니다."
+
+msgid "        Time"
+msgstr "  소요시간"
+
+msgid "      Bytes"
+msgstr "      바이트"
+
+msgid ""
+"    F1-Help     F2-New      F3-Edit   F4-Delete    F5-Reset    F12-OK        "
+msgstr ""
+"     F1-도움말   F2-새로 생성   F3-편집   F4-삭제   F5-재설정   F12-확"
+"인      "
+
+msgid "    Packages"
+msgstr " 패키지개수"
+
+msgid ""
+"  <Tab>/<Alt-Tab> between elements   |  <Space> selects   |  <F12> next "
+"screen"
+msgstr ""
+"      <Tab>/<Alt-Tab> 항목 이동   |   <Space> 선택   |   <F12> 다음 화면"
+
+msgid ""
+"  <Tab>/<Alt-Tab> between elements  | <Space> selects | <F12> next screen "
+msgstr ""
+"      <Tab>/<Alt-Tab> 항목 이동   |   <Space> 선택   |   <F12> 다음 화면"
+
+msgid ""
+" <F1> for help | <Tab> between elements | <Space> selects | <F12> next screen"
+msgstr ""
+"     <F1> 도움말  |  <Tab> 항목 이동  |  <Space> 선택  |  <F12> 다음 화면"
+
+msgid ""
+" <Space> selects button | <F2> select default boot entry | <F12> next screen>"
+msgstr ""
+" <공백>은 선택단추 | <F2> 는 표준기동입구점선택 | <F12> 는 다음 화면으로 가기"
+">"
+
+msgid " Name   : "
+msgstr "이름: "
+
+msgid " Size   : "
+msgstr "용량: "
+
+msgid " Summary: "
+msgstr "개요: "
+
+msgid "%.1fGB Freespace"
+msgstr "남은공간 %.1fGB"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s %s installation"
+msgstr "%s %s 설치"
+
+msgid "%s %s installation on host %s"
+msgstr "%s 콤퓨터에서 %s %s 설치"
+
+msgid "%s Byte"
+msgstr "%s 바이트"
+
+msgid "%s Bytes"
+msgstr "%s 바이트"
+
+msgid "%s Installer"
+msgstr "%s 설치프로그람"
+
+msgid "%s KB"
+msgstr "%s KB"
+
+msgid "%s MB"
+msgstr "%s MB"
+
+msgid "%s directory:"
+msgstr "%s 등록부:"
+
+msgid ""
+"%s for the image:\n"
+"\n"
+"   %s"
+msgstr ""
+"이미지파일을 위한 %s.\n"
+"\n"
+"   %s"
+
+msgid ""
+"%s is a wireless network adapter.  Please provide the ESSID and encryption "
+"key needed to access your wireless network.  If no key is needed, leave this "
+"field blank and the install will continue."
+msgstr ""
+"%s는 무선망적응기입니다.  무선망접속에 필요한 ESSID 및 인증열쇠를 입력하여야"
+"합니다.  열쇠를 사용하지 않으려면 입력하지 않아도 됩니다."
+
+msgid "%s is not a valid hostname."
+msgstr "%s 는 잘못된 콤퓨터이름입니다."
+
+msgid "%s not found"
+msgstr "%s 를 찾을수 없음"
+
+msgid "(Max size is %s MB)"
+msgstr "(최대 용량은 %sMB입니다)"
+
+msgid "(ex. \"host.domain.com\")"
+msgstr "(례. \"host.domain.com\")"
+
+msgid ""
+"/dev/%s currently has a %s partition layout.  To use this disk for the "
+"installation of %s, it must be re-initialized, causing the loss of ALL DATA "
+"on this drive.\n"
+"\n"
+"Would you like to format this drive?"
+msgstr ""
+"/dev/%s 장치는 %s 구획류형입니다. %s 을 이 구획에 설치하려면 반드시 구획"
+"을 초기화하여야 합니다. 초기화를 하면 구획의 모든 자료는 지워집니다.\n"
+"\n"
+"이 구획을 초기화하겠습니까?"
+
+msgid ""
+"/dev/%s has a partition type of 0x82 (Linux swap) but does not appear to be "
+"formatted as a Linux swap partition.\n"
+"\n"
+"Would you like to format this partition as a swap partition?"
+msgstr ""
+"/dev/%s 에는 가상기억기와 같은 구획류형이 존재하지만 가상기억기로 초기화되여"
+"있지 않은것 같습니다.\n"
+"\n"
+"이 구획을 가상기억기로 초기화하겠습니까?"
+
+msgid "/dev/ttyS0 (COM1 under DOS)"
+msgstr "/dev/ttyS0 (DOS에서의 COM1)"
+
+msgid "/dev/ttyS1 (COM2 under DOS)"
+msgstr "/dev/ttyS1 (DOS에서의 COM2)"
+
+msgid "/dev/ttyS2 (COM3 under DOS)"
+msgstr "/dev/ttyS2 (DOS에서의 COM3)"
+
+msgid "/dev/ttyS3 (COM4 under DOS)"
+msgstr "/dev/ttyS3 (DOS에서의 COM4)"
+
+msgid "<Enter> to exit"
+msgstr "끝내려면 Enter건을 눌러야 합니다"
+
+msgid "<Enter> to reboot"
+msgstr "재기동하려면 Enter건을 눌러야 합니다"
+
+msgid "<Not Applicable>"
+msgstr "<적용할수 없음>"
+
+msgid ""
+"<Space>,<+>,<-> selection   |   <F2> Group Details   |   <F12> next screen"
+msgstr "<Space>,<+>,<-> 선택     |    <F2> 그룹 정보      |    <F12> 다음 화면"
+
+msgid "<b>_Port Number:</b>"
+msgstr "<b>포구번호(_P):</b>"
+
+msgid "<b>_Target IP Address:</b>"
+msgstr "<b>목적 IP 주소(_T):</b>"
+
+msgid "<b>iSCSI Initiator _Name:</b>"
+msgstr "<b>iSCSI 개시 이름 (_N):</b>"
+
+msgid "A RAID device of type %s requires at least %s members."
+msgstr "%s 류형의 RAID장치는 최소한 %s 정도의 요소로 구성되여야 합니다."
+
+msgid ""
+"A boot loader password prevents users from changing options passed to the "
+"kernel.  For greater system security, it is recommended that you set a "
+"password."
+msgstr ""
+"기동관리자통과암호를 지정하면 사용자가 임의로 특정한 선택항목을 핵심부에 전달하"
+"는것을 막을수 있습니다. 보안을 위해서는 통과암호를 설정해야 합니다."
+
+msgid ""
+"A boot loader password prevents users from passing arbitrary options to the "
+"kernel.  For highest security, we recommend setting a password, but this is "
+"not necessary for more casual users."
+msgstr ""
+"기동관리자통과암호를 지정하면 사용자가 임의로 특정항목을 핵심부에 전달하는것을 "
+"막을수 있습니다. 최대의 보안을 위해서는 통과암호를 설정하여야 합니다.  대부분"
+"의 일반사용자에게는 필요하지 않습니다."
+
+msgid ""
+"A complete log of the installation can be found in the file '%s' after "
+"rebooting your system.\n"
+"\n"
+"A kickstart file containing the installation options selected can be found "
+"in the file '%s' after rebooting the system."
+msgstr ""
+"설치작업기록은 체계재기동후 '%s' 파일에 보존됩니다.\n"
+"\n"
+"설치선택항목이 기록된 기동파일은 체계재기동후 '%s' 파일에 보존됩니다."
+
+msgid ""
+"A complete log of the upgrade can be found in the file '%s' after rebooting "
+"your system."
+msgstr "갱신작업기록은 체계재기동후 '%s' 파일에 보존됩니다."
+
+msgid ""
+"A complete log of your installation will be in %s after rebooting your "
+"system. You may want to keep this file for later reference."
+msgstr ""
+"설치작업기록은 체계재기동후 %s 파일에 보존됩니다."
+
+msgid ""
+"A complete log of your upgrade will be in %s after rebooting your system. "
+"You may want to keep this file for later reference."
+msgstr ""
+"갱신작업기록은 체계재기동 후 %s 파일에 보존됩니다."
+
+msgid ""
+"A few systems will need to pass special options to the kernel at boot time "
+"for the system to function properly. If you need to pass boot options to the "
+"kernel, enter them now. If you don't need any or aren't sure, leave this "
+"blank."
+msgstr ""
+"어떤 체계에서는 체계의 기능을 제대로 활용하기 위해 기동시 핵심부에 특별한 항"
+"목을 전달해야 합니다. 체계가 그러한 특정항목을 핵심부에 전달하여야 하는 경우"
+"라면 아래의 빈칸에 그 내용을 입력하여여야 합니다. 핵심부에 전달해야 할 항목"
+"이 없거나 잘 모르는 경우에는 입력하지 않아도 됩니다."
+
+msgid ""
+"A password will prevent unauthorized listeners connecting and monitoring "
+"your installation progress.  Please enter a password to be used for the "
+"installation"
+msgstr ""
+"통과암호를 사용하여 제3자가 몰래 접속하여 설치과정을 감시하는것을 방지할수 있습"
+"니다. 그러므로 설치할 때 사용할 통과암호를 입력하여야 합니다."
+
+msgid "A screenshot named '%s' has been saved."
+msgstr "'%s' 화면화상이 보존되였습니다."
+
+msgid ""
+"A software RAID device cannot be created because all of the available RAID "
+"minor device numbers have been used."
+msgstr ""
+"모든 사용가능한 RAID보조장치번호가 사용되였기때문에 쏘프트웨어RAID장치를 창조"
+"할수 없습니다."
+
+msgid "A value is required for the field \"%s\"."
+msgstr "〈%s〉항목을 입력하여야 합니다."
+
+msgid "Absolute Symlinks"
+msgstr "절대기호련결"
+
+msgid "Activate on boot"
+msgstr "체계기동시 활성화"
+
+msgid "Active on Boot"
+msgstr "체계기동시 활성화"
+
+msgid "Add"
+msgstr "추가"
+
+msgid "Add Device"
+msgstr "장치 추가"
+
+msgid "Add FCP device"
+msgstr "FCP 장치 추가"
+
+msgid "Add Partition"
+msgstr "구획 추가"
+
+msgid "Add Swap"
+msgstr "가상기억공간 추가"
+
+msgid "Add anyway"
+msgstr "강제 추가"
+
+msgid ""
+"Adding this partition would not leave enough disk space for already "
+"allocated logical volumes in %s."
+msgstr ""
+"이 구획을 추가하면 %s에 이미 할당한 론리볼륨을 위한 디스크공간이 부족하게 "
+"됩니다."
+
+msgid "Additional Size Options"
+msgstr "추가용량선택"
+
+msgid "Advanced Boot Loader Configuration"
+msgstr "기동관리자의 상세구성"
+
+msgid "Allowable Drives:"
+msgstr "할당 가능한 구획:"
+
+msgid "Allowable _Drives:"
+msgstr "할당 가능한 구획(_D):"
+
+msgid ""
+"An error has occurred - no valid devices were found on which to create new "
+"file systems. Please check your hardware for the cause of this problem."
+msgstr ""
+"오유 발생 - 새로운 파일체계를 창조하기 위한 장치를 찾을수 없습니다. 장치환경"
+"을 다시 한번 확인하여야 합니다."
+
+msgid ""
+"An error occured reading the install from the ISO images. Please check your "
+"ISO images and try again."
+msgstr ""
+"ISO파일에서 설치프로그람을 읽던중 오유가 발생했습니다. ISO파일을 확인하"
+"여야 합니다."
+
+msgid ""
+"An error occurred converting the value entered for \"%s\":\n"
+"%s"
+msgstr ""
+" 〈%s〉에 입력된 값을 변환하던중 오유가 발생하였습니.\n"
+"%s"
+
+msgid "An error occurred copying the screenshots over."
+msgstr "화면화상자료를 복사하던중 오유가 발생하였습니다."
+
+msgid ""
+"An error occurred migrating %s to ext3.  It is possible to continue without "
+"migrating this file system if desired.\n"
+"\n"
+"Would you like to continue without migrating %s?"
+msgstr ""
+"%s 구획을 ext3로 전환하던중 오유가 발생하였습니다. 파일체계를 전환하지 않"
+"고도 설치를 계속 할수 있습니다.\n"
+"\n"
+"%s (을)를 전환하지 않고 설치를 진행하겠습니까?"
+
+msgid ""
+"An error occurred searching for bad blocks on %s.  This problem is serious, "
+"and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 의 불량블로크를 탐색하던중 오유가 발생하였습니다. "
+"Enter건을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred transferring the install image to your hard drive. You are "
+"probably out of disk space."
+msgstr ""
+"설치용 파일을 하드디스크로 전송하던중 오유가 발생하였습니다. 디스크공간이 "
+"부족한것 같습니다."
+
+msgid ""
+"An error occurred trying to format %s.  This problem is serious, and the "
+"install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 구획을 초기화하던중 오유가 발생하였습니다.\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred trying to initialize swap on device %s.  This problem is "
+"serious, and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 장치의 가상기억공간을 초기화하던중 오유가 발생하였습니다."
+" Enter건을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred trying to migrate %s.  This problem is serious, and the "
+"install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 구획을 전환하던중 오유가 발생하였습니다."
+" Enter건을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred trying to mount some or all of your system. Some of it may "
+"be mounted under %s.\n"
+"\n"
+"Press <return> to get a shell. The system will reboot automatically when you "
+"exit from the shell."
+msgstr ""
+"체계를 일부 또는 전부 탑재하던중 오유가 발생하였습니다. 체계의 일부는 %s"
+"에 탑재됩니다.\n"
+"\n"
+"Enter건을 누르면 쉘로 나갑니다. 쉘에서 탈퇴하면 체계는 자동적으로 재기동합"
+"니다."
+
+msgid ""
+"An error occurred unmounting the CD.  Please make sure you're not accessing %"
+"s from the shell on tty2 and then click OK to retry."
+msgstr ""
+"CD를 탑재해제하던중 오유가 발생하였습니다.  tty2 쉘에서 %s을 사용하고 있는"
+"지 확인하고 〈확 인〉단추를 다시 선택하여야 합니다."
+
+msgid ""
+"An error occurred when attempting to load an installer interface component.\n"
+"\n"
+"className = %s"
+msgstr ""
+"설치프로그람의 대면부구성요소를 적재하던중 오유가 발생하였습니다.\n"
+"\n"
+"className = %s"
+
+msgid "An error occurred when finding the packages to upgrade."
+msgstr "갱신할 패키지를 탐색하던중 오유가 발생하였습니다."
+
+msgid ""
+"An error occurred when trying to create %s.  Some element of this path is "
+"not a directory. This is a fatal error and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 를 창조하던중 오유가 발생하였습니다."
+" Enter건을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred when trying to create %s: %s.  This is a fatal error and "
+"the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+"%s 를 창조하던중 오유가 발생하였습니다."
+" Enter건을 누르면 체계가 재기동합니다."
+
+msgid ""
+"An error occurred while saving the screenshot.  If this occurred during "
+"package installation, you may need to try several times for it to succeed."
+msgstr ""
+"화면화상자료를 보존하던중 오유가 발생하였습니다."
+
+msgid ""
+"An unhandled exception has occurred. Please save a copy of the detailed "
+"exception and file a bug report to 'RedStar' Team"
+msgstr ""
+"설치하던중 오유가 발생하였습니다."
+
+msgid "Apple Bootstrap"
+msgstr "Apple 초기적재"
+
+msgid "Are you sure you want to Delete the logical volume \"%s\"?"
+msgstr "〈%s〉 론리볼륨을 삭제하겠습니까?"
+
+msgid ""
+"Are you sure you want to reset the partition table to its original state?"
+msgstr "구획표를 초기의 상태로 재설정하겠습니까?"
+
+msgid ""
+"Arrange the drives to be in the same order as used by the BIOS. Changing the "
+"drive order may be useful if you have multiple SCSI adapters or both SCSI "
+"and IDE adapters and want to boot from the SCSI device.\n"
+"\n"
+"Changing the drive order will change where the installation program locates "
+"the Master Boot Record (MBR)."
+msgstr ""
+"BIOS의 디스크시작순서를 설정하여야 합니다. 다중 SCSI 적응기나 SCSI와 IDE를 가"
+"지고 있으면서 SCSI 장치로 기동하려는 경우 디스크 시작 순서를 변경하여야 합니다."
+"\n"
+"이렇게 하면 주기동레코드(MBR)의 위치가 변경됩니다."
+
+msgid ""
+"As you don't have much memory in this machine, we need to turn on swap space "
+"immediately. To do this we'll have to write your new partition table to the "
+"disk immediately. Is that OK?"
+msgstr ""
+"체계의 기억기가 부족하기때문에 지금 가상기억공간을 사용해야 합니다. 가상기억"
+"공간을 사용하려면 현재 구획표를 디스크에 보존해야 합니다. 그렇게 하겠습니까?"
+
+msgid ""
+"At least one unused physical volume partition is needed to create an LVM "
+"Volume Group.\n"
+"\n"
+"Create a partition or RAID array of type \"physical volume (LVM)\" and then "
+"select the \"LVM\" option again."
+msgstr ""
+"LVM 볼륨그룹을 창조하기 위해서는 최소한 한개의 사용되지 않은 물리적볼륨구"
+"획이 필요합니다.\n"
+"\n"
+"우선 구획을 창조하거나 〈물리적볼륨 (LVM)〉류형의 raid 배렬을 만든 후 "
+"〈LVM〉 선택항목을 다시 선택하여야 합니다."
+
+msgid "At least two software RAID partitions are needed."
+msgstr "최소한 두개의 쏘프트웨어RAID구획이 필요합니다."
+
+msgid ""
+"At least two unused software RAID partitions are needed to create a RAID "
+"device.\n"
+"\n"
+"First create at least two partitions of type \"software RAID\", and then "
+"select the \"RAID\" option again."
+msgstr ""
+"RAID장치를 만들기 위해서는 최소한 두개의 사용되지 않은 쏘프트웨어RAID구획이 "
+"필요합니다. \n"
+"\n"
+"우선 최소한 두개의 〈쏘프트웨어 RAID〉류형 구획을 만든 다음 〈RAID〉항목을 다"
+"시 선택하여야 합니다."
+
+msgid "Attempting to connect to vnc client on host %s..."
+msgstr "%s 의 VNC봉사에 접속을 시도하고있습니다."
+
+msgid "Attempting to start %s"
+msgstr "%s를 시작합니다"
+
+msgid "Automatic Partitioning Errors"
+msgstr "자동구획관리오유"
+
+msgid ""
+"Automatic Partitioning sets partitions based on the selected installation "
+"type. You also can customize the partitions once they have been created.\n"
+"\n"
+"The manual disk partitioning tool, Disk Druid, allows you to create "
+"partitions in an interactive environment. You can set the file system types, "
+"mount points, partition sizes, and more."
+msgstr ""
+"자동구획관리는 선택한 설치류형에 따라 자동으로 구획을 설정합니다. 자동으로 설"
+"정된 구획의 결과를 확인한 후에 직접 구획을 설정할수도 있습니다.\n"
+"\n"
+"수동 디스크구획관리 도구인 Disk Druid는 상호 호환 환경에서 파일체계류형, 탑재"
+"할 지점, 용량 등을 쉽고도 편하게 설정할수 있도록 하여줍니다."
+
+msgid "Autopartition"
+msgstr "자동구획구성"
+
+msgid "Back"
+msgstr "이 전"
+
+msgid "Bad argument to HD kickstart method command %s: %s"
+msgstr "하드 기동방식 지령 %s에 잘못된 인수 값이 지정되였습니다. %s"
+
+msgid "Bad argument to NFS kickstart method command %s: %s"
+msgstr "NFS 기동방식 지령 %s에 잘못된 인수값이 지정되였습니다. %s"
+
+msgid "Bad argument to Url kickstart method command %s: %s"
+msgstr "Url 기동방식방식 지령 %s 에 잘못된 인수값이 지정되였습니다. %s"
+
+msgid "Bad argument to device kickstart method command %s: %s"
+msgstr "장치 기동방식 지령 %s에 잘못된 인수 값이 지정되였습니다. %s"
+
+msgid "Bad argument to kickstart network command %s: %s"
+msgstr "기동설정망지령 %s 에 잘못된 인수 값이 지정되였습니다. %s"
+
+msgid "Bad argument to shutdown kickstart method command %s: %s"
+msgstr "기동방식을 끝내는 지령 %s에 잘못된 인수 값이 지정되였습니다. %s"
+
+msgid ""
+"Bad blocks have been detected on device /dev/%s. We do not recommend you use "
+"this device.\n"
+"\n"
+"Press <Enter> to reboot your system"
+msgstr ""
+"/dev/%s 장치에서 불량블로크가 발견되였습니다.\n"
+"\n"
+"Enter건을 누르면 체계가 재기동합니다."
+
+msgid "Bad bootproto %s specified in network command"
+msgstr "망지령에 잘못된 bootproto %s 가 지정되였습니다"
+
+msgid ""
+"Before automatic partitioning can be set up by the installation program, you "
+"must choose how to use the space on your hard drives."
+msgstr ""
+"설치프로그람이 자동으로 구획관리하기전에 하드디스크의 공간을 어떻게 관리"
+"하겠는가를 직접 선택하여야 합니다."
+
+msgid "Boot Loader"
+msgstr "기동관리자"
+
+msgid "Boot Loader Configuration"
+msgstr "기동관리자 환경설정"
+
+msgid "Boot Loader Password:"
+msgstr "기동관리자 통과암호:"
+
+msgid "Boot label"
+msgstr "기동이름"
+
+msgid "Boot label contains illegal characters"
+msgstr "기동이름에 정확하지 않은 문자가 포함되여있습니다."
+
+msgid "Boot label contains illegal characters."
+msgstr "기동이름에는 특수한 문자를 사용할수 없습니다."
+
+msgid "Boot label may not be empty."
+msgstr "기동이름은 반드시 지정하여야 합니다."
+
+msgid "Boot loader password is too short"
+msgstr "기동관리자통과암호가 너무 짧습니다"
+
+msgid ""
+"Boot partition %s doesn't belong to a BSD disk label. SRM won't be able to "
+"boot from this partition. Use a partition belonging to a BSD disk label or "
+"change this device disk label to BSD."
+msgstr ""
+"%s 기동구획은 BSD 디스크 표식에 속하지 않습니다. SRM은 이 구획에서 기동할수 "
+"없습니다. BSD 디스크 표식에 속한 구획을 사용하거나 이 디스크 표식을 BSD로 바"
+"꾸어야 합니다."
+
+msgid ""
+"Boot partition %s doesn't belong to a disk with enough free space at its "
+"beginning for the bootloader to live on. Make sure that there's at least 5MB "
+"of free space at the beginning of the disk that contains /boot"
+msgstr ""
+"%s 기동구획에는 디스크의 앞부분에 기동관리자가 위치할만한 충분한 여유공간이 "
+"없습니다. /boot를 포함한 디스크의 앞부분에 최소한 5MB의 여유공간을 확보하"
+"여야 합니다."
+
+msgid ""
+"Boot partition %s isn't a VFAT partition.  EFI won't be able to boot from "
+"this partition."
+msgstr ""
+"%s 기동구획은 FAT 구획이 아닙니다.  EFI는 이 구획에서 기동할수 없습니다."
+
+msgid ""
+"Boot partition %s may not meet booting constraints for your architecture."
+msgstr "%s 기동구획은 기동하지 못할수 있습니다."
+
+msgid ""
+"Boot partition isn't located early enough on the disk.  OpenFirmware won't "
+"be able to boot this installation."
+msgstr ""
+"기동구획이 디스크에서 유효한 위치 (첫 부분)에 위치하지 않습니다.  "
+"OpenFirmware는 이 체계를 기동하지 못할것입니다."
+
+msgid "Bootable partitions can only be on RAID1 devices."
+msgstr "기동구획은 'RAID1' 장치에서만 지정할수 있습니다."
+
+msgid "Bootable partitions cannot be on a logical volume."
+msgstr "기동구획은 론리볼륨에 지정할수 없습니다."
+
+msgid "Bootloader"
+msgstr "기동관리자"
+
+msgid "Bootloader Install"
+msgstr "기동관리자설치"
+	
+msgid "CD Found"
+msgstr "CD를 찾았습니다"
+
+msgid "CD Not Found"
+msgstr "CD를 찾을수 없습니다"
+
+msgid ""
+"Can not found a setup CD.  Please insert the setup CD and press OK to retry."
+msgstr ""
+"설치CD를 찾을수 없습니다. 설치CD를 넣고 〈확 인〉단추를 다시 눌러야 합니다."
+
+msgid "Can not install because harddisk write error."
+msgstr "하드디스크쓰기오유입니다."
+
+msgid "Can not read %s file."
+msgstr ""
+"%s파일을 읽을수 없습니다. 설치매체가 파괴되지 않았는지 확인하여야 합니다."
+
+msgid "Can not read packages info."
+msgstr ""
+"설치정보를 읽을수 없습니다. 설치매체가 파괴되지 않았는지 확인하여야 합니다."
+
+msgid "Can't have a question in command line mode!"
+msgstr "지령행방식에서는 질문할수 없습니다!"
+
+msgid "Cancel"
+msgstr "취 소"
+
+msgid "Cancelled"
+msgstr "취소됨"
+
+msgid "Cannot Delete"
+msgstr "지울수 없습니다."
+
+msgid "Cannot find hard drive for BIOS disk %s"
+msgstr "BIOS디스크 %s을 위한 하드디스크를 찾을수 없습니다"
+
+msgid "Cannot find kickstart file on CDROM."
+msgstr "CD-ROM에서 기동파일을 찾을수 없습니다."
+
+msgid "Cannot find kickstart file on hard drive."
+msgstr "하드디스크에서 기동설정파일을 찾을수 없습니다."
+
+msgid "Cannot find ks.cfg on boot floppy."
+msgstr "기동디스크안의 'ks.cfg' 파일을 찾을수 없습니다."
+
+msgid "Chandev Parameters"
+msgstr "Chandev 파라메터개수"
+
+msgid "Chandev line "
+msgstr "Chandev 선"
+
+msgid "Change CDROM"
+msgstr "CD-ROM 교체"
+
+msgid "Change _password"
+msgstr "통과암호 변경(_P)"
+
+msgid "Check for _bad blocks?"
+msgstr "불량블로크를 검사하겠습니까?(_B)"
+
+msgid "Check for bad blocks"
+msgstr "불량블로크 검사"
+
+msgid "Checking \"%s\"..."
+msgstr "〈%s〉를 검사하고있습니다."
+
+msgid "Checking dependencies in packages selected for installation..."
+msgstr "패키지의 의존성을 검사하고있습니다."
+
+msgid "Checking for Bad Blocks"
+msgstr "불량블로크 검사"
+
+msgid "Checking for bad blocks on /dev/%s..."
+msgstr "/dev/%s 의 불량블로크를 검사합니다."
+
+msgid "Checking for installation..."
+msgstr "설치정보를 검사하고있습니다."
+
+msgid "Checking media now..."
+msgstr "지금 매체를 검사하고있습니다."
+
+msgid "Checksum Test"
+msgstr "검사합 시험"
+
+msgid ""
+"Choose \"%s\" to test the CD currently in the drive, or \"%s\" to eject the "
+"CD and insert another for testing."
+msgstr ""
+"〈%s〉를 선택하여 현재 구동기에 있는 CD를 검사하거나 〈%s〉를 선택하여 그 CD"
+"를 꺼내고 다른것을 넣어야 합니다."
+
+msgid "Choose a Language"
+msgstr "언어 선택"
+
+msgid ""
+"Choose this option if you would like to upgrade your existing %s system.  "
+"This option will preserve the existing data on your drives."
+msgstr ""
+"이미 존재하는 %s을 갱신하려면 이 항목을 선택하여야 합니다. 이 항목은 구동기에 존재"
+"하는 자료를 보존하면서 갱신설치를 진행합니다."
+
+msgid ""
+"Choose this option to freshly install your system. Existing software and "
+"data may be overwritten depending on your configuration choices."
+msgstr ""
+"체계를 새로 설치하려면 이 항목을 선택하여야 합니다. 선택내용에 따라서 "
+"이미 존재하는 프로그람과 자료가 지워질수 있습니다."
+
+msgid "Choosing install type and detecting devices."
+msgstr " 설치류형선택"
+
+msgid "Clear"
+msgstr "삭 제"
+
+msgid "Click next to begin installation of %s."
+msgstr "%s을 설치하려면 〈다음〉 단추를 선택하여야 합니다. "
+
+msgid "Click next to begin upgrade of %s."
+msgstr "%s기동관리자를 설치하려면 〈다음〉 단추를 선택하여야 합니다. "
+
+msgid ""
+"Clone Drive Tool\n"
+"\n"
+"This tool allows you to significantly reduce the amount of effort required "
+"to setup RAID arrays.  The idea is to take a source drive which has been "
+"prepared with the desired partitioning layout, and clone this layout onto "
+"other similar sized drives.  Then a RAID device can be created.\n"
+"\n"
+"NOTE: The source drive must have partitions which are restricted to be on "
+"that drive only, and can only contain unused software RAID partitions.  "
+"Other partition types are not allowed.\n"
+"\n"
+"EVERYTHING on the target drive(s) will be destroyed by this process."
+msgstr ""
+"클론 구동기 도구\n"
+"\n"
+"이 도구를 사용하여 RAID 배렬을 훨씬 쉽게 설정할수 있습니다. 원천구동기를 원하"
+"는 방식으로 구획구성한 다음 구획배치를 다른 류사한 용량의 구동기로 클론화하"
+"는 원리입니다. 그 다음 RAID장치를 창조하면 됩니다.\n"
+"\n"
+"주의: 원천구동기에 존재하는 구획은 오직 원천구동기에만 제한됩니다. 또한 사용"
+"되지 않은 쏘프트웨어 RAID 구획만이 원천구동기에 포함됩니다. 다른 류형의 구획"
+"은 허용되지 않습니다.\n"
+"\n"
+"목적구동기의 자료는 모두 지워집니다."
+
+msgid "Clone Drives"
+msgstr "클론 구동기"
+
+msgid "Clone a _drive to create a RAID device [default=/dev/md%s]."
+msgstr "RAID장치를 만들기 위해 구동기를 클론화 [표준=/dev/md%s]."
+
+msgid "Complete"
+msgstr "끝"
+
+msgid "Completed"
+msgstr "끝남"
+
+msgid "Completed:   "
+msgstr "끝남: "
+
+msgid "Configure %s"
+msgstr "%s 설정"
+
+msgid "Configure TCP/IP"
+msgstr "TCP/IP설정"
+
+msgid "Configure advanced boot loader options"
+msgstr "기동관리자의 상세한 선택항목 설정하기"
+
+msgid "Configure using DHCP"
+msgstr "DHCP 사용환경으로 설정"
+
+msgid "Configure using _DHCP"
+msgstr "DHCP사용환경으로 설정(_D)"
+
+msgid "Confirm"
+msgstr "확 인"
+
+msgid "Confirm Delete"
+msgstr "삭제 확인"
+
+msgid "Confirm Physical Extent Change"
+msgstr "물리적 범위변경 확인"
+
+msgid "Confirm Reset"
+msgstr "재설정 확인"
+
+msgid "Confirm:"
+msgstr "확 인:"
+
+msgid "Congratulations"
+msgstr "축하합니다"
+
+msgid ""
+"Congratulations, the installation is complete."
+msgstr ""
+"설치가 끝났습니다."
+
+msgid "Connecting..."
+msgstr "접속중..."
+
+msgid "Continue"
+msgstr "계속"
+
+msgid "Copying File"
+msgstr "파일복사중..."
+
+msgid "Could not allocate cylinder-based partitions"
+msgstr "실린더기반의 구획을 할당할수 없습니다"
+
+msgid "Could not allocate cylinder-based partitions as primary partitions"
+msgstr "실린더-기반의 구획은 기본구획으로 할당할수 없습니다"
+
+msgid "Could not allocate partitions"
+msgstr "구획을 할당할수 없습니다"
+
+msgid "Could not allocate partitions as primary partitions"
+msgstr "구획을 기본(Primary) 구획으로 할당할수 없습니다"
+
+msgid ""
+"Could not allocate requested partitions: \n"
+"\n"
+"%s.%s"
+msgstr ""
+"요구한 구획을 할당할수 없습니다. \n"
+"\n"
+"%s.%s"
+
+msgid "Could not allocate requested partitions: %s."
+msgstr "요구한 구획을 할당할수 없습니다. %s."
+
+msgid "Couldn't Create Drive Clone Editor"
+msgstr "구동기클론화편집기를 창조하지 못함"
+
+msgid "Create a RAID _device [default=/dev/md%s]."
+msgstr "RAID장치 만들기 [표준=/dev/md%s](_D)"
+
+msgid "Create a software RAID _partition."
+msgstr "쏘프트웨어 RAID 구획만들기(_P)"
+
+msgid "Create new boot loader configuration"
+msgstr "새로운 기동관리자 구성하기"
+
+msgid "Creating swap file."
+msgstr "가상기억공간을 창조하고있습니다."
+
+msgid "Customize"
+msgstr "개별화"
+
+msgid "Customize Packages to Upgrade"
+msgstr "갱신할 패키지 사용자 설정"
+
+msgid "Customize _later"
+msgstr "후의 사용자 설정 (_L)"
+
+msgid "Customize software selection"
+msgstr "쏘프트웨어 선택"
+
+msgid "DDC Probed Monitor"
+msgstr "탐색된 영상표시장치"
+
+msgid "DISPLAY variable not set. Starting text mode!"
+msgstr "DISPLAY변수가 설정되지 않았습니다. 본문방식으로 시작합니다!"
+
+msgid "Debug"
+msgstr "오유수정"
+
+msgid "Default"
+msgstr "표준"
+
+msgid "Default Boot _Target"
+msgstr "표준 기동 대상(_T)"
+
+msgid "Default gateway (IP):"
+msgstr "기본 관문 (IP):"
+
+msgid "Delete"
+msgstr "삭 제"
+
+msgid "Dependency Check"
+msgstr "의존성 검사"
+
+msgid "Description: %s"
+msgstr "설명: %s"
+
+msgid "Determining host name and domain..."
+msgstr "콤퓨터이름과 령역을 설정하고있습니다."
+
+msgid "Device"
+msgstr "장치"
+
+msgid "Device #"
+msgstr "장치 #"
+
+msgid "Device %s does not appear to contain %s CDROM images."
+msgstr "%s에는 %s설치판이 없습니다."
+
+msgid "Device %s does not appear to contain the installation"
+msgstr "%s에는 설치판이 없습니다."
+
+msgid "Device number"
+msgstr "장치번호"
+
+msgid "Devices"
+msgstr "장치"
+
+msgid "Directory holding images:"
+msgstr "등록부:"
+
+msgid "Dirty File Systems"
+msgstr "파일체계의 오유"
+
+msgid "Disk Druid"
+msgstr "수동구획구성"
+
+msgid "Disk Partitioning Setup"
+msgstr "디스크구획 설치"
+
+msgid "Disk Utility"
+msgstr "디스크관리"
+
+msgid "Do Not Format"
+msgstr "초기화하지 않음(_N)"
+
+msgid "Do you have a driver disk?"
+msgstr "구동프로그람 디스크를 가지고 있습니까?"
+
+msgid "Do you want to start the network interfaces on this system?"
+msgstr "이 체계의 망대면부를 시작하겠습니까?"
+
+msgid "Do you wish to load any more driver disks?"
+msgstr "구동프로그람 디스크를 더 적재하겠습니까?"
+
+msgid "Done"
+msgstr "끝냄"
+
+msgid "Done [%d/%d]"
+msgstr "끝냄 [%d/%d]"
+
+msgid "Downloading %s"
+msgstr "%s 내리적재중"
+
+msgid "Downloading - %s"
+msgstr "내리적재중 - %s"
+
+msgid "Drive"
+msgstr "구동기"
+
+msgid "Drive:"
+msgstr "구동기:"
+
+msgid "Driver Disk Source"
+msgstr "구동프로그람 디스크 원천"
+
+msgid "Driver disk"
+msgstr "구동프로그람 디스크"
+
+msgid "Drives"
+msgstr "구동기"
+
+msgid "Dump Not Written"
+msgstr "담프(dump)에 기록되지 않음"
+
+msgid "Dump Written"
+msgstr "담프(dump)를 기록했습니다"
+
+msgid "Duplicate Device"
+msgstr "장치 복사"
+
+msgid "Duplicate Label"
+msgstr "이름 복사"
+
+msgid "Duplicate Labels"
+msgstr "이름 복사"
+
+msgid "Dynamic IP"
+msgstr "동적 IP주소"
+
+msgid "ESSID"
+msgstr "ESSID"
+
+msgid "Edit"
+msgstr "편집"
+
+msgid "Edit Boot Label"
+msgstr "기동할 이름 편집"
+
+msgid "Edit Drive Order"
+msgstr "디스크 순서 변경"
+
+msgid "Edit FCP device %s"
+msgstr "FCP 장치 %s 편집"
+
+msgid "Edit Interface %s"
+msgstr "%s 대면부 편집"
+
+msgid "Edit LVM Volume Group"
+msgstr "LVM 볼륨그룹 편집"
+
+msgid "Edit LVM Volume Group: %s"
+msgstr "LVM 볼륨그룹 편집. %s"
+
+msgid "Edit Logical Volume"
+msgstr "론리볼륨 편집"
+
+msgid "Edit Logical Volume: %s"
+msgstr "론리볼륨 편집. %s "
+
+msgid "Edit Partition"
+msgstr "구획 편집"
+
+msgid "Edit Partition: /dev/%s"
+msgstr "구획 편집. /dev/%s"
+
+msgid "Edit RAID Device"
+msgstr "RAID장치 편집"
+
+msgid "Edit RAID Device: /dev/md%s"
+msgstr "RAID장치 편집. /dev/md%s"
+
+msgid "Eject CD"
+msgstr "CD 꺼내기"
+
+msgid "Emulate 3 Buttons?"
+msgstr "3-단추 마우스처럼 사용"
+
+msgid "Encryption Key"
+msgstr "인증열쇠"
+
+msgid "End"
+msgstr "끝"
+
+msgid "End Cylinder:"
+msgstr "실린더의 끝."
+
+msgid "Enter Boot Loader Password"
+msgstr "기동통과암호입력"
+
+msgid "Enter Module Parameters"
+msgstr "모듈파라메터를 입력하여야 합니다."
+
+msgid ""
+"Enter a boot loader password and then confirm it.  (Note that your BIOS "
+"keymap may be different than the actual keymap you are used to.)"
+msgstr ""
+"기동관리자통과암호를 입력한 다음 확인을 위해 한번 더 입력하여야 합니다.  (BIOS "
+"건반배렬은 지금 사용하는 실지 건반배렬과 다를수 있습니다.)"
+
+msgid ""
+"Enter a label to be displayed in the boot loader menu. The device (or hard "
+"drive and partition number) is the device from which it boots."
+msgstr ""
+"기동차림표에 표시될 이름을 입력하여야 합니다. 장치(하드디스크 또는 구획)는 기동"
+"할 장치를 의미합니다."
+
+msgid "Enter path of install images."
+msgstr "설치판의 경로를 입력하여야 합니다."
+
+msgid "Error"
+msgstr "오유"
+
+msgid "Error - the logical volume name %s is not valid."
+msgstr "오유 - 론리볼륨이름 %s이 정확하지 않습니다."
+
+msgid ""
+"Error - the logical volume name contains illegal characters or spaces.  "
+"Acceptable characters are letters, digits, '.' or '_'."
+msgstr ""
+"오유 - 론리볼륨이름에는 특수문자와 공백을 사용할수 없습니다. 사용할수 있는 "
+"문자는 영문자와 수자, 〈.〉, 〈_〉입니다."
+
+msgid "Error - the volume group name %s is not valid."
+msgstr "오유 - 볼륨그룹이름 %s이 정확하지 않습니다."
+
+msgid ""
+"Error - the volume group name contains illegal characters or spaces.  "
+"Acceptable characters are letters, digits, '.' or '_'."
+msgstr ""
+"오유 - 볼륨그룹이름에는 특수문자와 공백을 사용할수 없습니다.  사용할수 있"
+"는 문자는 영문자와 수자, 〈.〉, 〈_〉입니다."
+
+msgid "Error Parsing Kickstart Config"
+msgstr "기동 파일을 읽던중 오유가 발생하였습니다"
+
+msgid "Error Partitioning"
+msgstr "구획관리의 오유"
+
+msgid "Error Saving Screenshot"
+msgstr "화면얻기를 저장하던중 오유가 발생하였습니다."
+
+msgid "Error With Data"
+msgstr "자료 오유"
+
+msgid "Error With Request"
+msgstr "오유"
+
+msgid ""
+"Error enabling swap device %s: %s\n"
+"\n"
+"The /etc/fstab on your upgrade partition does not reference a valid swap "
+"partition.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+"%s 가상기억공간을 활성화하던중 오유가 발생하였습니다. %s\n"
+"\n"
+"갱신구획에서 가상기억공간을 찾을수 없습니다.\n"
+"\n"
+"〈확 인〉 단추를 누르면 체계가 재기동합니다."
+
+msgid ""
+"Error enabling swap device %s: %s\n"
+"\n"
+"This most likely means this swap partition has not been initialized.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+"%s 가상기억공간을 활성화하던중 오유가 발생하였습니다. %s\n"
+"\n"
+"가상기억공간이 초기화되여있지 않습니다.\n"
+"\n"
+"〈확 인〉 단추를 누르면 체계가 재기동합니다."
+
+msgid ""
+"Error finding / entry.\n"
+"\n"
+"This is most likely means that your fstab is incorrect.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+"/구획을 찾던중 오유가 발생하였습니다. %s\n"
+"\n"
+"fstab가 정확치 않습니다.\n"
+"\n"
+"〈확 인〉단추를 누르면 체계가 재기동합니다."
+
+msgid "Error in %s on line %d of kickstart file %s."
+msgstr "%s에서 오유가 발생하였습니다. 행번호: %d, 기동설정파일: %s"
+
+msgid ""
+"Error mounting device %s as %s: %s\n"
+"\n"
+"This most likely means this partition has not been formatted.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+"%s 장치를 %s로 탑재하던중 오유가 발생하였습니다. %s\n"
+"\n"
+"이와같은 상황은 탑재할 구획이 초기화되여있지 않기때문입니다.\n"
+"\n"
+"〈확 인〉단추를 누르면 체계가 재기동합니다."
+
+msgid "Error mounting file system on %s: %s"
+msgstr "%s에 파일 체계를 탑재하던중 오유가 발생하였습니다. %s"
+
+msgid "Error opening kickstart file %s: %s"
+msgstr "%s 기동설정파일의 열기에서 오유가 발생하였습니다. %s"
+
+msgid "Error pulling second part of kickstart config: %s!"
+msgstr "기동설정의 두번째 부분을 읽던중 오유가 발생하였습니다. %s"
+
+msgid "Error reading contents of kickstart file %s: %s"
+msgstr "기동설정파일 %s 의 내용을 읽던중 오유가 발생하였습니다. %s"
+
+msgid "Error running transaction"
+msgstr "전송 오유"
+
+msgid "Error with Data"
+msgstr "자료 오유"
+
+msgid "Error with Partitioning"
+msgstr "구획구성 오유"
+
+msgid "Error with Password"
+msgstr "통과암호 오유"
+
+msgid "Error!"
+msgstr "오유!"
+
+msgid "Exception Info"
+msgstr "례외 정보"
+
+msgid "Exception Occurred"
+msgstr "례외 발생"
+
+msgid "Exception details"
+msgstr "례외정보"
+
+msgid "Exit"
+msgstr "끝내기"
+
+msgid "Extended"
+msgstr "확장구획"
+
+msgid "FAILED"
+msgstr "실패"
+
+msgid "FCP Device"
+msgstr "FCP 장치"
+
+msgid "FCP Devices"
+msgstr "FCP 장치들"
+
+msgid "FCP LUN"
+msgstr "FCP LUN"
+
+msgid "FTP Setup"
+msgstr "FTP 설치"
+
+msgid "FTP site name:"
+msgstr "FTP 싸이트 이름:"
+
+msgid "Failed to load driver disk from file."
+msgstr "파일에서 구동프로그람 디스크를 적재하는데 실패했습니다."
+
+msgid "Failed to log into %s: %s"
+msgstr "%s 로 가입하는데 실패했습니다. %s"
+
+msgid "Failed to mount driver disk."
+msgstr "구동프로그람 디스크를 탑재하는데 실패했습니다."
+
+msgid "Failed to mount partition."
+msgstr "구획을 탑재하는데 실패했습니다."
+
+msgid "Failed to mount updates disk"
+msgstr "갱신디스크를 탑재하는데 실패했습니다."
+
+msgid "Failed to read directory %s: %s"
+msgstr "%s 등록부를 읽는데 실패했습니다. %s"
+
+msgid "Failed to retrieve %s: %s"
+msgstr "%s 를 읽는데 실패했습니다. %s"
+
+msgid "File System"
+msgstr "파일체계"
+
+msgid "File System Label:"
+msgstr "파일체계 이름:"
+
+msgid "File System Option:"
+msgstr "파일체계 선택항목:"
+
+msgid "File System Options"
+msgstr "파일체계선택항목"
+
+msgid "File System Type:"
+msgstr "파일체계:"
+
+msgid "File System _Type:"
+msgstr "파일체계(_T):"
+
+msgid "File System type:"
+msgstr "파일체계:"
+
+msgid "Fill all available space:"
+msgstr "최대 가능한 용량으로 채움."
+
+msgid "Fill all space _up to (MB):"
+msgstr "다음의 용량까지 모두 채움 (MB)(_U)."
+
+msgid "Fill maximum size of (MB):"
+msgstr "다음의 용량까지 모두 채움 (MB)."
+
+msgid "Fill to maximum _allowable size"
+msgstr "최대 가능한 용량으로 채움(_A)"
+
+msgid "Final Warning"
+msgstr "최종 경고"
+
+msgid "Finding"
+msgstr "탐색중..."
+
+msgid "Finding packages to upgrade..."
+msgstr "갱신할 패키지를 탐색하고있습니다."
+
+msgid "First sector of boot partition"
+msgstr "기동구획의 첫번째 블로크"
+
+msgid "Fix"
+msgstr "수정(Fix)"
+
+msgid "Fixed Size:"
+msgstr "고정 용량:"
+
+msgid ""
+"Following warnings occurred during automatic partitioning:\n"
+"\n"
+"%s"
+msgstr ""
+"자동구획관리도중 다음과 같은 경고 사항이 발생하였습니다.\n"
+"\n"
+"%s"
+
+msgid ""
+"For information on errata (updates and bug fixes), visit http://www.redhat."
+"com/errata/.\n"
+"\n"
+"Information on using your system is available in the %s manuals at http://"
+"www.redhat.com/docs/."
+msgstr ""
+"Errata(갱신 및 오유수정)에 관한 사항은 http://www.redhat.com/errata 를 통해 "
+"확인할수 있습니다.\n"
+"\n"
+"체계사용과 관련된 정보는 http://www.redhat.com/docs/에서 %s 안내서를 참고하면"
+"됩니다."
+
+msgid "For installing system, needed size is 2.5GB."
+msgstr "4GB이상의 구획을 선택하여야 합니다."
+
+msgid "Force LBA32"
+msgstr "LBA32 방식사용"
+
+msgid "Force to be a _primary partition"
+msgstr "기본구획으로 설정(_P)"
+
+msgid "Force to be a primary partition"
+msgstr "기본구획으로 함"
+
+msgid "Force use of LBA32 (not normally required)"
+msgstr "LBA32 방식 사용 (일반적으로 필요치 않음)"
+
+msgid ""
+"Forcing the use of LBA32 for your bootloader when not supported by the BIOS "
+"can cause your machine to be unable to boot.\n"
+"\n"
+"Would you like to continue and force LBA32 mode?"
+msgstr ""
+"주기판의 BIOS가 지원하지 않는 상태에서 기동관리자를 LBA32 로 사용하면 체계가 "
+"기동하지 못할수 있습니다.\n"
+"\n"
+"LBA32방식을 사용하겠습니까?"
+
+msgid "Foreign"
+msgstr "외부"
+
+msgid "Format"
+msgstr "초기화"
+
+msgid "Format Warning"
+msgstr "초기화시 주의사항"
+
+msgid "Format Warnings"
+msgstr "초기화시 주의사항"
+
+msgid "Format as %s"
+msgstr "%s로 초기화"
+
+msgid "Format as Swap?"
+msgstr "가상기억기로 초기화하겠습니까?"
+
+msgid "Format as:"
+msgstr "초기화할 파일체계:"
+
+msgid "Format drive"
+msgstr "구동기초기화"
+
+msgid "Format partition as:"
+msgstr "초기화할 파일체계:"
+
+msgid "Format partition?"
+msgstr "구획을 초기화하겠습니까?"
+
+msgid "Format?"
+msgstr "초기화?"
+
+msgid "Formatting"
+msgstr "초기화중..."
+
+msgid "Formatting %s file system..."
+msgstr "%s 파일체계를 초기화하고있습니다."
+
+msgid "Free"
+msgstr "남은공간"
+
+msgid "Free Space"
+msgstr "남은공간"
+
+msgid "Free Space (MB)"
+msgstr "남은공간 (MB)"
+
+msgid "Free Space:"
+msgstr "남은 공간:"
+
+msgid "Free space"
+msgstr "남은공간"
+
+msgid "Further FTP Setup"
+msgstr "추가 FTP 설치"
+
+msgid "Further HTTP Setup"
+msgstr "추가 HTTP 설치"
+
+msgid ""
+"Further customization of the software selection can be completed now or "
+"after install via the software management application."
+msgstr ""
+"쏘프트웨어 선택의 구체적인 사용자 설정은 쏘프트웨어 관리 응용프로그람을 거쳐 "
+"지금 또는 설치이후에 완성될수 있습니다."
+
+msgid "GROUPNAME"
+msgstr "그룹명"
+
+msgid "Gateway"
+msgstr "관문"
+
+msgid "Gateway:"
+msgstr "관문:"
+
+msgid "Giving up attempting to connect after 50 tries!\n"
+msgstr "50번 시도했지만 련결되지 않아 포기합니다!\n"
+
+msgid "Graphical installation not available...  Starting text mode."
+msgstr "도형방식설치를 사용할수 없습니다. 본문방식으로 설치합니다."
+
+msgid "Grub will not be installed."
+msgstr "기동관리자를 설치하지 않습니다."
+
+msgid "HTTP Setup"
+msgstr "HTTP 설치"
+
+msgid "Hard Drives"
+msgstr "하드디스크"
+
+msgid "Hard drive"
+msgstr "하드디스크"
+
+msgid "Hardware Address: %s"
+msgstr "하드웨어 주소: %s"
+
+msgid "Hardware address:"
+msgstr "하드웨어주소:"
+
+msgid "Help Articles"
+msgstr "도움말"
+
+msgid "Help not available"
+msgstr "도움말 없음"
+
+msgid "Hide RAID device/LVM Volume _Group members"
+msgstr "RAID장치와 LVM 볼륨그룹(_G) 감추기"
+
+msgid "Hide _Help"
+msgstr "도움말 숨김(_H)"
+
+msgid "Host"
+msgstr "콤퓨터"
+
+msgid "Hostname"
+msgstr "콤퓨터이름"
+
+msgid "Hostname Configuration"
+msgstr "콤퓨터이름 구성"
+
+msgid "Hostname must be 64 or less characters in length."
+msgstr "콤퓨터이름은 64문자이하로 구성됩니다."
+
+msgid "Hostname must start with a valid character in the range 'a-z' or 'A-Z'"
+msgstr "콤퓨터이름의 첫 문자는 영문자여야 합니다."
+
+msgid "Hostname specified with no DNS configured"
+msgstr "DNS가 설정되지 않은 상태에서 콤퓨터이름이 지정됨"
+
+msgid "Hostnames can only contain the characters 'a-z', 'A-Z', '-', or '.'"
+msgstr ""
+"콤퓨터이름은 영문자와 기호〈-〉, 〈.〉만을 리용하여 지정해 주어야 합니다. "
+
+msgid "How would you like to get space to partition?"
+msgstr "어떤 방법으로 구획의 공간을 만들겠습니까?"
+
+msgid "How would you like to prepare the file system on this partition?"
+msgstr "이 구획에 설정할 파일체계를 선택하여야 합니다."
+
+msgid "I _don't want to create a swap file"
+msgstr "가상기억파일을 창조하지 않음(_D)"
+
+msgid "I _want to create a swap file"
+msgstr "가상기억파일을 생성함(_W)"
+
+msgid "I can't go to the previous step from here. You will have to try again."
+msgstr "이전 설정화면으로 되돌아갈수 없습니다. 다시 한번 확인하여야 합니다."
+
+msgid "IP Address is missing"
+msgstr "IP 주소가 없습니다"
+
+msgid "IP Addresses must contain numbers between 0 and 255"
+msgstr "IP 주소는 1에서 255 사이의 수로 지정해 주어야 합니다."
+
+msgid "IP Addresses must contain numbers between 1 and 255"
+msgstr "IP 주소는 1에서 255 사이의 수로 지정해 주어야 합니다."
+
+msgid "IP address:"
+msgstr "IP 주소:"
+
+msgid "IP/Netmask"
+msgstr "IP/망마스크"
+
+msgid ""
+"If you are using a HTTP proxy server enter the name of the HTTP proxy server "
+"to use."
+msgstr ""
+"HTTP 대리봉사를 사용한다면 HTTP대리봉사기의 이름을 입력해주어야 합니다."
+
+msgid ""
+"If you are using non anonymous ftp, enter the account name and password you "
+"wish to use below."
+msgstr "비공개용 ftp를 사용한다면 가입정보이름과 통과암호를 입력해주어야 합니다."
+
+msgid ""
+"If you reboot, your system will be left in an inconsistent state that will "
+"likely require reinstallation.  Are you sure you wish to continue?"
+msgstr ""
+"지금 재기동하면 체계상태가 불안정하므로 다시 설치하여야 합니다. 재기동하"
+"겠습니까?"
+
+msgid ""
+"If you wish to add default options to the boot command, enter them into the "
+"'General kernel parameters' field."
+msgstr ""
+"기동지령에 기본선택항목을 추가하려면 '일반 핵심부 파라메터' 항목에 기본 선택항"
+"목을 입력하여야 합니다."
+
+msgid ""
+"If you would like to test additional media, insert the next CD and press \"%s"
+"\". Testing each CD is not strictly required, however it is highly "
+"recommended.  Minimally, the CDs should be tested prior to using them for "
+"the first time. After they have been successfully tested, it is not required "
+"to retest each CD prior to using it again."
+msgstr ""
+"추가 매체를 검사해보려면 다음 CD를 넣은 다음 〈%s〉를 누르면 됩니다. 모든 CD"
+"를 반드시 검사해야 하는것은 아니지만 검사하는것이 좋습니다.  최소한 CD를 처"
+"음 사용하기전에 검사해보아야 합니다. 검사에 성공하면, 다음 사용시에 다시 검사"
+"할 필요가 없습니다."
+
+msgid ""
+"If your system is part of a larger network where hostnames are assigned by "
+"DHCP, select automatically via DHCP. Otherwise, select manually and enter in "
+"a hostname for your system. If you do not, your system will be known as "
+"'localhost.'"
+msgstr ""
+"DHCP를 통하여 콤퓨터이름을 할당받는 대규모망을 사용한다면 DHCP를 통하여 콤퓨"
+"터명을 자동적으로 설정하도록 선택하여야 합니다. 그렇지 않은 경우에는 수동으로 직"
+"접 콤퓨터이름을 입력하여야 합니다. 직접 콤퓨터이름을 입력하지 않으면 체계콤퓨"
+"터이름이 〈localhost〉로 결정됩니다."
+
+msgid "Ignore"
+msgstr "무시"
+
+msgid "Ignore drive"
+msgstr "구동기 무시"
+
+msgid "Illegal Logical Volume Name"
+msgstr "정확하지 않은 론리볼륨이름"
+
+msgid "Illegal logical volume name"
+msgstr "정확하지 않은 론리볼륨이름"
+
+msgid "Illegal size"
+msgstr "정확하지 않은 용량"
+
+msgid "Image"
+msgstr "이미지"
+
+msgid "In progress...   "
+msgstr "진행중"
+
+msgid "Initializing"
+msgstr "초기화하고있습니다."
+
+msgid "Insert Driver Disk"
+msgstr "구동프로그람 디스크를 넣어야 합니다."
+
+msgid "Insert your driver disk into /dev/%s and press \"OK\" to continue."
+msgstr "구동프로그람 디스크를 /dev/%s에 넣은 다음 〈확 인〉단추를 눌러야 합니다."
+
+msgid "Insert your updates disk into /dev/%s and press \"OK\" to continue."
+msgstr "갱신디스크를 /dev/%s에 넣은 다음 〈확 인〉단추를 눌러야 합니다."
+
+msgid "Install"
+msgstr "설 치"
+
+msgid "Install Boot Loader record on:"
+msgstr "기동관리자가 설치될 위치:"
+
+msgid "Install Complete"
+msgstr "설치끝냄"
+
+msgid "Install Starting"
+msgstr "설치시작"
+
+msgid "Install Window"
+msgstr "설치창문"
+
+msgid "Install class forcing text mode installation"
+msgstr "본문방식설치를 사용하는 설치류형"
+
+msgid "Install on System"
+msgstr "체계에 설치"
+
+msgid "Installation Method"
+msgstr "설치방식"
+
+msgid "Installation Progress"
+msgstr "설치준비를 하고있습니다."
+
+msgid "Installation Type"
+msgstr "설치류형"
+
+msgid "Installation cannot continue."
+msgstr "설치를 진행할수 없습니다."
+
+msgid "Installation is completed."
+msgstr " 콤퓨터 재기동"
+
+msgid ""
+"Installation requires partitioning of your hard drive.  By default, a "
+"partitioning layout is chosen which is reasonable for most users.  You can "
+"either choose to use this or create your own."
+msgstr ""
+"설치시 하드디스크의 구획구성을 하여야 합니다. 대부분 사용자에게 맞는 구획구"
+"조가 표준으로 선택됩니다. 이 표준항목을 사용하거나 또는 원하는 방식으로 구획"
+"설정을 할수 있습니다."
+
+msgid "Installation to begin"
+msgstr "설치시작"
+
+msgid "Installing %s-%s-%s.%s (%s)"
+msgstr "%s-%s-%s.%s (%s)패키지를 설치합니다"
+
+msgid "Installing %s-%s-%s.%s.\n"
+msgstr "%s-%s-%s.%s패키지를 설치합니다.\n"
+
+msgid "Installing %s-%s-%s... "
+msgstr "%s-%s-%s패키지를 설치합니다."
+
+msgid ""
+"Installing <product> requires partitioning of your hard drive.  You can "
+"either use the default partitioning layout or create your own."
+msgstr ""
+"<product>설치시 하드디스크의 구획이 요구됩니다. 기본구획배치방식을 사용하거"
+"나 자체로 구획을 만들수 있습니다."
+
+msgid "Installing Packages"
+msgstr "패키지 설치"
+
+msgid "Installing bootloader..."
+msgstr "기동관리자를 설치합니다."
+
+msgid "Installing the system on partition '%s'..."
+msgstr "%s 구획에 《붉은별》사용자용체계 3.0판을 설치하고있습니다."
+	
+msgid "Installing..."
+msgstr "설치중"
+	
+msgid "Invalid Boot Label"
+msgstr "기동할 이름의 오유"
+	
+msgid "Invalid Directories"
+msgstr "잘못된 등록부"
+	
+msgid "Invalid Entry for End Cylinder"
+msgstr "실린더 마지막이 옳바르지 않습니다"
+
+msgid "Invalid Entry for Maximum Size"
+msgstr "최대 용량으로 적합하지 않습니다"
+
+msgid "Invalid Entry for Partition Size"
+msgstr "구획용량으로 적합하지 않습니다"
+
+msgid "Invalid Entry for RAID Spares"
+msgstr "RAID 여분(Spare)이 옳바르지 않습니다"
+
+msgid "Invalid Entry for Starting Cylinder"
+msgstr "실린더 시작이 옳바르지 않습니다"
+
+msgid "Invalid Hostname"
+msgstr "잘못된 콤퓨터이름"
+
+msgid "Invalid IP Information"
+msgstr "IP 주소 오유"
+
+msgid "Invalid IP string"
+msgstr "잘못된 IP 주소"
+
+msgid "Invalid Volume Group Name"
+msgstr "정확하지 않은 론리그룹이름"
+
+msgid "Invalid information"
+msgstr "정보 오유"
+
+msgid "Invalid mount point"
+msgstr "정확하지 않은 탑재지점"
+
+msgid "It is OK to install from this media."
+msgstr "이 매체로 설치하여도 됩니다."
+
+msgid ""
+"It is recommended that your swap file be at least %d MB.  Please enter a "
+"size for the swap file:"
+msgstr ""
+"가상기억파일의 용량은 최소한 %d MB정도는 되여야 합니다.  가상기억파일의 용량"
+"을 다시 지정하여야 합니다."
+
+msgid ""
+"It is stongly recommended that you create a swap file.  Failure to do so "
+"could cause the installer to abort abnormally.  Are you sure that you wish "
+"to continue?"
+msgstr ""
+"반드시 가상기억파일을 창조하여야 합니다.  가상기억파일을 창조하지 않고 설치"
+"를 진행할 경우에는 설치프로그람이 비정상적으로 끝날수 있습니다. 가상기억파일"
+"을 창조하지 않은 상태로 설치를 계속 진행하겠습니까?"
+
+msgid "Keep all partitions and use existing free space"
+msgstr "모든 구획을 그대로 유지하고 남은 공간 사용"
+
+msgid "Kernel Parameters"
+msgstr "핵심부파라메터"
+
+msgid "Keyboard Selection"
+msgstr "건반 선택"
+
+msgid "Keyboard Type"
+msgstr "건반형"
+
+msgid "Kickstart Error"
+msgstr "기동설정 오유"
+
+msgid "LVM Volume Groups"
+msgstr "LVM 볼륨그룹"
+
+msgid "LVM Volume Groups can only be edited in the graphical installer."
+msgstr "LVM 볼륨그룹은 도형방식 설치프로그람으로만 편집할수 있습니다."
+
+msgid "LVM is NOT supported on this platform."
+msgstr "LVM은 이 플래트홈에서 지원하지 않습니다."
+
+msgid "Label"
+msgstr "이름"
+
+msgid "Language Selection"
+msgstr "언어 선택"
+
+msgid "Leave _unchanged (preserve data)"
+msgstr "내용유지(자료를 보존함)(_U)"
+
+msgid "Leave unchanged"
+msgstr "내용 유지"
+
+msgid "Leave unchanged (preserve data)"
+msgstr "내용 유지 (자료를 보존함)"
+
+msgid "Load another disk"
+msgstr "다른 디스크를 적재합니다."
+
+msgid "Load driver disk"
+msgstr "구동프로그람 디스크적재"
+
+msgid "Loading"
+msgstr "적재중"
+
+msgid "Loading %s driver..."
+msgstr "%s 구동프로그람을 적재하고있습니다."
+
+msgid "Loading SCSI driver"
+msgstr "SCSI 구동프로그람적재중"
+
+msgid "Local CDROM"
+msgstr "CD-ROM"
+
+msgid "Local installation media detected..."
+msgstr "설치매체가 탐색되였습니다."
+
+msgid "Logical Partition"
+msgstr "론리구획"
+
+msgid "Logical Volume Name"
+msgstr "론리볼륨이름"
+
+msgid "Logical Volume Name:"
+msgstr "론리볼륨이름:"
+
+msgid "Logical Volume Names must be less than 128 characters"
+msgstr "론리볼륨이름은 128문자 이하로 지정해주어야 합니다."
+
+msgid "Logical Volumes"
+msgstr "론리볼륨"
+
+msgid "Low Memory"
+msgstr "기억기부족"
+
+msgid "Make LVM Volume Group"
+msgstr "LVM 볼륨그룹 만들기"
+
+msgid "Make Logical Volume"
+msgstr "론리볼륨 설정"
+
+msgid "Make RAID Device"
+msgstr "RAID장치 설정"
+
+msgid "Make sure your password is at least 6 characters in length."
+msgstr "통과암호는 적어도 6문자 이상 되여야 합니다."
+
+msgid "Manually choose"
+msgstr "직접 선택"
+
+msgid "Manually partition with _Disk Druid"
+msgstr "Disk Druid를 통한 수동구획구성(_D)"
+
+msgid "Master Boot Record (MBR)"
+msgstr "주기동레코드 (MBR)"
+
+msgid "Media Check"
+msgstr "매체검사"
+
+msgid "Media Check Result"
+msgstr "매체 확인 결과"
+
+msgid "Media Detected"
+msgstr "매체가 탐색되였습니다"
+
+msgid "Mi_grate partition to:"
+msgstr "이전할 파일체계(_G):"
+
+msgid "Migrate File Systems"
+msgstr "파일체계 이전"
+
+msgid "Migrate to %s"
+msgstr "%s로 이전"
+
+msgid "Migrate to:"
+msgstr "이전할 파일체계:"
+
+msgid "Miscellaneous Network Settings"
+msgstr "기타 망 설정"
+
+msgid "Miscellaneous Settings"
+msgstr "기타 설정"
+
+msgid "Missing ISO 9660 Image"
+msgstr "ISO 9660 이미지파일이 없습니다"
+
+msgid "Missing Information"
+msgstr "정보 부족"
+
+msgid "Model"
+msgstr "모델"
+
+msgid "Modify Partition"
+msgstr "구획변경"
+
+msgid "More Driver Disks?"
+msgstr "구동프로그람 디스크가 더 있습니까?"
+
+msgid "Mount"
+msgstr "탑재지점"
+
+msgid "Mount Point"
+msgstr "탑재지점"
+
+msgid ""
+"Mount Point/\n"
+"RAID/Volume"
+msgstr ""
+"탑재 지점/\n"
+"RAID/볼륨"
+
+msgid "Mount Point:"
+msgstr "탑재지점:"
+
+msgid "Mount failed"
+msgstr "탑재에 실패"
+
+msgid "Mount point in use"
+msgstr "탑재지점이 이미 사용되고 있습니다."
+
+msgid "Mouse Configuration"
+msgstr "마우스 구성"
+
+msgid "Mouse Selection"
+msgstr "마우스 선택"
+
+msgid ""
+"Multiple devices on your system are labelled %s.  Labels across devices must "
+"be unique for your system to function properly.\n"
+"\n"
+"Please fix this problem and restart the installation process."
+msgstr ""
+"체계에 한개 이상의 장치가 %s의 이름을 가지고 있습니다.  장치마다 다른 이름을 가"
+"져야 체계가 제대로 동작할수 있습니다.\n"
+"\n"
+"이 문제를 해결한후 설치를 다시 시작하여야 합니다."
+
+msgid "Duplicate uuids"
+msgstr ""
+
+msgid ""
+"Multiple devices on your system are "
+"uuided %s.  Uuids across devices must be "
+"unique for your system to function properly.\n\n"
+"Please fix this problem and restart the installation process."
+msgstr ""
+"체계에 한개 이상의 장치가 %s의 UUID를 가지고 있습니다.  장치마다 다른 UUID를 가"
+"져야 체계가 제대로 동작할수 있습니다.\n"
+"\n"
+"이 문제를 해결한후 설치를 다시 시작하여야 합니다."
+
+msgid "Must have a / partition to install on."
+msgstr "설치를 계속 진행하려면 반드시 〈/〉구획을 지정해 주어야 합니다."
+
+msgid "Must specify a value"
+msgstr "값을 지정하여야 합니다"
+
+msgid "Must supply a --url argument to Url kickstart method."
+msgstr "Url 기동방식 지령에 --url 인자를 지정하여야 합니다."
+
+msgid "NFS Setup"
+msgstr "NFS 설치"
+
+msgid "NFS image"
+msgstr "NFS"
+
+msgid "NFS server name:"
+msgstr "NFS 봉사기이름:"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name in use"
+msgstr "이름이 사용되고 있습니다."
+
+msgid "Nameserver"
+msgstr "DNS봉사기"
+
+msgid "Nameserver IP"
+msgstr "DNS의 IP 주소"
+
+msgid "Ne_w"
+msgstr "창조(_W)"
+
+msgid "Net_mask"
+msgstr "망마스크(_M)"
+
+msgid "Netmask"
+msgstr "망마스크"
+
+msgid "Netmask:"
+msgstr "망마스크:"
+
+msgid "Network Configuration"
+msgstr "망 구성"
+
+msgid "Network Configuration for %s"
+msgstr "%s을 위한 망 구성"
+
+msgid "Network Device: %s"
+msgstr "망 장치:%s"
+
+msgid "Network Devices"
+msgstr "망장치"
+
+msgid "Network setting, Firewall Setting, Authentication."
+msgstr " 망, 방화벽..."
+
+msgid "Networking Device"
+msgstr "망 장치"
+
+msgid "New"
+msgstr "창 조"
+
+msgid "New Partition or Logical Volume?"
+msgstr "새로운 구획?"
+
+msgid "Next"
+msgstr "다 음"
+
+msgid "No"
+msgstr "아 니"
+
+msgid ""
+"No %s CD was found which matches your boot media.  Please insert the %s CD "
+"and press %s to retry."
+msgstr ""
+"%s설치판을 찾을수 없습니다. %s CD를 넣고 〈%s〉단추를 눌러 다시 해보아야 합니다."
+
+msgid "No Boot Loader"
+msgstr "기동관리자를 사용하지 않음"
+
+msgid "No Drives Found"
+msgstr "구동기를 찾을수 없음"
+
+msgid "No IP address entered, skipping iSCSI setup"
+msgstr "입력된 IP 주소가 없습니다, iSCSI 설치를 생략합니다"
+
+msgid "No RAID minor device numbers available"
+msgstr "RAID 보조 장치 번호가 없습니다."
+
+msgid "No RAID partitions"
+msgstr "RAID 구획이 없음"
+
+msgid "No Root Partition"
+msgstr "〈/〉구획이 없음"
+
+msgid "No Volume Groups"
+msgstr "볼륨그룹 없음"
+
+msgid "No boot loader will be installed."
+msgstr "기동관리자를 설치하지 않습니다."
+
+msgid "No checksum information available, unable to verify media."
+msgstr "검사합 정보 없음, 매체 확인 불가능"
+
+msgid ""
+"No device drivers have been loaded for your system.  Would you like to load "
+"any now?"
+msgstr ""
+"어떠한 장치 구동프로그람도 적재되지 않았습니다. 지금 장치를 적재하겠습니까? "
+
+msgid ""
+"No devices of the appropriate type were found on this driver disk.  Would "
+"you like to manually select the driver, continue anyway, or load another "
+"driver disk?"
+msgstr ""
+"이 구동프로그람 디스크에서 해당한 장치를 찾지 못했습니다.  직접 구동프"
+"로그람을 선택하거나 상관없이 계속 진행하겠습니까? 또는 다른 구동프로그람 디스"
+"크를 읽어들이는 방법을 선택하겠습니까?"
+
+msgid "No driver found"
+msgstr "구동프로그람을 찾을수 없음"
+
+msgid "No drivers found"
+msgstr "구동프로그람을 찾을수 없음"
+
+msgid ""
+"No drivers were found to manually insert.  Would you like to use a driver "
+"disk?"
+msgstr ""
+"수동으로 삽입할 구동프로그람을 찾지 못했습니다.  구동프로그람 디스크를 사용하"
+"겠습니까?"
+
+msgid "No free slots"
+msgstr "여유슬로트가 없습니다."
+
+msgid "No free space"
+msgstr "남은공간이 없습니다."
+
+msgid "No free space in root partition."
+msgstr "체계구획에 빈령역이 없습니다."
+
+msgid ""
+"No hard drives have been found.  You probably need to manually choose device "
+"drivers for the installation to succeed.  Would you like to select drivers "
+"now?"
+msgstr ""
+"하드디스크를 찾을수 없습니다. 설치를 성공적으로 끝마치기 위해서는 직접 장치 "
+"구동프로그람을 선택하여야 합니다. 구동프로그람을 지금 선택하겠습니까?"
+
+msgid "No help is available for this step of the install."
+msgstr "이 설치단계에 관한 도움말이 없습니다."
+
+msgid ""
+"No kernel packages were installed on your system. Your boot loader "
+"configuration will not be changed."
+msgstr ""
+"체계에 아무런 핵심부패키지도 설치되지 않았습니다. 기동관리자구성은 변하지 않"
+"을것입니다."
+
+msgid "No members in RAID request, or not RAID level specified."
+msgstr "RAID 요소가 구성되지 않았거나, RAID준위가 지정되지 않았습니다."
+
+msgid "No video hardware found, assuming headless"
+msgstr "비데오장치를 찾을수 없습니다."
+
+msgid "No volume groups in which to create a logical volume"
+msgstr "론리볼륨을 창조할 볼륨그룹 없음."
+
+msgid "None"
+msgstr "없음"
+
+msgid "Not Supported"
+msgstr "지원하지 않음"
+
+msgid "Not enough physical volumes"
+msgstr "물리적 볼륨이 부족합니다."
+
+msgid "Not enough space"
+msgstr "공간이 부족합니다."
+
+msgid "Not supported"
+msgstr "지원하지 않습니다."
+
+msgid "Notice"
+msgstr "알림"
+
+msgid "Number of _spares:"
+msgstr "여분(spare)의 수(_S):"
+
+msgid "Number of spares?"
+msgstr "여분(spare)의 수 지정"
+
+msgid "Office and Productivity"
+msgstr "사무와 생산성"
+
+msgid ""
+"One or more existing Linux installations have been found on your system.\n"
+"\n"
+"Please choose one to upgrade, or select 'Reinstall System' to freshly "
+"install your system."
+msgstr ""
+"아래의 Linux체계가 발견되였습니다.\n"
+"\n"
+"갱신할 체계를 선택하거나 체계를 새로 설치하기 위하여 〈체계설치〉를 선택하여야 합니다."
+
+msgid ""
+"One or more of the file systems listed in the /etc/fstab of your Linux "
+"system are inconsistent and cannot be mounted.  Please fix this problem and "
+"try to upgrade again."
+msgstr ""
+"Linux체계의 〈/etc/fstab〉 파일에 반영되여있는 파일체계중 일부를 탑재할수 없"
+"습니다. 이 문제를 해결한 다음 다시 갱신하여야 합니다."
+
+msgid ""
+"One or more of the file systems listed in the /etc/fstab on your Linux "
+"system cannot be mounted. Please fix this problem and try to upgrade again."
+msgstr ""
+"Linux체계의 〈/etc/fstab〉 파일에 반영되여있는 파일체계중 일부를 탑재할수 없"
+"습니다. 이 문제를 해결한 다음 다시 갱신하여야 합니다."
+
+msgid "Original File System Label:"
+msgstr "본래의 파일체계 이름:"
+
+msgid "Original File System Type:"
+msgstr "본래의 파일체계:"
+
+msgid "PASSED"
+msgstr "통과"
+
+msgid "PPC PReP Boot"
+msgstr "PPC PReP 기동"
+
+msgid "Package"
+msgstr "패키지"
+
+msgid "Package Group Details"
+msgstr "패키지 그룹 정보"
+
+msgid "Package Installation"
+msgstr "패키지 설치"
+
+msgid "Package selection"
+msgstr "패키지 선택"
+
+msgid "Parted exceptions can't be handled in command line mode!"
+msgstr "지령행방식에서 parted례외를 처리할수 없습니다!"
+
+msgid "Partition"
+msgstr "구획"
+
+msgid "Partition Information"
+msgstr "구 획 정 보"
+	
+msgid "Partition Scheme"
+msgstr "구 획 구 조"
+
+msgid "Partition Setup"
+msgstr "구획구성"
+
+msgid "Partitioning"
+msgstr "구획구성"
+
+msgid "Partitioning Errors"
+msgstr "구획구성의 오유"
+
+msgid "Partitioning Operatioins"
+msgstr "구획관리조작"
+
+msgid "Partitioning Type"
+msgstr "구획관리방식"
+
+msgid "Partitioning Warning"
+msgstr "구획구성 경고"
+
+msgid "Partitioning Warnings"
+msgstr "구획구성시 주의사항"
+
+msgid "Partitions can't end on a negative cylinder."
+msgstr "구획은 실린더 값밖에서 끝날수 없습니다."
+
+msgid "Partitions can't start below the first cylinder."
+msgstr "구획은 첫번째 실린더 값아래에서 시작할수 없습니다."
+
+msgid ""
+"Partitions of type '%s' must be constrained to a single drive.  This is done "
+"by selecting the drive in the 'Allowable Drives' checklist."
+msgstr ""
+"〈%s〉류형의 구획은 단독구동기에 존재해야 합니다.  〈허용할 구동기〉목록에서 "
+"구동기를 선택하여야 합니다."
+
+msgid "Passed date"
+msgstr "시험판"
+
+msgid "Password"
+msgstr "통과암호"
+
+msgid "Password (confirm):"
+msgstr "통과암호 확인:"
+
+msgid "Password Length"
+msgstr "통과암호 길이"
+
+msgid "Password Mismatch"
+msgstr "통과암호 오유"
+
+msgid "Password Too Short"
+msgstr "통과암호가 너무 짧습니다"
+
+msgid "Password:"
+msgstr "통과암호:"
+
+msgid "Passwords Do Not Match"
+msgstr "통과암호가 입력되지 않았거나 맞지 않습니다"
+
+msgid "Passwords do not match"
+msgstr "통과암호가 입력되지 않았거나 맞지 않습니다."
+
+msgid "Passwords don't match"
+msgstr "통과암호가 맞지 않습니다."
+
+msgid ""
+"Perfect for personal computers or laptops, select this installation type to "
+"install a graphical desktop environment and create a system ideal for home "
+"or desktop use."
+msgstr ""
+"이 설치류형을 선택하면 가정용이나 탁상환경용도에 적합한 체계를 생성합니다. "
+"이 설치류형은 개인용 콤퓨터나 휴대형콤퓨터에 적합합니다."
+
+msgid "Performing post install configuration..."
+msgstr "설치후 구성을 하고있습니다."
+
+msgid "Physical Volumes to _Use:"
+msgstr "사용할 물리적 볼륨(_U):"
+
+msgid ""
+"Pick a root password. You must type it twice to ensure you know what it is "
+"and didn't make a mistake in typing. Remember that the root password is a "
+"critical part of system security!"
+msgstr ""
+"관리자통과암호를 입력하여야 합니다. 통과암호는 두번 입력하여 앞서 입력한 내용과 "
+"서로 일치하는지 확인하여야 합니다. 관리자통과암호는 체계의 보안에 있어서 매"
+"우 중요한 부분입니다."
+
+msgid ""
+"Please choose how you would like to prepare the file system on this "
+"partition."
+msgstr "이 구획에 설정할 파일체계를 지정하여야 합니다."
+
+msgid "Please connect to %s to begin the install..."
+msgstr "설치를 시작하기 위해 %s에 련결하여야 합니다."
+
+msgid "Please connect to begin the install..."
+msgstr "설치를 시작하기 위해 련결하여야 합니다."
+
+msgid "Please enter a logical volume name."
+msgstr "론리볼륨이름을 입력하여야 합니다."
+
+msgid "Please enter a volume group name."
+msgstr "볼륨그룹이름을 입력하여야 합니다."
+
+msgid ""
+"Please enter any parameters which you wish to pass to the %s module "
+"separated by spaces.  If you don't know what parameters to supply, skip this "
+"screen by pressing the \"OK\" button."
+msgstr ""
+"%s 모듈에 전달할 파라메터를 공백으로 구분하여 입력하여야 합니다. 파라메터로 전달"
+"할 값을 정확히 모른다면 〈확 인〉단추를 눌러 다음 화면으로 넘어가야 합니다."
+
+msgid ""
+"Please enter the IP configuration for this machine. Each item should be "
+"entered as an IP address in dotted-decimal notation (for example, 1.2.3.4)."
+msgstr ""
+"체계의 IP주소를 입력하여야 합니다. IP 주소의 각 항목은 십진수의 수자를 점으"
+"로 구분하여 입력하여야 합니다 (례, 1.2.3.4)."
+
+msgid ""
+"Please enter the following information:\n"
+"\n"
+"    o the name or IP number of your %s server\n"
+"    o the directory on that server containing\n"
+"      %s for your architecture\n"
+msgstr ""
+"다음의 사항을 입력하여야 합니다.\n"
+"\n"
+"    o %s봉사기의 이름 또는 IP 주소\n"
+"    o %s설치판을 포함한 등록부\n"
+"\n"
+
+msgid "Please insert %s disc %d to continue."
+msgstr "%s의 %d번째 CD를 넣어야 합니다."
+
+msgid ""
+"Please insert a floppy now. All contents of the disk will be erased, so "
+"please choose your diskette carefully."
+msgstr ""
+"플로피 디스크를 넣어주십시요. 디스크의 모든 자료는 지워지므로 주의하기 바랍니"
+"다."
+
+msgid "Please manually connect your vnc client to %s to begin the install."
+msgstr "설치를 시작하기 위해 %s의 vnc봉사에 직접 련결하여야 합니다."
+
+msgid "Please manually connect your vnc client to begin the install."
+msgstr "설치를 시작하기 위해 vnc봉사에 직접 련결하여야 합니다."
+
+msgid "Please select a source drive."
+msgstr "원천구동기를 선택하여야 합니다."
+
+msgid ""
+"Please select the driver below which you wish to load.  If it does not "
+"appear and you have a driver disk, press F2."
+msgstr ""
+"아래에서 사용할 구동프로그람을 선택하여야 합니다.  필요한 드라이버가 이 목록"
+"에 없는 경우 별도의 구동프로그람디스크를 가지고 있다면 F2건을 눌러야 합니다."
+
+msgid "Please select the package groups you would like to have installed."
+msgstr "설치하려는 패키지 그룹을 선택하여야 합니다."
+
+msgid "Please select the target drives for the clone operation."
+msgstr "클론화할 목적구동기를 선택하여야 합니다."
+
+msgid "Please specify a mount point for this partition."
+msgstr "이 구획의 탑재할 지점을 지정하여야 합니다."
+
+msgid "Please wait while formatting drive %s...\n"
+msgstr "%s 구동기를 초기화하고있습니다.\n"
+
+msgid "Please wait..."
+msgstr "잠간만 기다려주십시오."
+
+msgid "Point to Point (IP)"
+msgstr "Point to Point (IP)"
+
+msgid "Port Number:"
+msgstr "포구 번호:"
+
+msgid "Post Install"
+msgstr "설치후 설정"
+
+msgid "Preparing Install"
+msgstr "설치준비"
+
+msgid "Preparing for installation..."
+msgstr "설치준비를 하고있습니다."
+
+msgid "Preparing transaction from installation source..."
+msgstr "설치준비를 하고있습니다."
+
+msgid ""
+"Press <Enter> to end the installation process.\n"
+"\n"
+msgstr ""
+"Enter건을 눌러 설치를 끝내야 합니다.\n"
+"\n"
+
+msgid "Press <enter> for a shell"
+msgstr "Enter건을 입력하면 쉘을 기동합니다"
+
+msgid "Primary DNS"
+msgstr "1차 DNS"
+
+msgid "Primary DNS:"
+msgstr "1차 DNS:"
+
+msgid "Primary Partition"
+msgstr "기본구획"
+
+msgid "Primary nameserver:"
+msgstr "1차 DNS:"
+
+msgid "Proceed with upgrade?"
+msgstr "기동관리자설치"
+
+msgid "Processing"
+msgstr "진행중"
+
+msgid "RAID"
+msgstr "RAID"
+
+msgid "RAID Device"
+msgstr "RAID장치"
+
+msgid "RAID Device %s"
+msgstr "RAID장치 %s"
+
+msgid "RAID Devices"
+msgstr "RAID장치"
+
+msgid "RAID Level:"
+msgstr "RAID 준위:"
+
+msgid "RAID Members:"
+msgstr "RAID 요소(Member):"
+
+msgid "RAID Options"
+msgstr "RAID 선택"
+
+msgid "RAID _Device:"
+msgstr "RAID장치(_D):"
+
+msgid "RAID _Level:"
+msgstr "RAID 준위(_L):"
+
+msgid "RAM detected (MB):"
+msgstr "탐색된 RAM용량 (MB):"
+
+msgid "R_AID"
+msgstr "R_AID"
+
+msgid "Re_set"
+msgstr "재설정"
+
+msgid "Re_try"
+msgstr "재시도"
+
+msgid "Re_view and modify partitioning layout"
+msgstr "구획배치 재확인과 수정(_V)"
+
+msgid "Read-Only"
+msgstr "읽기 전용"
+
+msgid "Reading anaconda updates..."
+msgstr "갱신사항을 읽고 있습니다."
+
+msgid "Reading driver disk..."
+msgstr "구동프로그람을 읽는중입니다."
+
+msgid "Reboot"
+msgstr "재기동"
+
+msgid "reboot"
+msgstr "재기동"
+
+msgid "Reboot?"
+msgstr "재기동하겠습니까?"
+
+msgid "Rebooting System"
+msgstr "체계재기동"
+
+msgid "Red Hat Enterprise Linux AS"
+msgstr "Red Hat Enterprise Linux AS"
+
+msgid "Red Hat Enterprise Linux Desktop"
+msgstr "Red Hat Enterprise Linux Desktop"
+
+msgid "Red Hat Enterprise Linux ES"
+msgstr "Red Hat Enterprise Linux ES"
+
+msgid "Red Hat Enterprise Linux WS"
+msgstr "Red Hat Enterprise Linux WS"
+
+msgid "Reinstall System"
+msgstr "체계설치"
+
+msgid "Release Notes"
+msgstr "배포에 앞서"
+
+msgid "Release notes are missing.\n"
+msgstr "〈출시에 앞서〉의 내용을 찾을수 없습니다.\n"
+
+msgid "Remaining Time: %.0f Minutes"
+msgstr "남은 시간: %.0f분정도"
+
+msgid "Remaining Time: %.0f Seconds"
+msgstr "남은 시간: %.0f초정도"
+
+msgid "Remaining Time: Less than a minute"
+msgstr "남은 시간: 1분미만"
+
+msgid "Remaining:  "
+msgstr "남  음: "
+
+msgid "Remote"
+msgstr "원격"
+
+msgid "Remote path"
+msgstr "원격 경로"
+
+msgid "Remove"
+msgstr "삭 제"
+
+msgid "Remove all Linux partitions on this system"
+msgstr "체계의 모든 Linux구획삭제"
+
+msgid "Remove all partitions on this system"
+msgstr "체계의 모든 구획삭제"
+
+msgid ""
+"Remove any media used during the installation process and press <Enter> to "
+"reboot your system.\n"
+"\n"
+msgstr ""
+"설치에 사용된 매체를 제거한 다음 Enter건을 눌러 체계를 재기동하여야 합니다.\n"
+"\n"
+
+msgid ""
+"Remove any media used during the installation process and press the \"Reboot"
+"\" button to reboot your system.\n"
+"\n"
+msgstr ""
+"설치에 사용된 매체를 제거한 다음 〈재기동〉단추를 눌러 체계를 재기동하십시"
+"오.\n"
+"\n"
+
+msgid "Requested Logical Volume Does Not Exist"
+msgstr "요구한 론리 볼륨이 존재하지 않습니다"
+
+msgid "Requested Partition Does Not Exist"
+msgstr "요구한 구획이 존재하지 않습니다"
+
+msgid "Requested Raid Device Does Not Exist"
+msgstr "요구한 RAID장치가 존재하지 않습니다"
+
+msgid "Requested Volume Group Does Not Exist"
+msgstr "요구한 볼륨그룹이 존재하지 않습니다"
+
+msgid ""
+"Requested password contains non-ascii characters which are not allowed for "
+"use in password."
+msgstr "입력한 통과암호에는 사용할수 없는 문자가 포함되여 있습니다."
+
+msgid "Requested value is not an integer"
+msgstr "지정한 값이 정수가 아닙니다"
+
+msgid "Requested value is too large"
+msgstr "지정한 값이 너무 큽니다"
+
+msgid "Required Install Media"
+msgstr "필요한 설치매체"
+
+msgid "Rescue"
+msgstr "복구"
+
+msgid "Rescue Method"
+msgstr "복구 방법"
+
+msgid "Rescue Mode"
+msgstr "복구 방식"
+
+msgid "Retrieving"
+msgstr "읽는중"
+
+msgid "Retrieving installation information..."
+msgstr "설치정보를 읽고있습니다."
+
+msgid "Retry"
+msgstr "재시도"
+
+msgid "retry"
+msgstr "재시도"
+
+
+msgid "Review Partition Layout"
+msgstr "구획배치 재확인"
+
+msgid "Review and modify partitioning layout?"
+msgstr "구획배치 재확인과 수정?"
+
+msgid "Root Password"
+msgstr "관리자통과암호"
+
+msgid "Running anaconda via telnet..."
+msgstr "Telnet를 통해 설치프로그람을 실행하고 있습니다."
+
+msgid "Running anaconda, the %s rescue mode - please wait...\n"
+msgstr ""
+"%s 복구방식으로 설치프로그람을 실행하고있습니다.\n"
+
+msgid "Running anaconda, the %s system installer - please wait...\n"
+msgstr "%s 설치를 시작하고있습니다.\n"
+
+msgid "Running post-install scripts"
+msgstr "설치후 각본을 실행합니다."
+
+msgid "Running pre-install scripts"
+msgstr "설치전 각본을 실행합니다."
+
+msgid "Running..."
+msgstr "실행중"
+
+msgid "SCSI Id"
+msgstr "SCSI Id"
+
+msgid "SCSI LUN"
+msgstr "SCSI LUN"
+
+msgid "SIZE"
+msgstr "크기"
+
+msgid "STATE"
+msgstr "설치방식"
+
+msgid "Save"
+msgstr "보존"
+
+msgid "Save Crash Dump"
+msgstr "오유내용 보존"
+
+msgid "Save to Remote Host"
+msgstr "원격 콤퓨터에 보존"
+
+msgid "Save to _Remote"
+msgstr "원격 보존"
+
+msgid "Saving Screenshot"
+msgstr "화면얻기를 저장하는중입니다"
+
+msgid "Screenshots Copied"
+msgstr "화면얻기가 복사되였습니다"
+
+msgid "Scriptlet Failure"
+msgstr "Scriptlet 실패"
+
+msgid "Searching"
+msgstr "검색중..."
+
+msgid "Searching for %s installations..."
+msgstr "%s 이미 설치된 《붉은별》사용자용체계 3.0판을 찾고있습니다. "
+
+msgid "Secondary DNS"
+msgstr "2차 DNS"
+
+msgid "Secondary DNS:"
+msgstr "2차 DNS:"
+
+msgid ""
+"Select 'Yes' to continue and format these partitions, or 'No' to go back and "
+"change these settings."
+msgstr ""
+"이 구획을 초기화하려면 〈예〉 를 선택하고 설정한 내용을 변경하려면 〈아니〉"
+"를 선택하십시요."
+
+msgid "Select Device Driver to Load"
+msgstr "적재할 장치구동프로그람을 선택하여야 합니다."
+
+msgid "Select Disk"
+msgstr "디 스 크"
+
+msgid "Select Partition"
+msgstr "구획 선택"
+
+msgid "Select a partition to install system and click \"Next\" button."
+msgstr "체계를 설치할 구획을 선택하십시오."
+
+msgid "Select a partition to install bootloader and click \"Next\" button."
+msgstr "다음 체계의 기동관리자를 설치합니다."
+
+msgid "Select driver"
+msgstr "구동프로그람을 선택하여야 합니다."
+
+msgid "Select driver disk image"
+msgstr "구동프로그람 디스크 이미지파일을 선택하여야 합니다."
+
+msgid "Select the _partition to put the swap file on:"
+msgstr "가상기억파일이 창조될 구획을 선택하여야 합니다(_P)."
+
+msgid "Select the appropriate mouse for the system."
+msgstr "사용할 마우스를 선택하여야 합니다."
+
+msgid "Select the drive(s) to use for this installation."
+msgstr "설치에 사용할 구동기를 지정하여야 합니다."
+
+msgid "Select the file which is your driver disk image."
+msgstr "구동프로그람디스크에서 파일을 선택하여야 합니다."
+
+msgid ""
+"Select this installation type if you would like to set up file sharing, "
+"print sharing, and Web services. Additional services can also be enabled, "
+"and you can choose whether or not to install a graphical environment."
+msgstr ""
+"파일공유, 인쇄기공유와 웨브봉사를 설정하려면 이 설치류형을 선택하여야 합니다. 추"
+"가 봉사도 사용가능하며 도형방식환경 설치여부를 선택할수 있습니다."
+
+msgid ""
+"Select this installation type to gain complete control over the installation "
+"process, including software package selection and partitioning."
+msgstr ""
+"이 설치류형을 선택하여 패키지선택과 구획관리와 같은 설치과정에 대한 완전한 조"
+"종권을 가집니다."
+
+msgid "Selecting a partition to install system."
+msgstr " 설치할 구획선택"
+
+msgid "Sending request for IP information for %s..."
+msgstr "%s에 대한 IP정보를 요청하고있습니다."
+
+msgid "Set Root Password"
+msgstr "관리자통과암호 구성"
+
+msgid "Set the hostname:"
+msgstr "콤퓨터이름 설정:"
+
+msgid "Setup Networking"
+msgstr "망 구성"
+
+msgid "Show _Help"
+msgstr "도움말 표시(_H)"
+
+msgid "Size"
+msgstr "용량"
+
+msgid ""
+"Size\n"
+"(MB)"
+msgstr ""
+"용량\n"
+"(MB)"
+
+msgid "Size %sGB"
+msgstr "용량 %sGB"
+
+msgid "Size (MB)"
+msgstr "용량 (MB)"
+
+msgid "Size (MB):"
+msgstr "용량(MB):"
+
+msgid "Skip"
+msgstr "생략"
+
+msgid "Skip Boot Loader"
+msgstr "기동관리자 생략"
+
+msgid "Skip boot loader updating"
+msgstr "기동관리자갱신 생략"
+
+msgid "Software Development"
+msgstr "쏘프트웨어개발"
+
+msgid ""
+"Software RAID allows you to combine several disks into a larger RAID "
+"device.  A RAID device can be configured to provide additional speed and "
+"reliability compared to using an individual drive.  For more information on "
+"using RAID devices please consult the %s documentation.\n"
+"\n"
+"You currently have %s software RAID partition(s) free to use.\n"
+"\n"
+msgstr ""
+"쏘프트웨어 RAID를 사용하여 여러개의 디스크를 하나의 큰 RAID장치로 묶을수 있습"
+"니다.  개별적인 구동기의 속도을 높이고 신뢰성을 높이도록 RAID장치를 설정할수 "
+"있습니다. RAID장치 사용법에 관련된 보다 많은 정보를 원하면 %s 문서자료를 참조"
+"하여야 합니다.\n"
+"\n"
+"현재 %s 쏘프트웨어 RAID 구획이 사용가능합니다.\n"
+"\n"
+
+msgid "Software RAID is NOT supported on this platform."
+msgstr "쏘프트웨어 RAID는 이 플래트홈에서 지원하지 않습니다."
+
+msgid "Source Drive Error"
+msgstr "원천구동기 오유"
+
+msgid "Source Drive:"
+msgstr "원천구동기:"
+
+msgid "Space Required: %.1f GB\tSpace Available: %.1f GB"
+msgstr "필요한 용량: %.1f GB\t빈 용량: %.1f GB"
+
+msgid "Specify optional module arguments"
+msgstr "선택적인 모듈 인자를 지정하여야 합니다."
+
+msgid "Start"
+msgstr "시작"
+
+msgid "Start Cylinder:"
+msgstr "실린더의 시작:"
+
+msgid "Start VNC"
+msgstr "VNC 시작"
+
+msgid "Starting Interface"
+msgstr "대면부 시작"
+
+msgid "Starting VNC..."
+msgstr "VNC를 시작하고 있습니다."
+
+msgid "Starting graphical installation..."
+msgstr "도형방식설치를 시작하고있습니다."
+
+msgid "Starting install process.  This may take several minutes..."
+msgstr "잠시후 설치를 시작합니다."
+
+msgid "Status: "
+msgstr "상태: "
+
+msgid "Suggested size (MB):"
+msgstr "설정된 용량 (MB):"
+
+msgid "Summary"
+msgstr "요약"
+
+msgid "Swap file _size (MB):"
+msgstr "가상기억파일 용량 (MB)(_S):"
+
+msgid "Swap file size (MB):"
+msgstr "가상기억파일 용량 (MB):"
+
+msgid "System Install"
+msgstr "체계설치"
+
+msgid "System Setting"
+msgstr "체계설정"
+
+msgid "System clock uses UTC"
+msgstr "체계의 시간을 UTC에 맞춤"
+
+msgid "System install and applies settings."
+msgstr " 체계설치,설정적용"
+
+msgid "System to Rescue"
+msgstr "복구할 체계"
+
+msgid "System to Upgrade"
+msgstr "갱신할 체계"
+
+msgid "Target Drive Error"
+msgstr "목적 구동기 오유"
+
+msgid "Target Drive(s):"
+msgstr "목적구동기:"
+
+msgid "Target IP address:"
+msgstr "목적 IP 주소:"
+
+msgid "Telnet"
+msgstr "Telnet"
+
+msgid "Tertiary DNS"
+msgstr "3차 DNS"
+
+msgid "Tertiary DNS:"
+msgstr "3차 DNS:"
+
+msgid "Test"
+msgstr "검사"
+
+msgid ""
+"Thank you for downloading this pre-release of %s.\n"
+"\n"
+"This is not a final release and is not intended for use on production "
+"systems.  The purpose of this release is to collect feedback from testers, "
+"and it is not suitable for day to day usage.\n"
+"\n"
+"To report feedback, please visit:\n"
+"\n"
+"   %s\n"
+"\n"
+"and file a report against '%s'.\n"
+msgstr ""
+"이 출하판 %s을 내리적재 해주어 감사합니다.\n"
+"\n"
+"이 판은 최종 배포판이 아니므로 실지 체계에서는 사용하지 말아야 합니다. 이 판"
+"은 시험을 통한 의견을 얻기 위하여 배포되기때문에 일반 용도로 사용하기에는 적"
+"합하지않습니다.\n"
+"\n"
+"의견을 보내주려면 다음의 싸이트를 방문하여.\n"
+"\n"
+"    %s\n"
+"\n"
+"〈%s〉에 대한 보고서를 제출하여야 합니다.\n"
+
+msgid "That directory could not be mounted from the server or not server IP."
+msgstr "봉사기IP가 정확지 않거나 봉사기의 해당 등록부를 탑재할수 없습니다 "
+
+msgid "That directory does not seem to contain a %s installation tree."
+msgstr "해당 등록부에서 %s 설치에 관련된 파일을 찾을수 없습니다."
+
+msgid "That's not the correct %s CDROM."
+msgstr "정확한 %s CD-ROM이 아닙니다."
+
+msgid ""
+"The %s CD was not found in any of your CDROM drives. Please insert the %s CD "
+"and press %s to retry."
+msgstr ""
+"%s CD를 찾을수 없습니다. %s CD를 넣고 %s를 눌러 다시 해보아야 합니다."
+
+msgid "The %s boot loader will be installed on /dev/%s."
+msgstr "%s기동관리자를 /dev/%s에 설치합니다."
+
+msgid ""
+"The %s installation tree in that directory does not seem to match your boot "
+"media."
+msgstr "해당 등록부에서 %s 설치에 사용될 경로가 기동매체와 일치하지 않습니다."
+
+msgid ""
+"The 2.4 kernel needs significantly more swap than older kernels, as much as "
+"twice as much swap space as RAM on the system.  You currently have %dMB of "
+"swap configured, but you may create additional swap space on one of your "
+"file systems now."
+msgstr ""
+"핵심부 2.4부터는 이전의 핵심부가 RAM용량의 두배 이상을 가상기억공간으로 사용"
+"했던것 보다 훨씬 더 많은 용량의 가상기억공간을 필요로 합니다.  현재 가상기억"
+"공간으로 설정한 용량은 %dMB입니다. 필요하다면, 추가로 가상기억공간을 더 창조"
+"할수 있습니다."
+
+msgid ""
+"The 2.4 kernel needs significantly more swap than older kernels, as much as "
+"twice as much swap space as RAM on the system. You currently have %dMB of "
+"swap configured, but you may create additional swap space on one of your "
+"file systems now."
+msgstr ""
+"핵심부 2.4 부터는 이전의 핵심부가 체계에 설치되여 있는 RAM 용량의 두배 이상"
+"을 가상기억공간으로 사용했던것보다 훨씬 더 많은 용량의 가상기억공간을 필요로 "
+"합니다. 현재 가상기억공간으로 설정한 용량은 %dMB입니다. 필요하다면 추가로 가"
+"상기억공간을 더 생성할수 있습니다."
+
+msgid "The IP information you have entered is invalid."
+msgstr "입력한 IP정보는 사용할수 없습니다."
+
+msgid "The VNC server is now running."
+msgstr "VNC봉사가 실행중입니다."
+
+msgid ""
+"The boot manager %s uses can boot other operating systems as well. You need "
+"to tell me what partitions you would like to be able to boot and what label "
+"you want to use for each of them."
+msgstr ""
+"%s 기동관리기는 다른 조작체계로도 기동할수 있도록 합니다. 매 조작체계의 기동"
+"가능한 구획과 기동하기 위한 이름을 설정하여야 합니다."
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than maximum logical volume "
+"size (%10.2f MB). "
+msgstr ""
+"현재 요구한 용량(%10.2f MB)이 최대 론리볼륨 용량(%10.2f MB)보다 큽니다. "
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than maximum logical volume "
+"size (%10.2f MB). To increase this limit you can create more Physical "
+"Volumes from unpartitioned disk space and add them to this Volume Group."
+msgstr ""
+"현재 요구한 용량(%10.2f MB)이 최대 론리볼륨 용량 (%10.2f MB) 보다 큽니다. "
+"이 제한을 늘이기 위해서는 구획할당이 되지 않은 디스크 공간에서의 물리적 기록"
+"권을 증가시키고 이것을 볼륨그룹에 더하면 됩니다."
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than the available size in "
+"the volume group (%10.2f MB)."
+msgstr ""
+"현재 요구한 용량(%10.2f MB)이 최대 론리볼륨 용량(%10.2f MB)보다 큽니다. "
+
+msgid ""
+"The default installation of %s includes a set of  software applicable for "
+"general internet usage.  What additional tasks would you like your system to "
+"include  support for?"
+msgstr ""
+"%s의 초기 설치는 일반적인 인터네트 사용에 맞는 쏘프트웨어의 묶음을 포함하고 "
+"있습니다. 어떤 추가적인 임무가 체계상에 포함되기를 원합니까?"
+
+msgid ""
+"The default installation of %s includes a set of software applicable for "
+"general internet usage.  What additional tasks would you like your system to "
+"include  support for?"
+msgstr ""
+"%s의 초기 설치는 일반적인 인터네트사용에 맞는 쏘프트웨어들을 포함하고있습니"
+"다. 어떤 추가적인 임무가 체계에 포함되기를 바랍니까?"
+
+msgid ""
+"The device %s is LDL formatted instead of CDL formatted.  LDL formatted "
+"DASDs are not supported for usage during an install of %s.  If you wish to "
+"use this disk for installation, it must be re-initialized causing the loss "
+"of ALL DATA on this drive.\n"
+"\n"
+"Would you like to reformat this DASD using CDL format?"
+msgstr ""
+"%s 장치는 CDL 대신 LDL 초기화되였습니다. LDL 초기화된 DASD는 %s 설치중사용이 "
+"지원되지 않습니다.  설치에 이 구동기를 사용하려면, 반드시 구동기를 초기화해"
+"야 합니다. 초기화로 하여 구동기의 모든 자료는 지워집니다.\n"
+"\n"
+"CDL 초기화를 사용하여 이 DASD를 다시 초기화하겠습니까? "
+
+msgid ""
+"The drive /dev/%s will now be cloned to the following drives:\n"
+"\n"
+msgstr ""
+"/dev/%s 구동기는 이제 다음 구동기로 클론화될것입니다.\n"
+"\n"
+
+msgid "The drive clone editor could not be created for some reason."
+msgstr "구동기클론화편집기가 창조되지 않았습니다."
+
+msgid "The end cylinder must be greater than the start cylinder."
+msgstr "실린더의 끝은 실린더의 시작보다 커야 합니다."
+
+msgid "The entered IP '%s' is not a valid IP."
+msgstr "입력한 IP '%s'은 잘못된 IP 주소입니다."
+
+msgid ""
+"The file systems of the Linux installation you have chosen to upgrade have "
+"already been mounted. You cannot go back past this point. \n"
+"\n"
+msgstr ""
+"기동관리자설치를 위해 선택한 Linux파일체계는 이미 탑재되여 있습니다. 현재 이"
+"곳에서는 뒤로 되돌아 갈수 없습니다.\n"
+"\n"
+
+msgid ""
+"The following are directories which should instead be symbolic links, which "
+"will cause problems with the upgrade.  Please return them to their original "
+"state as symbolic links and restart the upgrade.\n"
+"\n"
+msgstr ""
+"다음의 등록부는 기호련결이여야 합니다. 이와 같은 등록부는 갱신설치에서 문제"
+"를 일으킬수 있습니다. 원래의 기호련결상태로 되돌린 다음 갱신설치를 다시 시작"
+"하여야 합니다.\n"
+"\n"
+
+msgid ""
+"The following critical errors exist with your requested partitioning scheme.\n"
+"These errors must be corrected prior to continuing with your install."
+msgstr "구획구성에서 다음과 같은 오유가 발생하였습니다.\n"
+"체계설치전에 발생한 문제점들을 모두 해결하여야 합니다."
+
+msgid "The following devices have been found on your system."
+msgstr "다음의 장치를 찾았습니다."
+
+msgid ""
+"The following error was found while parsing your kickstart configuration:\n"
+"\n"
+"%s"
+msgstr ""
+"기동구성을 읽던중 다음과 같은 오유가 발견되였습니다.\n"
+"\n"
+"%s"
+
+msgid ""
+"The following errors occurred with your partitioning:\n"
+"\n"
+"%s\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"구획관리하는 과정에서 다음과 같은 오유가 발생하였습니다.\n"
+"\n"
+"%s\n"
+"\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"The following errors occurred with your partitioning:\n"
+"\n"
+"%s\n"
+"\n"
+"This can happen if there is not enough space on your hard drive(s) for the "
+"installation.%s"
+msgstr ""
+"구획관리도중 다음과 같은 오유가 발생하였습니다.\n"
+"\n"
+"%s\n"
+"\n"
+"자동구획관리에 필요한 디스크공간이 부족한 경우 이와 같은 오유가 발생할수 있습"
+"니다.%s"
+
+msgid ""
+"The following file systems for your Linux system were not unmounted "
+"cleanly.  Please boot your Linux installation, let the file systems be "
+"checked and shut down cleanly to upgrade.\n"
+"%s"
+msgstr ""
+"체계의 파일체계중 일부분이 완전히 탑재해제되지 않았습니다. 기존의 Linux체계"
+"로 기동하여 파일체계가 검사된 다음 모든 사항을 완전히 끝낸 후에 다시 갱신하십"
+"시오. \n"
+"%s"
+
+msgid ""
+"The following file systems for your Linux system were not unmounted "
+"cleanly.  Would you like to mount them anyway?\n"
+"%s"
+msgstr ""
+"Linux체계의 파일체계중 일부분이 완전히 탑재해제되지 않았습니다. 그래도 탑재하"
+"겠습니까?\n"
+"%s"
+
+msgid ""
+"The following files are absolute symbolic links, which we do not support "
+"during an upgrade. Please change them to relative symbolic links and restart "
+"the upgrade.\n"
+"\n"
+msgstr ""
+"다음의 파일은 절대기호련결파일입니다. 이와같은 절대기호련결파일은 현재의 갱신"
+"설치에서는 아직 지원되지 않습니다. 절대기호련결을 상대기호련결로 수정한 다음 "
+"갱신설치를 다시 시작하여야 합니다.\n"
+"\n"
+
+msgid "The following installed system will be upgraded:"
+msgstr "다음의 체계가 갱신될것입니다."
+
+msgid ""
+"The following invalid argument was specified for the kickstart driver disk "
+"command: %s:%s"
+msgstr ""
+"기동설정구동프로그람 디스크지령에 다음과 같은 잘못된 인수 값이 지정되였습니"
+"다. %s.%s"
+
+msgid ""
+"The following partitions were not deleted because they are in use:\n"
+"\n"
+"%s"
+msgstr ""
+"다음의 구획은 현재 사용되고 있으므로 지워지지 않습니다.\n"
+"\n"
+"%s"
+
+msgid ""
+"The following pre-existing partitions have been selected to be formatted, "
+"destroying all data."
+msgstr "다음의 구획이 초기화되며 모든 자료는 지워집니다."
+
+msgid ""
+"The following warnings exist with your requested partition scheme.\n"
+"Would you like to continue with your requested partitioning scheme?"
+msgstr ""
+" \n"
+"지정한 내용으로 구획을 설정하겠습니까?"
+
+msgid ""
+"The hostname is not valid for the following reason:\n"
+"\n"
+"%s"
+msgstr ""
+"콤퓨터이름은 다음과 같은 리유로 잘못되였습니다.\n"
+"\n"
+"%s"
+
+msgid ""
+"The image which was just tested has errors. This could be due to a corrupt "
+"download or a bad disc.  If applicable, please clean the disc and try "
+"again.  If this test continues to fail you should not continue the install."
+msgstr ""
+"검사한 이미지파일에 오유가 있습니다. 잘못 내리적재 받았거나 디스크가 잘못된것 같습"
+"니다. 디스크를 검사한 다음 다시 해보아야 합니다.  검사가 계속 실패한다면 "
+"설치를 중지하여야 합니다."
+
+msgid ""
+"The installation program is unable to upgrade systems with a pre-rpm 4.x "
+"database. Please install the errata rpm packages for your release as "
+"described in the release notes and then run the upgrade procedure."
+msgstr ""
+"설치프로그람이 체계를 pre-rpm 4.x 자료기지로 갱신하는데 실패했습니다. 출시에 "
+"앞서에 설명된것처럼 배포판에 맞는 패키지를 설치한 다음 갱신을 진행하여야 합니다."
+
+msgid ""
+"The installer has detected the %s boot loader currently installed on %s."
+msgstr "%s기동관리자가 %s에 설치되여 있습니다."
+
+msgid ""
+"The installer has tried to mount image #%s, but cannot find it on the "
+"server.\n"
+"\n"
+"Please copy this image to the remote server's share path and click Retry. "
+"Click Reboot to abort the installation."
+msgstr ""
+"설치프로그람이 #%s 이미지설치를 시도했으나 봉사기에서 찾을수 없습니다.\n"
+"\n"
+"이미지파일을 원격봉사기의 공유 경로에 복사하고 〈재시도〉를 눌러야 합니다. 이 설치를 "
+"중단하려면 재기동을 눌러야 합니다."
+
+msgid ""
+"The installer is unable to detect the boot loader currently in use on your "
+"system."
+msgstr "기동관리자를 찾는데 실패했습니다."
+
+msgid "The installer will now exit..."
+msgstr "설치프로그람을 끝내겠습니다."
+
+msgid "The logical volume name \"%s\" is already in use. Please pick another."
+msgstr ""
+" 〈%s〉 론리볼륨이름은 이미 사용되고 있습니다. 다른 이름으로 지정하여야 합니다."
+
+msgid ""
+"The logical volumes you have configured require %g MB, but the volume group "
+"only has %g MB.  Please either make the volume group larger or make the "
+"logical volume(s) smaller."
+msgstr ""
+"설정한 론리볼륨은 %gMB를 필요로 하지만 볼륨그룹에는 %gMB 밖에 없습니다. "
+"볼륨그룹을 증가시키거나 론리볼륨을 감소시켜야 합니다."
+
+msgid "The maximum number of spares with a RAID0 array is 0."
+msgstr "RAID0 령역에 구성된 여분(spare)의 최대수는 '0' 입니다."
+
+msgid ""
+"The media check %s\n"
+"\n"
+"%s"
+msgstr ""
+"매체 검사 %s\n"
+"\n"
+"%s"
+
+msgid ""
+"The mount point \"%s\" is already in use, please choose a different mount "
+"point."
+msgstr "\"%s\" 탑재지점은 이미 사용되고있습니다. 다른곳으로 지정하여야 합니다."
+
+msgid "The mount point \"%s\" is in use, please pick another."
+msgstr ""
+" 〈%s〉 탑재지점은 이미 사용되고 있습니다. 다른 곳으로 지정하여야 합니다."
+
+msgid ""
+"The mount point %s cannot be used.  It must be a symbolic link for proper "
+"system operation.  Please select a different mount point."
+msgstr ""
+"%s 탑재지점을 사용할수 없습니다. 정확한 체계조작으로 기호련결되여야 합니다.  "
+"다른곳으로 지정하여야 합니다."
+
+msgid ""
+"The mount point %s is invalid.  Mount points must start with '/' and cannot "
+"end with '/', and must contain printable characters and no spaces."
+msgstr ""
+"탑재할 지점 %s 이 정확하지 않습니다.  탑재할 지점은 반드시 〈/〉 로 시작해야 "
+"하고 〈/〉 로 끝나서는 안되며 공백이 없는 출력가능한 문자로만 지정해주어야 합"
+"니다. "
+
+msgid ""
+"The mount point already has been set on this partition.\n"
+" Will you proceed anyway?"
+msgstr ""
+"이 구획에는 이미 탑재지점이 설정되여있습니다. 그래도 계속 사용하겠습니"
+"까?"
+
+msgid "The number of partitions created reaches the maximum limit"
+msgstr "구획개수가 최대한계점에 이르렀습니다"
+
+msgid ""
+"The package %s-%s-%s.%s cannot be opened. This is due to a missing file or "
+"perhaps a corrupt package.  If you are installing from CD media this usually "
+"means the CD media is corrupt, or the CD drive is unable to read the media.\n"
+"\n"
+msgstr ""
+"%s-%s-%s.%s 패키지를 열수 없습니다. 파일이 없거나 패키지 불량인것 같습니다.  "
+"CD를 사용하여 설치한다면 CD가 손상되였거나 CD구동기가 CD를 읽지 못하는것 같습"
+"니다. \n"
+"\n"
+
+msgid ""
+"The package %s-%s-%s.%s cannot be opened. This is due to a missing file or "
+"perhaps a corrupt package.  If you are installing from CD media this usually "
+"means the CD media is corrupt, or the CD drive is unable to read the media.\n"
+"\n"
+"Press 'Retry' to try again."
+msgstr ""
+"%s-%s-%s.%s 패키지를 열수 없습니다. 파일이 없거나 패키지 불량인것 같습니다.  "
+"CD를 사용하여 설치한다면 CD가 손상되였거나 CD구동기가 CD를 읽지 못하는것 같습"
+"니다.\n"
+"\n"
+"다시 시도하려면 〈재시도〉건을 눌러야 합니다."
+
+msgid ""
+"The packages you have installed, and any other packages which are needed to "
+"satisfy their dependencies, have been selected for installation. Would you "
+"like to customize the set of packages that will be upgraded?"
+msgstr ""
+"이미 설치되여있는 패키지와 서로 의존 관계에 있는 패키지가 선택되였습니다. 직"
+"접 갱신할 패키지를 선택하겠습니까?"
+
+msgid "The partition needs to be created before installing the system on it."
+msgstr "먼저 남은공간에 구획을 창조한 다음 설치를 하여야 합니다."
+
+msgid ""
+"The partition table on device %s (%s) was unreadable. To create new "
+"partitions it must be initialized, causing the loss of ALL DATA on this "
+"drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+"%s (%s) 장치의 구획정보를 읽을수 없습니다. 새로운 구획을 창조하기 위해서는 반"
+"드시 이 구동기를 초기화하여야 합니다. 초기화로 하여 구동기의 모든 자료는 지워"
+"집니다.\n"
+"\n"
+"초기화를 진행하면 구동기의 내용을 무시하고 덮어쓸것입니다.\n"
+"\n"
+"이 구동기를 초기화하겠습니까?"
+
+msgid ""
+"The partition table on device disk was unreadable. To create new "
+"partitions it must be initialized, causing the loss of ALL DATA on this "
+"drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+"디스크구동기의 구획정보를 읽을수 없으므로 초기화하여야 합니다.\n"
+"구동기를 초기화하겠습니까?"
+
+msgid ""
+"The partition table on device %s was unreadable. To create new partitions it "
+"must be initialized, causing the loss of ALL DATA on this drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+"%s 장치의 구획 정보를 읽을수 없습니다. 새로운 구획을 창조하기 위해서는 반드"
+"시 이 구동기를 초기화하여야 합니다. 초기화로 하여 구동기의 모든 자료는 지워집"
+"니다.\n"
+"\n"
+"초기화를 진행하면 구동기의 내용을 무시하고 덮어쓸것입니다\n"
+"\n"
+"이 구동기를 초기화 하겠습니까?"
+
+msgid "The partition to install needs to be selected."
+msgstr "체계를 설치할 구획을 선택하여야 합니다."
+
+msgid "The partition to install is not reached the size request:%s. continue anyway?"
+msgstr "선택한 구획의 용량이 충분하지 않습니다.\n패키지들을 전부 설치하는 경우 %sGb정도의 용량이 필요됩니다.\n이 구획에 설치를 계속하려면 패키지들을 선택해제하여야 합니다.\n설치를 계속 하겠습니까?"
+
+msgid "The partition to install bootloader needs to be selected."
+msgstr "기동관리자를 설치할 구획을 선택하여야 합니다."
+
+msgid ""
+"The partition with less than two gigabytes capacity could not be splitted."
+msgstr "2GB미만의 구획은 둘로 가룰수 없습니다."
+
+msgid ""
+"The partition with less than 130 megabytes capacity could not be created."
+msgstr "130Mbyte미만의 구획은 창조할수 없습니다."
+
+msgid "The partition you selected will be deleted."
+msgstr "선택한 구획을 지웁니다."
+
+msgid ""
+"The partitioning options you have chosen have already been activated. You "
+"can no longer return to the disk editing screen. Would you like to continue "
+"with the installation process?"
+msgstr ""
+"선택한 구획구성은 이미 진행중에 있습니다. 더이상 구동기편집화면으로 되돌아 갈"
+"수 없습니다. 설치를 계속 진행하겠습니까?"
+
+msgid "The password must be at least six characters long."
+msgstr "통과암호는 적어도 6문자이상이여야 합니다."
+
+msgid "The passwords you entered were different.  Please try again."
+msgstr "통과암호가 맞지 않습니다.  다시 입력하여야 합니다."
+
+msgid "The passwords you entered were different. Please try again."
+msgstr "통과암호가 맞지 않습니다. 다시 입력하여야 합니다."
+
+msgid ""
+"The physical extent size cannot be changed because otherwise the space "
+"required by the currently defined logical volumes will be increased to more "
+"than the available space."
+msgstr ""
+"물리적범위의 크기를 변경할수 없습니다. 만일 물리적범위의 크기를 변경하면 현"
+"재 정의된 론리볼륨의 공간이 사용가능한 공간을 초과하게 됩니다."
+
+msgid ""
+"The physical extent size cannot be changed because the resulting maximum "
+"logical volume size (%10.2f MB) is smaller than one or more of the currently "
+"defined logical volumes."
+msgstr ""
+"최대 론리볼륨 크기(%10.2f MB)가 하나 또는 그 이상의 현재 정의된 론리볼륨"
+"보다 작습니다. 물리적 범위 크기를 변경할수 없습니다."
+
+msgid ""
+"The physical extent size cannot be changed because the value selected (%"
+"10.2f MB) is larger than the smallest physical volume (%10.2f MB) in the "
+"volume group."
+msgstr ""
+"선택한 크기(% 10.2f MB)가 볼륨그룹의 최소 물리적 크기(%10.2f MB)보다 큽니"
+"다. 물리적 범위의 크기를 변경할수 없습니다."
+
+msgid ""
+"The physical extent size cannot be changed because the value selected (%"
+"10.2f MB) is too large compared to the size of the smallest physical volume "
+"(%10.2f MB) in the volume group."
+msgstr ""
+"선택한 크기(%10.2f MB)가 볼륨그룹의 최소 물리적 크기(%10.2f MB)보다 큽니"
+"다. 물리적 범위의 크기를 변경할수 없습니다."
+
+msgid ""
+"The pre-existing partition has been selected to be formatted, destroying all "
+"data."
+msgstr "선택한 구획은 《붉은별》사용자용체계 3.0판용 파일체계로 초기화됩니다. 설치를 계속 하겠습니까?"
+
+msgid ""
+"The pre-existing partition has been selected to be formatted as hfs+, destroying all "
+"data."
+msgstr "선택한 구획은 전용파일체계로 초기화됩니다.\n설치를 계속 하겠습니까?"
+
+msgid "The release notes are missing."
+msgstr "〈출시에 앞서〉의 내용을 찾을수 없습니다."
+
+msgid "The requested size as entered is not a valid number greater than 0."
+msgstr "0이하의 수자는 사용할수 없습니다."
+
+msgid ""
+"The rescue environment will now attempt to find your Linux installation and "
+"mount it under the directory %s.  You can then make any changes required to "
+"your system.  If you want to proceed with this step choose 'Continue'.  You "
+"can also choose to mount your file systems read-only instead of read-write "
+"by choosing 'Read-Only'.\n"
+"\n"
+"If for some reason this process fails you can choose 'Skip' and this step "
+"will be skipped and you will go directly to a command shell.\n"
+"\n"
+msgstr ""
+"복구환경은 이미 설치되여있는 Linux체계를 탐색하여 %s 등록부에 탑재할것입니"
+"다. 그후 이 등록부를 수정하면 됩니다. 이 복구작업을 수행하려면 〈진행〉단추"
+"를 눌러야 합니다. 또한 읽기-전용을 선택하여 읽기-쓰기 대신 읽기-전용으로 파일"
+"체계를 탑재할수 있습니다.\n"
+"\n"
+"어떤 리유로하여 이 과정이 실패하였을 경우에는 〈생략〉단추를 누르면 쉘환경으"
+"로 되돌아갑니다.\n"
+"\n"
+
+msgid ""
+"The root account is used for administering the system.  Enter a password for "
+"the root user."
+msgstr "관리자통과암호를 입력하여야 합니다."
+
+msgid "The root password must be at least 6 characters long."
+msgstr "관리자통과암호는 6문자이상이여야 합니다."
+
+msgid "The root password must be at least six characters long."
+msgstr "관리자통과암호는 적어도 6문자이상 되여야 합니다."
+
+msgid ""
+"The screenshots have been saved into the directory:\n"
+"\n"
+"\t/root/anaconda-screenshots/\n"
+"\n"
+"You can access these when you reboot and login as root."
+msgstr ""
+"화면얻기가 다음 등록부에 저장되였습니다.\n"
+"\n"
+"\t/root/anaconda-screenshots/\n"
+"\n"
+"재기동후 root로 가입하면 이 화면얻기들을 볼수 있습니다."
+
+msgid ""
+"The size of the %s partition (%10.2f MB) exceeds the maximum size of %10.2f "
+"MB."
+msgstr "%s 구획의 용량(%10.2f MB)이 최대 용량인%10.2f MB를 초과했습니다."
+
+msgid ""
+"The size of the requested partition (size = %s MB) exceeds the maximum size "
+"of %s MB."
+msgstr "요구한 구획의 용량(%s MB)이 최대 용량인 %s MB를 초과했습니다."
+
+msgid "The size of the requested partition is negative! (size = %s MB)"
+msgstr "요구한 구획의 용량(%s MB)은 사용할수 없습니다!"
+
+msgid ""
+"The software you have selected to install will require the following CDs:\n"
+"\n"
+"%s\n"
+"Please have these ready before proceeding with the installation.  If you "
+"need to abort the installation and reboot please select \"Reboot\"."
+msgstr ""
+"선택한 프로그람를 설치하기 위해서는 다음 CD가 필요합니다.\n"
+"\n"
+"%s\n"
+"설치를 진행하기전에 이 CD를 준비하여야 합니다.  설치를 중단하고 재기동하려면 〈재"
+"기동〉을 눌러야 합니다."
+
+msgid "The source drive /dev/%s cannot be selected as a target drive as well."
+msgstr "/dev/%s 원천구동기를 목적구동기로 선택할수 없습니다."
+
+msgid ""
+"The source drive has no partitions to be cloned.  You must first define "
+"partitions of type 'software RAID' on this drive before it can be cloned."
+msgstr ""
+"원천구동기에는 클론화할 구획이 없습니다.  이 구동기에 〈쏘프트웨어 RAID〉류형"
+"의 구획을 먼저 정의한 다음 클론화가 가능합니다."
+
+msgid ""
+"The source drive selected has partitions on it which are not of type "
+"'software RAID'.\n"
+"\n"
+"These partitions will have to be removed before this drive can be cloned. "
+msgstr ""
+"선택한 원천 구동기에는 〈쏘프트웨어 RAID〉류형이 아닌 구획이 있습니다.\n"
+"\n"
+"이 구동기를 클론화하기 위해서는 이 구획을 먼저 제거하여야 합니다."
+
+msgid ""
+"The source drive selected has partitions which are not constrained to the "
+"drive /dev/%s.\n"
+"\n"
+"These partitions will have to be removed or restricted to this drive before "
+"this drive can be cloned. "
+msgstr ""
+"선택한 원천구동기에는  /dev/%s구동기에 없는 구획이 존재합니다.\n"
+"\n"
+"이 구동기를 클론화하기 위해서는 이 구동기로 해당 구획을 제한해주거나 해당 구"
+"획을 제거해주어야 합니다."
+
+msgid ""
+"The source drive selected has software RAID partition(s) which are members "
+"of an active software RAID device.\n"
+"\n"
+"These partitions will have to be removed before this drive can be cloned."
+msgstr ""
+"선택한 원천구동기에는 동작중인 쏘프트웨어 RAID장치의 일부인 쏘프트웨어RAID구"
+"획이 있습니다.\n"
+"\n"
+"이 구동기를 클론화하기 위해서는 이 구획을 먼저 제거하여야 합니다."
+
+msgid "The swap file must be between 1 and 2000 MB in size."
+msgstr "가상기억파일은 2GB 이하로 지정해 주어야 합니다."
+
+msgid "The system requires %sGB freespace."
+msgstr "   체계를 설치하는데 %sGB의 용량이 요구됩니다."
+
+msgid "The system will be rebooted now."
+msgstr "지금 체계를 재기동합니다."
+
+msgid ""
+"The target drive /dev/%s has a partition which cannot be removed for the "
+"following reason:\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"This partition must be removed before this drive can be a target."
+msgstr ""
+"/dev/%s 목적구동기에는 다음과 같은 리유로 삭제할수 없는 구획이 존재합니다.\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"구획을 삭제한 다음 목적구동기로 선택하여야 합니다."
+
+msgid "The value you entered is not a valid number."
+msgstr "입력한 값은 사용될수 없습니다."
+
+msgid "The volume group name \"%s\" is already in use. Please pick another."
+msgstr ""
+"〈%s〉 볼륨그룹이름은 이미 사용되고 있습니다. 다른 이름으로 지정하여야 합니다."
+
+msgid ""
+"The z/IPL Boot Loader will be installed on your system after installation is "
+"complete. You can now enter any additional kernel and chandev parameters "
+"which your machine or your setup may require."
+msgstr ""
+"설치를 끝낸 후 z/IPL 기동관리자가 체계에 설치될것입니다. 이제 체계의 설정에 "
+"필요한 추가핵심부와 chandev 파라메터 변수를 입력하여야 합니다."
+
+msgid ""
+"The z/IPL Boot Loader will now be installed on your system.\n"
+"\n"
+"The root partition will be the one you selected previously in the partition "
+"setup.\n"
+"\n"
+"The kernel used to start the machine will be the one to be installed by "
+"default.\n"
+"\n"
+"If you wish to make changes later after the installation feel free to change "
+"the /etc/zipl.conf configuration file.\n"
+"\n"
+"You can now enter any additional kernel parameters which your machine or "
+"your setup may require."
+msgstr ""
+"z/IPL 기동관리자가 체계에 설치됩니다.\n"
+"\n"
+"이전 구획구성에서 뿌리구획을 선택하였습니다.\n"
+"\n"
+"콤퓨터를 기동할 때 사용했던 핵심부가 표준으로 설치됩니다.\n"
+"\n"
+"설치가 끝난 다음 구성사항을 변경하려면 언제든지 /etc/zipl.conf 구성파일을 "
+"변경하면 됩니다.\n"
+"\n"
+"이제 콤퓨터나 설정에 필요한 추가 핵심부변수를 입력할수 있습니다."
+
+msgid "The z/IPL boot loader will be installed on your system."
+msgstr "체계에 z/IPL 기동관리자를 설치합니다."
+
+msgid ""
+"There are multiple partitions on this device which could contain the driver "
+"disk image.  Which would you like to use?"
+msgstr ""
+"이 장치에서 구동프로그람 디스크 이미지파일이 포함된 구획을 여러개 발견했습니다. 어"
+"느 구획을 사용하겠습니까?"
+
+msgid ""
+"There is no room left in the volume group to create new logical volumes. To "
+"add a logical volume you will need to reduce the size of one or more of the "
+"currently existing logical volumes"
+msgstr ""
+"볼륨그룹에는 새로운 론리볼륨을 창조할 공간이 없습니다. 론리볼륨을 추가"
+"하려면 존재하는 일부 론리볼륨의 용량을 감소시켜야 합니다."
+
+msgid ""
+"There is not enough space on the device you selected for the swap partition."
+msgstr "선택한 장치에 교환구획을 창조하기에는 공간이 부족합니다."
+
+msgid "There was a problem writing the system state to the floppy."
+msgstr "체계상태를 플로피에 기록하는데 문제가 발생하였습니다."
+
+msgid "There was a problem writing the system state to the remote host."
+msgstr "체계상태를 원격 콤퓨터에 기록하는데 문제가 발생하였습니다."
+
+msgid "There was an error clearing the target drives.  Cloning failed."
+msgstr "목적구동기를 지우던중 오유가 발생하였습니다.   클론화에 실패."
+
+msgid ""
+"There was an error running the scriptlet.  You may examine the output in %"
+"s.  This is a fatal error and your install will be aborted.\n"
+"\n"
+"Press the OK button to reboot your system."
+msgstr ""
+"scriptlet를 실행하던중 오유가 발생하였습니다. %s에서 출력된 내용을 확인하여야 "
+"합니다. 치명적인 오유이므로 설치를 중지합니다.\n"
+"\n"
+"〈확 인〉단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"This RAID device can have a maximum of %s spares. To have more spares you "
+"will need to add members to the RAID device."
+msgstr ""
+"이 RAID장치는 최대 %s 정도의 여분을 가질수 있습니다. 더 많은 여분이 필요하다"
+"면 RAID장치에 요소를 추가하여야 합니다."
+
+msgid ""
+"This boot target cannot be deleted because it is for the %s system you are "
+"about to install."
+msgstr "이 기동대상은 설치하려는 %s 체계이기때문에 지울수 없습니다."
+
+msgid ""
+"This change in the value of the physical extent will require the sizes of "
+"the current logical volume requests to be rounded up in size to an integer "
+"multiple of the physical extent.\n"
+"\n"
+"This change will take affect immediately."
+msgstr ""
+"물리적 범위값을 변경하면 현재 론리볼륨 요청량을 물리적 범위의 배수값으로 올"
+"림합니다.\n"
+"\n"
+"이 변경 사항은 즉시 적용됩니다."
+
+msgid ""
+"This change in the value of the physical extent will waste substantial space "
+"on one or more of the physical volumes in the volume group."
+msgstr ""
+"물리적 범위값을 변경하면 볼륨그룹에 속한 하나 또는 그 이상의 물리적 볼륨"
+"에서 상당한 공간을 랑비하게 됩니다."
+
+msgid "This device is already being used for another boot entry."
+msgstr "이 장치는 이미 다른 기동항목에 사용되고 있습니다."
+
+msgid "This is the recommended option."
+msgstr "이 항목을 사용하여야 합니다."
+
+msgid "This label is already in use for another boot entry."
+msgstr "이 이름은 이미 다른 기동항목에 사용되였습니다."
+
+msgid ""
+"This mount point is invalid.  The %s directory must be on the / file system."
+msgstr ""
+"탑재할 지점이 정확하지 않습니다.   %s등록부는 반드시 〈/〉파일체계에 위치해"
+"야 합니다."
+
+msgid "This mount point must be on a linux file system."
+msgstr "이 탑재지점은 반드시 Linux파일체계에 위치해야 합니다."
+
+msgid ""
+"This option installs a graphical desktop environment with tools for software "
+"development and system administration. "
+msgstr ""
+"이 항목은 쏘프트웨어 개발과 체계관리에 사용되는 도구를 사용하여 도형방식탁상"
+"환경을 설치합니다. "
+
+msgid "This partition is holding the data for the hard drive install."
+msgstr "이 구획에는 현재 하드디스크설치를 위한 자료가 저장되여있습니다."
+
+msgid "This partition is part of a LVM volume group."
+msgstr "이 구획은 LVM 볼륨그룹의 일부분입니다."
+
+msgid "This partition is part of a RAID device."
+msgstr "이 구획은 RAID장치의 일부분입니다."
+
+msgid "This partition is part of the LVM volume group '%s'."
+msgstr "이 구획은 LVM 볼륨그룹 '%s'의 일부분입니다."
+
+msgid "This partition is part of the RAID device /dev/md%s."
+msgstr "이 구획은 RAID장치 /dev/md%s의 일부분입니다."
+
+msgid ""
+"This release of %s supports the ext3 journalling file system.  It has "
+"several benefits over the ext2 file system traditionally shipped in %s.  It "
+"is possible to migrate the ext2 formatted partitions to ext3 without data "
+"loss.\n"
+"\n"
+"Which of these partitions would you like to migrate?"
+msgstr ""
+"이번 %s 판본부터는 ext3 journal파일체계를 제공합니다.  이것은 이전의 %s에 포"
+"함되여있던 ext2 파일체계를 사용하는것보다 더 많은 우점이 있습니다. 여기서는 "
+"기존의 ext2 파일체계를 어떠한 자료손실도 없이 ext3 로 이전할수 있습니다.\n"
+"\n"
+"이전할 구획을 선택하여야 합니다 "
+
+msgid ""
+"This will let you create a new boot loader configuration.  If you wish to "
+"switch boot loaders, you should choose this."
+msgstr ""
+"새로운 기동관리자구성을 진행합니다. 기동관리자를 교체하려면 이 항목을 선택하"
+"여야 합니다."
+
+msgid ""
+"This will make no changes to boot loader configuration.  If you are using a "
+"third party boot loader, you should choose this."
+msgstr ""
+"기동관리자구성에 아무런 변화도 주지 않습니다. 만일 다른 기동관리자를 사용한다"
+"면 이 항목을 선택하여야 합니다."
+
+msgid "This will update your current boot loader."
+msgstr "현재의 기동관리자를 갱신합니다.."
+
+msgid "Time Zone Selection"
+msgstr "시간대 선택"
+
+msgid ""
+"To begin testing the CD media before installation press %s.\n"
+"\n"
+"Choose %s to skip the media test and start the installation."
+msgstr ""
+"설치전에 CD 매체검사를 시작하려면 %s를 눌러야 합니다.\n"
+"\n"
+"%s를 선택하여 매체검사를 하지 않고 설치를 시작합니다."
+
+msgid ""
+"To use RAID you must first create at least two partitions of type 'software "
+"RAID'.  Then you can create a RAID device which can be formatted and "
+"mounted.\n"
+"\n"
+msgstr ""
+"RAID를 사용하기 위해서는 우선 최소한 두개의 'software RAID' 류형의 구획을 만"
+"들어야 합니다. 그 다음 RAID장치를 창조하여 초기화하고 탑재할수 있습니다.\n"
+"\n"
+
+msgid "Too many spares"
+msgstr "여분(spare)의 수가 너무 많음"
+
+msgid "Too small"
+msgstr "너무 작습니다"
+
+msgid "Total    :"
+msgstr "전  체: "
+
+msgid "Total Space:"
+msgstr "총 용량: "
+
+msgid "Transferring install image to hard drive..."
+msgstr "설치자료를 복사하고있습니다."
+
+msgid "Type"
+msgstr "류형"
+
+msgid "Unable To Delete"
+msgstr "지울수 없음"
+
+msgid "Unable To Edit"
+msgstr "편집할수 없음"
+
+msgid "Unable to Start X"
+msgstr "X 시작 실패"
+
+msgid "Unable to access the CDROM."
+msgstr "CD-ROM을 읽을수 없습니다."
+
+msgid ""
+"Unable to find any devices of the type needed for this installation type.  "
+"Would you like to manually select your driver or use a driver disk?"
+msgstr ""
+"이 설치류형에 필요한 장치류형에 \n"
+"맞는 장치를 찾을수 없습니다. \n"
+"직접 구동프로그람을 선택하겠습니까? \n"
+"아니면 구동프로그람디스크를 사용하겠습니까?"
+
+msgid "Unable to find install image %s"
+msgstr "%s 설치용파일을 읽어올수 없습니다"
+
+msgid "Unable to instantiate a X hardware state object."
+msgstr "X 하드웨어상태객체를 실체화하지 못했습니다."
+
+msgid "Unable to load file!"
+msgstr "파일을 적재할수 없습니다!"
+
+msgid "Unable to load title bar"
+msgstr "제목띠를 적재할수 없습니다"
+
+msgid ""
+"Unable to locate logical volume %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"%s 론리볼륨을 %s에 사용하기 위해 찾을수 없습니다.\n"
+"\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"Unable to locate partition %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"%s 구획을 %s에 사용하기 위해 찾을수 없습니다.\n"
+"\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"Unable to locate raid device %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"%s RAID장치를 %s에 사용하기 위해 찾을수 없습니다.\n"
+"\n"
+"〈확 인〉 단추을 누르면, 체계를 기동합니다."
+
+msgid ""
+"Unable to locate volume group %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+"%s 볼륨그룹을 %s에 사용하기 위해 찾을수 없습니다.\n"
+"\n"
+"〈확 인〉 단추을 누르면 체계가 재기동합니다."
+
+msgid ""
+"Unable to read package metadata. This may be due to a missing repodata "
+"directory.  Please ensure that your install tree has been correctly "
+"generated.  %s"
+msgstr ""
+"패키지 메터자료를 읽지 못했습니다. repodata등록부가 존재하지 않는것 같습니"
+"다. 설치판이 정확히 창조되였는지 확인하여야 합니다.  %s"
+
+msgid ""
+"Unable to read the disc checksum from the primary volume descriptor.  This "
+"probably means the disc was created without adding the checksum."
+msgstr ""
+"기본볼륨서술자로부터 디스크검사합을 읽어들이는데 실패했습니다. 이것은 검사"
+"합을 추가하지 않은채로 디스크를 작성했기때문입니다."
+
+msgid "Unable to retrieve %s://%s/%s/%s."
+msgstr "%s 를 읽는데 실패했습니다. //%s/%s/%s. "
+
+msgid "Unable to retrieve the install image."
+msgstr "설치자료를 읽을수 없습니다"
+
+msgid "Unable to set vnc password - using no password!"
+msgstr "vnc 통과암호를 설정하지 못했습니다 - 통과암호없이 실행합니다!"
+
+msgid "Uncategorized"
+msgstr "분류되지 않음"
+
+msgid "Unknown"
+msgstr "알수 없음"
+
+msgid "Unknown Error"
+msgstr "알수 없는 오유"
+
+msgid "Unknown Host"
+msgstr "알수 없는 콤퓨터"
+
+msgid "Unknown Linux system"
+msgstr "알수 없는 Linux체계"
+
+msgid "Unknown Url method %s"
+msgstr "알 수 없는 Url 방식 %s"
+
+msgid "Unknown driver disk kickstart source: %s"
+msgstr "알수 없는 구동프로그람 디스크 기동설정오유. %s"
+
+msgid "Unknown install method"
+msgstr "알수 없는 설치방식"
+
+msgid "Unrecoverable Error"
+msgstr "복구불가능오유"
+
+msgid "Update"
+msgstr "갱 신"
+
+msgid "Update Disk Source"
+msgstr "갱신디스크원천"
+
+msgid "Update boot loader configuration"
+msgstr "기동관리자구성의 갱신"
+
+msgid "Updates"
+msgstr "갱신"
+
+msgid "Updates Disk"
+msgstr "갱신디스크"
+
+msgid "Upgrade"
+msgstr "갱신"
+
+msgid "Upgrade Boot Loader Configuration"
+msgstr "기동관리자구성의 갱신"
+
+msgid "Upgrade Examine"
+msgstr "갱신 검사"
+
+msgid "Upgrade Existing System"
+msgstr "이전체계 갱신"
+
+msgid "Upgrade Swap Partition"
+msgstr "가상기억공간 갱신"
+
+msgid "Upgrade bootloader on the following system:"
+msgstr "다음체계의 기동관리자를 설치합니다."
+
+msgid "Upgrade to begin"
+msgstr "갱신 시작"
+
+msgid "Upgrading %s-%s-%s.%s.\n"
+msgstr "%s-%s-%s.%s패키지를 갱신합니다.\n"
+
+msgid "Use GRUB Boot Loader"
+msgstr "기동관리자 사용"
+
+msgid "Use a GRUB Password"
+msgstr "통과암호 사용"
+
+msgid "Use a driver disk"
+msgstr "구동프로그람디스크 사용"
+
+msgid "Use dynamic IP configuration (BOOTP/DHCP)"
+msgstr "동적 IP주소 자동구성 사용 (BOOTP/DHCP)"
+
+msgid "Use non-anonymous ftp"
+msgstr "비공개용 ftp 사용"
+
+msgid "Use text mode"
+msgstr "본문방식 사용"
+
+msgid "Used Space:"
+msgstr "사용된 공간:"
+
+msgid "User name"
+msgstr "사용자이름"
+
+msgid "VNC Configuration"
+msgstr "VNC 구성"
+
+msgid "Virtualization (Xen)"
+msgstr "가상 (Xen)"
+
+msgid "Volume Group Name:"
+msgstr "볼륨그룹이름:"
+
+msgid "Volume Group Names must be less than 128 characters"
+msgstr "볼륨그룹이름은 128문자 이하로 지정해주어야 합니다."
+
+msgid "Volume Group:"
+msgstr "볼륨 그룹:"
+
+msgid "WWPN"
+msgstr "WWPN"
+
+msgid "Waiting for telnet connection..."
+msgstr "Telnet 접속을 기다리고 있습니다."
+
+msgid "Warning"
+msgstr "경고"
+
+msgid "Warning! This is pre-release software!"
+msgstr "경고! 이것은 배포 이전 판본 쏘프트웨어입니다!"
+
+msgid "Warning: %s"
+msgstr "경고: %s"
+
+msgid "Warning: %s."
+msgstr "경고: %s."
+
+msgid "Warnings During Automatic Partitioning"
+msgstr "자동구획관리도중 경고발생"
+
+msgid "Web server"
+msgstr "웨브 봉사기"
+
+msgid "Web site name:"
+msgstr "웨브 싸이트 이름:"
+
+msgid "Welcome"
+msgstr "설치시작"
+
+msgid "Welcome to %s"
+msgstr "%s"
+
+msgid "Welcome to %s - Rescue Mode"
+msgstr "%s에 오신것을 환영합니다 - 복구방식"
+
+msgid ""
+"Welcome to %s!\n"
+"\n"
+msgstr ""
+"%s에 오신것을 환영합니다!\n"
+"\n"
+
+msgid "What device is your mouse located on?"
+msgstr "마우스가 련결되여있는 장치를 선택하여야 합니다."
+
+msgid "What do you want to do now?"
+msgstr "어떻게 하겠습니까?"
+
+msgid "What language would you like to use during the installation process?"
+msgstr "설치에 사용할 언어를 선택하여야 합니다."
+
+msgid ""
+"What partition and directory on that partition hold the CD (iso9660) images "
+"for %s? If you don't see the disk drive you're using listed here, press F2 "
+"to configure additional devices."
+msgstr ""
+"어느 구획이나 등록부에 %s을 위한 설치판이 있습니까? 만일 여기에서 해당 디스"
+"크구동기를 찾을수 없다면 F2건을 눌러서 추가장치설정을 선택하여야 합니다."
+
+msgid "What partition holds the root partition of your installation?"
+msgstr "〈/〉구획이 있는곳을 지정하여야 합니다"
+
+msgid "What time zone are you located in?"
+msgstr "시간대를 선택하여야 합니다"
+
+msgid "What type of keyboard do you have?"
+msgstr "사용하는 건반형을 선택하여야 합니다."
+
+msgid "What type of media contains the packages to be installed?"
+msgstr "설치방식을 선택하여야 합니다."
+
+msgid "What type of media contains the rescue image?"
+msgstr "복구이미지파일이 있는 매체를 지정하여야 합니다"
+
+msgid "What type of system would you like to install?"
+msgstr "설치할 체계류형을 선택하여야 합니다."
+
+msgid "What would you like to do?"
+msgstr "추가할 장치의 종류를 선택하여야 합니다?"
+
+msgid "When finished please exit from the shell and your system will reboot."
+msgstr "작업을 끝낸 후 쉘을 끝내면 체계가 재기동합니다."
+
+msgid "Where do you want to install the boot loader?"
+msgstr "기동관리자를 설치할 곳을 지정하여야 합니다"
+
+msgid "Which boot loader would you like to use?"
+msgstr "사용할 기동관리자를 선택하여야 합니다"
+
+msgid "Which drive(s) do you want to use for this installation?"
+msgstr "사용할 구동기를 지정하여야 합니다"
+
+msgid "Which model keyboard is attached to this computer?"
+msgstr "사용하는 건반과 일치하는 모델을 선택하여야 합니다."
+
+msgid "Which model mouse is attached to this computer?"
+msgstr "사용하는 마우스와 일치하는 모델을 선택하여야 합니다"
+
+msgid "Will try to connect again in 15 seconds..."
+msgstr "15초 후에 다시 접속을 시도합니다."
+
+msgid "Wireless Settings"
+msgstr "무선 설정"
+
+msgid "Would you like to apply the modifications onto the disks?"
+msgstr "변경된 내용을 디스크에 반영하겠습니까?"
+
+msgid "Would you like to change the label of the selected partition?"
+msgstr "변경된 내용을 디스크에 반영하겠습니까?"
+#msgstr "선택된 구획의 이름을 변경하겠습니까?"
+
+msgid "Would you like to continue with the upgrade?"
+msgstr "기동관리자를 설치하겠습니까?"
+
+msgid "Would you like to continue with your requested partitioning scheme?"
+msgstr "지정한 내용으로 구획을 설정하겠습니까?"
+
+msgid "Would you like to create a new partition or a new logical volume?"
+msgstr "새로운 구획을 만들겠습니까?"
+
+msgid "Would you like to create a new partition with specified settings?"
+msgstr "해당 설정내용을 가진 구획을 새로 창조하겠습니까?"
+
+msgid ""
+"Would you like to perform a checksum test of the ISO image:\n"
+"\n"
+"   %s?"
+msgstr ""
+"ISO 파일의 검사합을  시험하겠습니까.\n"
+"\n"
+"   %s?"
+
+msgid "Would you like to update the preexisting system or install the new one?"
+msgstr "이미 있는 체계를 갱신하겠습니까\n아니면 새로 설치하겠습니까?"
+
+msgid "Would you like to update the preexisting bootloader or install the new one?"
+msgstr "이미 있는 기동관리자를 갱신하겠습니까\n아니면 새로 설치하겠습니까?"
+
+msgid "Wrong CDROM"
+msgstr "정확하지 않은 CD-ROM"
+
+msgid ""
+"X was unable to start on your machine.  Would you like to start VNC to "
+"connect to this computer from another computer and perform a graphical "
+"install or continue with a text mode install?"
+msgstr ""
+"X가 실행될수 없습니다. 다른 콤퓨터에서 이 콤퓨터에 VNC련결하여 도형방식의 설"
+"치를 하겠습니까, 아니면 본문방식으로 설치하겠습니까?"
+
+msgid ""
+"You appear to be upgrading from a system which is too old to upgrade to this "
+"version of %s.  Are you sure you wish to continue the upgrade process?"
+msgstr ""
+"갱신하려는 체계는 이 판본 %s로 갱신하기에는 너무 낡은 판으로 보입니다. 따라"
+"서 갱신을 제대로 실행할수 없습니다. 그래도 갱신을 계속 진행하겠습니까?"
+
+msgid "You are about to delete a RAID device."
+msgstr "RAID장치를 지우려고 합니다."
+
+msgid "You are about to delete all partitions on the device '/dev/%s'."
+msgstr " '/dev/%s' 장치의 모든 구획을 지우려고 합니다."
+
+msgid "You are about to delete the /dev/%s partition."
+msgstr "/dev/%s구획을 지우려고 합니다."
+
+msgid "You are about to delete the logical volume \"%s\"."
+msgstr "\"%s\" 론리볼륨을 지우려고 합니다."
+
+msgid ""
+"You are about to delete the volume group \"%s\".\n"
+"\n"
+"ALL logical volumes in this volume group will be lost!"
+msgstr ""
+"\"%s\" 볼륨그룹을 지우려고 합니다.\n"
+"\n"
+"이 볼륨그룹에 속한 모든 론리볼륨은 지워지므로 주의하기 바랍니다!"
+
+msgid "You are about to format the partition."
+msgstr "구획을 초기화하겠습니까?"
+
+msgid "You are about to install the system on partition '%s'."
+msgstr "《붉은별》사용자용체계 3.0판은 %s 구획에 설치됩니다."
+
+msgid "You are about to install RedStar3.0 bootloader"
+msgstr "《붉은별》사용자용체계 3.0판 기동관리자를 설치합니다."
+
+msgid "RedStar3.0"
+msgstr "《붉은별》사용자용체계 3.0판"
+
+msgid ""
+"You can configure the boot loader to boot other operating systems. It will "
+"allow you to select an operating system to boot from the list. To add "
+"additional operating systems, which are not automatically detected, click "
+"'Add.' To change the operating system booted by default, select 'Default' by "
+"the desired operating system."
+msgstr ""
+"기동관리자가 다른 조작체계를 기동하도록 설정할수 있습니다. 목록에서 기동할 조"
+"작체계를 선택할수 있습니다. 자동적으로 탐색되지 않은 조작체계를 추가하려면 "
+"〈추가〉단추을 눌러야 합니다. 표준으로 기동하는 조작체계를 변경하려면 조작체계이"
+"름옆에 위치한 〈표준〉을 선택하면 됩니다."
+
+msgid "You cannot create more than %s logical volumes per volume group."
+msgstr "론리그룹에 %s개 이상의 론리볼륨을 창조할수 없습니다."
+
+msgid "You cannot delete a partition of a LDL formatted DASD."
+msgstr "DASD 초기화의 LDL 구획은 지울수 없습니다."
+
+msgid "You cannot delete free space."
+msgstr "남은공간은 지울수 없습니다."
+
+msgid ""
+"You cannot delete this partition, as it is an extended partition which "
+"contains %s"
+msgstr "이 구획은 현재 %s구획이 포함되여있는 확장 구획이므로 지울수 없습니다."
+
+msgid ""
+"You cannot delete this partition:\n"
+"\n"
+msgstr ""
+"이 구획을 지울수 없습니다.\n"
+"\n"
+
+msgid ""
+"You cannot edit this partition, as it is an extended partition which "
+"contains %s"
+msgstr "이 구획은 현재 %s구획이 포함되여있는 확장구획이므로 편집할수 없습니다"
+
+msgid ""
+"You cannot edit this partition:\n"
+"\n"
+msgstr ""
+"이 구획은 편집할수 없습니다.\n"
+"\n"
+
+msgid ""
+"You cannot remove this physical volume because otherwise the volume group "
+"will be too small to hold the currently defined logical volumes."
+msgstr ""
+"물리적 볼륨을 제거할수 없습니다. 물리적 볼륨을 제거하면 볼륨그룹이 너"
+"무 적어지기 때문에 현재 정의된 론리볼륨을 저장할수 없습니다."
+
+msgid "You do not have enough RAM to install %s on this machine."
+msgstr "%s를 설치하기에는 RAM용량이 부족합니다."
+
+msgid ""
+"You do not have enough RAM to use the graphical installer.  Starting text "
+"mode."
+msgstr "체계설치에 필요한 기억기용량이 부족합니다.  본문방식으로 설치합니다."
+
+msgid ""
+"You don't have any Linux partitions. Press return to get a shell. The system "
+"will reboot automatically when you exit from the shell."
+msgstr ""
+"Linux구획이 존재하지 않습니다. 쉘로 나가려면 Enter건을 눌러야 합니다.쉘에서 탈퇴"
+"하면 체계는 자동적으로 재기동합니다."
+
+msgid ""
+"You don't seem to have any hard drives on your system! Would you like to "
+"configure additional devices?"
+msgstr "하드디스크를 찾을수 없습니다! 추가할 장치를 설정하겠습니까?"
+
+msgid ""
+"You don't use the product after Juche96(2007).10.9 because this product is "
+"demo"
+msgstr " 이 제품은 주체96(2007)년 10월 9일까지 사용할수 있습니다."
+
+msgid "You entered an invalid IP address."
+msgstr "잘못된 IP주소를 입력하였습니다."
+
+msgid ""
+"You have allocated less swap space (%dM) than available RAM (%dM) on your "
+"system.  This could negatively impact performance."
+msgstr ""
+"체계의 가상기억공간(%dMB)을 사용가능한 기억기용량(%dMB)보다 적게 지정하였습니"
+"다. 이와 같은 설정은 오히려 성능을 감소시킬수 있습니다."
+
+msgid ""
+"You have chosen to remove all Linux partitions (and ALL DATA on them) on the "
+"following drives:%s\n"
+"Are you sure you want to do this?"
+msgstr ""
+"다음의 구동기에 존재하는 모든 Linux 구획(Linux구획의 모든 자료)을 삭제합니다."
+"%s\n"
+"삭제하겠습니까?"
+
+msgid ""
+"You have chosen to remove all partitions (ALL DATA) on the following drives:%"
+"s\n"
+"Are you sure you want to do this?"
+msgstr ""
+"다음의 구동기에 존재하는 모든 구획(모든 자료)들을 삭제합니다. %s\n"
+"삭제하겠습니까?"
+
+msgid ""
+"You have chosen to use a pre-existing partition for this installation "
+"without formatting it. We recommend that you format this partition to make "
+"sure files from a previous operating system installation do not cause "
+"problems with this installation of Linux. However, if this partition "
+"contains files that you need to keep, such as home directories, then  "
+"continue without formatting this partition."
+msgstr ""
+"구획을 초기화하지 않고 사용합니다. 이 구획을 초기화하지 않으면 이전 조작체계 "
+"설치과정에 만들어진 파일로 하여 설치과정에 문제가 발생할수 있습니다. 하지만 "
+"이 구획에 있는 자료(례. 사용자등록부)를 보존하려면 이 구획을 초기화하지 않고 "
+"계속 진행하여야 합니다."
+
+msgid ""
+"You have elected to not install any boot loader. It is strongly recommended "
+"that you install a boot loader unless you have an advanced need.  A boot "
+"loader is almost always required in order to reboot your system into Linux "
+"directly from the hard drive.\n"
+"\n"
+"Are you sure you want to skip boot loader installation?"
+msgstr ""
+"기동관리자를 설치하지 않습니다. 특별한 리유가 없다면 가능한 기동관리자를 설치"
+"하여야 합니다. 기동관리자는 하드디스크에 설치되여있는 Linux체계로 기동하는데 "
+"반드시 필요합니다.\n"
+"\n"
+"기동관리자설치를 생략하겠습니까?"
+
+msgid ""
+"You have multiple devices which could serve as sources for a driver disk.  "
+"Which would you like to use?"
+msgstr ""
+"체계에서 하나 이상의 구동프로그람 디스크를 발견했습니다. 어떤 장치를 사용하겠"
+"습니까?"
+
+msgid ""
+"You have multiple devices which could serve as sources for an update disk.  "
+"Which would you like to use?"
+msgstr ""
+"갱신디스크원천으로 사용가능한 장치가 발견되였습니다. 어느 장치를 사용하겠습니"
+"까?"
+
+msgid ""
+"You have multiple network devices on this system. Which would you like to "
+"install through?"
+msgstr ""
+"체계에서 여러개의 망 장치를 발견하였습니다. 어느 장치를 통해 설치하겠습니까?"
+
+msgid ""
+"You have no active network devices.  Your system will not be able to "
+"communicate over a network by default without at least one device active.\n"
+"\n"
+"NOTE: If you have a PCMCIA-based network adapter you should leave it "
+"inactive at this point. When you reboot your system the adapter will be "
+"activated automatically."
+msgstr ""
+"동작중인 망장치가 없습니다.  동작중인 장치가 최소한 한개라도 존재하지 않는다"
+"면 체계는 망으로 통신할수 없습니다.\n"
+"\n"
+"주의: PCMCIA-기반 망기판을 가지고 있다면 지금 시점에서는 비활성화된 상태로 두"
+"어야 합니다. 체계를 재기동하면 기판은 자동적으로 활성화됩니다."
+
+msgid ""
+"You have not defined a root partition (/), which is required for "
+"installation of %s to continue."
+msgstr ""
+"설치할 구획을 선택하지 않았습니다. %s 설치를 계속하려면 반드시 선택해주어야 "
+"합니다."
+
+msgid "You have not specified a FCP LUN or the number is invalid."
+msgstr "FCP LUN을 지정하지 않았거나 LUN 번호가 맞지 않습니다"
+
+msgid "You have not specified a SCSI ID or the ID is invalid."
+msgstr "SCSI ID를 지정하지 않았거나 ID가 맞지 않습니다"
+
+msgid "You have not specified a SCSI LUN or the number is invalid."
+msgstr "SCSI LUN을 지정하지 않았거나 LUN 번호가 맞지 않습니다"
+
+msgid "You have not specified a device number or the number is invalid"
+msgstr "장치번호를 지정하지 않았거나 번호가 맞지 않습니다"
+
+msgid "You have not specified a hostname."
+msgstr "콤퓨터이름을 지정하지 않았습니다."
+
+msgid ""
+"You have not specified a hostname.  Depending on your network environment "
+"this may cause problems later."
+msgstr ""
+"콤퓨터이름이 지정되지 않았습니다.  망환경에 따라 문제가 발생할수 있습니다."
+
+msgid ""
+"You have not specified a swap partition.  Although not strictly required in "
+"all cases, it will significantly improve performance for most installations."
+msgstr ""
+"가상기억공간을 지정하지 않았습니다. 가상기억공간을 반드시 지정해야 하는것은 "
+"아니지만 가상기억공간이 설치속도에 상당한 영향을 미칩니다."
+
+msgid "You have not specified a worldwide port name or the name is invalid."
+msgstr "포구이름을  지정하지 않았거나 포구번호가 맞지 않습니다"
+
+msgid ""
+"You have not specified the field \"%s\".  Depending on your network "
+"environment this may cause problems later."
+msgstr ""
+"〈%s〉 항목이 지정되지 않았습니다.  망환경에 따라 문제가 발생할수 있습니다."
+
+msgid "You have specified an install method which isn't supported by anaconda."
+msgstr "설치프로그람에서 지원하지 않는 설치방식을 선택하였습니다."
+
+msgid ""
+"You have specified more than 32 swap devices.  The kernel for %s only "
+"supports 32 swap devices."
+msgstr ""
+"32개 이상의 가상기억공간을 지정하였습니다. %s의 핵심부에서는 32개까지의 가상"
+"기억공간만을 지원합니다."
+
+msgid ""
+"You must create a /boot/efi partition of type FAT and a size of 50 megabytes."
+msgstr ""
+"반드시 FAT 류형의 /boot/efi 구획을 창조해야 하며, 용량은 50 MB이여야 합니다."
+
+msgid "You must create a PPC PReP Boot partition."
+msgstr "PPC PReP 기동구획을 창조하여야 합니다."
+
+msgid "You must create an Apple Bootstrap partition."
+msgstr "Apple 기동구획을 창조하여야 합니다."
+
+msgid "You must enter a directory."
+msgstr "등록부를 입력하여야 합니다."
+
+msgid "You must enter a server name."
+msgstr "봉사기이름을 입력하여야 합니다."
+
+msgid "You must enter both a valid IP address and a netmask."
+msgstr "옳바른 IP주소와 망마스크를 입력하여야 합니다."
+
+msgid "You must enter valid IP information to continue"
+msgstr "옳바른 IP 주소를 입력하여야 합니다"
+
+msgid ""
+"You must enter your root password and confirm it by typing it a second time "
+"to continue."
+msgstr ""
+"체계관리자통과암호를 입력한 다음 확인을 위해 다시 한번 입력하여야 합니다."
+
+msgid "You must first select a partition to delete."
+msgstr "삭제할 구획을 먼저 선택하여야 합니다."
+
+msgid "You must select a partition to edit"
+msgstr "편집할 구획을 선택하여야 합니다."
+
+msgid "You must specify a label for the entry"
+msgstr "항목이름을 지정하여야 합니다."
+
+msgid "You need to select at least one hard drive to have %s installed onto."
+msgstr "%s 설치를 위해 최소한 하나의 구동기는 선택해주어야 합니다. "
+
+msgid ""
+"You're about to remove a FCP disk from your configuration. Are you sure that "
+"you wish to continue?"
+msgstr "지금 구성에서 FCP 디스크를 제거합니다. 계속 하겠습니까?"
+
+msgid ""
+"Your %s partition is less than %s megabytes which is lower than recommended "
+"for a normal %s install."
+msgstr ""
+"설정한 %s 구획의 용량이 %s MB이하입니다. 이 용량은 %s을 설치하는데 필요한 기"
+"본 용량보다 적습니다."
+
+msgid ""
+"Your boot loader password is less than six characters.  We recommend a "
+"longer boot loader password.\n"
+"\n"
+"Would you like to continue with this password?"
+msgstr ""
+"기동관리자통과암호를 6문자이하로 지정하였습니다.  보다 긴 통과암호를 지정하여야 "
+"합니다.\n"
+"\n"
+"이 통과암호를 그대로 사용하겠습니까?"
+
+msgid ""
+"Your dynamic IP request returned IP configuration information, but it did "
+"not include a DNS nameserver. If you know what your nameserver is, please "
+"enter it now. If you don't have this information, you can leave this field "
+"blank and the install will continue."
+msgstr ""
+"동적IP주소요청에 의해 IP 구성정보가 전달되였으나 그 정보에는 DNS봉사기의 정보"
+"가 포함되여있지 않습니다. DNS봉사기를 알고있다면 지금 입력하여야 합니다. 이"
+"와 관련된 사항에 대해 잘 모르는 경우에는 빈칸으로 두고 설치를 계속 진행하십시"
+"오."
+
+msgid ""
+"Your root partition is less than 250 megabytes which is usually too small to "
+"install %s."
+msgstr ""
+"현재 설정된 〈/〉 구획의 용량이 250 MB이하입니다. %s을 설치하기에는 설정된 용"
+"량이 너무적습니다."
+
+msgid ""
+"Your system had dirty file systems which you chose not to mount.  Press "
+"return to get a shell from which you can fsck and mount your partitions.  "
+"The system will reboot automatically when you exit from the shell."
+msgstr ""
+"탑재하지 않기로 한 파일체계에 오유가 있습니다. 파일체계검사와 탑재할수 있는 "
+"쉘로 나가려면 Enter건을 눌러야 합니다. 쉘에서 탈퇴하면 체계는 자동적으로 재기동합"
+"니다."
+
+msgid ""
+"Your system has been mounted under %s.\n"
+"\n"
+"Press <return> to get a shell. If you would like to make your system the "
+"root environment, run the command:\n"
+"\n"
+"\tchroot %s\n"
+"\n"
+"The system will reboot automatically when you exit from the shell."
+msgstr ""
+"체계가 %s에 탑재되였습니다.\n"
+"\n"
+"쉘로 나가려면 Enter건을 눌러야 합니다. 체계환경으로 들어가려면 다음의 지령을 입력"
+"하여야 합니다.\n"
+"\n"
+"\tchroot %s\n"
+"\n"
+"쉘에서 탈퇴하면 체계는 자동적으로 재기동합니다."
+
+msgid "Your system is mounted under the %s directory."
+msgstr "체계가 %s등록부에 탑재되였습니다."
+
+msgid "Your system will be rebooted in %s seconds"
+msgstr "%s초후에 자동적으로 재기동합니다."
+
+msgid "Your system will now be rebooted."
+msgstr "이제 체계를 재기동합니다."
+
+msgid ""
+"Your system's state has been successfully written to the floppy. Your system "
+"will now be rebooted."
+msgstr ""
+"현재 체계의 상태는 플로피디스크에 성공적으로 기록되였습니다. 체계를 재기동합니다."
+
+msgid ""
+"Your system's state has been successfully written to the remote host.\n"
+"Your system will now be reset."
+msgstr ""
+"현재 체계의 상태를 원격 콤퓨터에 성공적으로 기록하였습니다. 체계를 재기동합니다."
+
+msgid "ZFCP Configuration"
+msgstr "ZFCP 구성"
+
+msgid "_Activate on boot"
+msgstr "체계기동시 활성화(_A)"
+
+msgid "_Add"
+msgstr "추가(_A)"
+
+msgid "_Automatically partition"
+msgstr "자동구획관리(_A)"
+
+msgid "_Change Drive Order"
+msgstr "디스크 순서 변경"
+
+msgid "_Confirm: "
+msgstr "확 인: "
+
+msgid "_Create new boot loader configuration"
+msgstr "새로운 기동관리자구성하기(_C)"
+
+msgid "_Custom"
+msgstr "개별화"
+
+msgid "_Customize now"
+msgstr "지금의 개별화 (_C)"
+
+msgid "_Delete"
+msgstr "삭 제"
+
+msgid "_Device"
+msgstr "장치 (_D)"
+
+msgid "_ESSID"
+msgstr "_ESSID"
+
+msgid "_Edit"
+msgstr "편집"
+
+msgid "_Emulate 3 buttons"
+msgstr "3-단추 마우스처럼 사용"
+
+msgid "_End Cylinder:"
+msgstr "실린더의 끝 (_E):"
+
+msgid "_Fedora"
+msgstr "_Fedora"
+
+msgid "_File System Type:"
+msgstr "파일체계(_F):"
+
+msgid "_Fixed size"
+msgstr "고정 용량(_F)"
+
+msgid "_Force LBA32 (not normally required)"
+msgstr "LBA32 방식사용 (일반적으로 사용하지 않음)(_F)"
+
+msgid "_Format partition?"
+msgstr "구획을 초기화하겠습니까?(_F)"
+
+msgid "_General kernel parameters"
+msgstr "일반 핵심부 파라메터(_G)"
+
+msgid "_Help"
+msgstr "도움말"
+
+msgid "_Install %s"
+msgstr "%s 설치"
+
+msgid "_LVM"
+msgstr "_LVM"
+
+msgid "_Logical Volume Name:"
+msgstr "론리볼륨이름(_L):"
+
+msgid "_Personal Desktop"
+msgstr "개인용 탁상환경(_P)"
+
+msgid "_Physical Extent:"
+msgstr "물리적 범위(_P):"
+
+msgid "_Point to Point (IP)"
+msgstr "Point to Point (IP)(_P)"
+
+msgid "_Primary DNS"
+msgstr "1차 DNS(_P)"
+
+msgid "_RAID Members:"
+msgstr "RAID 요소(_R):"
+
+msgid "_Review and modify partitioning layout"
+msgstr "구획배치 재확인과 수정(_R)"
+
+msgid "_Save to floppy"
+msgstr "디스크에 보존"
+
+msgid "_Secondary DNS"
+msgstr "2차 DNS(_S)"
+
+msgid "_Select the drive(s) to use for this installation."
+msgstr "설치에 사용할 구획을 지정하여야 합니다(_S)"
+
+msgid "_Server"
+msgstr "봉사기(_S)"
+
+msgid "_Size (MB):"
+msgstr "용량(MB)(_S):"
+
+msgid "_Skip boot loader updating"
+msgstr "기동관리자갱신 생략(_S)"
+
+msgid "_Start Cylinder:"
+msgstr "실린더의 시작(_S):"
+
+msgid "_Tertiary DNS"
+msgstr "3차 DNS(_T)"
+
+msgid "_Update boot loader configuration"
+msgstr "기동관리자구성의 갱신(_U)"
+
+msgid "_Upgrade an existing installation"
+msgstr "설치된 체계갱신(_U)"
+
+msgid "_Upgrade an existing installation's bootloader"
+msgstr "기동관리자설치"
+
+msgid "_Use a boot loader password"
+msgstr "기동관리자 통과암호사용(_U)"
+
+msgid "_Volume Group Name:"
+msgstr "볼륨그룹이름(_V):"
+
+msgid "_automatically via DHCP"
+msgstr "DHCP를 통하여 콤퓨터이름을 자동적으로 설정(_A)"
+
+msgid "_manually"
+msgstr "콤퓨터이름(_M)"
+
+msgid "a partition which is a member of a LVM Volume Group."
+msgstr "LVM 볼륨그룹의 구획입니다."
+
+msgid "a partition which is a member of a RAID array."
+msgstr "RAID령역의 구획입니다."
+
+msgid "automatically via DHCP"
+msgstr "DHCP를 통하여 콤퓨터이름을 자동적으로 설정"
+
+msgid "default:LTR"
+msgstr "기정:LTR"
+
+msgid "iSCSI Configuration"
+msgstr "iSCSI 구성"
+
+msgid "iSCSI Initiator Name:"
+msgstr "iSCSI 개시이름:"
+
+msgid "iSCSI configuration"
+msgstr "iSCSI구성"
+
+msgid "loader has already been run.  Starting shell.\n"
+msgstr "적재기는 이미 실행중입니다.  쉘을 시작합니다.\n"
+
+msgid "logical volume"
+msgstr "론리볼륨"
+
+msgid "manually"
+msgstr "콤퓨터이름"
+
+msgid "partition"
+msgstr "구획"
+
+msgid "software RAID"
+msgstr "쏘프트웨어 RAID"
+
+msgid "the partition in use by the installer."
+msgstr "구획이 설치프로그람에 의해 사용되고있습니다."
+
+msgid "unknown install method: %s"
+msgstr "알수 없는 설치방식: %s"
+
+msgid "z/IPL Boot Loader Configuration"
+msgstr "z/IPL기동관리자의 구성"
+
+msgid "z/IPL Configuration"
+msgstr "z/IPL구성"
+
+msgid ""
+"zSeries machines can access industry-standard SCSI devices via Fibre Channel "
+"(FCP). You need to provide 5 parameters for each device: a 16 bit device "
+"number, a 16bit SCSI ID, a 64 bit World Wide Port Name (WWPN), a 16bit SCSI "
+"LUN and a 64 bit FCP LUN."
+msgstr ""
+"zSeries 기계들은 보통 SCSI 장치들을 광채널(FCP)를 통해 사용할수 있습니다. 각 "
+"장치들의 16비트 장치번호, 16비트 SCSI ID, 64비트 세계포구번호(WWPN), 16비트 "
+"SCSI LUN 그리고 64비트 FCP LUN 의 5가지변수가 필요합니다."
+
+msgid "can cel"
+msgstr "취 소"
+
+msgid "Formatting OS partition..."
+msgstr "체계구획을 초기화하고있습니다."
+
+msgid "Formatting bootloader partition..."
+msgstr "기동관리자구획을 초기화하고있습니다."
+
+msgid ""
+"Error informing the kernel about modifications to partition %s -- %s.  This "
+"means Linux won't know about any changes you made to %s until you reboot -- "
+"so you shouldn't mount it or use it in any way before rebooting."
+msgstr ""
+"변경내용을 처리하던중  %s -- %s구획에서 오유가 발생하였습니다."
+"체계는 재기동을 하기전까지 %s를 변경할수 없습니다."
+"구획을 너무 많이 할당하지 않았는지 검사하여야 합니다."
+
+msgid "You are about to delete the partition."
+msgstr "구획을 삭제하겠습니까?"
+
+msgid "The size entry is empty. Input the right size and try again"
+msgstr "용량을 입력하지 않았습니다. 용량을 입력하여야 합니다."
+
+msgid "Unable to create partition which extends beyond the end of the disk."
+msgstr "디스크의 용량한계를 초과하였습니다"
+
+msgid ""
+"\n"
+"Enter the information for connecting to the internet through your local "
+"network (LAN).\n"
+"\n"
+"If you don't know this information, ask your system administrator."
+msgstr ""
+"\n"
+"   국부망을 통한 인터네트련결을 위한 정보를 입력하여야 합니다."
+
+msgid ""
+"\n"
+"Please enter your personal information. It's used to register your Linux "
+"product, create\n"
+"your user account, and set up your infomation in Address Book. Your email "
+"address is \n"
+"also used to setup your Mail account."
+msgstr ""
+"\n"
+"등록정보를 입력하여야 합니다."
+
+msgid "(Example: host.domain.com)"
+msgstr "(례: host.domain.com)"
+
+msgid "(Example: localhost)"
+msgstr "(례: localhost)"
+
+msgid "<Will be supplied by a server.>"
+msgstr "봉사기에 의하여 자동설정"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "AddressBook Setup"
+msgstr "등록정보설정"
+
+msgid "Administrator"
+msgstr "관리자가입정보설정"
+
+msgid "Area"
+msgstr "지역"
+
+msgid "ChongJin"
+msgstr "청진"
+
+msgid "City"
+msgstr "도시"
+
+msgid "Close"
+msgstr "닫 기"
+
+msgid "Company/School"
+msgstr "직장"
+
+msgid "Confir_m Password:"
+msgstr "통과암호확인:"
+
+msgid "Create _account"
+msgstr "예"
+
+msgid "Create an account for the administrative purpose"
+msgstr "체계관리자가입정보를 창조합니다."
+
+msgid "Current time"
+msgstr "시간"
+
+msgid "DHCP Client ID    (optional)"
+msgstr " DHCP의뢰기식별자"
+
+msgid "DNS Servers (optional for DHCP & BootP)"
+msgstr " DNS봉사기"
+
+msgid "Date and Time"
+msgstr "날자와 시간설정"
+
+msgid "Email Address (if you have one)"
+msgstr "전자우편주소"
+
+msgid "First Name"
+msgstr "이름"
+
+msgid "GaeSong"
+msgstr "개성"
+
+msgid "HamHung"
+msgstr "함흥"
+
+msgid "Help"
+msgstr "도움말"
+
+msgid "Host Name"
+msgstr " 콤퓨터이름"
+
+msgid "IP Address"
+msgstr "  IP주소"
+
+msgid ""
+"It is highly recommended that a personal user account be created.  If you "
+"continue without an account, you can only log in with the root account, "
+"which is reserved for administrative use only."
+msgstr ""
+"일반사용자가입정보가 없으면 관리자가입정보로만 체계에 가입할수 있습니다. "
+"일반사용자가입정보를 창조하겠습니까?"
+
+msgid ""
+"It is recommended that you create a system 'username' for regular (non-"
+"administrative) use of your system. To create a system 'username,' please "
+"provide the information requested below."
+msgstr ""
+"일반적사용을 위하여 일반사용자가입정보를 창조하여야 합니다."
+
+msgid "Last Name"
+msgstr "성"
+
+msgid "Mannually"
+msgstr "수동방식"
+
+msgid "NamPho"
+msgstr "남포"
+
+msgid "Network Setup"
+msgstr "망정보설정"
+
+msgid "OK"
+msgstr "확 인"
+
+msgid "Phone Number"
+msgstr "전화번호"
+
+msgid "Please enter the IP Address and netmask configuration for this machine."
+msgstr "해당 콤퓨터의 IP주소와 망마스크정보를 입력하여야 합니다."
+
+msgid "Please set the date and time for the system."
+msgstr "체계의 날자와 시간을 설정하여야 합니다."
+
+msgid "Please set the timezone for the system."
+msgstr "체계시간대를 설정하여야 합니다."
+
+msgid "PyongYang"
+msgstr "평양"
+
+msgid "RaJin-SonBong"
+msgstr "라진-선봉"
+
+msgid "Router Address"
+msgstr " 경로기주소"
+
+msgid "Short Nam_e:"
+msgstr "짧은 이름:"
+
+msgid "State"
+msgstr "주/도"
+
+msgid "Subnet Mask"
+msgstr " 부분망마스크"
+
+msgid "System User"
+msgstr "사용자가입정보설정"
+
+msgid "TCP/IP connection type"
+msgstr " 주소할당방식"
+
+msgid "The passwords do not match.  Please enter the password again."
+msgstr "통과암호가 맞지 않습니다. 다시 입력하여야 합니다."
+
+msgid ""
+"The system configuration has been done. The system must now reboot for some "
+"of your selections to take effect."
+msgstr ""
+"체계설치가 끝났습니다."
+
+msgid "The username '%s' is a reserved system account. Please specify another username."
+msgstr "짧은이름 \"%s\"는 예약된 체계가입정보입니다. 다른 이름을 입력하여야 합니다."
+
+msgid "The fullname '%s' is a reserved system account. Please specify another username."
+msgstr "사용자이름 \"%s\"는 예약된 체계가입정보입니다. 다른 이름을 입력하여야 합니다."
+
+msgid "Timezone"
+msgstr "시간대설정"
+
+msgid "TimeZone"
+msgstr "시간대설정"
+
+msgid "To finish setting up your computer, you need to set the date and time"
+msgstr "체계설정을 끝내기전에 체계의 날자와 시간을 설정하여야 합니다."
+
+msgid "Today's date"
+msgstr "날자"
+
+msgid "Using DHCP"
+msgstr "DHCP방식"
+
+msgid "You should enter the user information for the administrator."
+msgstr "관리자가입정보를 입력하여야 합니다."
+
+msgid "Zip Code"
+msgstr "지역코드"
+
+msgid "_Back"
+msgstr "이 전"
+
+msgid "_Continue"
+msgstr "아 니"
+
+msgid "_Finish"
+msgstr "끝"
+
+msgid "_Next"
+msgstr "다 음"
+
+msgid "_Password:"
+msgstr "통과암호:"
+
+msgid "Revert"
+msgstr "복 귀"
+
+msgid "_Username:"
+msgstr "관리자이름:"
+
+msgid "Please select the nearest city in your time zone."
+msgstr "시간대에서 도시를 선택하여야 합니다."
+
+msgid "AM"
+msgstr "오전"
+
+msgid "PM"
+msgstr "오후"
+
+msgid "Apply"
+msgstr "적 용"
+
+msgid "Yes"
+msgstr "예"
+
+msgid ""
+"The name '%s' contains invalid characters.  Please use only UTF-8 characters."
+msgstr ""
+"이름 '%s'에 잘못된 문자가 포함되여있습니다. UTF-8 문자만 사용하여야 합니다."
+
+msgid "The name '%s' contains a colon. Please do not use colons in the name."
+msgstr "이름 '%s'에 두점(:)이 포함되여있습니다. 이름에 두점을 사용하여서는 안됩니다."
+
+msgid "Please enter a user name."
+msgstr "사용자이름을 입력하여야 합니다."
+
+msgid "The user name must not exceed %d characters."
+msgstr "사용자이름은 %d 문자보다 길어서는 안됩니다."
+
+msgid ""
+"The user name '%s' contains a dollar sign which is not at the end. Please use dollar signs only at the end of user names to indicate Samba machine accounts."
+msgstr ""
+"사용자이름 '%s'에서 딸라기호($)가 마지막위치에 있지 않습니다. Samba구좌를 표시하기 위해서는 딸라기호를 사용자이름 마지막위치에 사용해야 합니다."
+
+msgid ""
+"Using all numbers as the user name can cause confusion about whether the user name or numerical user id is meant. \nInput non-numerical-only user name and try again."
+msgstr ""
+"짧은이름에는 수자만 들어갈수 없습니다. \n짧은 이름을 다시 입력하여야 합니다."
+
+msgid ""
+"The password contains invalid characters.  Please use only ASCII characters."
+msgstr ""
+"통과암호에 잘못된 문자가 포함되여있습니다. ASCII문자만 사용하여야 합니다."
+
+msgid "The user name '%s' contains invalid characters. Please use only ASCII characters."
+msgstr "사용자이름 '%s'에 잘못된 문자가 포함되여있습니다. 영문자만 사용하여야 합니다."
+
+msgid "The value you entered for IP address is incorrect.\n There are smaller or more than four octets in IP address field."
+msgstr "입력된 IP주소가 정확하지 않습니다. IP주소를 다시 입력하여야 합니다."
+ 
+msgid "The value you entered for IP address is incorrect.\n There is empty octet in IP address field."
+msgstr "입력된 IP주소가 정확하지 않습니다. IP주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for IP address is incorrect.\n Every octet must smaller than 255. "
+msgstr "입력된 IP주소가 정확하지 않습니다. IP주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Mask is incorrect.\n There are smaller or more than four octets in Mask field."
+msgstr "입력된 부분망마스크가 정확하지 않습니다. 부분망마스크주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Mask is incorrect.\n There is empty octet in Mask field."
+msgstr "입력된 부분망마스크가 정확하지 않습니다. 부분망마스크주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Mask is incorrect.\n Every octet must smaller than 255. "
+msgstr "입력된 부분망마스크가 정확하지 않습니다. 부분망마스크주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Gateway is incorrect.\n There are smaller or more than four octets in Gateway field."
+msgstr "입력된 경로기주소가 정확하지 않습니다. 경로기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Gateway is incorrect.\n There is empty octet in GateWay field."
+msgstr "입력된 경로기주소가 정확하지 않습니다. 경로기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for Gateway is incorrect.\n Every octet must smaller than 255. "
+msgstr "입력된 경로기주소가 정확하지 않습니다. 경로기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for DNS server is incorrect.\n There are smaller or more than four octets in DNS field."
+msgstr "입력된 DNS봉사기주소가 정확하지 않습니다. DNS봉사기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for DNS server is incorrect.\n There is empty octet in DNS field."
+msgstr "입력된 DNS봉사기주소가 정확하지 않습니다. DNS봉사기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for DNS server is incorrect.\n nonnumerical value inputed in DNS field."
+msgstr "입력된 DNS봉사기주소가 정확하지 않습니다. DNS봉사기주소를 다시 입력하여야 합니다."
+
+msgid "The value you entered for DNS server is incorrect.\n Every octet must smaller than 255. "
+msgstr "입력된 DNS봉사기주소가 정확하지 않습니다. DNS봉사기주소를 다시 입력하여야 합니다."
+
+msgid "The name entry is empty.\n Name entered automaticaly as 'localhost.localdomain'."
+msgstr "이름을 입력하지 않았습니다.\n 이름은 'localhost.localdomain으로 자동입력됩니다." 
+
+msgid "There is an empty data field. Input all datas and try again."
+msgstr "빈 자료마당이 존재합니다. 자료마당에 값들을 입력하여야 합니다."
+
+msgid "There is non-available data in input-entries. Check the data fields and try again."
+msgstr "입력된 날자 및 시간값이 정확하지 않습니다. 날자와 시간을 다시 입력하여야 합니다."
+
+msgid "You can set year between 1969 ~ 2037."
+msgstr "1969년 1월 1일부터 2037년 12월 31일까지만 입력할수 있습니다." 
+	
+msgid "PhoneNumber must be in range(0000000 ~ 99999999)"
+msgstr "전화번호는 7~8자리의 수자로 입력해야 합니다."
+	    
+msgid "ZipCode must be in range (00000 ~ 999999)"
+msgstr "지역코드는 5~6자리의 수자로 입력해야 합니다."
+			    		
+msgid "AreaCode must be in range (0~999)"
+msgstr "지역번호는 0~3자리의 수자로 입력해야 합니다."
+	
+msgid "Email address must be as the same follow: test@sample.com.kp"
+msgstr "전자우편주소는 test@sample.com.kp의 형태를 갖추어야 합니다."
+		
+msgid "Email address must include only one times letter: '@'"
+msgstr "전자우편주소는 '@'를 두개이상 포함할수 없습니다."
+	
+msgid "The words in Email address must not be starts or end with numberical letter"
+msgstr "전자우편주소의 '@'앞뒤에 놓인 단어들은 문자로 시작해서 문자로 끝나야 합니다."
+		    
+msgid "Email address must include letter: '.'"
+msgstr "전자우편주소에는 '.'이 포함되여야 합니다."
+		    
+msgid "Email address must not be end with letter: '.'"
+msgstr "전자우편주소는 '.'으로 끝나지 말아야 합니다."
+
+msgid "Password _Hint:"
+msgstr "통과암호암시:"
+
+msgid "Name must be shorter than 60 byte."
+msgstr "입력한 이름의 길이가 60글자가 넘습니다. 60글자이하로 다시 입력하여야 합니다."
+
+msgid "Name must be shorter than 32 byte."
+msgstr "입력한 이름의 길이가 32글자가 넘습니다. 32글자이하로 다시 입력하여야 합니다."
+
+msgid "Name must be shorter than 250."
+msgstr "입력한 이름의 길이가 250글자가 넘습니다. 250글자이하로 다시 입력하여야 합니다."
+
+msgid "Reboot now"
+msgstr "재기동"
+
+msgid "January"
+msgstr "1월"
+
+msgid "February"
+msgstr "2월"
+
+msgid "March"
+msgstr "3월"
+
+msgid "April"
+msgstr "4월"
+
+msgid "May"
+msgstr "5월"
+
+msgid "June"
+msgstr "6월"
+
+msgid "July"
+msgstr "7월"
+
+msgid "August"
+msgstr "8월"
+
+msgid "September"
+msgstr "9월"
+
+msgid "October"
+msgstr "10월"
+
+msgid "November"
+msgstr "11월"
+
+msgid "December"
+msgstr "12월"
+
+msgid "same shortname."
+msgstr "같은 짧은이름을 가진 사용자가 이미 존재합니다."
+
+msgid "same fullname."
+msgstr "같은 사용자이름을 가진 사용자가 이미 존재합니다."
+
+msgid "Preparing for upgrade..."
+msgstr "기동관리자"
+
+msgid "installing upgrade packages..."
+msgstr "기동관리자를 설치합니다."
+
+msgid "You enter reserved word as shortname. Please enter another name"
+msgstr "입력한 짧은 이름은 체계에서 사용하고있습니다. 다른 이름을 입력하여야 합니다."
+
+msgid "You enter reserved word as username. Please enter another name"
+msgstr "입력한 사용자 이름은 체계에서 사용하고있습니다. 다른 이름을 입력하여야 합니다."
+
+msgid "SWAP-SPACE"
+msgstr "교환공간"
+
+msgid "This hard drive has some bad partition table entries. Please recreate all partitions and try again."
+msgstr "하드디스크의 구획정보가 파괴되였습니다. 하드디스크를 다시 초기화하여야 합니다."
+
+msgid "You clicked invalid partition."
+msgstr "선택한 구획에는 체계를 설치할수 없습니다."
+
+#JSH: timezone information
+msgid "Abu Dhabi - U.A.E."
+msgstr "아랍추장국 - 아부다비"
+
+msgid "Accra - Ghana"
+msgstr "가나 - 아크라"
+
+msgid "Addis Ababa - Ethiopia"
+msgstr "에티오피아 - 아디스아바바"
+
+msgid "Adelaide - Australia"
+msgstr "오스트랄리아 - 아델레이드"
+
+msgid "Afghanistan Time"
+msgstr "아프가니스탄시간"
+
+msgid "Africa/Accra"
+msgstr "아프리카/아크라"
+
+msgid "Africa/Addis_Ababa"
+msgstr "아프리카/아디스아바바"
+
+msgid "Africa/Algiers"
+msgstr "아프리카/알좌자이르"
+
+msgid "Africa/Bamako"
+msgstr "아프리카/바마코"
+
+msgid "Africa/Bangui"
+msgstr "아프리카/방기"
+
+msgid "Africa/Cairo"
+msgstr "아프리카/까히라"
+
+msgid "Africa/Casablanca"
+msgstr "아프리카/카사블랑카"
+
+msgid "Africa/Conakry"
+msgstr "아프리카/꼬나크리"
+
+msgid "Africa/Dakar"
+msgstr "아프리카/다까르"
+
+msgid "Africa/Dar_es_Salaam"
+msgstr "아프리카/다르에스살람"
+
+msgid "Africa/Djibouti"
+msgstr "아프리카/지부티"
+
+msgid "Africa/Douala"
+msgstr "아프리카/두알라"
+
+msgid "Africa/Freetown"
+msgstr "아프리카/프리타운"
+
+msgid "Africa/Harare"
+msgstr "아프리카/하라레"
+
+msgid "Africa/Johannesburg"
+msgstr "아프리카/요한네스부르그"
+
+msgid "Africa/Kampala"
+msgstr "아프리카/캄팔라"
+
+msgid "Africa/Khartoum"
+msgstr "아프리카/하르툼"
+
+msgid "Africa/Lagos"
+msgstr "아프리카/라고스"
+
+msgid "Africa/Luanda"
+msgstr "아프리카/루안다"
+
+msgid "Africa/Lusaka"
+msgstr "아프리카/루사카"
+
+msgid "Africa/Maputo"
+msgstr "아프리카/마뿌또"
+
+msgid "Africa/Mogadishu"
+msgstr "아프리카/모가디쇼"
+
+msgid "Africa/Monrovia"
+msgstr "아프리카/몬로비아"
+
+msgid "Africa/Nairobi"
+msgstr "아프리카/나이로비"
+
+msgid "Africa/Ndjamena"
+msgstr "아프리카/느쟈메나"
+
+msgid "Africa/Nouakchott"
+msgstr "아프리카/누악쇼뜨"
+
+msgid "Africa/Ouagadougou"
+msgstr "아프리카/와가두구"
+
+msgid "Africa/Tripoli"
+msgstr "아프리카/트리폴리"
+
+msgid "Africa/Tunis"
+msgstr "아프리카/뜌니스"
+
+msgid "Alaska Daylight Time"
+msgstr "얼래스커주간시"
+
+msgid "Algiers - Algeria"
+msgstr "알제리 - 알좌자이르"
+
+msgid "America/Anchorage"
+msgstr "아메리카/앵커리지"
+
+msgid "America/Asuncion"
+msgstr "아메리카/아순씨온"
+
+msgid "America/Barbados"
+msgstr "아메리카/바베이도즈"
+
+msgid "America/Bogota"
+msgstr "아메리카/보고타"
+
+msgid "America/Buenos_Aires"
+msgstr "아메리카/부에노스 아이레스"
+
+msgid "America/Caracas"
+msgstr "아메리카/까라까스"
+
+msgid "America/Cayenne"
+msgstr "아메리카/까옌느"
+
+msgid "America/Chicago"
+msgstr "아메리카/시카고"
+
+msgid "America/Costa_Rica"
+msgstr "아메리카/꼬스따리까"
+
+msgid "America/Denver"
+msgstr "아메리카/덴버"
+
+msgid "America/Detroit"
+msgstr "아메리카/디트로이트"
+
+msgid "America/El_Salvador"
+msgstr "아메리카/엘 쌀바도르"
+
+msgid "America/Godthab"
+msgstr "아메리카/고트하브"
+
+msgid "America/Guatemala"
+msgstr "아메리카/과떼말라"
+
+msgid "America/Guayaquil"
+msgstr "아메리카/과야낄"
+
+msgid "America/Guyana"
+msgstr "아메리카/가이아나"
+
+msgid "America/Havana"
+msgstr "아메리카/아바나"
+
+msgid "America/Indianapolis"
+msgstr "아메리카/인디애너펄리스"
+
+msgid "America/La_Paz"
+msgstr "아메리카/라빠스"
+
+msgid "America/Lima"
+msgstr "아메리카/리마"
+
+msgid "America/Los_Angeles"
+msgstr "아메리카/로스앤질리즈"
+
+msgid "America/Managua"
+msgstr "아메리카/마나과"
+
+msgid "America/Mexico_City"
+msgstr "아메리카/메히꼬"
+
+msgid "America/Montevideo"
+msgstr "아메리카/몬떼비데오"
+
+msgid "America/Montreal"
+msgstr "아메리카/몬트리올"
+
+msgid "America/New_York"
+msgstr "아메리카/뉴욕"
+
+msgid "America/Panama"
+msgstr "아메리카/"
+
+msgid "America/Paramaribo"
+msgstr "아메리카/파라마리보"
+
+msgid "America/Phoenix"
+msgstr "아메리카/피닉스"
+
+msgid "America/Port-au-Prince"
+msgstr "아메리카/뽀르또쁘랭스"
+
+msgid "America/Puerto_Rico"
+msgstr "아메리카/뿌에르또리꼬"
+
+msgid "America/Recife"
+msgstr "아메리카/레씨프"
+
+msgid "America/Santiago"
+msgstr "아메리카/싼띠아고"
+
+msgid "America/Santo_Domingo"
+msgstr "아메리카/싼또도민고"
+
+msgid "America/Sao_Paulo"
+msgstr "아메리카/쌍오빠울로"
+
+msgid "America/Tegucigalpa"
+msgstr "아메리카/떼구시갈빠"
+
+msgid "America/Vancouver"
+msgstr "아메리카/뱅쿠버"
+
+msgid "America/Winnipeg"
+msgstr "아메리카/윈니페그"
+
+msgid "Amman - Jordan"
+msgstr "요르단 - 암만"
+
+msgid "Amsterdam - Netherlands"
+msgstr "네데를란드 - 암스테르담"
+
+msgid "Anadyr - Russia"
+msgstr "로씨야 - 아나디리"
+
+msgid "Anadyr Summer Time"
+msgstr "아나디리여름시간"
+
+msgid "Analog"
+msgstr "기계식"
+
+msgid "Anchorage - U.S.A."
+msgstr "미국 - 앵커리지"
+
+msgid "Ankara - Turkey"
+msgstr "뛰르끼예 - 앙까라"
+
+msgid "Antananarivo - Madagascar"
+msgstr "마다가스까르 - 안따나나리부"
+
+msgid "Arabian Standard Time"
+msgstr "아랍표준시간"
+
+msgid "Argentina Time"
+msgstr "아르헨띠나시간"
+
+msgid "Armenia Summer Time"
+msgstr "아르메니아여름시간"
+
+msgid "Asia/Aden"
+msgstr "아시아/아덴"
+
+msgid "Asia/Amman"
+msgstr "이시아/암만"
+
+msgid "Asia/Anadyr"
+msgstr "아시아/아나디리"
+
+msgid "Asia/Baghdad"
+msgstr "아시아/바그다드"
+
+msgid "Asia/Bahrain"
+msgstr "아시아/바레인"
+
+msgid "Asia/Baku"
+msgstr "아시아/바쿠"
+
+msgid "Asia/Bangkok"
+msgstr "아시아/방코크"
+
+msgid "Asia/Beirut"
+msgstr "아시아/바이루트"
+
+msgid "Asia/Calcutta"
+msgstr "아시아/콜카타"
+
+msgid "Asia/Colombo"
+msgstr "아시아/콜롬보"
+
+msgid "Asia/Damascus"
+msgstr "아시아/디마스끄"
+
+msgid "Asia/Dubai"
+msgstr "아시아/두바이"
+
+msgid "Asia/Hong_Kong"
+msgstr "아시아/홍콩"
+
+msgid "Asia/Jerusalem"
+msgstr "아시아/예루살램"
+
+msgid "Asia/Kabul"
+msgstr "아시아/카불"
+
+msgid "Asia/Karachi"
+msgstr "아시아/카라치"
+
+msgid "Asia/Katmandu"
+msgstr "아시아/까뜨만두"
+
+msgid "Asia/Krasnoyarsk"
+msgstr "아시아/크라스노야르스크"
+
+msgid "Asia/Kuala_Lumpur"
+msgstr "아시아/꾸알라룸뿌르"
+
+msgid "Asia/Kuwait"
+msgstr "아시아/쿠웨이트"
+
+msgid "Asia/Manila"
+msgstr "아시아/마닐라"
+
+msgid "Asia/Muscat"
+msgstr "아시아/마스까트"
+
+msgid "Asia/Novosibirsk"
+msgstr "아시아/노보씨비르스크"
+
+msgid "Asia/Omsk"
+msgstr "아시아/옴스크"
+
+msgid "Asia/Phnom_Penh"
+msgstr "아시아/프놈뻰"
+
+msgid "Asia/Pyongyang"
+msgstr "아시아/평양"
+
+msgid "Asia/Qatar"
+msgstr "아시아/까타르"
+
+msgid "Asia/Rangoon"
+msgstr "아시아/랑군"
+
+msgid "Asia/Riyadh"
+msgstr "아시아/리야드"
+
+msgid "Asia/Saigon"
+msgstr "아시아/사이공"
+
+msgid "Asia/Shanghai"
+msgstr "아시아/상해"
+
+msgid "Asia/Singapore"
+msgstr "아시아/싱가포르"
+
+msgid "Asia/Taipei"
+msgstr "아시아/대북"
+
+msgid "Asia/Tashkent"
+msgstr "아시아/따슈껜뜨"
+
+msgid "Asia/Tehran"
+msgstr "아시아/테헤란"
+
+msgid "Asia/Tokyo"
+msgstr "아시아/도꾜"
+
+msgid "Asia/Ulaanbaatar"
+msgstr "아시아/울란바따르"
+
+msgid "Asia/Vladivostok"
+msgstr "아시아/울라지보스또크"
+
+msgid "Asia/Yakutsk"
+msgstr "아시아/야꾸쯔크"
+
+msgid "Asia/Yerevan"
+msgstr "아시아/예레반"
+
+msgid "Asuncion - Paraguay"
+msgstr "빠라과이 - 아순씨온"
+
+msgid "Athens - Greece"
+msgstr "그리스 - 아테네"
+
+msgid "Atlanta - U.S.A."
+msgstr "미국 - 애틀랜트"
+
+msgid "Atlantic Daylight Time"
+msgstr "대서양주간시"
+
+msgid "Atlantic Standard Time"
+msgstr "대서양표준시간"
+
+msgid "Atlantic/Azores"
+msgstr "대서양/아조르"
+
+msgid "Atlantic/Reykjavik"
+msgstr "대서양/레이캬비크"
+
+msgid "Atlantic/South_Georgia"
+msgstr "대서양/남죠지어"
+
+msgid "Austin - U.S.A."
+msgstr "미국 - 오스틴"
+
+msgid "Australia/Adelaide"
+msgstr "오스트랄리아/아델레이드"
+
+msgid "Australia/Brisbane"
+msgstr "오스트랄리아/브리스베인"
+
+msgid "Australia/Canberra"
+msgstr "오스트랄리아/캔베라"
+
+msgid "Australia/Darwin"
+msgstr "오스트랄리아/다윈"
+
+msgid "Australia/Hobart"
+msgstr "오스트랄리아/허우바트"
+
+msgid "Australia/Melbourne"
+msgstr "오스트랄리아/멜번"
+
+msgid "Australia/Perth"
+msgstr "오스트랄리아/퍼스"
+
+msgid "Australia/Sydney"
+msgstr "오스트랄리아/씨드니"
+
+msgid "Australian Central Standard Time"
+msgstr "오스트랄리아중부표준시간"
+
+msgid "Australian Eastern Standard Time"
+msgstr "오스트랄리아동부표준시간"
+
+msgid "Australian Western Standard Time"
+msgstr "오스트랄리아서부표준시간"
+
+msgid "Azerbaijan Summer Time"
+msgstr "아제르바이쟌여름시간"
+
+msgid "Azores Summer Time"
+msgstr "아조르시간"
+
+msgid "Baghdad - Iraq"
+msgstr "이라크 - 바그다드"
+
+msgid "Baku - Azerbaijan"
+msgstr "아제르바이쟌 - 바쿠"
+
+msgid "Bamako - Mali"
+msgstr "말리 - 바마코"
+
+msgid "Bangkok - Thailand"
+msgstr "타이 - 방코크"
+
+msgid "Bangui - Central African Republic"
+msgstr "중앙아프리카 - 방기"
+
+msgid "Beijing - China"
+msgstr "중국 - 베이징"
+
+msgid "Beirut - Lebanon"
+msgstr "레바논 - 바이루트"
+
+msgid "Belgrade - Serbia and Montenegro"
+msgstr "쎄르비아 몬떼네그로 - 베오그라드"
+
+msgid "Berlin - Germany"
+msgstr "도이췰란드 - 베를린"
+
+msgid "Bogota - Colombia"
+msgstr "꼴롬비아 - 보고타"
+
+msgid "Bolivia Time"
+msgstr "볼리비아시간"
+
+msgid "Boston - U.S.A."
+msgstr "미국 - 보스톤"
+
+msgid "Brasalia - Brazil"
+msgstr "브라질 - 브라질리아"
+
+msgid "Brasilia Time"
+msgstr "브라질시간"
+
+msgid "Bratislava - Slovakia"
+msgstr "슬로벤스꼬 - 브라찌슬라바"
+
+msgid "Brazil/East"
+msgstr "브라질/동부"
+
+msgid "Bridgetown - Barbados"
+msgstr "바베이도즈 - 브리지타운"
+
+msgid "Brisbane - Australia"
+msgstr "오스트랄리아 - 브리스베인"
+
+msgid "British Summer Time"
+msgstr "영국여름시간"
+
+msgid "Brussels - Belgium"
+msgstr "벨지끄 - 브류쎌"
+
+msgid "Bucharest - Romania"
+msgstr "로므니아 - 부꾸레슈띠"
+
+msgid "Budapest - Hungary"
+msgstr "마쟈르 - 부다뻬슈뜨"
+
+msgid "Buenos Aires - Argentina"
+msgstr "아르헨띠나 - 부에노스 아이레스"
+
+msgid "Cairo - Egypt"
+msgstr "에짚트 - 까히라"
+
+msgid "Calgary - Canada"
+msgstr "카나다 - 캘가리"
+
+msgid "Canada/Atlantic"
+msgstr "카나다/대서양"
+
+msgid "Canada/Eastern"
+msgstr "카나다/동부"
+
+msgid "Canada/Saskatchewan"
+msgstr "카나다/씨스캐치원"
+
+msgid "Canberra - Australia"
+msgstr "오스트랄리아 - 캔베라"
+
+msgid "Cannot open file all_cities_adj.plist"
+msgstr "시간대자료기지파일을 열수 없습니다."
+
+msgid "Canton - China"
+msgstr "중국 - 광주"
+
+msgid "Cape Town - South Africa"
+msgstr "남아프리카 - 케이프타운"
+
+msgid "Caracas - Venezuela"
+msgstr "베네수엘라 - 까라까스"
+
+msgid "Cardiff - Wales"
+msgstr "웨일즈 - 카디프"
+
+msgid "Cayenne - French Guiana"
+msgstr "프랑스령 기아나 - 까옌느"
+
+msgid "Central Africa Time"
+msgstr "중앙아프리카시간"
+
+msgid "Central Daylight Time"
+msgstr "중부주간시"
+
+msgid "Central European Summer Time"
+msgstr "중유럽여름시간"
+
+msgid "Central European Time"
+msgstr "중유럽시간"
+
+msgid "Central Standard Time"
+msgstr "중부표준시간"
+
+msgid "Chennai - India"
+msgstr "인디아 - 첸나이"
+
+msgid "Chicago - U.S.A."
+msgstr "미국 - 시카고"
+
+msgid "Chile Time"
+msgstr "칠레시간"
+
+msgid "China Standard Time"
+msgstr "중국표준시간"
+
+msgid ""
+"Click your part of the world, then choose a city from the Closest City menu."
+msgstr "지도에서 목적하는 지역을 마우스로 선택하여야 합니다."
+
+msgid "Closest City:"
+msgstr "가까운 도시:"
+
+msgid "Closest city:"
+msgstr "시간대:"
+
+msgid "Colombia Time"
+msgstr "꼴롬비아시간"
+
+msgid "Colombo - Sri Lanka"
+msgstr "스리랑카 - 콜롬보"
+
+msgid "Colombo Standard Time"
+msgstr "콜롬보표준시간"
+
+msgid "Columbus - U.S.A."
+msgstr "미국 - 컬람버스"
+
+msgid "Conakry - Guinea"
+msgstr "기네 - 꼬나크리"
+
+msgid "Copenhagen - Denmark"
+msgstr "단마르크 - 쾨뻰하븐"
+
+msgid "Cork - Ireland"
+msgstr "아일랜드 - 코크"
+
+msgid "Could not call configure() for the KDE screensaver."
+msgstr "화면보호기의 configure()함수를 호출할수 없습니다."
+
+msgid "Critical Error"
+msgstr "중대오유"
+
+msgid "Cuba Daylight Time"
+msgstr "꾸바주간시"
+
+msgid "Cupertino - U.S.A."
+msgstr "미국 - 큐퍼티너우"
+
+msgid "Dakar - Senegal"
+msgstr "세네갈 - 다까르"
+
+msgid "Dallas - U.S.A."
+msgstr "미국 - 댈러스"
+
+msgid "Damascus - Syria"
+msgstr "디마스끄 - 수리아"
+
+msgid "Dar es Salaam - Tanzania"
+msgstr "탄자니아 - 다르에스살람"
+
+msgid "Darwin - Australia"
+msgstr "오스트랄리아 - 다윈"
+
+msgid "Date & Time"
+msgstr "날자와 시간"
+
+msgid "Date Setting"
+msgstr "날자설정"
+
+msgid "Denver - U.S.A."
+msgstr "미국 - 덴버"
+
+msgid "Detroit - U.S.A."
+msgstr "미국 - 디트로이트"
+
+msgid "Digital"
+msgstr "수자식"
+
+msgid "Displa&y the time with seconds"
+msgstr "초값표시"
+
+msgid "Djibouti - Djibouti"
+msgstr "지부티 - 지부티"
+
+msgid "Doha - Qatar"
+msgstr "까타르 - 도하"
+
+msgid "Douala - Cameroon"
+msgstr "까메룬 - 두알라"
+
+msgid "Dublin - Ireland"
+msgstr "아일랜드 - 더블린"
+
+msgid "East Africa Time"
+msgstr "동부아프리카시간"
+
+msgid "Eastern Daylight Time"
+msgstr "동부주간시"
+
+msgid "Eastern European Summer Time"
+msgstr "동유럽여름시간"
+
+msgid "Eastern Standard Time"
+msgstr "동부표준시간"
+
+msgid "Ecuador Time"
+msgstr "에꽈도르시간"
+
+msgid "Edinburgh - Scotland"
+msgstr "스코틀랜드 - 에딘버러"
+
+msgid "Error setting new timezone."
+msgstr "시간대설정에서 오유"
+
+msgid "Error! Invalid index for the time zone band."
+msgstr "시간대띠의 첨수값이 무효합니다."
+
+msgid "Error! Invalid latitude in every entry."
+msgstr "오유! 위도값이 무효합니다."
+
+msgid "Error! Invalid status for analog clock."
+msgstr "오유! 시계의 상태가 무효합니다."
+
+msgid "Error! Unexpected value : m_selectedBand < 0"
+msgstr "오유! m_selectedBand < 0"
+
+msgid "Error: Failed for invalid parameter."
+msgstr "오유: 파라메터가 무효합니다."
+
+msgid "Europe/Amsterdam"
+msgstr "유럽/암스테르담"
+
+msgid "Europe/Athens"
+msgstr "유럽/아테네"
+
+msgid "Europe/Belgrade"
+msgstr "유럽/베오그라드"
+
+msgid "Europe/Berlin"
+msgstr "유럽/베를린"
+
+msgid "Europe/Bratislava"
+msgstr "유럽/브라찌슬라바"
+
+msgid "Europe/Bucharest"
+msgstr "유럽/부꾸레슈띠"
+
+msgid "Europe/Budapest"
+msgstr "유럽/부다뻬슈뜨"
+
+msgid "Europe/Copenhagen"
+msgstr "유럽/쾨뻰하븐"
+
+msgid "Europe/Dublin"
+msgstr "유럽/더블린"
+
+msgid "Europe/Helsinki"
+msgstr "유럽/헬싱키"
+
+msgid "Europe/Istanbul"
+msgstr "유럽/이스땀불"
+
+msgid "Europe/Kiev"
+msgstr "유럽/끼예브"
+
+msgid "Europe/Lisbon"
+msgstr "유럽/리스봉"
+
+msgid "Europe/Ljubljana"
+msgstr "유럽/류블랴나"
+
+msgid "Europe/London"
+msgstr "유럽/런던"
+
+msgid "Europe/Madrid"
+msgstr "유럽/마드리드"
+
+msgid "Europe/Moscow"
+msgstr "유럽/모스크바"
+
+msgid "Europe/Oslo"
+msgstr "유럽/오슬로"
+
+msgid "Europe/Paris"
+msgstr "유럽/빠리"
+
+msgid "Europe/Prague"
+msgstr "유럽/쁘라하"
+
+msgid "Europe/Rome"
+msgstr "유럽/로마"
+
+msgid "Europe/Sofia"
+msgstr "유럽/쏘피아"
+
+msgid "Europe/Stockholm"
+msgstr "유럽/스톡홀름"
+
+msgid "Europe/Vienna"
+msgstr "유럽/윈"
+
+msgid "Europe/Warsaw"
+msgstr "유럽/와르샤와"
+
+msgid "Europe/Zagreb"
+msgstr "유럽/자그레브"
+
+msgid "Europe/Zurich"
+msgstr "유럽/쮸리히"
+
+msgid "Freetown - Sierra Leone"
+msgstr "시에라레온 - 프리타운"
+
+msgid "French Guiana Time"
+msgstr "프랑스령 가이아나시간"
+
+msgid "Geneva - Switzerland"
+msgstr "스위스 - 제네바"
+
+msgid "Georgetown - Guyana"
+msgstr "가이아나 - 죠지타운"
+
+msgid "Greenwich Mean Time"
+msgstr "그리니치표준시간"
+
+msgid "Grytviken - South Georgia"
+msgstr "남죠지어 - 그리트버큰"
+
+msgid "Guam - U.S.A."
+msgstr "미국 - 괌섬"
+
+msgid "Guatemala - Guatemala"
+msgstr "과떼말라 - 과떼말라"
+
+msgid "Gulf Standard Time"
+msgstr "메히꼬만표준시간"
+
+msgid "Guyana Time"
+msgstr "기아아나시간"
+
+msgid "Halifax - Canada"
+msgstr "카나다 - 할리팩스"
+
+msgid "Hamburg - Germany"
+msgstr "도이췰란드 - 함부르그"
+
+msgid "Hanoi - Vietnam"
+msgstr "윁남 - 하노이"
+
+msgid "Harare - Zimbabwe"
+msgstr "짐바브웨 - 하라레"
+
+msgid "Havana - Cuba"
+msgstr "꾸바 - 아바나"
+
+msgid "Hawaii-Aleutian Standard Time"
+msgstr "하와이-얼루트표준시간"
+
+msgid "Helsinki - Finland"
+msgstr "핀란드 - 헬싱키"
+
+msgid "Here you can change the system date's day of the month, month and year."
+msgstr "여기서 체계날자를 년, 월, 일별로 설정할수 있습니다."
+
+msgid "Hobart - Australia"
+msgstr "오스트랄리아 - 허우바트"
+
+msgid "Hong Kong - China"
+msgstr "중국 - 홍콩"
+
+msgid "Hong Kong Time"
+msgstr "홍콩시간"
+
+msgid "Honolulu - U.S.A."
+msgstr "미국 - 호놀룰루"
+
+msgid "Houston - U.S.A."
+msgstr "미국 - 휴스턴"
+
+msgid "India Standard Time"
+msgstr "인디아표준시간"
+
+msgid "Indian/Antananarivo"
+msgstr "인디아/안따나나리부"
+
+msgid "Indian/Mahe"
+msgstr "인디아양/마에"
+
+msgid "Indian/Maldives"
+msgstr "인디아/말디브"
+
+msgid "Indian/Mauritius"
+msgstr "인디아양/모리셔스"
+
+msgid "Indianapolis - U.S.A."
+msgstr "미국 - 인디애너펄리스"
+
+msgid "Indochina Time"
+msgstr "동남아시아시간"
+
+msgid "Invalid parameters"
+msgstr "무효한 파라메터"
+
+msgid "Iran Daylight Time"
+msgstr "이란주간시"
+
+msgid "Irish Summer Time"
+msgstr "아일랜드여름시간"
+
+msgid "Islamabad - Pakistan"
+msgstr "파키스탄 - 이슬라마바드"
+
+msgid "Israel Daylight Time"
+msgstr "이스라엘주간시"
+
+msgid "Istanbul - Turkey"
+msgstr "뛰르끼예 - 이스땀불"
+
+msgid "Japan Standard Time"
+msgstr "일본표준시간"
+
+msgid "Jerusalem - Palestine"
+msgstr "팔레스티나 - 예루살렘"
+
+msgid "Kabul - Afghanistan"
+msgstr "아프가니스탄 - 카불"
+
+msgid "Kampala - Uganda"
+msgstr "우간다 - 캄팔라"
+
+msgid "Katmandu - Nepal"
+msgstr "네팔 - 까뜨만두"
+
+msgid "Khartoum - Sudan"
+msgstr "수단 - 하르툼"
+
+msgid "Kiev - Ukraine"
+msgstr "우크라이나 -끼예브"
+
+msgid "Knoxville - U.S.A."
+msgstr "미국 - 녹스빌"
+
+msgid "Kolkata - India"
+msgstr "인디아 - 칼커타"
+
+msgid "Korean Standard Time"
+msgstr "조선표준시간"
+
+msgid "Krasnoyarsk - Russia"
+msgstr "로씨야 - 크라스노야르스크"
+
+msgid "Krasnoyarsk Summer Time"
+msgstr "크라스노야르스크여름시간"
+
+msgid "Kuala Lumpur - Malaysia"
+msgstr "말레이시아 - 꾸알라 룸뿌르"
+
+msgid "Kuwait - Kuwait"
+msgstr "쿠웨이트 - 쿠웨이트"
+
+msgid "La Paz - Bolivia"
+msgstr "볼리비아 - 라빠스"
+
+msgid "Lagos - Nigeria"
+msgstr "나이제리아 - 라고스"
+
+msgid "Lima - Peru"
+msgstr "뻬루 - 리마"
+
+msgid "Lisbon - Portugal"
+msgstr "뽀르뚜갈 - 리스봉"
+
+msgid "Ljubljana - Slovenia"
+msgstr "슬로베니야 - 류블랴나"
+
+msgid "London - England"
+msgstr "영국 - 런던"
+
+msgid "Los Angeles - U.S.A."
+msgstr "미국 - 로스앤질리즈"
+
+msgid "Luanda - Angola"
+msgstr "앙골라 - 루안다"
+
+msgid "Lusaka - Zambia"
+msgstr "잠비아 - 루사카"
+
+msgid "Madrid - Spain"
+msgstr "에스빠냐 - 마드리드"
+
+msgid "Malaysia Time"
+msgstr "말레이시아시간"
+
+msgid "Maldives Time"
+msgstr "말디브시간"
+
+msgid "Male - Maldives"
+msgstr "말디브 - 말레"
+
+msgid "Managua - Nicaragua"
+msgstr "니까라과 - 마나과"
+
+msgid "Manama - Bahrain"
+msgstr "바레인 - 마나마"
+
+msgid "Manchester - U.S.A."
+msgstr "미국 - 맨치스터"
+
+msgid "Manila - Philippines"
+msgstr "필리핀 - 마닐라"
+
+msgid "Maputo - Mozambique"
+msgstr "모잠비끄 - 마뿌또"
+
+msgid "Mauritius Time"
+msgstr "모리셔스시간"
+
+msgid "Mecca - Saudia Arabia"
+msgstr "사우디아라비아 - 메카"
+
+msgid "Melbourne - Australia"
+msgstr "오스트랄리아 - 멜번"
+
+msgid "Memphis - U.S.A."
+msgstr "미국 - 멤피스"
+
+msgid "Mexico City - Mexico"
+msgstr "메히꼬 - 메히꼬"
+
+msgid "Miami - U.S.A."
+msgstr "미국 - 마이아미"
+
+msgid "Minneapolis - U.S.A."
+msgstr "미국 - 미니애펄리스"
+
+msgid "Mogadisho - Somalia"
+msgstr "소말리아 - 모가디쇼"
+
+msgid "Monrovia - Liberia"
+msgstr "리베리아 - 몬로비아"
+
+msgid "Montevideo - Uruguay"
+msgstr "우루과이 - 몬떼비데오"
+
+msgid "Montreal - Canada"
+msgstr "카나다 - 몬트리올"
+
+msgid "Moscow - Russia"
+msgstr "로씨야 - 모스크바"
+
+msgid "Moscow Summer Time"
+msgstr "모스크바여름시간"
+
+msgid "Mountain Daylight Time"
+msgstr "미국산악지대 주간시"
+
+msgid "Mountain Standard Time"
+msgstr "미국산악지대 표준시간"
+
+msgid "Mumbai - India"
+msgstr "인디아 - 뭄바이"
+
+msgid "Munich - Germany"
+msgstr "도이췰란드 - 뮨헨"
+
+msgid "Muscat - Oman"
+msgstr "오만 - 마스까트"
+
+msgid "Nairobi - Kenya"
+msgstr "케니아 - 나이로비"
+
+msgid "Ndjamena - Chad"
+msgstr "챠드 - 느쟈메나"
+
+msgid "Nepal Time"
+msgstr "네팔시간"
+
+msgid "New Caledonia Time"
+msgstr "누벨깔레도니아시간"
+
+msgid "New Delhi - India"
+msgstr "인디아 - 뉴델리"
+
+msgid "New York - U.S.A."
+msgstr "미국 - 뉴욕"
+
+msgid "New Zealand Standard Time"
+msgstr "뉴질랜드표준시간"
+
+msgid "Nouakchott - Mauritania"
+msgstr "모리따니 - 누악쇼뜨"
+
+msgid "Noumea - New Caledonia"
+msgstr "누벨깔레도니아 - 누메아"
+
+msgid "Novosibirsk - Russia"
+msgstr "로씨야 - 노보씨비르스크"
+
+msgid "Novosibirsk Summer Time"
+msgstr "노보씨비르스크여름시간"
+
+msgid "Nuuk - Greenland"
+msgstr "그린랜드 - 뉴크"
+
+msgid "Omsk - Russia"
+msgstr "로씨야 - 옴스크"
+
+msgid "Omsk Summer Time"
+msgstr "옴스크여름시간"
+
+msgid "Osaka - Japan"
+msgstr "일본 - 오사까"
+
+msgid "Oslo - Norway"
+msgstr "노르웨이 - 오슬로"
+
+msgid "Ottawa - Canada"
+msgstr "카나다 - 오타와"
+
+msgid "Ougadougou - Burkina Faso"
+msgstr "부르끼나파쏘 - 와가두구"
+
+msgid "Pacific Daylight Time"
+msgstr "태평양주간시"
+
+msgid "Pacific/Auckland"
+msgstr "태평양/오클런드"
+
+msgid "Pacific/Guam"
+msgstr "태평양/괌섬"
+
+msgid "Pacific/Honolulu"
+msgstr "태평양/호놀룰루"
+
+msgid "Pacific/Noumea"
+msgstr "태평양/누메아"
+
+msgid "Pacific/Pago_Pago"
+msgstr "태평양/파고파고"
+
+msgid "Pago Pago - Samoa"
+msgstr "사모아 - 파고파고"
+
+msgid "Pakistan Time"
+msgstr "파키스탄시간"
+
+msgid "Panama - Panama"
+msgstr "빠나마 - 빠나마"
+
+msgid "Paraguay Time"
+msgstr "빠라과이시간"
+
+msgid "Paramaribo - Surinam"
+msgstr "수리남 - 파라마리보"
+
+msgid "Paris - France"
+msgstr "프랑스 - 빠리"
+
+msgid "Parsing error for file all_cities_adj.plist"
+msgstr "시간대자료기지파일을 해석할수 없습니다."
+
+msgid "Perth - Australia"
+msgstr "오스트랄리아 - 퍼스"
+
+msgid "Peru Time"
+msgstr "뻬루시간"
+
+msgid "Philadelphia - U.S.A."
+msgstr "미국 - 필러델피어"
+
+msgid "Philippine Time"
+msgstr "필리핀시간"
+
+msgid "Phnom Penh - Cambodia"
+msgstr "캄보쟈 - 프놈뻰"
+
+msgid "Phoenix - U.S.A."
+msgstr "미국 - 피닉스"
+
+msgid "Ponta Delgada - Portugal"
+msgstr "뽀르뚜갈 - 뽕따델가다"
+
+msgid "Port Louis - Mauritius"
+msgstr "모리셔스 - 포트루이스"
+
+msgid "Port-au-Prince - Haiti"
+msgstr "아이띠 - 뽀르또쁘랭스"
+
+msgid "Portland - U.S.A."
+msgstr "미국 - 포틀런드"
+
+msgid "Prague - Czech Republic"
+msgstr "체스꼬 - 쁘라하"
+
+msgid "Pyongyang"
+msgstr "평양"
+
+msgid "Pyongyang - DPR KOREA"
+msgstr " 조선 - 평양"
+
+msgid "Quito - Ecuador"
+msgstr "에꽈도르 - 끼또"
+
+msgid "Rabat - Morocco"
+msgstr "마로끄 - 라바트"
+
+msgid "Rangoon - Burma"
+msgstr "먄마 - 랑군"
+
+msgid "Recife - Brazil"
+msgstr "브라질 - 레씨프"
+
+msgid "Regina - Canada"
+msgstr "카나다 - 리쟈이너"
+
+msgid "Reykjavik - Iceland"
+msgstr "이슬란드 - 레이캬비크"
+
+msgid "Rio de Janeiro - Brazil"
+msgstr "브라질 - 리오드쟈네이로"
+
+msgid "Riyadh - Saudia Arabia"
+msgstr "사우디아라비아 - 리야드"
+
+msgid "Rome - Italy"
+msgstr "이딸리아 - 로마"
+
+msgid "Salt Lake City - U.S.A."
+msgstr "미국 - 쏠트레이크씨티"
+
+msgid "Samoa Standard Time"
+msgstr "사모아표준시간"
+
+msgid "San Diego - U.S.A."
+msgstr "미국 - 쌘디에고"
+
+msgid "San Francisco - U.S.A."
+msgstr "미국 - 쌘프랜씨스코"
+
+msgid "San Jose - Costa Rica"
+msgstr "꼬스따리까 - 싼호쎄"
+
+msgid "San Juan - Puerto Rico"
+msgstr "뿌에르또리꼬 - 싼후안"
+
+msgid "San Salvador - El Salvador"
+msgstr "엘 쌀바도르 - 싼 쌀바도르"
+
+msgid "Sanaa - Yemen"
+msgstr "예멘 - 사나"
+
+msgid "Santiago - Chile"
+msgstr "칠레 - 싼띠아고"
+
+msgid "Santo Domingo - Dominican Republic"
+msgstr "도미니까 - 싼또도민고"
+
+msgid "Sao Paulo - Brazil"
+msgstr "브라질 - 쌍오빠울로"
+
+msgid "Seattle - U.S.A."
+msgstr "미국 - 씨애틀"
+
+msgid "Seoul - South Korea"
+msgstr "남조선 - 서울"
+
+msgid "Set date and time &automatically:"
+msgstr "날자와 시간을 자동적으로 설정:"
+
+msgid "Set time zone "
+msgstr "시간대설정"
+
+msgid "Sh&ow AM/PM"
+msgstr "오전/오후 표시"
+
+msgid "Shanghai - China"
+msgstr "중국 - 상해"
+
+msgid "Show date and time in menu bar"
+msgstr "차림표에 날자와 시간표시"
+
+msgid "Show the day of the wee&k"
+msgstr "요일표시"
+
+msgid "Singapore - Singapore"
+msgstr "싱가포르 - 싱가포르"
+
+msgid "Singapore Standard Time"
+msgstr "싱가포르표준시간"
+
+msgid "Sofia - Bulgaria"
+msgstr "벌가리아 - 쏘피아"
+
+msgid "South Africa Standard Time"
+msgstr "남아프리카표준시간"
+
+msgid "Specified directory or file is not founded("
+msgstr "지정된 서류철이나 파일이 없습니다."
+
+msgid "St. Louis - U.S.A."
+msgstr "미국 - 쎄인트루이스"
+
+msgid "St. Petersburg - Russia"
+msgstr "로씨야 - 뻬쩨르부르그"
+
+msgid "Stockholm - Sweden"
+msgstr "스웨리예 - 스톡홀름"
+
+msgid "Suriname Time"
+msgstr "수리남시간"
+
+msgid "Sydney - Australia"
+msgstr "오스트랄리아 - 씨드니"
+
+msgid "Taipei - Taiwan"
+msgstr "중국 - 대북"
+
+msgid "Tashkent - Uzbekistan"
+msgstr "우즈베크 - 따슈껜뜨"
+
+msgid "Tegucigalpa - Honduras"
+msgstr "온두라스 - 떼구시갈빠"
+
+msgid "Tehran - Iran"
+msgstr "이란 - 테헤란"
+
+msgid "Thanh Pho Ho Chi Minh - Vietnam"
+msgstr "윁남 - 호지명시간"
+
+msgid "Tientsin - China"
+msgstr "중국 - 천진"
+
+msgid "Time &Zone"
+msgstr "시간대"
+
+msgid "Time Zone:"
+msgstr "시간대:"
+
+msgid "Time Zone: %1"
+msgstr "시간대: %1"
+
+msgid "Timezone Error"
+msgstr "시간대오유"
+
+msgid "To set date and time formats, user International preferences."
+msgstr "날자와 시간의 형식을 설정하려면 이 단추를 클릭하여야 합니다."
+
+msgid "Tokyo - Japan"
+msgstr "일본 - 도꾜"
+
+msgid "Toronto - Canada"
+msgstr "카나다 - 토론토"
+
+msgid "Tripoli - Libya"
+msgstr "리비아 - 트리폴리"
+
+msgid "Tunis - Tunisia"
+msgstr "뜌니지 - 뜌니스"
+
+msgid "US/Central"
+msgstr "미국/중부"
+
+msgid "US/Eastern"
+msgstr "미국/동부"
+
+msgid "US/Mountain"
+msgstr "US/Mountain"
+
+msgid "US/Pacific"
+msgstr "미국/태평양"
+
+msgid "Ulaanbaatar - Mongolia"
+msgstr "몽골 - 울란바따르"
+
+msgid "Ulan Bator Time"
+msgstr "울란바따르시간"
+
+msgid "Unable to contact time server: %1."
+msgstr "시간봉사기 %1에 접속할수 없습니다."
+
+msgid "Uruguay Time"
+msgstr "우루과이시간"
+
+msgid "Uzbekistan Time"
+msgstr "우즈베크시간"
+
+msgid "Vancouver - Canada"
+msgstr "카나다 - 뱅쿠버"
+
+msgid "Venezuela Time"
+msgstr "베네수엘라시간"
+
+msgid "Victoria - Seychelles"
+msgstr "세이쉘 - 빅토리아"
+
+msgid "Vienna - Austria"
+msgstr "오스트리아 - 윈"
+
+msgid "View as:"
+msgstr "표시형식:"
+
+msgid "Vladivostok - Russia"
+msgstr "로씨야 - 울라지보스또크"
+
+msgid "Vladivostok Summer Time"
+msgstr "울라지보스또크여름시간"
+
+msgid "Volgograd - Russia"
+msgstr "로씨야 - 볼고그라드"
+
+msgid "Volgograd Summer Time"
+msgstr "볼고그라드여름시간"
+
+msgid "Warsaw - Poland"
+msgstr "뽈스까 - 와르샤와"
+
+msgid "Washington, D.C. - U.S.A."
+msgstr "미국 - 워싱톤"
+
+msgid "Wellington - New Zealand"
+msgstr "뉴질랜드 - 웰링톤"
+
+msgid "West Africa Time"
+msgstr "서아프리카시간"
+
+msgid "Western European Summer Time"
+msgstr "서유럽여름시간"
+
+msgid "Western European Time"
+msgstr "서유럽시간"
+
+msgid "Winnipeg - Canada"
+msgstr "카나다 - 윈니페그"
+
+msgid "Yakutsk - Russia"
+msgstr "로씨야 - 야꾸쯔크"
+
+msgid "Yakutsk Summer Time"
+msgstr "야꾸쯔크여름시간"
+
+msgid "Yerevan - Armenia"
+msgstr "아르메니아 - 예레반"
+
+msgid "Zagreb - Croatia"
+msgstr "흐르바쯔까 - 자그레브"
+
+msgid "Zurich - Switzerland"
+msgstr "스위스 - 쮸리히"
+
+msgid "insufficient disk space"
+msgstr "디스크용량이 부족합니다."
+
+msgid "There was an error running your transaction, for the following reason(s): %s "
+msgstr "요청한 작업을 수행하던중 다음과 같은 오유가 발생하였습니다: %s "
+
+msgid "The file %s cannot be opened. This is due to a missing file or perhaps a corrupt package.  "
+"If you are installing from CD media this usually means the CD media is corrupt, or the CD drive is "
+"unable to read the media.\n\n"
+msgstr "%s 패키지를 열수 없습니다. 파일이 없거나 패키지 불량인것 같습니다.  "
+"CD를 사용하여 설치한다면 CD가 손상되였거나 CD구동기가 CD를 읽지 못하는것 같습"
+"니다. \n"
+"\n"
+
+msgid "Juche"
+msgstr "주체"
+
+msgid "juche"
+msgstr "주체"
+
+msgid "Calculating remaining time   "
+msgstr "체계설치시간을 계산하고있습니다   "
+
+msgid "Calculating remaining time.  "
+msgstr "체계설치시간을 계산하고있습니다.  "
+
+msgid "Calculating remaining time.. "
+msgstr "체계설치시간을 계산하고있습니다.. "
+
+msgid "Calculating remaining time..."
+msgstr "체계설치시간을 계산하고있습니다..."
+
+msgid "Partition space is full. Please unckeck some packages"
+msgstr "구획에 남은 공간이 없습니다. 몇개의 패키지들을 선택해제하여야 합니다."
+
+msgid "not avaliable space for installation"
+msgstr "체계설치를 위한 공간이 부족합니다!"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Thr"
+msgstr "목"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "do not fill with space."
+msgstr "통과암호암시 문자렬을 공백만으로 줄수 없습니다."
+
+msgid "Error Rebooting"
+msgstr "재기동오유"
+
+msgid "can not reboot while installing."
+msgstr "설치중에는 재기동을 할수 없습니다."
+
+msgid "You can input less than 4 DNS addresses"
+msgstr "설치시에는 최고 3개까지의 DNS주소를 입력할수 있습니다."

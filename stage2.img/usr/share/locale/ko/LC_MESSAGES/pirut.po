@@ -1,0 +1,734 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-15 17:18-0400\n"
+"PO-Revision-Date: 2008-02-15 12:22+1000\n"
+"Last-Translator: An Jin <aj39@osandok.info.kp>\n"
+"Language-Team: Korean <aj39@osandok.info.kp>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%d of %d optional package selected"
+msgid_plural "%d of %d optional packages selected"
+msgstr[0] ""
+"%d개의 추가설정 패키지가 선택되였습니다. 목록의 표시된 패키지의 총개수는 %d개"
+"입니다."
+msgstr[1] ""
+"%d개의 추가설정 패키지가 선택되였습니다. 목록의 표시된 패키지의 총개수는 %d개"
+"입니다."
+
+msgid "%d update available"
+msgid_plural "%d updates available"
+msgstr[0] "%d개 갱신가능"
+msgstr[1] "%d개 갱신가능"
+
+msgid "%d update successfully installed."
+msgid_plural "%d updates successfully installed."
+msgstr[0] "%d개의 갱신이 성공적으로 완료되였습니다."
+msgstr[1] "%d개의 갱신이 성공적으로 완료되였습니다."
+
+msgid "%s installs"
+msgstr "%s가 새로 설치됩니다."
+
+msgid "%s is already installed"
+msgstr "%s는 이미 설치되였습니다."
+
+msgid "%s obsoletes %s"
+msgstr "%s은(는) %s을 사용하지 않음"
+
+msgid "%s updates %s"
+msgstr "%s은(는) %s을 갱신함"
+
+msgid "<b>Re_positories</b>"
+msgstr "<b>저장소(_P)</b>"
+
+msgid "<b>_Advanced</b>"
+msgstr "<b>고급(_A)</b>"
+
+msgid "<b>_Description:\t\t</b>"
+msgstr "<b>설명(_D):\t\t</b>"
+
+msgid "<b>_GPG Key:</b>"
+msgstr "<b>GPG열쇠(_G):</b>"
+
+msgid "<b>_Location:</b>"
+msgstr "<b>경로(_L):</b>"
+
+msgid "<b>_Mirror List:</b>"
+msgstr "<b>대칭목록경로(_M):</b>"
+
+msgid "<b>_Name:</b>"
+msgstr "<b>이름(_N):</b>"
+
+msgid "<b>_Proxy:</b>"
+msgstr "<b>대리봉사기(_P):</b>"
+
+msgid "<b>_Updates available</b>"
+msgstr "<b>갱신가능한 패키지들(_U)</b>"
+
+msgid "<i>%s</i>"
+msgstr "<i>%s</i>"
+
+msgid "<span size=\"large\" >_Browse</span>"
+msgstr "<span size=\"large\" >열람(_B)</span>"
+
+msgid ""
+"<span size=\"large\">There are no updated packages currently available for "
+"your system.</span>"
+msgstr "<span size=\"large\">이 콤퓨터에 갱신가능한 패키지가 없습니다.</span>"
+
+msgid "<span size=\"large\">_List</span>"
+msgstr "<span size=\"large\">목록(_L)</span>"
+
+msgid "<span size=\"large\">_Search</span>"
+msgstr "<span size=\"large\">탐색(_S)</span>"
+
+msgid ""
+"<span size=\"xx-large\" weight=\"bold\">Package Manager</span>\n"
+"\n"
+"<i>© 2005  Red Hat, Inc.</i>"
+msgstr ""
+"<span size=\"xx-large\" weight=\"bold\">프로그람 추가 및 삭제</span>\n"
+"\n"
+"<i>© 2005  Red Hat, Inc.</i>"
+
+msgid ""
+"<span weight=\"bold\"\n"
+" size=\"xx-large\">Package Updater</span>"
+msgstr ""
+"<span weight=\"bold\"\n"
+" size=\"xx-large\">직결체계갱신</span>"
+
+msgid ""
+"<span weight=\"bold\" size=\"x-large\">Installing packages</span>\n"
+"\n"
+"The following packages will be installed."
+msgstr ""
+"<span weight=\"bold\" size=\"x-large\">프로그람 추가 및 삭제</span>\n"
+"\n"
+"다음의 패키지가 설치됩니다."
+
+msgid "A newer version than %s is already installed"
+msgstr "%s보다 새로운 판본이 이미 설치되였습니다."
+
+msgid "A_vailable packages"
+msgstr "설치가능한 패키지(_R)"
+
+msgid "About..."
+msgstr "정보..."
+
+msgid "Add New Repository"
+msgstr "새 저장소추가"
+
+msgid "Add/Remove Packages"
+msgstr "패키지 추가 및 삭제"
+
+msgid "Add/Remove Software"
+msgstr "프로그람 추가 및 삭제"
+
+msgid "Adding for dependencies:\n"
+msgstr "의존성에 의한 추가:\n"
+
+msgid "All _check"
+msgstr "모두 선택(_C)"
+
+msgid ""
+"Another application is currently running which is accessing software "
+"information."
+msgstr "다른 응용프로그람이 패키지자료기지를 호출하고 있습니다."
+
+msgid "Are you sure you wish to delete %s repository?"
+msgstr "%s 저장소를 삭제하겠습니까?"
+
+msgid "Automatic update installation failed!"
+msgstr "자동갱신 설치실패!"
+
+msgid "Can't install a different arch of %s than already installed."
+msgstr "이미 설치된것외에 다른 %s의 기본방식을 설치할수 없습니다."
+
+msgid "Cancel?"
+msgstr "취소?"
+
+msgid "Cannot install source packages."
+msgstr "원천패키지를 설치할수 없음"
+
+msgid "Change the software installed on the system"
+msgstr "체계에 설치된 프로그람변경"
+
+msgid "Cleanup %s"
+msgstr "%s 삭제"
+
+msgid "Config error."
+msgstr "설정오유"
+
+msgid "Continue"
+msgstr "계속"
+
+msgid "Dependencies added"
+msgstr "추가된 의존성"
+
+msgid "Don't notify me again"
+msgstr "다시 통보하지 않음"
+
+msgid "Download was cancelled."
+msgstr "내리적재취소"
+
+msgid "Downloading packages"
+msgstr "패키지 내리적재중"
+
+msgid ""
+"Due to the updates installed, it is recommended that you reboot your "
+"system.  You can either reboot now or choose to do so at a later time."
+msgstr "새로운 프로그람이 설치되였으므로 콤퓨터를 다시 시작하시기 바랍니다."
+
+msgid "Edit Repository"
+msgstr "저장소편집"
+
+msgid "Error downloading headers"
+msgstr "머리부 내리적재중 오유"
+
+msgid "Error downloading packages"
+msgstr "패키지 내리적재중 오유"
+
+msgid "Error file type."
+msgstr "저장소파일형식은 *.repo이여야 합니다."
+
+msgid "Error importing files."
+msgstr "저장소파일명을 변경하여 주십시오."
+
+msgid "Error importing repository"
+msgstr "저장소등록오유"
+
+msgid "Error resolving dependencies"
+msgstr "의존성 해결중 오유"
+
+msgid "Error retrieving update information"
+msgstr "갱신정보 받기진행중 오유발생"
+
+msgid "Error updating software"
+msgstr "패키지갱신중 오유"
+
+msgid "Errors were encountered while downloading package headers."
+msgstr "패키지머리부의 내리적재중 오유가 발생했습니다."
+
+msgid "Errors were encountered while downloading packages."
+msgstr "패키지 내리적재중 오유가 발생했습니다."
+
+msgid "Exit"
+msgstr "완료"
+
+msgid "File contains no section header."
+msgstr "저장소파일의 구문형식은 유효하지 않습니다."
+
+msgid "Import key?"
+msgstr "열쇠를 등록하겠습니까?"
+
+msgid "Import repository"
+msgstr "저장소등록"
+
+msgid "Import repository %s as selected"
+msgstr "선택된 %s저장소는 /etc/yum.repos.d경로에 보관됩니다."
+
+msgid "Insert CD"
+msgstr "CD넣기"
+
+msgid "Install and remove packages as selected"
+msgstr "선택된 패키지를 설치 및 삭제합니다."
+
+msgid "Install packages"
+msgstr "패키지 설치"
+
+msgid "Install selected software on the system"
+msgstr "선택한 프로그람설치"
+
+msgid "Installation Overview"
+msgstr "설치에 대한 설명"
+
+msgid "Installing packages"
+msgstr "프로그람 추가 및 삭제"
+
+msgid "Installing software"
+msgstr "프로그람설치중"
+
+msgid "Installing:"
+msgstr "설치:"
+
+msgid "Invalid URL"
+msgstr "유효하지 않은 URL"
+
+msgid ""
+"Invalid URL given.  URLs must be begin with http://, https://, ftp://, or "
+"file://"
+msgstr ""
+"유효하지 않은 URL입니다. URL은 http://, https://, ftp://, file://의 형식으로 "
+"되여야 합니다"
+
+msgid ""
+"Malicious software can damage your computer or cause other harm.  Are you "
+"sure you wish to install this package?"
+msgstr "이 패키지에 의해 체계가 손상될수 있습니다. 그래도 계속 설치하겠습니까?"
+
+msgid "Must be run as root."
+msgstr "관리자권한으로 실행하여 주십시오."
+
+msgid "Must provide a correct description for the repository."
+msgstr ""
+"입력된 설명은 유효하지 않습니다.\n"
+"설명에는 '&'를 입력할수 없습니다."
+
+msgid "Must provide a correct name for the repository."
+msgstr ""
+"입력된 저장소이름은 유효하지 않습니다.\n"
+"저장소이름에는 '&'를 입력할수 없습니다."
+
+msgid "Must provide a description for the repository."
+msgstr "설명을 입력하십시오."
+
+msgid "Must provide a gpgkey for the repository."
+msgstr "GPG열쇠를 입력하십시오."
+
+msgid "Must provide a name for the repository."
+msgstr "저장소이름을 입력하십시오."
+
+msgid "Must provide a proxy for the repository."
+msgstr "대리봉사기를 입력하십시오."
+
+msgid "Must provide either a location or a mirror list for the repository."
+msgstr "저장소의 경로 또는 대칭목록경로을 입력하십시오."
+
+msgid "No Match for argument: %s"
+msgstr "인수와 일치하지 않음: %s"
+
+msgid "No packages were given for installation."
+msgstr "설치할 패키지가 없습니다."
+
+msgid "No packages were selected for upgrade."
+msgstr "갱신될 패키지가 선택되지 않았습니다."
+
+msgid "No repository given to install from."
+msgstr "설치할 저장소가 없습니다."
+
+msgid "No repository selected"
+msgstr "저장소가 선택되지 않음"
+
+msgid "No software matching search found."
+msgstr "일치하는 프로그람을 탐색할수 없습니다."
+
+msgid "No software selected for installation or removal."
+msgstr "설치 또는 삭제할 프로그람을 선택하여주십시오."
+
+msgid "No updates available"
+msgstr "갱신불가능"
+
+msgid "Package %s is already installed, skipping"
+msgstr "패키지%s는 이미 설치되였기때문에 뛰여넙기를 진행합니다."
+
+msgid "Package Manager"
+msgstr "프로그람 추가 및 삭제"
+
+msgid "Package Updater"
+msgstr "직결체계갱신"
+
+msgid "Package _Details"
+msgstr "패키지 정보(_D)"
+
+msgid "Package selections"
+msgstr "선택된 패키지"
+
+msgid "Packages in %s"
+msgstr "%s에 속한 패키지"
+
+msgid "Parsing package install arguments"
+msgstr "패키지 설치인수를 구문 분석진행중"
+
+msgid "Please insert %s (disc %d) into your CD drive"
+msgstr "CD구동기에 %s (CD %d)을 넣어주십시오"
+
+msgid "Please insert %s into your CD drive"
+msgstr "CD구동기에 %s 을 넣어주십시오"
+
+msgid "Preparing transaction"
+msgstr "진행중"
+
+msgid "Reading software information"
+msgstr "프로그람정보를 읽는중"
+
+msgid "Reboot _later"
+msgstr "후에 다시기동(_l)"
+
+msgid "Reboot recommended"
+msgstr "다시기동 하여주십시오."
+
+msgid "Receive notification of software updates being available."
+msgstr "프로그람갱신통보를 받을수 있습니다."
+
+msgid "Refresh update information"
+msgstr "갱신정보 다시읽기"
+
+msgid "Removing critical software"
+msgstr "패키지 삭제"
+
+msgid "Removing for dependencies:\n"
+msgstr "의존성에 의한 삭제:\n"
+
+msgid ""
+"Removing this could leave you with no kernels and thus lead to a non-"
+"bootable system.  Are you sure you want to continue?"
+msgstr ""
+"이것을 삭제하면 핵심부가 파괴되여 체계가 기동되지 않을수 있습니다. 그래도 계"
+"속 진행하시겠습니까?"
+
+msgid "Removing:"
+msgstr "삭제:"
+
+msgid "Repository Manager"
+msgstr "저장소관리기"
+
+msgid "Repository named %s already exists."
+msgstr "%s 저장소이름이 이미 존재합니다."
+
+msgid "Resolving dependencies"
+msgstr "의존성해결"
+
+msgid "Resolving dependencies for updates"
+msgstr "갱신을 진행하기 위해 의존성해결을 위한 조작을 수행하고 있습니다."
+
+msgid "Retrieving %s"
+msgstr "%s 탐색중"
+
+msgid "Retrieving software information"
+msgstr "패키지정보 받는중"
+
+msgid "Retrieving update information"
+msgstr "갱신정보 받는중"
+
+msgid "Searching for '%s'"
+msgstr "'%s'를 탐색중"
+
+msgid "Security Updates Available"
+msgstr "보안갱신가능"
+
+msgid "Select directory to repository in"
+msgstr "저장소의 등록부를 선택"
+
+msgid "Software Installer"
+msgstr "프로그람 추가 및 삭제"
+
+msgid "Software Update Notifier"
+msgstr "프로그람갱신 통보기"
+
+msgid "Software Updater"
+msgstr "직결체계갱신"
+
+msgid "Software information"
+msgstr "패키지정보"
+
+msgid "Software information is required to continue."
+msgstr "계속 진행하려면 패키지정보가 필요합니다."
+
+msgid "Software installation"
+msgstr "패키지설치"
+
+msgid "Software installation and removal"
+msgstr "패키지설치 및 삭제"
+
+msgid "Software installation and removal successfully completed."
+msgstr "패키지설치 및 삭제가 성공적으로 완료되였습니다."
+
+msgid "Software installation successfully completed."
+msgstr "패키지설치가 성공적으로 완료되였습니다."
+
+msgid "Software installed successfully."
+msgstr "프로그람이 성공적으로 설치되였습니다."
+
+msgid "Software removal"
+msgstr "패키지삭제"
+
+msgid "Software removal successfully completed."
+msgstr "패키지삭제가 성공적으로 완료되였습니다."
+
+msgid ""
+"Software selected and not installed.  Would you like to finish installing or "
+"quit anyway, losing all package selections?"
+msgstr "패키지가 설치되지 않았습니다. 그래도 완료하시겠습니까?"
+
+msgid "Software update successfully completed."
+msgstr "프로그람갱신이 성공적으로 완료되였습니다."
+
+msgid "Software verify"
+msgstr "패키지검사"
+
+msgid ""
+"Some of the software which you are removing is either critical software for "
+"system functionality or required by such software.  Are you sure you want to "
+"continue?"
+msgstr "삭제할 프로그람의 일부는 체계의 정상동작에 영향을 줄수 있습니다．"
+
+msgid ""
+"Some packages associated with this group are not required to be installed "
+"but may provide additional functionality.  Please choose the packages which "
+"you would like to have installed."
+msgstr "설치하려는 패키지를 선택하십시오."
+
+msgid "System is not receiving updates"
+msgstr "체계가 갱신되지 않음"
+
+msgid ""
+"The package %s is signed with a key %s (0x%s) from %s.  Would you like to "
+"import this key?"
+msgstr ""
+"%s 패키지는 %s에서·%s (0x%s)열쇠로 서명되여 있습니다. 열쇠를 등록하겠습니까?"
+
+msgid "The software was successfully installed."
+msgstr "패키지가 성공적으로 설치되였습니다."
+
+msgid "There is <b>%d</b> package update available."
+msgid_plural "There are <b>%d</b> package updates available."
+msgstr[0] "<b>%d</b>개의 패키지가 갱신가능합니다."
+msgstr[1] "<b>%d</b>개의 패키지가 갱신가능합니다."
+
+msgid ""
+"There were errors encountered in trying to update the software you selected"
+msgstr "선택된 프로그람을 갱신하는 과정에 오유가 발생했습니다"
+
+msgid "This update will require a reboot."
+msgstr "이 갱신은 다시기동해야 합니다."
+
+msgid "Unable file contents."
+msgstr ""
+"저장소를 등록할수 없습니다.\n"
+"저장소파일형식이 유효하지 않습니다."
+
+msgid ""
+"Unable to connect to yum-updatesd.  Please ensure that the yum-updatesd "
+"package is installed and that the service is running."
+msgstr ""
+"yum-updatesd에 련결할수 없습니다. yum-updatesd 패키지가 설치되여 봉사가 실행"
+"되는지를 확인해주십시오."
+
+msgid "Unable to find a suitable mirror."
+msgstr "적합한 대칭을 찾을수 없습니다."
+
+msgid "Unable to import file."
+msgstr ""
+"저장소를 등록할수 없습니다.\n"
+"저장소파일형식이 유효하지 않습니다."
+
+msgid "Unable to import repository."
+msgstr ""
+"저장소를 등록할수 없습니다.\n"
+"저장소파일이 이미 존재합니다."
+
+msgid "Unable to install software.  Error opening files."
+msgstr "프로그람을 설치할수 없음. 파일을 열기하던중 오유가 발생하였습니다."
+
+msgid ""
+"Unable to resolve dependencies for some packages selected for installation."
+msgstr "설치를 위해 선택된 일부 패키지의 의존성을 해결할수 없습니다."
+
+msgid "Unable to retrieve software information"
+msgstr "패키지정보를 읽을수 없음"
+
+msgid ""
+"Unable to retrieve software information. This could be caused by not having "
+"a network connection available."
+msgstr "패키지정보를 읽을수 없습니다."
+
+msgid "Unable to start due to a configuration error."
+msgstr "설정오유로 시작할수 없습니다."
+
+msgid "Unable to verify %s"
+msgstr "%s을 검사할수 없음"
+
+msgid "Uncategorized"
+msgstr "분류되지 않음"
+
+msgid "Update Details"
+msgstr "갱신정보"
+
+msgid "Update Successful"
+msgstr "갱신성공"
+
+msgid "Update software installed on the system"
+msgstr "체계에 설치된 프로그람갱신"
+
+msgid "Updated %s packages available"
+msgstr "%s 패키지 갱신가능"
+
+msgid "Updates Available"
+msgstr "갱신가능"
+
+msgid "Updating %s"
+msgstr "%s 갱신중"
+
+msgid "Updating for dependencies:\n"
+msgstr "의존성에 의한 갱신:\n"
+
+msgid "Updating software"
+msgstr "패키지 갱신중"
+
+msgid ""
+"Updating these packages requires additional package changes for proper "
+"operation."
+msgstr "의존성해결을 위한 조작을 진행합니다."
+
+msgid "Updating:"
+msgstr "갱신:"
+
+msgid "Verifying packages"
+msgstr "패키지 검사중"
+
+msgid "View Updates..."
+msgstr "갱신보기..."
+
+msgid "Will continue in %d second..."
+msgid_plural "Will continue in %d seconds..."
+msgstr[0] "%d초 후 계속 진행합니다..."
+msgstr[1] "%d초 후 계속 진행합니다..."
+
+msgid "Will reboot in %d second..."
+msgid_plural "Will reboot in %d seconds..."
+msgstr[0] "%d초후에 콤퓨터를 다시 시작합니다..."
+msgstr[1] "%d초후에 콤퓨터를 다시 시작합니다..."
+
+msgid "Will reboot in %d seconds..."
+msgstr "%d초 안에 콤퓨터를 다시 시작합니다..."
+
+msgid "Would you like to import this repository?"
+msgstr ""
+"선택된 저장소를 등록하겠습니까?\n"
+"등록하려면 계속단추를 눌러 실행하십시오."
+
+msgid "You have selected the following software installations and removals."
+msgstr "설치 또는 삭제하려는 패키지는 다음과 같습니다."
+
+msgid ""
+"Your system is currently not receiving software updates.  Please check your "
+"network connection and/or set up software updates."
+msgstr ""
+"현재의 체계는 프로그람갱신이 되지 않았습니다. 망련결상태를 확인하여프로그람갱"
+"신을 진행해주십시오."
+
+msgid "_About"
+msgstr "내용(_C)"
+
+msgid "_All packages"
+msgstr "모든 패키지(_M)"
+
+msgid "_Apply"
+msgstr "적용(_A)"
+
+msgid "_Apply updates"
+msgstr "갱신적용(_A)"
+
+msgid "_Browse"
+msgstr "열람(_B)"
+
+msgid "_Cancel"
+msgstr "취소(_C)"
+
+msgid "_Close"
+msgstr "닫기(_C)"
+
+msgid "_Content"
+msgstr "내용(_C)"
+
+msgid "_Continue retrieval"
+msgstr "계속 탐색(_C)"
+
+msgid "_Deselect"
+msgstr "선택해제(_D)"
+
+msgid "_Deselect all optional packages"
+msgstr "모든 추가설정 패키지 선택해제(_D)"
+
+msgid "_Details"
+msgstr "자세히(_D)"
+
+msgid "_Don't quit"
+msgstr "탈퇴하지않음(_D)"
+
+msgid "_Edit"
+msgstr "편집(_E)"
+
+msgid "_Exit"
+msgstr "완료(_E)"
+
+msgid "_File"
+msgstr "파일(_F)"
+
+msgid "_Help"
+msgstr "도움말(_H)"
+
+msgid "_Import key"
+msgstr "열쇠등록(_I)"
+
+msgid "_Install anyway"
+msgstr "강제설치(_I)"
+
+msgid "_Installed packages"
+msgstr "설치된 패키지(_I)"
+
+msgid "_List"
+msgstr "목록(_L)"
+
+msgid "_Optional packages"
+msgstr "추가설정 패키지(_O)"
+
+msgid "_Quit"
+msgstr "완료(_Q)"
+
+msgid "_Quit anyway"
+msgstr "강제탈퇴(_Q)"
+
+msgid "_Reboot now"
+msgstr "지금 다시시작(_R)"
+
+msgid "_Refresh"
+msgstr "다시읽기(_R)"
+
+msgid "_Refresh updates"
+msgstr "갱신 다시읽기(_R)"
+
+msgid "_Remove anyway"
+msgstr "강제삭제(_R)"
+
+msgid "_Repositories"
+msgstr "저장소(_R)"
+
+msgid "_Retry"
+msgstr "다시시도(_R)"
+
+msgid "_Run anyway"
+msgstr "강제실행(_R)"
+
+msgid "_Search"
+msgstr "탐색(_W)"
+
+msgid "_Select"
+msgstr "선택(_S)"
+
+msgid "_Select all optional packages"
+msgstr "모든 추가설정 패키지 선택(_S)"
+
+msgid "_Skip"
+msgstr "뛰여넘기(_S)"
+
+msgid "_Update Info"
+msgstr "갱신정보(_U)"
+
+msgid "_View"
+msgstr "보기(_V)"
+
+msgid "_View Updates..."
+msgstr "갱신보기(_V)"
+
+msgid "dialog1"
+msgstr "dialog1"
+
+msgid "software is already installed."
+msgstr "패키지 설치정보"

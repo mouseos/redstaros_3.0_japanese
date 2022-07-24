@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-02 20:54-0500\n"
+"PO-Revision-Date: 2006-01-19 12:20+1000\n"
+"Last-Translator: Du Jong Hyok <djh@osandok.inf.kp>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+msgid ""
+"%s\n"
+"\n"
+"%s:\n"
+"%s"
+msgstr ""
+"%s\n"
+"\n"
+"%s:\n"
+"%s"
+
+msgid ""
+"An unhandled exception has occurred.  This is most likely a bug.  Please "
+"save the crash dump and file a detailed bug report against %s at https://"
+"bugzilla.redhat.com/bugzilla"
+msgstr ""
+"처리할수 없는 례외적인 상황이 발생하였습니다. 지금과 같은 상황은 오유로 짐작"
+"됩니다. 오유출력을 파일에 보관한 다음 《붉은별》체계개발조의 %s에 알려주십시"
+"오."
+
+msgid "Error parsing line: %s"
+msgstr "다음 행을 해석하는 도중 오유가 발생했습니다: %s"
+
+msgid "Error: %s: %s"
+msgstr "오유: %s: %s"
+
+msgid "Exception Occurred"
+msgstr "례외적인 상황이 발생했습니다"
+
+msgid "Failed to write to file %s."
+msgstr "%s 파일에 기록하는데 실패했습니다."
+
+msgid "Specify a file to save the dump"
+msgstr "출력을 저장할 파일을 지정해 주십시오"
+
+msgid ""
+"The application's state has been successfully\n"
+"written to the file '%s'."
+msgstr ""
+"응용 프로그람의 상태가 '%s' 파일에 성공적으로 \n"
+"기록되였습니다."
+
+msgid "_Debug"
+msgstr "오유수정(_D)"
+
+msgid "_Save to file"
+msgstr "파일로 저장(_S)"
+
+msgid "keyboard|Arabic (azerty)"
+msgstr "keyboard|아랍어 (azerty)"
+
+msgid "keyboard|Arabic (azerty/digits)"
+msgstr "keyboard|아랍어 (azerty/digits)"
+
+msgid "keyboard|Arabic (digits)"
+msgstr "keyboard|아랍어 (digits)"
+
+msgid "keyboard|Arabic (qwerty)"
+msgstr "keyboard|아랍어 (qwerty)"
+
+msgid "keyboard|Arabic (qwerty/digits)"
+msgstr "keyboard|아랍어 (qwerty/digits)"
+
+msgid "keyboard|Belgian (be-latin1)"
+msgstr "keyboard|벨기에어 (be-latin1)"
+
+msgid "keyboard|Bengali (Inscript)"
+msgstr "keyboard|벵갈어 (Inscript)"
+
+msgid "keyboard|Bengali (Probhat)"
+msgstr "keyboard|벵갈어 (Probhat)"
+
+msgid "keyboard|Brazilian (ABNT2)"
+msgstr "keyboard|브라질어 (ABNT2)"
+
+msgid "keyboard|Bulgarian"
+msgstr "keyboard|벌가리아어"
+
+msgid "keyboard|Croatian"
+msgstr "keyboard|크로아티아어"
+
+msgid "keyboard|Czechoslovakian"
+msgstr "keyboard|체스꼬슬로벤스꼬어"
+
+msgid "keyboard|Czechoslovakian (qwertz)"
+msgstr "keyboard|체스꼬슬로벤스꼬어 (qwertz)"
+
+msgid "keyboard|Danish"
+msgstr "keyboard|단마르크어"
+
+msgid "keyboard|Danish (latin1)"
+msgstr "keyboard|단마르크어 (latin1)"
+
+msgid "keyboard|Devanagari (Inscript)"
+msgstr "keyboard|Devanagari (Inscript)"
+
+msgid "keyboard|Dutch"
+msgstr "keyboard|네데를란드어"
+
+msgid "keyboard|Dvorak"
+msgstr "keyboard|드보라크"
+
+msgid "keyboard|Estonian"
+msgstr "keyboard|에스또니아어"
+
+msgid "keyboard|Finnish"
+msgstr "keyboard|핀란드어"
+
+msgid "keyboard|Finnish (latin1)"
+msgstr "keyboard|핀란드어 (latin1)"
+
+msgid "keyboard|French"
+msgstr "keyboard|프랑스어"
+
+msgid "keyboard|French (latin1)"
+msgstr "keyboard|프랑스어 (latin1)"
+
+msgid "keyboard|French (latin9)"
+msgstr "keyboard|프랑스어 (latin9)"
+
+msgid "keyboard|French (pc)"
+msgstr "keyboard|프랑스어 (pc)"
+
+msgid "keyboard|French Canadian"
+msgstr "keyboard|카나다"
+
+msgid "keyboard|German"
+msgstr "keyboard|도이췰란드어"
+
+msgid "keyboard|German (latin1 w/ no deadkeys)"
+msgstr "keyboard|도이췰란드어 (latin1 w/ deadkeys 없음)"
+
+msgid "keyboard|German (latin1)"
+msgstr "keyboard|도이췰란드어 (latin1)"
+
+msgid "keyboard|Greek"
+msgstr "keyboard|그리스어"
+
+msgid "keyboard|Gujarati (Inscript)"
+msgstr "keyboard|구자라트어 (Inscript)"
+
+msgid "keyboard|Hungarian"
+msgstr "keyboard|마쟈르어"
+
+msgid "keyboard|Hungarian (101 key)"
+msgstr "keyboard|마쟈르어 (101 키)"
+
+msgid "keyboard|Icelandic"
+msgstr "keyboard|이슬란드어"
+
+msgid "keyboard|Italian"
+msgstr "keyboard|이딸리아어"
+
+msgid "keyboard|Italian (IBM)"
+msgstr "keyboard|이딸리아어 (IBM)"
+
+msgid "keyboard|Italian (it2)"
+msgstr "keyboard|이딸리아어 (it2)"
+
+msgid "keyboard|Japanese"
+msgstr "keyboard|일본어"
+
+msgid "keyboard|Korean"
+msgstr "keyboard|조선어"
+
+msgid "keyboard|Latin American"
+msgstr "keyboard|라틴아메리카"
+
+msgid "keyboard|Macedonian"
+msgstr "keyboard|마께도니아어"
+
+msgid "keyboard|Norwegian"
+msgstr "keyboard|노르웨이어"
+
+msgid "keyboard|Polish"
+msgstr "keyboard|뽈스까어"
+
+msgid "keyboard|Portuguese"
+msgstr "keyboard|뽀르뚜갈어"
+
+msgid "keyboard|Punjabi (Inscript)"
+msgstr "keyboard|판쟈브어 (Inscript)"
+
+msgid "keyboard|Romanian"
+msgstr "keyboard|로므니아어"
+
+msgid "keyboard|Russian"
+msgstr "keyboard|로어"
+
+msgid "keyboard|Russian (Microsoft)"
+msgstr "keyboard|로어 (Microsoft)"
+
+msgid "keyboard|Russian (cp1251)"
+msgstr "keyboard|로어 (cp1251)"
+
+msgid "keyboard|Russian (ru1)"
+msgstr "keyboard|로어 (ru1)"
+
+msgid "keyboard|Russian (ru2)"
+msgstr "keyboard|로어 (ru2)"
+
+msgid "keyboard|Russian (utf8ru)"
+msgstr "keyboard|로어 (utf8ru)"
+
+msgid "keyboard|Russian (win)"
+msgstr "keyboard|로어 (win)"
+
+msgid "keyboard|Serbian"
+msgstr "keyboard|쎄르비아어"
+
+msgid "keyboard|Slovakian"
+msgstr "keyboard|슬로벤스꼬어"
+
+msgid "keyboard|Slovenian"
+msgstr "keyboard|슬로벤스꼬어"
+
+msgid "keyboard|Spanish"
+msgstr "keyboard|에스빠냐어"
+
+msgid "keyboard|Swedish"
+msgstr "keyboard|스웨리예어"
+
+msgid "keyboard|Swiss French"
+msgstr "keyboard|스위스 프랑스어"
+
+msgid "keyboard|Swiss French (latin1)"
+msgstr "keyboard|스위스 프랑스어 (latin1)"
+
+msgid "keyboard|Swiss German"
+msgstr "keyboard|스위스 도이췰란드어"
+
+msgid "keyboard|Swiss German (latin1)"
+msgstr "keyboard|스위스 도이췰란드어 (latin1)"
+
+msgid "keyboard|Tamil (Inscript)"
+msgstr "keyboard|타밀어 (Inscript)"
+
+msgid "keyboard|Tamil (Typewriter)"
+msgstr "keyboard|타밀어 (Typewriter)"
+
+msgid "keyboard|Turkish"
+msgstr "keyboard|도이췰란드어"
+
+msgid "keyboard|U.S. English"
+msgstr "keyboard|U.S. 영어"
+
+msgid "keyboard|U.S. International"
+msgstr "keyboard|U.S. International"
+
+msgid "keyboard|Ukrainian"
+msgstr "keyboard|우크라이나어"
+
+msgid "keyboard|United Kingdom"
+msgstr "keyboard|영국"

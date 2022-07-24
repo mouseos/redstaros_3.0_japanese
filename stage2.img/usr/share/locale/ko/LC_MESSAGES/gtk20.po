@@ -1,0 +1,2830 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk20\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-13 11:01-0500\n"
+"PO-Revision-Date: 2004-11-01 11:37+0900\n"
+"Last-Translator: root <root@yds>\n"
+"Language-Team:  <en@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "\"Deepness\" of the color."
+msgstr "색  \"깊이 \" "
+
+msgid "%.1f G"
+msgstr "%.1f GB "
+
+msgid "%.1f K"
+msgstr "%.1f KB"
+
+msgid "%.1f M"
+msgstr "%.1f MB "
+
+msgid "%d byte"
+msgid_plural "%d bytes"
+msgstr[0] "%d Byte "
+
+msgid "%s to %s"
+msgstr "%s - %s"
+
+msgid ""
+"%s%s x %s%s\n"
+" Top %s%s Bottom %s%s\n"
+" Left %s%s Right %s%s"
+msgstr ""
+"%s%s x %s%s\n"
+" 웃쪽 %s%s 아래쪽 %s%s\n"
+" 왼쪽 %s%s 오른쪽 %s%s"
+
+msgid "'%s' already exists in the bookmarks list"
+msgstr "이미 '%s'가 책갈피목록에 있습니다."
+
+msgid "'%s' does not exist in the bookmarks list"
+msgstr "'%s' 가 책갈피목록에 없습니다."
+
+msgid "(Empty)"
+msgstr "(비여있음)"
+
+msgid "(disabled)"
+msgstr "(금지됨 )"
+
+msgid "(unknown)"
+msgstr "(불명확함 )"
+
+msgid ", Collated"
+msgstr ", 한부씩"
+
+msgid "--- No Tip ---"
+msgstr "--- 조언이 없습니다 ---"
+
+msgid "<small><tt>%s by %s %s</tt></small>"
+msgstr "<small><tt>%s x %s %s</tt></small>"
+
+msgid "<small><tt>Black</tt></small>"
+msgstr "<small><tt>검은색</tt></small>"
+
+msgid "<small><tt>Blue</tt></small>"
+msgstr "<small><tt>푸른색</tt></small>"
+
+msgid "<small><tt>Brightness</tt></small>"
+msgstr "<small><tt>밝기</tt></small>"
+
+msgid "<small><tt>Cyan</tt></small>"
+msgstr "<small><tt>하늘색</tt></small>"
+
+msgid "<small><tt>Green</tt></small>"
+msgstr "<small><tt>풀색</tt></small>"
+
+msgid "<small><tt>Hue</tt></small>"
+msgstr "<small><tt>색도</tt></small>"
+
+msgid "<small><tt>Magenta</tt></small>"
+msgstr "<small><tt>분홍색</tt></small>"
+
+msgid "<small><tt>Red</tt></small>"
+msgstr "<small><tt>붉은색</tt></small>"
+
+msgid "<small><tt>Saturation</tt></small>"
+msgstr "<small><tt>포화도</tt></small>"
+
+msgid "<small><tt>Yellow</tt></small>"
+msgstr "<small><tt>노란색</tt></small>"
+
+msgid "A file named \"%s\" already exists.  Do you want to replace it?"
+msgstr "\"%s\"이라는 파일이 이미 존재합니다. 덧쓰겠습니까？"
+
+msgid "About %s"
+msgstr "%s 에 관하여"
+
+msgid "Add Collection"
+msgstr "새로운 서체모임을 추가합니다."
+
+msgid "Add Printer..."
+msgstr "인쇄기추가..."
+
+msgid "Add the current folder to the bookmarks"
+msgstr "현재 서류철을 책갈피로 추가합니다."
+
+msgid "Add the folder '%s' to the bookmarks"
+msgstr "'%s' 라는 책갈피를 서류철에 추가합니다."
+
+msgid "Add the selected folder to the Bookmarks"
+msgstr "선택한 서류철에 책갈피를 추가합니다."
+
+msgid "Add the selected folders to the bookmarks"
+msgstr "선택한 서류철에 책갈피를 추가합니다."
+
+msgid "Add to Favorites"
+msgstr "즐겨찾기에 추가"
+
+msgid "All"
+msgstr "모두"
+
+msgid "All Fonts"
+msgstr "모든 서체"
+
+msgid "All pages"
+msgstr "모든 페지"
+
+msgid "Aluminum"
+msgstr "알루미니움색"
+
+msgid "Amharic (EZ+)"
+msgstr "암하라어 (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "선택한 색에서 푸른색의 값 "
+
+msgid "Amount of green light in the color."
+msgstr "선택한 색에서 풀색의 값 "
+
+msgid "Amount of red light in the color."
+msgstr "선택한 색에서 붉은색의 값 "
+
+msgid "Any Printer"
+msgstr "모든 인쇄기"
+
+msgid "AppLink"
+msgstr "고전형프로그람"
+
+msgid "Applications"
+msgstr "응용프로그람"
+
+msgid "Apply your changes."
+msgstr "변경된 내용을 적용합니다."
+
+msgid "Aqua"
+msgstr "남색"
+
+msgid "Are you sure you want to remove the entire '%s' color palette?"
+msgstr "《%s》색조색판을 완전히 삭제하시겠습니까?"
+
+msgid "Artwork by"
+msgstr "미술"
+
+msgid "Asparagus"
+msgstr "짙은 황색"
+
+msgid "BMP image has bogus header data"
+msgstr "BMP 화상의 머리부자료가 이상합니다 "
+
+msgid "BMP image has unsupported header size"
+msgstr "BMP 화상은 머리부크기를 지원하지 않습니다 "
+
+msgid "Bad code encountered"
+msgstr "오유코드가 발생하였습니다."
+
+msgid "Banana"
+msgstr "바나나색"
+
+msgid "Best _Fit"
+msgstr "가장 적당하게 합니다"
+
+msgid "Bits per channel of PNG image is invalid."
+msgstr "PNG 화상의 통로Bit가 무효입니다 "
+
+msgid "Bits per channel of transformed PNG is not 8."
+msgstr "치환된 PNG 의 통로Bit가 8이 아닙니다 "
+
+msgid "Black"
+msgstr "검은색"
+
+msgid "Blue"
+msgstr "파란색"
+
+msgid "Blueberry"
+msgstr "청색"
+
+msgid "Border"
+msgstr "테두리"
+
+msgid "Border:"
+msgstr "테두리:"
+
+msgid "Bottom"
+msgstr "아래"
+
+msgid "Brightness"
+msgstr "밝기"
+
+msgid "Brightness of the color."
+msgstr "색의 밝기 "
+
+msgid "Brown"
+msgstr "밤색"
+
+msgid "Bubblegum"
+msgstr "풍선껌색"
+
+msgid "CLASS"
+msgstr "클라스"
+
+msgid "CMYK Sliders"
+msgstr "CMYK색방식"
+
+msgid "COLORS"
+msgstr "색"
+
+msgid "C_reate"
+msgstr "작 성"
+
+msgid "Cancel"
+msgstr "취소"
+
+msgid "Cantaloupe"
+msgstr "감색"
+
+msgid "Carnation"
+msgstr "연분홍색"
+
+msgid "Cayenne"
+msgstr "검붉은색"
+
+msgid "Cedilla"
+msgstr "쎄디유어"
+
+msgid "Circular table entry in GIF file"
+msgstr "GIF 파일에서 순환표 마당 "
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"점안병을 누르고 색을 설정하기 위하여 화면의 임의의 곳에서 색을 선택하여 주십"
+"시오 "
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry, "
+"drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr ""
+"현재의 색으로 설정하려면 이 조색판마당을 눌러주십시오.   이 마당을 변경하려"
+"는 경우 색견본을 여기에 끌기하든가 혹은 오른쪽마우스를 누르고\"여기에 색을 보"
+"관\" 을 선택하여주십시오 "
+
+msgid "Clover"
+msgstr "짙은 풀색"
+
+msgid "Collated"
+msgstr "한부씩"
+
+msgid "Collections"
+msgstr "서체모임"
+
+msgid "Color Matching"
+msgstr "색정합"
+
+msgid "Color Palettes"
+msgstr "색조색판"
+
+msgid "Color Sliders"
+msgstr "색미끄럼편"
+
+msgid "Color Wheel"
+msgstr "색원판"
+
+msgid "Color _Name:"
+msgstr "색이름:"
+
+msgid "Colors"
+msgstr "색선택 "
+
+msgid "Compressed icons are not supported"
+msgstr "압축된 그림기호는 지원되지 않습니다 "
+
+msgid "Contents"
+msgstr "내용"
+
+msgid "Copies"
+msgstr "복사페지수"
+
+msgid "Copies & Pages"
+msgstr "복사 & 페지"
+
+msgid "Copies:"
+msgstr "복사페지수:"
+
+msgid "Copy"
+msgstr "복사"
+
+msgid "Could not add a bookmark"
+msgstr "책갈피를 추가할수 없습니다."
+
+msgid ""
+"Could not find the icon '%s'. The '%s' theme\n"
+"was not found either, perhaps you need to install it.\n"
+"You can get a copy from:\n"
+"\t%s"
+msgstr ""
+"그림기호'%s' 가 없습니다. 형태 '%s' 가 \n"
+"없으므로 설치하여주십시오 \n"
+"그것은 다음의 위치에서 얻을수 있습니다.:\n"
+"\t%s"
+
+msgid "Could not get image height (bad TIFF file)"
+msgstr "화상의 높이를 얻을수 없습니다. (불량 TIFF 파일)"
+
+msgid "Could not get image width (bad TIFF file)"
+msgstr "화상의 너비를 얻을수 없습니다. (불량 TIFF 파일)"
+
+msgid "Could not get information for file '%s': %s"
+msgstr "'%s'파일의 정보를 얻을수 없었습니다.: %s"
+
+msgid "Could not retrieve information about the file"
+msgstr "파일에 관한 정보를 얻을수 없습니다."
+
+msgid "Couldn't allocate memory for context buffer"
+msgstr "문장완충기용 기억기를 할당할수 없었습니다."
+
+msgid "Couldn't allocate memory for header"
+msgstr "머리부용 기억기를 할당할수 없었습니다."
+
+msgid "Couldn't allocate memory for line data"
+msgstr "행자료용 기억기를 할당할수 없었습니다."
+
+msgid "Couldn't allocate memory for loading JPEG file"
+msgstr "JPEG 파일을 적재하기 위한 기억기를 할당할수 없었습니다."
+
+msgid "Couldn't allocate memory for paletted data"
+msgstr "조색판자료용 기억기를 할당할수 없었습니다."
+
+msgid "Couldn't convert filename"
+msgstr "파일이름을 변환할수 없었습니다."
+
+msgid "Couldn't create new pixbuf"
+msgstr "새로운 화소완충기를 창조할수 없었습니다."
+
+msgid "Couldn't recognize the image file format for file '%s'"
+msgstr "파일 '%s' 에서 화상파일의 형식을 인식할수 없었습니다."
+
+msgid "Couldn't save the rest"
+msgstr "나머지자료를 보관할수 없었습니다."
+
+msgid "Couldn't write to BMP file"
+msgstr "BMP 파일로 쓸수없습니다."
+
+msgid "Crayons"
+msgstr "크레용"
+
+msgid "Create"
+msgstr "창조"
+
+msgid "Create Fo_lder"
+msgstr "서류철창조"
+
+msgid "Create in _folder:"
+msgstr "서류철안에 창조:"
+
+msgid "Created"
+msgstr "창조날자"
+
+msgid "Credits"
+msgstr "신용"
+
+msgid "Cu_t"
+msgstr "자르기"
+
+msgid "Cursor hotspot outside image"
+msgstr "유표지적점밖의 화상"
+
+msgid "Custom Paper Sizes"
+msgstr "사용자정의한 용지"
+
+msgid "Cyan"
+msgstr "하늘색"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "키릴문자 (자역됨)"
+
+msgid "DEVICES"
+msgstr "장치"
+
+msgid "Date Modified"
+msgstr "수정날자"
+
+msgid "De_lete File"
+msgstr "파일 삭제"
+
+msgid "Decrease Indent"
+msgstr "들여쓰기 감소"
+
+msgid "Default"
+msgstr "기정"
+
+msgid "Delete"
+msgstr "삭제"
+
+msgid "Delete Collection"
+msgstr "서체모임을 삭제합니다."
+
+msgid "Delete File"
+msgstr "파일 삭제"
+
+msgid "Desktop"
+msgstr "탁상화면"
+
+msgid "Didn't get all lines of PCX image"
+msgstr "PCX 화상의 모든행을 얻을수 없습니다."
+
+msgid "Dimensions of TIFF image too large"
+msgstr "TIFF 화상의 차원이 너무 큽니다."
+
+msgid "Disabled"
+msgstr "금지"
+
+msgid "Discard your changes."
+msgstr "변경된 내용을 적용하지 않습니다."
+
+msgid "Do use the Wintab API [default]"
+msgstr "Wintab 응용프로그람대면부를 사용하지 마시오 [기정]"
+
+msgid ""
+"Do you really want to delete the collection\n"
+"\"%s\"?"
+msgstr "서체모임의 \"%s\"을 삭제하겠습니까?"
+
+msgid "Document Color"
+msgstr "본문배경색"
+
+msgid "Documented by"
+msgstr "문서화"
+
+msgid "Documents"
+msgstr "문서"
+
+msgid "Don't batch GDI requests"
+msgstr "GDI 의 요청을 묶지 마시오."
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "tablet지원을 위한 Wintab 응용프로그람대면부를 사용하지 마시오."
+
+msgid "Double Hairline"
+msgstr "두 줄의 매우 가는 선"
+
+msgid "Double Thin Line"
+msgstr "두 줄의 가는 선"
+
+msgid "Double hairline"
+msgstr "두 줄의 매우 가는 선"
+
+msgid "Double thin line"
+msgstr "두 줄의 가는 선"
+
+msgid "Download"
+msgstr "내리적재"
+
+msgid "Duplicate"
+msgstr "복제"
+
+msgid "Eggplant"
+msgstr "가지색"
+
+msgid "Empty"
+msgstr "비여있음"
+
+msgid "Enter name for new instance (leave untouched for default):"
+msgstr "새로운 미리설정이름 입력('표준'으로는 이름지을수 없음):"
+
+msgid "Error"
+msgstr "오유"
+
+msgid "Error Renaming Palette"
+msgstr "조색판 이름변경 오유"
+
+msgid "Error creating folder \"%s\": %s\n"
+msgstr "서류철 \"%s\" 의 생성중 오유: %s\n"
+
+msgid ""
+"Error creating folder \"%s\": %s\n"
+"%s"
+msgstr ""
+"서류철 \"%s\" 의 생성중 오유: %s\n"
+"%s"
+
+msgid "Error deleting file \"%s\": %s"
+msgstr "파일 \"%s\" 의 삭제중 오유: %s"
+
+msgid ""
+"Error deleting file \"%s\": %s\n"
+"%s"
+msgstr ""
+"파일 \"%s\" 의 삭제중 오유: %s\n"
+"%s"
+
+msgid "Error getting information for '%s': %s"
+msgstr "'%s'에 대한 정보를 얻는 도중 오유가 발생하였습니다 : %s"
+
+msgid "Error interpreting JPEG image file (%s)"
+msgstr "JPEG 화상파일 (%s) 의 해석중 오유"
+
+msgid "Error loading icon: %s"
+msgstr "그림기호적재중 오유: %s"
+
+msgid "Error renaming file \"%s\" to \"%s\": %s"
+msgstr "파일이름 \"%s\" 을 \"%s\" 으로 변경하던중 오유: %s"
+
+msgid ""
+"Error renaming file \"%s\": %s\n"
+"%s"
+msgstr ""
+"파일이름 \"%s\" 을 변경하던중 오유: %s\n"
+"%s"
+
+msgid ""
+"Error renaming file to \"%s\": %s\n"
+"%s"
+msgstr ""
+"파일이름을 \"%s\" 으로 변경할 때 발생하는 오유 %s\n"
+"%s"
+
+msgid "Error writing to image file: %s"
+msgstr "화상파일에 쓰기오유.: %s"
+
+msgid "Even Only"
+msgstr "짝수페지만"
+
+msgid "Even numbered pages"
+msgstr "짝수페지"
+
+msgid "Excess data in file"
+msgstr "파일자료가 초과되였습니다."
+
+msgid "FLAGS"
+msgstr "기발"
+
+msgid ""
+"Failed to close '%s' while writing image, all data may not have been saved: %"
+"s"
+msgstr ""
+"화상을 쓰기할때 '%s' 을 닫을수 없기때문에 모든 자료들이 보존될수 없습니다.: %"
+"s"
+
+msgid "Failed to load RGB data from TIFF file"
+msgstr "TIFF 파일에서 RGB 자료를 적재하지 못합니다"
+
+msgid "Failed to load TIFF image"
+msgstr "TIFF 화상을 적재하지 못합니다."
+
+msgid ""
+"Failed to load animation '%s': reason not known, probably a corrupt "
+"animation file"
+msgstr ""
+"동화 '%s' 를 적재하지 못합니다.: 원인은 정확치 않지만 동화파일이 파괴된것 같"
+"습니다."
+
+msgid "Failed to load image '%s': %s"
+msgstr "화상 '%s' 를 적재하지 못합니다.: %s"
+
+msgid ""
+"Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr ""
+"화상 '%s'을 적재하지 못합니다: 원인은 불명확하지만 아마 화상파일이 파괴된것 "
+"같습니다."
+
+msgid "Failed to open '%s' for writing: %s"
+msgstr "쓰기할 때 '%s' 을 열지 못합니다.: %s"
+
+msgid "Failed to open TIFF image"
+msgstr "TIFF 화상을 열지 못합니다."
+
+msgid "Failed to open file '%s': %s"
+msgstr "파일 '%s' 를 열지 못합니다.: %s"
+
+msgid "Failed to open temporary file"
+msgstr "림시파일을 열지 못합니다."
+
+msgid "Failed to read from temporary file"
+msgstr "림시파일에서 읽지 못합니다."
+
+msgid "Failed to write to temporary file when loading XBM image"
+msgstr "XBM 화상을 적재할 때 림시파일에 쓸수 없습니다."
+
+msgid "Failed to write to temporary file when loading XPM image"
+msgstr "XPM 화상을 적재할 때 림시파일에 쓸수 없습니다.."
+
+msgid "Failure reading GIF: %s"
+msgstr "GIF 화상을 읽을수 없습니다.: %s"
+
+msgid "Family"
+msgstr "서체"
+
+msgid "Fatal error in PNG image file: %s"
+msgstr "PNG 화상파일에서의 치명적오유: %s"
+
+msgid "Fatal error reading PNG image file"
+msgstr "PNG 화상파일에서의 치명적오유."
+
+msgid "Fatal error reading PNG image file: %s"
+msgstr "PNG 화상파일에서의 치명적오유: %s"
+
+msgid "Favorites"
+msgstr "즐겨찾기"
+
+msgid "Fern"
+msgstr "고비색"
+
+msgid "File Name"
+msgstr "파일이름"
+
+msgid "File System"
+msgstr "파일체계"
+
+msgid "File does not appear to be a GIF file"
+msgstr "파일은 GIF 파일이 아닙니다."
+
+msgid "Files"
+msgstr "파일"
+
+msgid "Find and _Replace"
+msgstr "찾기와 교체"
+
+msgid "Fixed Width"
+msgstr "고정너비"
+
+msgid "Flora"
+msgstr "연풀색"
+
+msgid "Fol_ders"
+msgstr "서류철"
+
+msgid "Folder"
+msgstr "서류철"
+
+msgid "Folder unreadable: %s"
+msgstr "읽을수 없는 서류철: %s"
+
+msgid "Folders"
+msgstr "서류철"
+
+msgid "Font"
+msgstr "서체"
+
+msgid "Font Panel Actions"
+msgstr "서체조작판동작"
+
+msgid "Fonts"
+msgstr "서체선택"
+
+msgid "Format For:"
+msgstr "인쇄기:"
+
+msgid "Fri"
+msgstr "금"
+
+msgid "From"
+msgstr "시작페지"
+
+msgid "From:"
+msgstr "시작페지:"
+
+msgid "GIF file was missing some data (perhaps it was truncated somehow?)"
+msgstr ""
+"GIF 파일은 일부자료가 빠졌습니다 (여러가지 원인으로 잘라졌을수 있습니다 )"
+
+msgid ""
+"GIF image has no global colormap, and a frame inside it has no local "
+"colormap."
+msgstr ""
+"GIF 화상은 대역색배렬표가 없습니다. 또한 틀에 국부적인 색배렬표가 없습니다."
+
+msgid "GIF image is corrupt (incorrect LZW compression)"
+msgstr "GIF 화상이 파괴되였습니다. (잘못된 LZW 압축)"
+
+msgid "GIF image was truncated or incomplete."
+msgstr "GIF 화상은 잘리웠거나 불완전합니다."
+
+msgid "GTK+ Options"
+msgstr "GTK+ 추가선택"
+
+msgid "GTK+ debugging flags to set"
+msgstr "설정할 Gdk 오유수정기발"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "설정하지 않는 Gdk 오유수정기발"
+
+msgid "Gamma"
+msgstr "감마"
+
+msgid "Gdk debugging flags to set"
+msgstr "설정할 Gdk오유수정기발"
+
+msgid "Gdk debugging flags to unset"
+msgstr "설정하지 않는 Gdk 오유수정기발"
+
+msgid "Generic RGB"
+msgstr "일반 RGB"
+
+msgid "Grape"
+msgstr "포도색"
+
+msgid "Gray Scale Slider"
+msgstr "흑백색방식"
+
+msgid "Green"
+msgstr "풀색"
+
+msgid "Group"
+msgstr "그룹"
+
+msgid "HSB Sliders"
+msgstr "HSB색방식"
+
+msgid "Height"
+msgstr "높이"
+
+msgid "Hide Effects"
+msgstr "효과 숨기기"
+
+msgid "Hide Preview"
+msgstr "미리보기를 숨기기"
+
+msgid "Home"
+msgstr "나의 서류철"
+
+msgid "Honeydew"
+msgstr "감로색"
+
+msgid "Hue"
+msgstr "색도"
+
+msgid "IPA"
+msgstr "IPA (국제발음기호)"
+
+msgid "Ice"
+msgstr "얼음색"
+
+msgid "Icon '%s' not present in theme"
+msgstr "제목안의 그림기호 '%s' 은 존재하지 않습니다."
+
+msgid "Icon has zero height"
+msgstr "그림기호는 길이가 0입니다."
+
+msgid "Icon has zero width"
+msgstr "그림기호는 너비가 0입니다."
+
+msgid "Image Palettes"
+msgstr "화상조색판"
+
+msgid "Image file '%s' contains no data"
+msgstr "화상파일 '%s' 에는 자료가 없습니다."
+
+msgid "Image format unknown"
+msgstr "화상형식이 불명확합니다."
+
+msgid "Image has invalid width and/or height"
+msgstr "화상의 길이나 너비가 틀렸습니다."
+
+msgid "Image has unsupported bpp"
+msgstr "화상은 bpp 을 지원하지 않습니다."
+
+msgid "Image has unsupported number of %d-bit planes"
+msgstr "화상은 %d Bit평면(완충기)을 지원하지 않습니다."
+
+msgid "Image has zero height"
+msgstr "화상의 길이는 0입니다."
+
+msgid "Image has zero width"
+msgstr "화상의 너비는 0입니다."
+
+msgid "Image header corrupt"
+msgstr "화상머리부는 파괴되였습니다."
+
+msgid "Image pixel data corrupt"
+msgstr "화상화소자료가 파괴되였습니다."
+
+msgid "Image too large to be saved as ICO"
+msgstr "그림기호로 보관하는데는 화상이 너무 큽니다."
+
+msgid "Image type '%s' is not supported"
+msgstr "화상형 '%s' 은 지원되지 않습니다."
+
+msgid ""
+"Image-loading module %s does not export the proper interface; perhaps it's "
+"from a different GTK version?"
+msgstr ""
+"화상을 적재하는 모듈 %s 은 정확한 대면부를 반출하지 않습니다. GTK+ 의 판본이 "
+"다를수 있습니다."
+
+msgid "Image:"
+msgstr "화상:"
+
+msgid "Increase Indent"
+msgstr "들여쓰기 증가 "
+
+msgid "Incremental loading of image type '%s' is not supported"
+msgstr "화상형 '%s' 의 점차적인 적재는 지원되지 않습니다."
+
+msgid "Information"
+msgstr "정보"
+
+msgid "Input"
+msgstr "입구"
+
+msgid "Input _Methods"
+msgstr "입력방법"
+
+msgid "Insufficient memory to load PNG file"
+msgstr "PNG 파일을 적재하기 위한 기억기가 부족합니다."
+
+msgid "Insufficient memory to load PNM context struct"
+msgstr "PNM 본문구조체를 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Insufficient memory to load PNM file"
+msgstr "PNM 파일을 적재하기 위한 기억기가 부족합니다."
+
+msgid "Insufficient memory to load XBM image file"
+msgstr "XBM 화상파일을 적재하기 위한 기억기가 부족합니다."
+
+msgid ""
+"Insufficient memory to load image, try exiting some applications to free "
+"memory"
+msgstr ""
+"화상을 적재하기 위한 기억기가 부족합니다. 일부 응용프로그람을 완료하여 기억기"
+"를 해방시켜주십시오."
+
+msgid "Insufficient memory to open TIFF file"
+msgstr "TIFF 파일을 열기 위한 기억기가 부족합니다."
+
+msgid "Insufficient memory to save image into a buffer"
+msgstr "화상을 완충기에 보관하기 위한 기억기가 부족합니다."
+
+msgid "Insufficient memory to save image to callback"
+msgstr "화상을 역호출에로 보관하기 위한 기억기가 부족합니다."
+
+msgid ""
+"Insufficient memory to store a %ld by %ld image; try exiting some "
+"applications to reduce memory usage"
+msgstr ""
+"%ldx%ld 의 화상을 보관하기 위한 기억기가 불충분합니다.일부 응용프로그람을 완"
+"료시켜 기억기의 사용을 줄여주십시오."
+
+msgid "Internal error in the GIF loader (%s)"
+msgstr "GIF 적재기에서의 내부오유 (%s)"
+
+msgid ""
+"Internal error: Image loader module '%s' failed to begin loading an image, "
+"but didn't give a reason for the failure"
+msgstr ""
+"내부오유: 화상적재기모듈 '%s' 은 화상을 적재할수 없습니다. 실패의 원인은 보여"
+"줄수 없습니다."
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Inuktitut문자 (자역됨)"
+
+msgid "Invalid UTF-8"
+msgstr "무효한 UTF-8 "
+
+msgid "Invalid XBM file"
+msgstr "무효한 XBM 파일"
+
+msgid "Invalid filename: %s"
+msgstr "불명확한 파일이름: %s"
+
+msgid "Invalid header in animation"
+msgstr "동화의 머리부가 불명확합니다."
+
+msgid "Invalid header in icon"
+msgstr "그림기호의 머리부가 불명확합니다."
+
+msgid "Invalid number"
+msgstr "수값이 정확치 않습니다."
+
+msgid "Iron"
+msgstr "검은 재색"
+
+msgid "It probably contains symbols not allowed in filenames."
+msgstr "파일이름으로 리용할수 없는 문자가 포함되여 있습니다."
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%d' is not allowed."
+msgstr ""
+"JPEG 의 \"질\" 은 0과 100 사이의 값이여야 합니다. 값 '%d' 을 허용할수 없습니"
+"다."
+
+msgid ""
+"JPEG quality must be a value between 0 and 100; value '%s' could not be "
+"parsed."
+msgstr ""
+"JPEG 의 \"질\" 은 0과 100 사이의 값이여야 합니다. 값 '%s'을 해석할수 없습니"
+"다."
+
+msgid "Juche"
+msgstr "주체"
+
+msgid "Justify|_Fill"
+msgstr "전체(_F)"
+
+msgid "Justify|_Left"
+msgstr "왼쪽(_L)"
+
+msgid "Keys for PNG text chunks must be ASCII characters."
+msgstr "PNG 의 본문묶음의 열쇠들은 ASCII 문자이여야 합니다."
+
+msgid ""
+"Keys for PNG text chunks must have at least 1 and at most 79 characters."
+msgstr "PNG 의 본문묶음의 열쇠들은 1과 79 사이의 문자이여야 합니다."
+
+msgid "Kind"
+msgstr "종류"
+
+msgid "Korean"
+msgstr "조선어"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE 왼쪽→오른쪽 내장"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM 왼쪽→오른쪽 표식"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO 왼쪽→오른쪽 덧쓰기"
+
+msgid "Landscape"
+msgstr "가로"
+
+msgid "Last Used Settings"
+msgstr "최근에 사용된 설정들"
+
+msgid "Last opened"
+msgstr "연 날자"
+
+msgid "Lavender"
+msgstr "라벤다색"
+
+msgid "Layout"
+msgstr "배치"
+
+msgid "Layout Direction"
+msgstr "배치방향"
+
+msgid "Layout Direction:"
+msgstr "배치방향:"
+
+msgid "Lead"
+msgstr "연색"
+
+msgid "Left"
+msgstr "왼쪽"
+
+msgid "Left-Right-Top-Bottom"
+msgstr "좌-우-상-하"
+
+msgid "Lemon"
+msgstr "노란색"
+
+msgid "Library"
+msgstr "서고"
+
+msgid "Licorice"
+msgstr "검은색"
+
+msgid "Lime"
+msgstr "라임색"
+
+msgid "Load additional GTK+ modules"
+msgstr "추가 GTK+모듈 적재"
+
+msgid "MODULES"
+msgstr "모듈"
+
+msgid "Magenta"
+msgstr "분홍색"
+
+msgid "Magnesium"
+msgstr "마그네시움색"
+
+msgid "Make X calls synchronous"
+msgstr "X 호출동기화"
+
+msgid "Make all warnings fatal"
+msgstr "모든 경고들을 치명적인것으로 봅니다."
+
+msgid "Malformed chunk in animation"
+msgstr "동화에 정확치 않은 부분이 있습니다."
+
+msgid "Manage Custom Sizes..."
+msgstr "사용자정의용지 설정..."
+
+msgid "Manage Fonts"
+msgstr "서체집"
+
+msgid "Manage Fonts..."
+msgstr "서체집"
+
+msgid "Maraschino"
+msgstr "붉은색"
+
+msgid "Maroon"
+msgstr "밤색"
+
+msgid "Maximum color value in PNM file is 0"
+msgstr "PNM 파일에서 색의 최대값은 0입니다."
+
+msgid "Maximum color value in PNM file is too large"
+msgstr "PNM 파일에서 색의 최대값이 너무 큽니다."
+
+msgid "Media|P_ause"
+msgstr "순간 정지"
+
+msgid "Media|Pre_vious"
+msgstr "이전"
+
+msgid "Media|R_ewind"
+msgstr "뒤로"
+
+msgid "Media|_Next"
+msgstr "다음"
+
+msgid "Media|_Play"
+msgstr "재생"
+
+msgid "Media|_Record"
+msgstr "록음"
+
+msgid "Menu Items"
+msgstr "차림표 항목"
+
+msgid "Mercury"
+msgstr "수은색"
+
+msgid "Midnight"
+msgstr "짙은 청색"
+
+msgid "Mocha"
+msgstr "쵸콜레트색"
+
+msgid "Modified"
+msgstr "수정날자"
+
+msgid "Mon"
+msgstr "월"
+
+msgid "More info..."
+msgstr "상세정보..."
+
+msgid "Moss"
+msgstr "이끼색"
+
+msgid "Movies"
+msgstr "동화상"
+
+msgid "Music"
+msgstr "음악"
+
+msgid "NAME"
+msgstr "이름"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name of new folder:"
+msgstr "새 서류철 이름:"
+
+msgid "Name too long"
+msgstr "이름이 너무 깁니다."
+
+msgid "Navigation|_Back"
+msgstr "뒤로"
+
+msgid "Navigation|_Bottom"
+msgstr "밑으로"
+
+msgid "Navigation|_Down"
+msgstr "아래로"
+
+msgid "Navigation|_First"
+msgstr "처음으로"
+
+msgid "Navigation|_Forward"
+msgstr "앞으로"
+
+msgid "Navigation|_Last"
+msgstr "마지막으로"
+
+msgid "Navigation|_Top"
+msgstr "꼭대기로"
+
+msgid "Navigation|_Up"
+msgstr "우로"
+
+msgid "Network Drive (%s)"
+msgstr "망구동기 (%s)"
+
+msgid "New"
+msgstr "새로 작성"
+
+msgid "New Fo_lder"
+msgstr "새 서류철"
+
+msgid "New Folder"
+msgstr "새로운 서류철"
+
+msgid "New from Clipboard"
+msgstr "오려둠판으로부터 새로 작성..."
+
+msgid "New from File..."
+msgstr "파일로부터 새로 작성..."
+
+msgid "New name for color palette:"
+msgstr "색목록을 위한 새로운 이름:"
+
+msgid "New name for palette"
+msgstr "조색판을 위한 새로운 이름"
+
+msgid "New-"
+msgstr "새로 작성-"
+
+msgid "Nickel"
+msgstr "니켈색"
+
+msgid "No Printer Selected"
+msgstr "없음"
+
+msgid "No Results Found"
+msgstr "검색결과가 없습니다."
+
+msgid "No XPM header found"
+msgstr "XPM머리부가 없습니다."
+
+msgid "No extended input devices"
+msgstr "확장된 입력장치가 없습니다."
+
+msgid "No palette found at end of PCX data"
+msgstr "PCX 자료의 끝에 조색판이 없습니다."
+
+msgid "Non-Printable Area:"
+msgstr "인쇄여백:"
+
+msgid "None"
+msgstr "없음"
+
+msgid "Normal"
+msgstr "일반"
+
+msgid "Not enough memory to load GIF file"
+msgstr "GIF 파일을 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load ICO file"
+msgstr "그림기호파일을 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load RAS image"
+msgstr "RAS 화상을 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load animation"
+msgstr "동화를 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load bitmap image"
+msgstr "BMP 화상을 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load icon"
+msgstr "그림기호를 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Not enough memory to load image"
+msgstr "화상을 적재하기 위한 기억기가 불충분합니다."
+
+msgid "Ocean"
+msgstr "바다색"
+
+msgid "Odd Only"
+msgstr "홀수페지만"
+
+msgid "Odd numbered pages"
+msgstr "홀수페지"
+
+msgid "Ok"
+msgstr "확인"
+
+msgid "Open"
+msgstr "열 기"
+
+msgid "Open Location"
+msgstr "지정한 위치를 열기"
+
+msgid "Open _Location"
+msgstr "파일열기"
+
+msgid "Orange"
+msgstr "불색"
+
+msgid "Orchid"
+msgstr "연보라색"
+
+msgid "Orientation"
+msgstr "방향"
+
+msgid "Orientation:"
+msgstr "방향:"
+
+msgid "Other"
+msgstr "기타"
+
+msgid "Other..."
+msgstr "다른..."
+
+msgid "PDF"
+msgstr "파일로 보관"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF POP 형식화(_P)"
+
+msgid "PLACES"
+msgstr "위치"
+
+msgid "PNM file has an image height of 0"
+msgstr "PNM 파일의 화상길이가 0입니다."
+
+msgid "PNM file has an image width of 0"
+msgstr "PNM 파일의 화상너비가 0입니다."
+
+msgid "PNM file has an incorrect initial byte"
+msgstr "PNM 파일의 첫 바이트가 정확하지 않습니다."
+
+msgid "PNM file is not in a recognized PNM subformat"
+msgstr "PNM 파일은 인식할수 있는 PNM 부분형식으로 되여 있지 않습니다."
+
+msgid "PNM image format is invalid"
+msgstr "PNM 화상형식은 불명확합니다."
+
+msgid "PNM image loader does not support this PNM subformat"
+msgstr "PNM 화상적재기는 이 PNM 부분형식을 지원하지 못합니다."
+
+msgid "PNM loader expected to find an integer, but didn't"
+msgstr "PNM 적재기는 옹근수를 발견할수 없었습니다."
+
+msgid "Page %u"
+msgstr "페지 %u"
+
+msgid "Page Attributes"
+msgstr "페지속성"
+
+msgid "Page Order"
+msgstr "페지순서"
+
+msgid "Page Order:"
+msgstr "페지순서:"
+
+msgid "Page Setup"
+msgstr "페지설정"
+
+msgid "Page Size:"
+msgstr "페지크기:"
+
+msgid "Pages"
+msgstr "페지범위"
+
+msgid "Pages Per Sheet"
+msgstr "용지당 페지수"
+
+msgid "Pages To Print"
+msgstr "인쇄할 페지"
+
+msgid "Pages per Sheet:"
+msgstr "용지당 페지수:"
+
+msgid "Pages to Print:"
+msgstr "인쇄할 페지:"
+
+msgid "Pages:"
+msgstr "페지범위:"
+
+msgid "Palette"
+msgstr "조색판"
+
+msgid "Palette:"
+msgstr "조색판:"
+
+msgid "Paper Handling"
+msgstr "용지조종"
+
+msgid "Paper Size"
+msgstr "용지"
+
+msgid "Paper Size:"
+msgstr "용지:"
+
+msgid "Pick a Color"
+msgstr "색선택"
+
+msgid "Pick a Font"
+msgstr "서체선택"
+
+msgid "Pictures"
+msgstr "그림"
+
+msgid "Pixmap path element: \"%s\" must be absolute, %s, line %d"
+msgstr "화상경로: \"%s\" 은 절대경로로 하여주십시오 (%s, %d 행)"
+
+msgid "Please enter a number between 1 and 9 999."
+msgstr "1 ~ 9 999범위의 수를 입력하십시오."
+
+msgid "Please provide a valid value."
+msgstr "정확한 값을 입력하십시오."
+
+msgid "Plum"
+msgstr "짙은 자주색"
+
+msgid "Portrait"
+msgstr "세로"
+
+msgid "Position on the color wheel."
+msgstr "색판에서의 위치"
+
+msgid "Premature end-of-file encountered"
+msgstr "파일의 끝과 너무 빨리 맞다들렸습니다."
+
+msgid "Preset Name:"
+msgstr "미리설정이름:"
+
+msgid "Presets:"
+msgstr "미리설정:"
+
+msgid "Pressure"
+msgstr "압축"
+
+msgid "Preview"
+msgstr "미리보기"
+
+msgid "Preview:"
+msgstr "미리보기:"
+
+msgid "Print"
+msgstr "인쇄"
+
+msgid "Print Pre_view"
+msgstr "인쇄 미리보기"
+
+msgid "Print Preferences..."
+msgstr "인쇄설정..."
+
+msgid "Printer:"
+msgstr "인쇄기:"
+
+msgid "Program class as used by the window manager"
+msgstr "창문관리기에 의하여 리용되는 프로그람클라스"
+
+msgid "Program name as used by the window manager"
+msgstr "창문관리기에 의하여 리용되는 프로그람이름"
+
+msgid "Public"
+msgstr "공개"
+
+msgid "Purple"
+msgstr "보라색"
+
+msgid "Question"
+msgstr "질문"
+
+msgid "RAS image has bogus header data"
+msgstr "RAS 화상의 머리부자료가 틀립니다."
+
+msgid "RAS image has unknown type"
+msgstr "불명확한 형의 RAS 화상입니다."
+
+msgid "RGB Sliders"
+msgstr "RGB색방식"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE 오른쪽-왼쪽 내장"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM 오른쪽-왼쪽 표식"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO 오른쪽-왼쪽 덧쓰기"
+
+msgid "Raw PNM formats require exactly one whitespace before sample data"
+msgstr "변경하지 않은  PNM 형식에는 표준자료앞에 하나의 공백문자가 요구됩니다."
+
+msgid "Raw PNM image type is invalid"
+msgstr "변경하지 않은 PNM 화상형식이 불명확합니다."
+
+msgid "Really delete file \"%s\"?"
+msgstr "파일 \"%s\" 을 정말 삭제하겠습니까？"
+
+msgid "Received invalid color data\n"
+msgstr "무효한 색자료를 접수하였습니다.\n"
+
+msgid "Recent Places"
+msgstr "최근에 사용된 위치"
+
+msgid "Red"
+msgstr "붉은색"
+
+msgid "Remove"
+msgstr "삭제"
+
+msgid "Remove Color Palette"
+msgstr "색조색판 삭제"
+
+msgid "Remove Palette"
+msgstr "조색판 삭제"
+
+msgid "Remove the bookmark '%s'"
+msgstr "책갈피 '%s' 삭제"
+
+msgid "Remove the selected bookmark"
+msgstr "선택한 책갈피 삭제"
+
+msgid ""
+"Removing a Custom Palette is permanent. Are you sure you want to remove %1 "
+"from your custom palettes?"
+msgstr ""
+"전용조색판을 완전히 삭제합니다. 전용조색판에서 %1 을(를) 삭제하시겠습니까?"
+
+msgid ""
+"Removing a Custom Palette is permanent. Are you sure you want to remove %s "
+"from your custom palettes?"
+msgstr ""
+"전용조색판을 완전히 삭제합니다. 전용조색판에서 %s 을(를) 삭제하시겠습니까?"
+
+msgid "Rename"
+msgstr "이름변경"
+
+msgid "Rename Color"
+msgstr "색이름변경"
+
+msgid "Rename Custom Palette"
+msgstr "전용조색판 이름변경"
+
+msgid "Rename File"
+msgstr "파일 이름변경"
+
+msgid "Rename Preset To"
+msgstr "미리설정이름 변경"
+
+msgid "Rename file \"%s\" to:"
+msgstr "파일 '%s' 의 이름을 변경"
+
+msgid "Rename..."
+msgstr "이름변경..."
+
+msgid "Reverse"
+msgstr "반대로"
+
+msgid "Right"
+msgstr "오른쪽"
+
+msgid "Right-Left-Top-Bottom"
+msgstr "우-좌-상-하"
+
+msgid "SCREEN"
+msgstr "화면"
+
+msgid "SEARCH FOR"
+msgstr "탐색"
+
+msgid "Salmon"
+msgstr "연어살색"
+
+msgid "Same as --no-wintab"
+msgstr "--no-wintab와 같음"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Sat"
+msgstr "토"
+
+msgid "Saturation"
+msgstr "포화도"
+
+msgid "Save"
+msgstr "보 관"
+
+msgid "Save As..."
+msgstr "새로 보관..."
+
+msgid "Save Preset As"
+msgstr "미리설정 보관"
+
+msgid "Save _As"
+msgstr "다른 이름으로 보관"
+
+msgid "Save as Default"
+msgstr "기본설정값으로 보관"
+
+msgid "Save as PDF..."
+msgstr "PDF파일로 보관..."
+
+msgid "Save as PostScript..."
+msgstr "PostScript파일로 보관..."
+
+msgid "Save in Location"
+msgstr "보관"
+
+msgid "Save in _folder:"
+msgstr "서류철에 보관:"
+
+msgid "Scale"
+msgstr "척도"
+
+msgid "Scale:"
+msgstr "척도:"
+
+msgid "Screen"
+msgstr "화면"
+
+msgid "Sea Foam"
+msgstr "해포석색"
+
+msgid "Search"
+msgstr "탐색"
+
+msgid "Search:"
+msgstr "검색:"
+
+msgid "Select All"
+msgstr "전체 선택"
+
+msgid "Select _All"
+msgstr "전체 선택"
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr ""
+"바깥고리로부터 원하는 색을 선택하고 안쪽의 3각형으로 색의 밝기를 조절하여 주"
+"십시오. "
+
+msgid "Select which types of files are shown"
+msgstr "표시하려는 파일의 종류를 선택"
+
+msgid "Setting"
+msgstr "설정항목"
+
+msgid "Settings:"
+msgstr "설정:"
+
+msgid "Shortcuts"
+msgstr "지름건"
+
+msgid "Show Effects"
+msgstr "효과보이기"
+
+msgid "Show GTK+ Options"
+msgstr "GTK+ 의 추가선택 표시"
+
+msgid "Show Preview"
+msgstr "미리보기를 표시"
+
+msgid "Show _Hidden Files"
+msgstr "숨은 파일 표시"
+
+msgid "Si_ze:"
+msgstr "크기:"
+
+msgid "Silver"
+msgstr "연한 재색"
+
+msgid "Single"
+msgstr "한줄"
+
+msgid "Single Hairline"
+msgstr "한 줄의 매우 가는 선"
+
+msgid "Single Thin Line"
+msgstr "한 줄의 가는 선"
+
+msgid "Single hairline"
+msgstr "한 줄의 매우 가는 선"
+
+msgid "Single thin line"
+msgstr "한 줄의 가는 선"
+
+msgid "Sites"
+msgstr "싸이트"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "8-Bit 모듈에서의 조색판크기"
+
+msgid "Sky"
+msgstr "하늘색"
+
+msgid "Snow"
+msgstr "흰색"
+
+msgid "Spectrum"
+msgstr "스펙트르"
+
+msgid "Spindrift"
+msgstr "물안개색"
+
+msgid "Spring"
+msgstr "풀색"
+
+msgid "Stack overflow"
+msgstr "탄창넘침"
+
+msgid "Standard"
+msgstr "표준"
+
+msgid "Steel"
+msgstr "강철색"
+
+msgctxt "Stock label"
+msgid "Best _Fit"
+msgstr "화면에 맞추기"
+
+msgctxt "Stock label"
+msgid "C_onnect"
+msgstr "련결"
+
+msgctxt "Stock label"
+msgid "Cu_t"
+msgstr "자르기"
+
+msgctxt "Stock label"
+msgid "Decrease Indent"
+msgstr "들여 쓰기 줄이기"
+
+msgctxt "Stock label"
+msgid "Error"
+msgstr "오유"
+
+msgctxt "Stock label"
+msgid "Find and _Replace"
+msgstr "찾아서 바꾸기"
+
+msgctxt "Stock label"
+msgid "Increase Indent"
+msgstr "들여 쓰기 늘리기"
+
+msgctxt "Stock label"
+msgid "Information"
+msgstr "정보"
+
+msgctxt "Stock label"
+msgid "Landscape"
+msgstr "가로 방향"
+
+msgctxt "Stock label"
+msgid "Page Set_up"
+msgstr "페지 설정"
+
+msgctxt "Stock label"
+msgid "Portrait"
+msgstr "세로 방향"
+
+msgctxt "Stock label"
+msgid "Print Pre_view"
+msgstr "인쇄 미리보기"
+
+msgctxt "Stock label"
+msgid "Question"
+msgstr "물음"
+
+msgctxt "Stock label"
+msgid "Reverse landscape"
+msgstr "뒤집힌 가로 방향"
+
+msgctxt "Stock label"
+msgid "Reverse portrait"
+msgstr "뒤집힌 세로 방향"
+
+msgctxt "Stock label"
+msgid "Save _As"
+msgstr "다른 이름으로 보관"
+
+msgctxt "Stock label"
+msgid "Select _All"
+msgstr "모두 선택"
+
+msgctxt "Stock label"
+msgid "Warning"
+msgstr "경고"
+
+msgctxt "Stock label"
+msgid "Zoom _In"
+msgstr "확대"
+
+msgctxt "Stock label"
+msgid "Zoom _Out"
+msgstr "축소"
+
+msgctxt "Stock label"
+msgid "_About"
+msgstr "정보"
+
+msgctxt "Stock label"
+msgid "_Add"
+msgstr "추가"
+
+msgctxt "Stock label"
+msgid "_Apply"
+msgstr "적용"
+
+msgctxt "Stock label"
+msgid "_Ascending"
+msgstr "오름차순"
+
+msgctxt "Stock label"
+msgid "_Bold"
+msgstr "굵게"
+
+msgctxt "Stock label"
+msgid "_CD-Rom"
+msgstr "CD-ROM"
+
+msgctxt "Stock label"
+msgid "_Cancel"
+msgstr "취소"
+
+msgctxt "Stock label"
+msgid "_Center"
+msgstr "가운데"
+
+msgctxt "Stock label"
+msgid "_Clear"
+msgstr "삭제"
+
+msgctxt "Stock label"
+msgid "_Close"
+msgstr "닫기"
+
+msgctxt "Stock label"
+msgid "_Color"
+msgstr "색"
+
+msgctxt "Stock label"
+msgid "_Convert"
+msgstr "변환"
+
+msgctxt "Stock label"
+msgid "_Copy"
+msgstr "복사"
+
+msgctxt "Stock label"
+msgid "_Delete"
+msgstr "삭제"
+
+msgctxt "Stock label"
+msgid "_Descending"
+msgstr "내림차순"
+
+msgctxt "Stock label"
+msgid "_Discard"
+msgstr "버리기"
+
+msgctxt "Stock label"
+msgid "_Disconnect"
+msgstr "련결 끊기"
+
+msgctxt "Stock label"
+msgid "_Edit"
+msgstr "편집"
+
+msgctxt "Stock label"
+msgid "_Execute"
+msgstr "실행"
+
+msgctxt "Stock label"
+msgid "_Fill"
+msgstr "채우기"
+
+msgctxt "Stock label"
+msgid "_Find"
+msgstr "찾기"
+
+msgctxt "Stock label"
+msgid "_Floppy"
+msgstr "플로피"
+
+msgctxt "Stock label"
+msgid "_Font"
+msgstr "서체"
+
+msgctxt "Stock label"
+msgid "_Fullscreen"
+msgstr "전체 화면"
+
+msgctxt "Stock label"
+msgid "_Harddisk"
+msgstr "하드디스크"
+
+msgctxt "Stock label"
+msgid "_Help"
+msgstr "도움말"
+
+msgctxt "Stock label"
+msgid "_Home"
+msgstr "나의 서류철"
+
+msgctxt "Stock label"
+msgid "_Index"
+msgstr "색인"
+
+msgctxt "Stock label"
+msgid "_Information"
+msgstr "정보"
+
+msgctxt "Stock label"
+msgid "_Italic"
+msgstr "경사"
+
+msgctxt "Stock label"
+msgid "_Jump to"
+msgstr "이동"
+
+msgctxt "Stock label"
+msgid "_Leave Fullscreen"
+msgstr "전체 화면 나가기"
+
+msgctxt "Stock label"
+msgid "_Left"
+msgstr "왼쪽"
+
+msgctxt "Stock label"
+msgid "_Network"
+msgstr "망"
+
+msgctxt "Stock label"
+msgid "_New"
+msgstr "새로 만들기"
+
+msgctxt "Stock label"
+msgid "_No"
+msgstr "아니"
+
+msgctxt "Stock label"
+msgid "_Normal Size"
+msgstr "보통 크기"
+
+msgctxt "Stock label"
+msgid "_OK"
+msgstr "확인"
+
+msgctxt "Stock label"
+msgid "_Open"
+msgstr "열기"
+
+msgctxt "Stock label"
+msgid "_Paste"
+msgstr "붙이기"
+
+msgctxt "Stock label"
+msgid "_Preferences"
+msgstr "기본 설정"
+
+msgctxt "Stock label"
+msgid "_Print"
+msgstr "인쇄"
+
+msgctxt "Stock label"
+msgid "_Properties"
+msgstr "속성"
+
+msgctxt "Stock label"
+msgid "_Quit"
+msgstr "끝내기"
+
+msgctxt "Stock label"
+msgid "_Redo"
+msgstr "다시 실행"
+
+msgctxt "Stock label"
+msgid "_Refresh"
+msgstr "새로 고침"
+
+msgctxt "Stock label"
+msgid "_Remove"
+msgstr "제거"
+
+msgctxt "Stock label"
+msgid "_Revert"
+msgstr "되돌리기"
+
+msgctxt "Stock label"
+msgid "_Right"
+msgstr "오른쪽"
+
+msgctxt "Stock label"
+msgid "_Save"
+msgstr "보관"
+
+msgctxt "Stock label"
+msgid "_Spell Check"
+msgstr "맞춤법 검사"
+
+msgctxt "Stock label"
+msgid "_Stop"
+msgstr "중지"
+
+msgctxt "Stock label"
+msgid "_Strikethrough"
+msgstr "취소선"
+
+msgctxt "Stock label"
+msgid "_Undelete"
+msgstr "삭제 취소"
+
+msgctxt "Stock label"
+msgid "_Underline"
+msgstr "밑줄"
+
+msgctxt "Stock label"
+msgid "_Undo"
+msgstr "입력 취소"
+
+msgctxt "Stock label"
+msgid "_Yes"
+msgstr "예"
+
+msgctxt "Stock label, media"
+msgid "P_ause"
+msgstr "중지"
+
+msgctxt "Stock label, media"
+msgid "Pre_vious"
+msgstr "이전"
+
+msgctxt "Stock label, media"
+msgid "R_ewind"
+msgstr "되감기"
+
+msgctxt "Stock label, media"
+msgid "_Forward"
+msgstr "앞으로"
+
+msgctxt "Stock label, media"
+msgid "_Next"
+msgstr "다음"
+
+msgctxt "Stock label, media"
+msgid "_Play"
+msgstr "재생"
+
+msgctxt "Stock label, media"
+msgid "_Record"
+msgstr "록음/록화"
+
+msgctxt "Stock label, media"
+msgid "_Stop"
+msgstr "중지"
+
+msgctxt "Stock label, navigation"
+msgid "_Back"
+msgstr "뒤로"
+
+msgctxt "Stock label, navigation"
+msgid "_Bottom"
+msgstr "맨 아래"
+
+msgctxt "Stock label, navigation"
+msgid "_Down"
+msgstr "아래로"
+
+msgctxt "Stock label, navigation"
+msgid "_First"
+msgstr "처음"
+
+msgctxt "Stock label, navigation"
+msgid "_Forward"
+msgstr "앞으로"
+
+msgctxt "Stock label, navigation"
+msgid "_Last"
+msgstr "마지막"
+
+msgctxt "Stock label, navigation"
+msgid "_Top"
+msgstr "맨 우"
+
+msgctxt "Stock label, navigation"
+msgid "_Up"
+msgstr "우로"
+
+msgid "Strawberry"
+msgstr "딸기색"
+
+msgid "Summary"
+msgstr "개괄"
+
+msgid "Sun"
+msgstr "일"
+
+msgid "System"
+msgstr "체계"
+
+msgid "TGA image has invalid dimensions"
+msgstr "TGA 화상은 차원이 불명확합니다."
+
+msgid "TGA image type not supported"
+msgstr "TGA 화상형은 지원하지 않습니다."
+
+msgid "TIFFClose operation failed"
+msgstr "TIFFClose 조작은 실패하였습니다."
+
+msgid "Tangerine"
+msgstr "적등색"
+
+msgid "Teal"
+msgstr "짙은 청록색"
+
+msgid "Tern"
+msgstr "짙은 풀색"
+
+msgid "Text Color"
+msgstr "본문색"
+
+msgid "Text Strikethrough"
+msgstr "본문중간선"
+
+msgid "Text Underline"
+msgstr "본문밑선"
+
+msgid "Thai (Broken)"
+msgstr "타이어"
+
+msgid "The ANI image format"
+msgstr "ANI 화상형식"
+
+msgid "The BMP image format"
+msgstr "BMP 화상형식"
+
+msgid "The GIF image format"
+msgstr "GIF 화상형식"
+
+msgid "The ICO image format"
+msgstr "ICO 화상형식"
+
+msgid "The JPEG image format"
+msgstr "JPEG 화상형식"
+
+msgid "The PCX image format"
+msgstr "PCX 화상형식"
+
+msgid "The PNG image format"
+msgstr "PNG 화상형식"
+
+msgid "The PNM/PBM/PGM/PPM image format family"
+msgstr "PNM/PBM/PGM/PPM 화상형식그룹"
+
+msgid "The Sun raster image format"
+msgstr "Sun 주사면 화상형식"
+
+msgid "The TIFF image format"
+msgstr "TIFF 화상형식"
+
+msgid "The Targa image format"
+msgstr "Targa 화상형식"
+
+msgid "The WBMP image format"
+msgstr "WBMP 화상형식"
+
+msgid "The XBM image format"
+msgstr "XBM 화상형식"
+
+msgid "The XPM image format"
+msgstr "XPM 화상형식"
+
+msgid ""
+"The color you've chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr ""
+"선택한 색  이 색은 계속 리용하는 색이므로 보존하기 위한 조색판항목에 끌기를 "
+"할수 있습니다."
+
+msgid ""
+"The file \"%s\" resides on another machine (called %s) and may not be "
+"available to this program.\n"
+"Are you sure that you want to select it?"
+msgstr ""
+"파일 \"%s\" 은 다른기계 %s 에 존재하기때문에 이 프로그람으로는 리용할수 없습"
+"니다.\n"
+"이것을 선택하려고 합니까？"
+
+msgid ""
+"The file already exists in \"%s\".  Replacing it will overwrite its contents."
+msgstr "\"%s\" 에 파일이 존재합니다. 전체 내용을 덧씁니다."
+
+msgid "The file name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "파일이름 \"%s\" 에는 파일이름으로 리용할수 없는 문자가 있습니다."
+
+msgid "The file name can't overlay 64 characters."
+msgstr "파일이름은 64문자를 넘을수 없습니다."
+
+msgid "The filename \"%s\" contains symbols that are not allowed in filenames"
+msgstr "파일이름\"%s\" 에는 파일이름으로 리용할수 없는 문자가 있습니다."
+
+msgid "The folder contents could not be displayed"
+msgstr "서류철내용을 표시할수 없습니다."
+
+msgid "The folder could not be created"
+msgstr "서류철을 창조할수 없습니다."
+
+msgid ""
+"The folder could not be created, as a file with the same name already "
+"exists.  Try using a different name for the folder, or rename the file first."
+msgstr ""
+"같은 이름을 가진 파일이 이미 존재하므로 그 서류철은 창조될수 없습니다.\n"
+"그 서류철의 이름을 다르게 설정하던지 아니면 그 파일의 이름을 변경하십시오."
+
+msgid ""
+"The folder name \"%s\" contains symbols that are not allowed in filenames"
+msgstr "서류철이름\"%s\" 에는 파일이름으로 리용할수 없는 문자가 있습니다."
+
+msgid "The height is very small. Please edit the height again."
+msgstr "높이가 아주 작습니다. 높이를 다시 설정해주십시오."
+
+msgid "The license of the program"
+msgstr "프로그람 허가"
+
+msgid ""
+"The name \"%s\" is not valid because it contains the character \"%s\". "
+"Please use a different name."
+msgstr ""
+"\"%s\" 라는 이름으로 \"%s\"라는 문자가 포함되므로 정확하지 않습니다. (다른 이"
+"름을 주십시오.)"
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr ""
+"이미 선택된 색과 현재 선택한 색을 비교하기위하여 표시합니다. 이 색을 조색판입"
+"구에 끌기할수 있고 다른 견본의것처럼 끌기하여 현재의 색을 선택할수 있습니다. "
+
+msgid "The radio tool button whose group this button belongs to."
+msgstr "이 단추에 있는 그룹의 단일선택단추입니다."
+
+msgid "The value in the \"%s\" field is out of range."
+msgstr "\"%s\"마당의 값이 범위밖에 있습니다."
+
+msgid "The width is very small. Please edit the width again."
+msgstr "너비가 아주 작습니다. 너비를 다시 설정해주십시오."
+
+msgid "There is no undo for this operation."
+msgstr "이 조작은 취소할수 없습니다."
+
+msgid "This build of gdk-pixbuf does not support saving the image format: %s"
+msgstr "리용한 gdk-pixbuf는 화상파일의 형식 %s 의 보존을 지원하지 않습니다."
+
+msgid "This file system does not support mounting"
+msgstr "이 파일체계는 탑재할수 없습니다."
+
+msgid "Thr"
+msgstr "목"
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "에리트리아어 (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "에티오피아어 (EZ+)"
+
+msgid "Tin"
+msgstr "재색"
+
+msgid "Today"
+msgstr "현재"
+
+msgid "Today, %s"
+msgstr "오늘 %s"
+
+msgid "Top"
+msgstr "꼭대기"
+
+msgid ""
+"Top %s %s Bottom %s %s\n"
+"Left %s %s Right %s %s"
+msgstr ""
+"웃 %s %s 아래 %s %s\n"
+"왼쪽 %s %s 오른쪽 %s %s"
+
+msgid ""
+"Top %s cm Bottom %s cm\n"
+"Left %s cm Right %s cm"
+msgstr ""
+"웃 %s cm 아래 %s cm\n"
+"왼쪽 %s cm 오른쪽 %s cm"
+
+msgid "Top-Bottom-Left-Right"
+msgstr "상-하-좌-우"
+
+msgid "Top-Bottom-Right-Left"
+msgstr "상-하-우-좌"
+
+msgid "Topdown BMP images cannot be compressed"
+msgstr "전체 BMP화상을 압축할수 없습니다."
+
+msgid "Transformed PNG has unsupported number of channels, must be 3 or 4."
+msgstr "변환한 PNG 의 통로수는 지원하지 않습니다. 3 혹은4 로 하여주십시오."
+
+msgid "Transformed PNG has zero width or height."
+msgstr "변경한 PNG 의 너비 혹은 길이가 0입니다."
+
+msgid "Transformed PNG not RGB or RGBA."
+msgstr "변경한 PNG 은 RGB 에도 RGBA 에도 없습니다."
+
+msgid "Translated by"
+msgstr "번역"
+
+msgid "Transparency of the color."
+msgstr "색의 투명화"
+
+msgid "Tue"
+msgstr "화"
+
+msgid "Tungsten"
+msgstr "월프람색"
+
+msgid "Turquoise"
+msgstr "청록색"
+
+msgid "Type name of new folder"
+msgstr "새 서류철의 형식"
+
+msgid "Typeface"
+msgstr "서체형식"
+
+msgid "Unable to find include file: \"%s\""
+msgstr "포함파일을 발견할수 없습니다.: \"%s\""
+
+msgid "Unable to load image-loading module: %s: %s"
+msgstr "화상적재모듈을 적재할수 없습니다.: %s: %s"
+
+msgid "Unable to locate image file in pixmap_path: \"%s\""
+msgstr "화상경로에서 화상파일을 발견할수 없습니다.: \"%s\""
+
+msgid "Unable to locate theme engine in module_path: \"%s\","
+msgstr "모듈경로에는 제목내용이 없습니다.: \"%s\","
+
+msgid "Unexpected bitdepth for colormap entries"
+msgstr "색배렬표의 입구Bit깊이가 예견하지 않은것입니다."
+
+msgid "Unexpected character data on line %d char %d"
+msgstr "%d 행의 char형 문자자료 %d는 예견하지 않은것입니다."
+
+msgid "Unexpected end of PNM image data"
+msgstr "PNM 화상자료가 예상외로 완료하였습니다."
+
+msgid "Unexpected icon chunk in animation"
+msgstr "동화에 예견하지않은 그림기호묶음이 있습니다."
+
+msgid "Unexpected start tag '%s' on line %d char %d"
+msgstr "%2$d 행에 %3$d 예상외의 문자의 시작표적 '%1$s'"
+
+msgid "Unknown"
+msgstr "불명확함"
+
+msgid "Unknown attribute '%s' on line %d char %d"
+msgstr "%2$d 행에 %3$d 문자의 불명확한 속성 '%1$s'"
+
+msgid "Unnamed"
+msgstr "이름없음"
+
+msgid "Unrecognized image file format"
+msgstr "인식할수 없는 화상파일의 형식"
+
+msgid "Unsupported JPEG color space (%s)"
+msgstr "지원하지 않는 JPEG 의 색공간 (%s)"
+
+msgid "Unsupported animation type"
+msgstr "지원되지 않는 동화형식"
+
+msgid "Unsupported depth for ICO file: %d"
+msgstr "그림기호파일로 지원되지 않는 색의 심도: %d"
+
+msgid "Unsupported icon type"
+msgstr "지원되지 않는 그림기호형식"
+
+msgid "Untitled"
+msgstr "제목없음"
+
+msgid "Untitled "
+msgstr "용지"
+
+msgid "Untitled %d"
+msgstr "용지 %d"
+
+msgid "Users"
+msgstr "사용자"
+
+msgid "Utilities"
+msgstr "보조프로그람"
+
+msgid "Value"
+msgstr "값"
+
+msgid "Version %s of the GIF file format is not supported"
+msgstr "판본 %s 의 GIF 파일형식은 지원하지 않습니다."
+
+msgid "Vietnamese (VIQR)"
+msgstr "윁남 (VIQR)"
+
+msgid "Warning"
+msgstr "경고"
+
+msgid "Wed"
+msgstr "수"
+
+msgid "Wheel"
+msgstr "원형"
+
+msgid "Where:"
+msgstr "위치:"
+
+msgid "White"
+msgstr "흰색"
+
+msgid "WhiteBrown"
+msgstr "연한 밤색"
+
+msgid "WhiteGreen"
+msgstr "연한 풀색"
+
+msgid "Width"
+msgstr "너비"
+
+msgid "Width or height of TIFF image is zero"
+msgstr "TIFF 화상의 너비, 길이가 0입니다."
+
+msgid "Window"
+msgstr "창문"
+
+msgid "Written by"
+msgstr "개발자"
+
+msgid "X"
+msgstr "X"
+
+msgid "X Input Method"
+msgstr "X 입력방법"
+
+msgid "X Tilt"
+msgstr "X 경사"
+
+msgid "X display to use"
+msgstr "사용하려는 X-영상표시장치"
+
+msgid "X screen to use"
+msgstr "사용하려는 X-영상표시장치"
+
+msgid "XPM file has image height <= 0"
+msgstr "XPM 파일의 화상의 길이가 0보다 같거나 혹은 작습니다."
+
+msgid "XPM file has image width <= 0"
+msgstr "XPM 파일의 화상의 너비가 0보다 같거나 혹은 작습니다."
+
+msgid "XPM file has invalid number of colors"
+msgstr "XPM 파일의 색수가 불명확합니다."
+
+msgid "XPM has invalid number of chars per pixel"
+msgstr "XPM 의 화소당 문자수가 불명확합니다."
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Y Tilt"
+msgstr "Y 경사"
+
+msgid "Yellow"
+msgstr "노란색"
+
+msgid "Yesterday"
+msgstr "어제"
+
+msgid "Yesterday, %s"
+msgstr "어제 %s"
+
+msgid "You already have a Custom Palette named '%s'. Choose a different name."
+msgstr "《%s》전용조색판이 이미 존재합니다. 다른 이름을 리용하십시오."
+
+msgid "You already have a color named '%s' in this list."
+msgstr "이 목록에 《%s》색이 이미 존재합니다."
+
+msgid "You already have a palette named '%s'. Choose a different name."
+msgstr "《%s》전용조색판이 이미 존재합니다. 다른 이름을 리용하십시오."
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as 'orange' in this entry."
+msgstr ""
+"이 항목에 HTML 형식의 16진수로 색값 또는 색이름(례 : 'orange') 을 입력할수 있"
+"습니다."
+
+msgid "You probably used symbols not allowed in filenames."
+msgstr "아마 파일이름으로 리용할수 없는 문자가 리용되였습니다."
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS"
+
+msgid "Zoom _In"
+msgstr "확 대"
+
+msgid "Zoom _Out"
+msgstr "축 소"
+
+msgid "_About"
+msgstr "정 보"
+
+msgid "_Add"
+msgstr "추 가"
+
+msgid "_Add to Bookmarks"
+msgstr "책갈피에 추가"
+
+msgid "_Apply"
+msgstr "적 용"
+
+msgid "_Ascending"
+msgstr "올림순서"
+
+msgid "_Axes"
+msgstr "축"
+
+msgid "_Blue:"
+msgstr "푸른 색:"
+
+msgid "_Bold"
+msgstr "강조체"
+
+msgid "_Browse for other folders"
+msgstr "다른 서류철의 열람"
+
+msgid "_CD-Rom"
+msgstr "CD-ROM"
+
+msgid "_Cancel"
+msgstr "취 소"
+
+msgid "_Clear"
+msgstr "삭제"
+
+msgid "_Close"
+msgstr "닫 기"
+
+msgid "_Color"
+msgstr "색"
+
+msgid "_Convert"
+msgstr "변 환"
+
+msgid "_Copy"
+msgstr "복사"
+
+msgid "_Delete"
+msgstr "삭제"
+
+msgid "_Descending"
+msgstr "내림순서"
+
+msgid "_Device:"
+msgstr "장치:"
+
+msgid "_Disconnect"
+msgstr "접속중단"
+
+msgid "_Edit"
+msgstr "편 집"
+
+msgid "_Execute"
+msgstr "실 행"
+
+msgid "_Family:"
+msgstr "서체:"
+
+msgid "_Files"
+msgstr "파일"
+
+msgid "_Find"
+msgstr "찾기"
+
+msgid "_Floppy"
+msgstr "플로피"
+
+msgid "_Folder name:"
+msgstr "서류철이름:"
+
+msgid "_Font"
+msgstr "서체"
+
+msgid "_Fullscreen"
+msgstr "완전화면방식"
+
+msgid "_Gamma value"
+msgstr "_감마값"
+
+msgid "_Green:"
+msgstr "풀색:"
+
+msgid "_Harddisk"
+msgstr "하드디스크"
+
+msgid "_Help"
+msgstr "도움말"
+
+msgid "_Home"
+msgstr "기준위치"
+
+msgid "_Hue:"
+msgstr "색상:"
+
+msgid "_Index"
+msgstr "첨수"
+
+msgid "_Insert Unicode Control Character"
+msgstr "유니코드 조종문자의 삽입"
+
+msgid "_Italic"
+msgstr "_경사체"
+
+msgid "_Jump to"
+msgstr "이동"
+
+msgid "_Keys"
+msgstr "열쇠"
+
+msgid "_Leave Fullscreen"
+msgstr "완전화면방식 탈퇴"
+
+msgid "_License"
+msgstr "허 가"
+
+msgid "_Location:"
+msgstr "위치:"
+
+msgid "_Mode: "
+msgstr "방식: "
+
+msgid "_Name:"
+msgstr "이름:"
+
+msgid "_Network"
+msgstr "망"
+
+msgid "_New"
+msgstr "새로 작성"
+
+msgid "_New Folder"
+msgstr "새서류철"
+
+msgid "_New..."
+msgstr "새로 작성..."
+
+msgid "_No"
+msgstr "아 니"
+
+msgid "_Normal Size"
+msgstr "표준크기"
+
+msgid "_OK"
+msgstr "확 인"
+
+msgid "_Opacity:"
+msgstr "불투명도:"
+
+msgid "_Open"
+msgstr "열 기"
+
+msgid "_Palette"
+msgstr "조색판"
+
+msgid "_Paste"
+msgstr "붙이기"
+
+msgid "_Preferences"
+msgstr "우선선택"
+
+msgid "_Preview:"
+msgstr "미리보기:"
+
+msgid "_Print"
+msgstr "인 쇄"
+
+msgid "_Properties"
+msgstr "속성"
+
+msgid "_Quit"
+msgstr "탈 퇴"
+
+msgid "_Redo"
+msgstr "고쳐하기"
+
+msgid "_Refresh"
+msgstr "재생"
+
+msgid "_Remove"
+msgstr "삭제"
+
+msgid "_Rename"
+msgstr "이름변경"
+
+msgid "_Rename File"
+msgstr "파일이름변경"
+
+msgid "_Replace"
+msgstr "교체"
+
+msgid "_Revert"
+msgstr "되돌이"
+
+msgid "_Saturation:"
+msgstr "채도:"
+
+msgid "_Save"
+msgstr "보 관"
+
+msgid "_Save As:"
+msgstr "새로 보관:"
+
+msgid "_Save color here"
+msgstr "색을 여기에 보관"
+
+msgid "_Selection: "
+msgstr "선택: "
+
+msgid "_Spell Check"
+msgstr "철자검사"
+
+msgid "_Stop"
+msgstr "정지"
+
+msgid "_Strikethrough"
+msgstr "취소선"
+
+msgid "_Style:"
+msgstr "서체형태:"
+
+msgid "_Undelete"
+msgstr "삭제취소"
+
+msgid "_Underline"
+msgstr "밑선"
+
+msgid "_Undo"
+msgstr "취소"
+
+msgid "_Value:"
+msgstr "값:"
+
+msgid "_Yes"
+msgstr "예"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "내나라의 푸른 하늘"
+
+msgid "calendar year format|%Y"
+msgstr "%Y"
+
+msgid "calendar:MY"
+msgstr "달력:YM"
+
+msgid "calendar:week_start:0"
+msgstr "달력:주 시작:0"
+
+msgid "clear"
+msgstr "삭제"
+
+msgid "failed to allocate image buffer of %u byte"
+msgid_plural "failed to allocate image buffer of %u bytes"
+msgstr[0] "%u 바이트의 화상완충기를 할당할수 없습니다."
+
+msgid "keyboard label|Alt"
+msgstr "Alt"
+
+msgid "keyboard label|BackSpace"
+msgstr "BackSpace"
+
+msgid "keyboard label|Backslash"
+msgstr "역사선건"
+
+msgid "keyboard label|Begin"
+msgstr "시작"
+
+msgid "keyboard label|Ctrl"
+msgstr "Ctrl"
+
+msgid "keyboard label|Delete"
+msgstr "지우기건"
+
+msgid "keyboard label|End"
+msgstr "끝내기건"
+
+msgid "keyboard label|Escape"
+msgstr "탈퇴건"
+
+msgid "keyboard label|Home"
+msgstr "기준위치건"
+
+msgid "keyboard label|Insert"
+msgstr "삽입건"
+
+msgid "keyboard label|KP_Begin"
+msgstr "KP_시작건"
+
+msgid "keyboard label|KP_Delete"
+msgstr "KP_지우기건"
+
+msgid "keyboard label|KP_Down"
+msgstr "KP_내림건"
+
+msgid "keyboard label|KP_End"
+msgstr "KP_끝내기건"
+
+msgid "keyboard label|KP_Enter"
+msgstr "KP_넣기건"
+
+msgid "keyboard label|KP_Home"
+msgstr "KP_기준위치건"
+
+msgid "keyboard label|KP_Insert"
+msgstr "KP_삽입건"
+
+msgid "keyboard label|KP_Left"
+msgstr "KP_왼쪽방향건"
+
+msgid "keyboard label|KP_Next"
+msgstr "KP_다음위치건"
+
+msgid "keyboard label|KP_Page_Down"
+msgstr "KP_페지내림건"
+
+msgid "keyboard label|KP_Page_Up"
+msgstr "KP_페지올림건"
+
+msgid "keyboard label|KP_Prior"
+msgstr "KP_앞위치건"
+
+msgid "keyboard label|KP_Right"
+msgstr "KP_오른쪽방향건"
+
+msgid "keyboard label|KP_Space"
+msgstr "KP_공백건"
+
+msgid "keyboard label|KP_Tab"
+msgstr "KP_제표건"
+
+msgid "keyboard label|KP_Up"
+msgstr "KP_올림건"
+
+msgid "keyboard label|Multi_key"
+msgstr "다중건"
+
+msgid "keyboard label|Num_Lock"
+msgstr "Num_Lock"
+
+msgid "keyboard label|Page_Down"
+msgstr "페지내림건"
+
+msgid "keyboard label|Page_Up"
+msgstr "페지올림건"
+
+msgid "keyboard label|Pause"
+msgstr "멈춤건"
+
+msgid "keyboard label|Print"
+msgstr "인쇄건"
+
+msgid "keyboard label|Return"
+msgstr "되돌이(복귀)건"
+
+msgid "keyboard label|Scroll_Lock"
+msgstr "흐름멈춤건"
+
+msgid "keyboard label|Shift"
+msgstr "옮김건"
+
+msgid "keyboard label|Space"
+msgstr "공백건"
+
+msgid "keyboard label|Sys_Req"
+msgstr "Sys_Req"
+
+msgid "keyboard label|Tab"
+msgstr "제표건"
+
+msgid "none"
+msgstr "없음"
+
+msgid "progress bar label|%d %%"
+msgstr "%d %%"
+
+msgid "root"
+msgstr "나의 서류철"
+
+msgid "to"
+msgstr "끝페지"
+
+msgid "to:"
+msgstr "끝페지:"
+
+msgid "unsupported RAS image variation"
+msgstr "지원하지 않은 RAS 화상의 일종"
+
+msgid "untitled folder"
+msgstr "제목없음"
+
+msgid "year measurement template|2000"
+msgstr "2000"

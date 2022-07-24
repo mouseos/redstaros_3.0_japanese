@@ -1,0 +1,6186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-02-13 13:24-0500\n"
+"PO-Revision-Date: 2022-07-24 17:54+0900\n"
+"Last-Translator: \n"
+"Language-Team: <en@li.org>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid ""
+"\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"The following packages were available in this version but NOT installed:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"The following packages were available in this version but NOT upgraded:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"The installer has detected %s MB of RAM.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"WARNING! ALL DATA ON THE TARGET DRIVES WILL BE DESTROYED."
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"WARNING!!! VNC server running with NO PASSWORD!\n"
+"You can use the vncpassword=<password> boot option\n"
+"if you would like to secure the server.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\n"
+"You can choose a different automatic partitioning option, or click 'Back' to "
+"select manual partitioning.\n"
+"\n"
+"Press 'OK' to continue."
+msgstr ""
+
+msgid "        Time"
+msgstr "時間"
+
+msgid "      Bytes"
+msgstr "バイト"
+
+msgid ""
+"    F1-Help     F2-New      F3-Edit   F4-Delete    F5-Reset    F12-OK        "
+msgstr ""
+
+msgid "    Packages"
+msgstr "パッケージ"
+
+msgid ""
+"  <Tab>/<Alt-Tab> between elements   |  <Space> selects   |  <F12> next "
+"screen"
+msgstr ""
+
+msgid ""
+"  <Tab>/<Alt-Tab> between elements  | <Space> selects | <F12> next screen "
+msgstr ""
+
+msgid ""
+" <F1> for help | <Tab> between elements | <Space> selects | <F12> next screen"
+msgstr ""
+
+msgid ""
+" <Space> selects button | <F2> select default boot entry | <F12> next screen>"
+msgstr ""
+
+msgid " Name   : "
+msgstr "名前："
+
+msgid " Size   : "
+msgstr "サイズ："
+
+msgid " Summary: "
+msgstr "要約："
+
+msgid "%.1fGB Freespace"
+msgstr "％。1fGBフリースペース"
+
+msgid "%s"
+msgstr "％s"
+
+msgid "%s %s installation"
+msgstr "％s％sインストール"
+
+msgid "%s %s installation on host %s"
+msgstr "％s％sホスト％sへのインストール"
+
+msgid "%s Byte"
+msgstr "％sバイト"
+
+msgid "%s Bytes"
+msgstr "％sバイト"
+
+msgid "%s Installer"
+msgstr "％sインストーラー"
+
+msgid "%s KB"
+msgstr "％s KB"
+
+msgid "%s MB"
+msgstr "％s MB"
+
+msgid "%s directory:"
+msgstr "％sディレクトリ："
+
+msgid ""
+"%s for the image:\n"
+"\n"
+"   %s"
+msgstr ""
+
+msgid ""
+"%s is a wireless network adapter.  Please provide the ESSID and encryption "
+"key needed to access your wireless network.  If no key is needed, leave this "
+"field blank and the install will continue."
+msgstr ""
+
+msgid "%s is not a valid hostname."
+msgstr "％sは有効なホスト名ではありません。"
+
+msgid "%s not found"
+msgstr "％sが見つかりません"
+
+msgid "(Max size is %s MB)"
+msgstr "(最大サイズは％s MBです）"
+
+msgid "(ex. \"host.domain.com\")"
+msgstr "（例： \"host.domain.com \"）"
+
+msgid ""
+"/dev/%s currently has a %s partition layout.  To use this disk for the "
+"installation of %s, it must be re-initialized, causing the loss of ALL DATA "
+"on this drive.\n"
+"\n"
+"Would you like to format this drive?"
+msgstr ""
+
+msgid ""
+"/dev/%s has a partition type of 0x82 (Linux swap) but does not appear to be "
+"formatted as a Linux swap partition.\n"
+"\n"
+"Would you like to format this partition as a swap partition?"
+msgstr ""
+
+msgid "/dev/ttyS0 (COM1 under DOS)"
+msgstr "/ dev / ttyS0（DOSではCOM1）"
+
+msgid "/dev/ttyS1 (COM2 under DOS)"
+msgstr "/ dev / ttyS1（DOSではCOM2）"
+
+msgid "/dev/ttyS2 (COM3 under DOS)"
+msgstr "/ dev / ttyS2（DOSではCOM3）"
+
+msgid "/dev/ttyS3 (COM4 under DOS)"
+msgstr "/ dev / ttyS3（DOSではCOM4）"
+
+msgid "<Enter> to exit"
+msgstr "<Enter>で終了"
+
+msgid "<Enter> to reboot"
+msgstr "<Enter>で再起動します"
+
+msgid "<Not Applicable>"
+msgstr "<該当なし>"
+
+msgid ""
+"<Space>,<+>,<-> selection   |   <F2> Group Details   |   <F12> next screen"
+msgstr ""
+
+msgid "<b>_Port Number:</b>"
+msgstr "<b> _ポート番号：</ b>"
+
+msgid "<b>_Target IP Address:</b>"
+msgstr "<b> _ターゲットIPアドレス：</ b>"
+
+msgid "<b>iSCSI Initiator _Name:</b>"
+msgstr "<b> iSCSIイニシエーター_名前：</ b>"
+
+msgid "A RAID device of type %s requires at least %s members."
+msgstr "タイプ％sのRAIDデバイスには、少なくとも％sのメンバーが必要です。"
+
+msgid ""
+"A boot loader password prevents users from changing options passed to the "
+"kernel.  For greater system security, it is recommended that you set a "
+"password."
+msgstr ""
+
+msgid ""
+"A boot loader password prevents users from passing arbitrary options to the "
+"kernel.  For highest security, we recommend setting a password, but this is "
+"not necessary for more casual users."
+msgstr ""
+
+msgid ""
+"A complete log of the installation can be found in the file '%s' after "
+"rebooting your system.\n"
+"\n"
+"A kickstart file containing the installation options selected can be found "
+"in the file '%s' after rebooting the system."
+msgstr ""
+
+msgid ""
+"A complete log of the upgrade can be found in the file '%s' after rebooting "
+"your system."
+msgstr ""
+
+msgid ""
+"A complete log of your installation will be in %s after rebooting your "
+"system. You may want to keep this file for later reference."
+msgstr ""
+
+msgid ""
+"A complete log of your upgrade will be in %s after rebooting your system. "
+"You may want to keep this file for later reference."
+msgstr ""
+
+msgid ""
+"A few systems will need to pass special options to the kernel at boot time "
+"for the system to function properly. If you need to pass boot options to the "
+"kernel, enter them now. If you don't need any or aren't sure, leave this "
+"blank."
+msgstr ""
+
+msgid ""
+"A password will prevent unauthorized listeners connecting and monitoring "
+"your installation progress.  Please enter a password to be used for the "
+"installation"
+msgstr ""
+
+msgid "A screenshot named '%s' has been saved."
+msgstr "「％s」という名前のスクリーンショットが保存されました。"
+
+msgid ""
+"A software RAID device cannot be created because all of the available RAID "
+"minor device numbers have been used."
+msgstr ""
+
+msgid "A value is required for the field \"%s\"."
+msgstr "フィールド\"%s\"には値が必要です。"
+
+msgid "Absolute Symlinks"
+msgstr "絶対シンボリックリンク"
+
+msgid "Activate on boot"
+msgstr "起動時にアクティブ化"
+
+msgid "Active on Boot"
+msgstr "起動時にアクティブ"
+
+msgid "Add"
+msgstr "追加"
+
+msgid "Add Device"
+msgstr "デバイスを追加"
+
+msgid "Add FCP device"
+msgstr "FCPデバイスを追加"
+
+msgid "Add Partition"
+msgstr "パーティションを追加"
+
+msgid "Add Swap"
+msgstr "スワップを追加"
+
+msgid "Add anyway"
+msgstr "とにかく追加"
+
+msgid ""
+"Adding this partition would not leave enough disk space for already "
+"allocated logical volumes in %s."
+msgstr ""
+
+msgid "Additional Size Options"
+msgstr "追加のサイズオプション"
+
+msgid "Advanced Boot Loader Configuration"
+msgstr "高度なブートローダー構成"
+
+msgid "Allowable Drives:"
+msgstr "許容ドライブ："
+
+msgid "Allowable _Drives:"
+msgstr "許容される_ドライブ："
+
+msgid ""
+"An error has occurred - no valid devices were found on which to create new "
+"file systems. Please check your hardware for the cause of this problem."
+msgstr ""
+
+msgid ""
+"An error occured reading the install from the ISO images. Please check your "
+"ISO images and try again."
+msgstr ""
+
+msgid ""
+"An error occurred converting the value entered for \"%s\":\n"
+"%s"
+msgstr ""
+
+msgid "An error occurred copying the screenshots over."
+msgstr "スクリーンショットのコピー中にエラーが発生しました。"
+
+msgid ""
+"An error occurred migrating %s to ext3.  It is possible to continue without "
+"migrating this file system if desired.\n"
+"\n"
+"Would you like to continue without migrating %s?"
+msgstr ""
+
+msgid ""
+"An error occurred searching for bad blocks on %s.  This problem is serious, "
+"and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred transferring the install image to your hard drive. You are "
+"probably out of disk space."
+msgstr ""
+
+msgid ""
+"An error occurred trying to format %s.  This problem is serious, and the "
+"install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred trying to initialize swap on device %s.  This problem is "
+"serious, and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred trying to migrate %s.  This problem is serious, and the "
+"install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred trying to mount some or all of your system. Some of it may "
+"be mounted under %s.\n"
+"\n"
+"Press <return> to get a shell. The system will reboot automatically when you "
+"exit from the shell."
+msgstr ""
+
+msgid ""
+"An error occurred unmounting the CD.  Please make sure you're not accessing "
+"%s from the shell on tty2 and then click OK to retry."
+msgstr ""
+
+msgid ""
+"An error occurred when attempting to load an installer interface component.\n"
+"\n"
+"className = %s"
+msgstr ""
+
+msgid "An error occurred when finding the packages to upgrade."
+msgstr "アップグレードするパッケージを見つけるときにエラーが発生しました。"
+
+msgid ""
+"An error occurred when trying to create %s.  Some element of this path is "
+"not a directory. This is a fatal error and the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred when trying to create %s: %s.  This is a fatal error and "
+"the install cannot continue.\n"
+"\n"
+"Press <Enter> to reboot your system."
+msgstr ""
+
+msgid ""
+"An error occurred while saving the screenshot.  If this occurred during "
+"package installation, you may need to try several times for it to succeed."
+msgstr ""
+
+msgid ""
+"An unhandled exception has occurred. Please save a copy of the detailed "
+"exception and file a bug report to 'RedStar' Team"
+msgstr ""
+
+msgid "Apple Bootstrap"
+msgstr ""
+
+msgid "Are you sure you want to Delete the logical volume \"%s\"?"
+msgstr "論理ボリューム \"％s \"を削除してもよろしいですか？"
+
+msgid ""
+"Are you sure you want to reset the partition table to its original state?"
+msgstr ""
+
+msgid ""
+"Arrange the drives to be in the same order as used by the BIOS. Changing the "
+"drive order may be useful if you have multiple SCSI adapters or both SCSI "
+"and IDE adapters and want to boot from the SCSI device.\n"
+"\n"
+"Changing the drive order will change where the installation program locates "
+"the Master Boot Record (MBR)."
+msgstr ""
+
+msgid ""
+"As you don't have much memory in this machine, we need to turn on swap space "
+"immediately. To do this we'll have to write your new partition table to the "
+"disk immediately. Is that OK?"
+msgstr ""
+
+msgid ""
+"At least one unused physical volume partition is needed to create an LVM "
+"Volume Group.\n"
+"\n"
+"Create a partition or RAID array of type \"physical volume (LVM)\" and then "
+"select the \"LVM\" option again."
+msgstr ""
+
+msgid "At least two software RAID partitions are needed."
+msgstr "少なくとも2つのソフトウェアRAIDパーティションが必要です。"
+
+msgid ""
+"At least two unused software RAID partitions are needed to create a RAID "
+"device.\n"
+"\n"
+"First create at least two partitions of type \"software RAID\", and then "
+"select the \"RAID\" option again."
+msgstr ""
+
+msgid "Attempting to connect to vnc client on host %s..."
+msgstr "ホスト％sのvncクライアントに接続しようとしています..."
+
+msgid "Attempting to start %s"
+msgstr "％sを開始しようとしています"
+
+msgid "Automatic Partitioning Errors"
+msgstr "自動パーティショニングエラー"
+
+msgid ""
+"Automatic Partitioning sets partitions based on the selected installation "
+"type. You also can customize the partitions once they have been created.\n"
+"\n"
+"The manual disk partitioning tool, Disk Druid, allows you to create "
+"partitions in an interactive environment. You can set the file system types, "
+"mount points, partition sizes, and more."
+msgstr ""
+
+msgid "Autopartition"
+msgstr "自動パーティション"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Bad argument to HD kickstart method command %s: %s"
+msgstr "HDキックスタートメソッドコマンドの引数が正しくありません％s：％s"
+
+msgid "Bad argument to NFS kickstart method command %s: %s"
+msgstr "NFSキックスタートメソッドコマンド％sへの不正な引数：％s"
+
+msgid "Bad argument to Url kickstart method command %s: %s"
+msgstr "URLキックスタートメソッドコマンドの引数が正しくありません％s：％s"
+
+msgid "Bad argument to device kickstart method command %s: %s"
+msgstr "デバイスキックスタートメソッドコマンド％sへの不正な引数：％s"
+
+msgid "Bad argument to kickstart network command %s: %s"
+msgstr "ネットワークコマンド％sをキックスタートするための不正な引数：％s"
+
+msgid "Bad argument to shutdown kickstart method command %s: %s"
+msgstr ""
+"キックスタートメソッドコマンドをシャットダウンするための不正な引数％s：％s"
+"キックスタートメソッドコマンドをシャットダウンするための不正な引数％s：％s"
+
+msgid ""
+"Bad blocks have been detected on device /dev/%s. We do not recommend you use "
+"this device.\n"
+"\n"
+"Press <Enter> to reboot your system"
+msgstr ""
+
+msgid "Bad bootproto %s specified in network command"
+msgstr "ネットワークコマンドで不正なbootproto％sが指定されました"
+
+msgid ""
+"Before automatic partitioning can be set up by the installation program, you "
+"must choose how to use the space on your hard drives."
+msgstr ""
+
+msgid "Boot Loader"
+msgstr "ブートローダー"
+
+msgid "Boot Loader Configuration"
+msgstr "ブートローダーの構成"
+
+msgid "Boot Loader Password:"
+msgstr "ブートローダーのパスワード："
+
+msgid "Boot label"
+msgstr "ブートラベル"
+
+msgid "Boot label contains illegal characters"
+msgstr "ブートラベルに不正な文字が含まれています"
+
+msgid "Boot label contains illegal characters."
+msgstr "ブートラベルに不正な文字が含まれています。"
+
+msgid "Boot label may not be empty."
+msgstr "ブートラベルが空でない可能性があります。"
+
+msgid "Boot loader password is too short"
+msgstr "ブートローダーのパスワードが短すぎます"
+
+msgid ""
+"Boot partition %s doesn't belong to a BSD disk label. SRM won't be able to "
+"boot from this partition. Use a partition belonging to a BSD disk label or "
+"change this device disk label to BSD."
+msgstr ""
+
+msgid ""
+"Boot partition %s doesn't belong to a disk with enough free space at its "
+"beginning for the bootloader to live on. Make sure that there's at least 5MB "
+"of free space at the beginning of the disk that contains /boot"
+msgstr ""
+
+msgid ""
+"Boot partition %s isn't a VFAT partition.  EFI won't be able to boot from "
+"this partition."
+msgstr ""
+
+msgid ""
+"Boot partition %s may not meet booting constraints for your architecture."
+msgstr ""
+
+msgid ""
+"Boot partition isn't located early enough on the disk.  OpenFirmware won't "
+"be able to boot this installation."
+msgstr ""
+
+msgid "Bootable partitions can only be on RAID1 devices."
+msgstr "起動可能なパーティションはRAID1デバイス上にのみ存在できます。"
+
+msgid "Bootable partitions cannot be on a logical volume."
+msgstr "ブータブルパーティションを論理ボリュームに配置することはできません。"
+
+msgid "Bootloader"
+msgstr "ブートローダー"
+
+msgid "Bootloader Install"
+msgstr "ブートローダーのインストール"
+
+msgid "CD Found"
+msgstr "CDが見つかりました"
+
+msgid "CD Not Found"
+msgstr "CDが見つかりません"
+
+msgid ""
+"Can not found a setup CD.  Please insert the setup CD and press OK to retry."
+msgstr ""
+
+msgid "Can not install because harddisk write error."
+msgstr "ハードディスク書き込みエラーのためインストールできません。"
+
+msgid "Can not read %s file."
+msgstr "％sファイルを読み取れません。"
+
+msgid "Can not read packages info."
+msgstr "パッケージ情報を読み取れません。"
+
+msgid "Can't have a question in command line mode!"
+msgstr "コマンドラインモードでは質問できません！"
+
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgid "Cancelled"
+msgstr "キャンセル"
+
+msgid "Cannot Delete"
+msgstr "削除できません"
+
+msgid "Cannot find hard drive for BIOS disk %s"
+msgstr "BIOSディスク％sのハードドライブが見つかりません"
+
+msgid "Cannot find kickstart file on CDROM."
+msgstr "CDROMでキックスタートファイルが見つかりません。"
+
+msgid "Cannot find kickstart file on hard drive."
+msgstr "ハードドライブにキックスタートファイルが見つかりません。"
+
+msgid "Cannot find ks.cfg on boot floppy."
+msgstr "ブートフロッピーにks.cfgが見つかりません。"
+
+msgid "Chandev Parameters"
+msgstr "Chandevパラメーター"
+
+msgid "Chandev line "
+msgstr "Chandevライン"
+
+msgid "Change CDROM"
+msgstr "CDROMを変更する"
+
+msgid "Change _password"
+msgstr "_passwordを変更する"
+
+msgid "Check for _bad blocks?"
+msgstr "_badブロックをチェックしますか？"
+
+msgid "Check for bad blocks"
+msgstr "不良ブロックをチェックします"
+
+msgid "Checking \"%s\"..."
+msgstr "\"％s\"を確認しています..."
+
+msgid "Checking dependencies in packages selected for installation..."
+msgstr "インストール用に選択されたパッケージの依存関係を確認しています..."
+
+msgid "Checking for Bad Blocks"
+msgstr "不良ブロックのチェック"
+
+msgid "Checking for bad blocks on /dev/%s..."
+msgstr "/ dev /％sの不良ブロックをチェックしています..."
+
+msgid "Checking for installation..."
+msgstr "インストールを確認しています..."
+
+msgid "Checking media now..."
+msgstr "今メディアをチェックしています..."
+
+msgid "Checksum Test"
+msgstr "チェックサムテスト"
+
+msgid ""
+"Choose \"%s\" to test the CD currently in the drive, or \"%s\" to eject the "
+"CD and insert another for testing."
+msgstr ""
+
+msgid "Choose a Language"
+msgstr "言語を選択してください"
+
+msgid ""
+"Choose this option if you would like to upgrade your existing %s system.  "
+"This option will preserve the existing data on your drives."
+msgstr ""
+
+msgid ""
+"Choose this option to freshly install your system. Existing software and "
+"data may be overwritten depending on your configuration choices."
+msgstr ""
+
+msgid "Choosing install type and detecting devices."
+msgstr "インストールタイプの選択とデバイスの検出。"
+
+msgid "Clear"
+msgstr "クリア"
+
+msgid "Click next to begin installation of %s."
+msgstr "[次へ]をクリックして、％sのインストールを開始します。"
+
+msgid "Click next to begin upgrade of %s."
+msgstr "[次へ]をクリックして、％sのアップグレードを開始します。"
+
+msgid ""
+"Clone Drive Tool\n"
+"\n"
+"This tool allows you to significantly reduce the amount of effort required "
+"to setup RAID arrays.  The idea is to take a source drive which has been "
+"prepared with the desired partitioning layout, and clone this layout onto "
+"other similar sized drives.  Then a RAID device can be created.\n"
+"\n"
+"NOTE: The source drive must have partitions which are restricted to be on "
+"that drive only, and can only contain unused software RAID partitions.  "
+"Other partition types are not allowed.\n"
+"\n"
+"EVERYTHING on the target drive(s) will be destroyed by this process."
+msgstr ""
+
+msgid "Clone Drives"
+msgstr "クローンドライブ"
+
+msgid "Clone a _drive to create a RAID device [default=/dev/md%s]."
+msgstr ""
+"_driveのクローンを作成してRAIDデバイスを作成します[デフォルト= / dev / md"
+"％s]。_driveのクローンを作成してRAIDデバイスを作成します[デフォルト= / dev / "
+"md％s]。"
+
+msgid "Complete"
+msgstr "完了"
+
+msgid "Completed"
+msgstr "完了"
+
+msgid "Completed:   "
+msgstr "完了："
+
+msgid "Configure %s"
+msgstr "％sを構成する"
+
+msgid "Configure TCP/IP"
+msgstr "TCP/IPを構成する"
+
+msgid "Configure advanced boot loader options"
+msgstr "高度なブートローダーオプションを構成する"
+
+msgid "Configure using DHCP"
+msgstr "DHCPを使用して構成する"
+
+msgid "Configure using _DHCP"
+msgstr "_DHCPを使用して構成する"
+
+msgid "Confirm"
+msgstr "確認"
+
+msgid "Confirm Delete"
+msgstr "削除の確認"
+
+msgid "Confirm Physical Extent Change"
+msgstr "物理的範囲の変更を確認する"
+
+msgid "Confirm Reset"
+msgstr "リセットの確認"
+
+msgid "Confirm:"
+msgstr "確認："
+
+msgid "Congratulations"
+msgstr "おめでとうございます"
+
+msgid "Congratulations, the installation is complete."
+msgstr "おめでとうございます。インストールは完了しました。"
+
+msgid "Connecting..."
+msgstr "接続中..."
+
+msgid "Continue"
+msgstr "続行"
+
+msgid "Copying File"
+msgstr "ファイルのコピー"
+
+msgid "Could not allocate cylinder-based partitions"
+msgstr "シリンダーベースのパーティションを割り当てることができませんでした"
+
+msgid "Could not allocate cylinder-based partitions as primary partitions"
+msgstr ""
+"シリンダーベースのパーティションをプライマリパーティションとして割り当てるこ"
+"とができませんでしたシリンダーベースのパーティションをプライマリパーティショ"
+"ンとして割り当てることができませんでした"
+
+msgid "Could not allocate partitions"
+msgstr "パーティションを割り当てることができませんでした"
+
+msgid "Could not allocate partitions as primary partitions"
+msgstr ""
+"パーティションをプライマリパーティションとして割り当てることができませんでし"
+"たパーティションをプライマリパーティションとして割り当てることができませんで"
+"した"
+
+msgid ""
+"Could not allocate requested partitions: \n"
+"\n"
+"%s.%s"
+msgstr ""
+
+msgid "Could not allocate requested partitions: %s."
+msgstr "要求されたパーティションを割り当てることができませんでした：％s。"
+
+msgid "Couldn't Create Drive Clone Editor"
+msgstr "ドライブクローンエディタを作成できませんでした"
+
+msgid "Create a RAID _device [default=/dev/md%s]."
+msgstr "RAID _device [default = / dev / md％s]を作成します。"
+
+msgid "Create a software RAID _partition."
+msgstr "ソフトウェアRAID_partitionを作成します。"
+
+msgid "Create new boot loader configuration"
+msgstr "新しいブートローダー構成を作成する"
+
+msgid "Creating swap file."
+msgstr "スワップファイルを作成しています。"
+
+msgid "Customize"
+msgstr "カスタマイズ"
+
+msgid "Customize Packages to Upgrade"
+msgstr "アップグレードするパッケージをカスタマイズする"
+
+msgid "Customize _later"
+msgstr "_laterをカスタマイズする"
+
+msgid "Customize software selection"
+msgstr "ソフトウェアの選択をカスタマイズする"
+
+msgid "DDC Probed Monitor"
+msgstr "DDCプローブモニター"
+
+msgid "DISPLAY variable not set. Starting text mode!"
+msgstr "DISPLAY変数が設定されていません。"
+
+msgid "Debug"
+msgstr "デバッグ"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Default Boot _Target"
+msgstr "デフォルトのブート_ターゲット"
+
+msgid "Default gateway (IP):"
+msgstr "デフォルトゲートウェイ（IP）："
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Dependency Check"
+msgstr "依存関係チェック"
+
+msgid "Description: %s"
+msgstr "説明：％s"
+
+msgid "Determining host name and domain..."
+msgstr "ホスト名とドメインの決定.."
+
+msgid "Device"
+msgstr "デバイス"
+
+msgid "Device #"
+msgstr "デバイス"
+
+msgid "Device %s does not appear to contain %s CDROM images."
+msgstr "デバイス％sに％sCDROMイメージが含まれていないようです。"
+
+msgid "Device %s does not appear to contain the installation"
+msgstr "デバイス％sにインストールが含まれていないようです"
+
+msgid "Device number"
+msgstr "デバイス番号"
+
+msgid "Devices"
+msgstr "デバイス"
+
+msgid "Directory holding images:"
+msgstr "画像を保持するディレクトリ："
+
+msgid "Dirty File Systems"
+msgstr "ダーティファイルシステム"
+
+msgid "Disk Druid"
+msgstr "ディスクドルイド"
+
+msgid "Disk Partitioning Setup"
+msgstr "ディスクパーティションの設定"
+
+msgid "Disk Utility"
+msgstr "ディスクユーティリティ"
+
+msgid "Do Not Format"
+msgstr "フォーマットしない"
+
+msgid "Do you have a driver disk?"
+msgstr "ドライバディスクはありますか？"
+
+msgid "Do you want to start the network interfaces on this system?"
+msgstr "このシステムでネットワークインターフェイスを開始しますか？"
+
+msgid "Do you wish to load any more driver disks?"
+msgstr "これ以上ドライバディスクをロードしますか？"
+
+msgid "Done"
+msgstr "完了"
+
+msgid "Done [%d/%d]"
+msgstr "完了[％d /％d]"
+
+msgid "Downloading %s"
+msgstr "％sをダウンロードしています"
+
+msgid "Downloading - %s"
+msgstr "ダウンロード-％s"
+
+msgid "Drive"
+msgstr "ドライブ"
+
+msgid "Drive:"
+msgstr "ドライブ："
+
+msgid "Driver Disk Source"
+msgstr "ドライバディスクソース"
+
+msgid "Driver disk"
+msgstr "ドライバーディスク"
+
+msgid "Drives"
+msgstr "ドライブ"
+
+msgid "Dump Not Written"
+msgstr "ダンプが書かれていません"
+
+msgid "Dump Written"
+msgstr "ダンプが書かれました"
+
+msgid "Duplicate Device"
+msgstr "重複デバイス"
+
+msgid "Duplicate Label"
+msgstr "重複ラベル"
+
+msgid "Duplicate Labels"
+msgstr "ラベルが重複しています"
+
+msgid "Dynamic IP"
+msgstr "ダイナミックIP"
+
+msgid "ESSID"
+msgstr ""
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Edit Boot Label"
+msgstr "ブートラベルの編集"
+
+msgid "Edit Drive Order"
+msgstr "ドライブの順序を編集する"
+
+msgid "Edit FCP device %s"
+msgstr "FCPデバイス％sを編集"
+
+msgid "Edit Interface %s"
+msgstr "インターフェース％sの編集"
+
+msgid "Edit LVM Volume Group"
+msgstr "LVMボリュームグループの編集"
+
+msgid "Edit LVM Volume Group: %s"
+msgstr "LVMボリュームグループの編集：％s"
+
+msgid "Edit Logical Volume"
+msgstr "論理ボリュームの編集"
+
+msgid "Edit Logical Volume: %s"
+msgstr "論理ボリュームの編集：％s"
+
+msgid "Edit Partition"
+msgstr "パーティションの編集"
+
+msgid "Edit Partition: /dev/%s"
+msgstr "パーティションの編集：/ dev /％s"
+
+msgid "Edit RAID Device"
+msgstr "RAIDデバイスの編集"
+
+msgid "Edit RAID Device: /dev/md%s"
+msgstr "RAIDデバイスの編集：/ dev / md％s"
+
+msgid "Eject CD"
+msgstr "CDを取り出す"
+
+msgid "Emulate 3 Buttons?"
+msgstr "3つのボタンをエミュレートしますか？"
+
+msgid "Encryption Key"
+msgstr "暗号化キー"
+
+msgid "End"
+msgstr "終了"
+
+msgid "End Cylinder:"
+msgstr "エンドシリンダー："
+
+msgid "Enter Boot Loader Password"
+msgstr "ブートローダーのパスワードを入力してください"
+
+msgid "Enter Module Parameters"
+msgstr "モジュールパラメータを入力してください"
+
+msgid ""
+"Enter a boot loader password and then confirm it.  (Note that your BIOS "
+"keymap may be different than the actual keymap you are used to.)"
+msgstr ""
+
+msgid ""
+"Enter a label to be displayed in the boot loader menu. The device (or hard "
+"drive and partition number) is the device from which it boots."
+msgstr ""
+
+msgid "Enter path of install images."
+msgstr "インストールイメージのパスを入力します。"
+
+msgid "Error"
+msgstr "エラー"
+
+msgid "Error - the logical volume name %s is not valid."
+msgstr "エラー-論理ボリューム名％sが無効です。"
+
+msgid ""
+"Error - the logical volume name contains illegal characters or spaces.  "
+"Acceptable characters are letters, digits, '.' or '_'."
+msgstr ""
+
+msgid "Error - the volume group name %s is not valid."
+msgstr "エラー-ボリュームグループ名％sが無効です。"
+
+msgid ""
+"Error - the volume group name contains illegal characters or spaces.  "
+"Acceptable characters are letters, digits, '.' or '_'."
+msgstr ""
+
+msgid "Error Parsing Kickstart Config"
+msgstr "キックスタート構成の解析エラー"
+
+msgid "Error Partitioning"
+msgstr "エラー分割"
+
+msgid "Error Saving Screenshot"
+msgstr "スクリーンショットの保存エラー"
+
+msgid "Error With Data"
+msgstr "データのエラー"
+
+msgid "Error With Request"
+msgstr "リクエストでエラー"
+
+msgid ""
+"Error enabling swap device %s: %s\n"
+"\n"
+"The /etc/fstab on your upgrade partition does not reference a valid swap "
+"partition.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+
+msgid ""
+"Error enabling swap device %s: %s\n"
+"\n"
+"This most likely means this swap partition has not been initialized.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+
+msgid ""
+"Error finding / entry.\n"
+"\n"
+"This is most likely means that your fstab is incorrect.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+
+msgid "Error in %s on line %d of kickstart file %s."
+msgstr "キックスタートファイル％sの行％dの％sでエラーが発生しました。"
+
+msgid ""
+"Error mounting device %s as %s: %s\n"
+"\n"
+"This most likely means this partition has not been formatted.\n"
+"\n"
+"Press OK to reboot your system."
+msgstr ""
+
+msgid "Error mounting file system on %s: %s"
+msgstr "％sでのファイルシステムのマウントエラー：％s"
+
+msgid "Error opening kickstart file %s: %s"
+msgstr "キックスタートファイル％sを開くときにエラーが発生しました：％s"
+
+msgid "Error pulling second part of kickstart config: %s!"
+msgstr "キックスタート構成の2番目の部分のプル中にエラーが発生しました：％s！"
+
+msgid "Error reading contents of kickstart file %s: %s"
+msgstr "キックスタートファイル％sの内容の読み取りエラー：％s"
+
+msgid "Error running transaction"
+msgstr "トランザクションの実行中にエラーが発生しました"
+
+msgid "Error with Data"
+msgstr "データのエラー"
+
+msgid "Error with Partitioning"
+msgstr "パーティショニングのエラー"
+
+msgid "Error with Password"
+msgstr "パスワードのエラー"
+
+msgid "Error!"
+msgstr "エラー！"
+
+msgid "Exception Info"
+msgstr "例外情報"
+
+msgid "Exception Occurred"
+msgstr "例外が発生しました"
+
+msgid "Exception details"
+msgstr "例外の詳細"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "Extended"
+msgstr "拡張"
+
+msgid "FAILED"
+msgstr "失敗"
+
+msgid "FCP Device"
+msgstr "FCPデバイス"
+
+msgid "FCP Devices"
+msgstr "FCPデバイス"
+
+msgid "FCP LUN"
+msgstr ""
+
+msgid "FTP Setup"
+msgstr "FTPセットアップ"
+
+msgid "FTP site name:"
+msgstr "FTPサイト名："
+
+msgid "Failed to load driver disk from file."
+msgstr "ファイルからドライバディスクを読み込めませんでした。"
+
+msgid "Failed to log into %s: %s"
+msgstr "％sへのログインに失敗しました：％s"
+
+msgid "Failed to mount driver disk."
+msgstr "ドライバディスクのマウントに失敗しました。"
+
+msgid "Failed to mount partition."
+msgstr "パーティションのマウントに失敗しました。"
+
+msgid "Failed to mount updates disk"
+msgstr "アップデートディスクのマウントに失敗しました"
+
+msgid "Failed to read directory %s: %s"
+msgstr "ディレクトリ％sの読み取りに失敗しました：％s"
+
+msgid "Failed to retrieve %s: %s"
+msgstr "％sの取得に失敗しました：％s"
+
+msgid "File System"
+msgstr "ファイルシステム"
+
+msgid "File System Label:"
+msgstr "ファイルシステムラベル："
+
+msgid "File System Option:"
+msgstr "ファイルシステムオプション："
+
+msgid "File System Options"
+msgstr "ファイルシステムオプション"
+
+msgid "File System Type:"
+msgstr "ファイルシステムタイプ："
+
+msgid "File System _Type:"
+msgstr "ファイルシステム_タイプ："
+
+msgid "File System type:"
+msgstr "ファイルシステムタイプ："
+
+msgid "Fill all available space:"
+msgstr "利用可能なすべてのスペースを埋めます："
+
+msgid "Fill all space _up to (MB):"
+msgstr "すべてのスペースを（MB）まで埋めます："
+
+msgid "Fill maximum size of (MB):"
+msgstr "最大サイズ（MB）を入力："
+
+msgid "Fill to maximum _allowable size"
+msgstr "最大_許容サイズまで埋める"
+
+msgid "Final Warning"
+msgstr "最終警告"
+
+msgid "Finding"
+msgstr "発見"
+
+msgid "Finding packages to upgrade..."
+msgstr "アップグレードするパッケージを見つける..."
+
+msgid "First sector of boot partition"
+msgstr "ブートパーティションの最初のセクター"
+
+msgid "Fix"
+msgstr "修正"
+
+msgid "Fixed Size:"
+msgstr "固定サイズ："
+
+msgid ""
+"Following warnings occurred during automatic partitioning:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"For information on errata (updates and bug fixes), visit http://www.redhat."
+"com/errata/.\n"
+"\n"
+"Information on using your system is available in the %s manuals at http://"
+"www.redhat.com/docs/."
+msgstr ""
+
+msgid "For installing system, needed size is 2.5GB."
+msgstr "システムをインストールするために必要なサイズは2.5GBです。"
+
+msgid "Force LBA32"
+msgstr "強制LBA32"
+
+msgid "Force to be a _primary partition"
+msgstr "強制的に_primaryパーティションにする"
+
+msgid "Force to be a primary partition"
+msgstr "強制的にプライマリパーティションにする"
+
+msgid "Force use of LBA32 (not normally required)"
+msgstr "LBA32の強制使用（通常は不要）"
+
+msgid ""
+"Forcing the use of LBA32 for your bootloader when not supported by the BIOS "
+"can cause your machine to be unable to boot.\n"
+"\n"
+"Would you like to continue and force LBA32 mode?"
+msgstr ""
+
+msgid "Foreign"
+msgstr "外国人"
+
+msgid "Format"
+msgstr "フォーマット"
+
+msgid "Format Warning"
+msgstr "フォーマット警告"
+
+msgid "Format Warnings"
+msgstr "フォーマットの警告"
+
+msgid "Format as %s"
+msgstr "％sとしてフォーマット"
+
+msgid "Format as Swap?"
+msgstr "スワップとしてフォーマットしますか？"
+
+msgid "Format as:"
+msgstr "フォーマット："
+
+msgid "Format drive"
+msgstr "フォーマットドライブ"
+
+msgid "Format partition as:"
+msgstr "パーティションを次のようにフォーマットします："
+
+msgid "Format partition?"
+msgstr "パーティションをフォーマットしますか？"
+
+msgid "Format?"
+msgstr "フォーマット？"
+
+msgid "Formatting"
+msgstr "フォーマット"
+
+msgid "Formatting %s file system..."
+msgstr "％sファイルシステムをフォーマットしています..."
+
+msgid "Free"
+msgstr "無料"
+
+msgid "Free Space"
+msgstr "空き容量"
+
+msgid "Free Space (MB)"
+msgstr "空き容量（MB）"
+
+msgid "Free Space:"
+msgstr "空き容量："
+
+msgid "Free space"
+msgstr "空き容量"
+
+msgid "Further FTP Setup"
+msgstr "さらなるFTPセットアップ"
+
+msgid "Further HTTP Setup"
+msgstr "さらなるHTTPセットアップ"
+
+msgid ""
+"Further customization of the software selection can be completed now or "
+"after install via the software management application."
+msgstr ""
+
+msgid "GROUPNAME"
+msgstr ""
+
+msgid "Gateway"
+msgstr "ゲートウェイ"
+
+msgid "Gateway:"
+msgstr "ゲートウェイ："
+
+msgid "Giving up attempting to connect after 50 tries!\n"
+msgstr "50回試行した後、接続の試行をあきらめました！\n"
+
+msgid "Graphical installation not available...  Starting text mode."
+msgstr ""
+"グラフィカルインストールは利用できません...テキストモードを開始しています。グ"
+"ラフィカルインストールは利用できません...テキストモードを開始しています。"
+
+msgid "Grub will not be installed."
+msgstr "Grubはインストールされません。"
+
+msgid "HTTP Setup"
+msgstr "HTTPセットアップ"
+
+msgid "Hard Drives"
+msgstr "ハードドライブ"
+
+msgid "Hard drive"
+msgstr "ハードドライブ"
+
+msgid "Hardware Address: %s"
+msgstr "ハードウェアアドレス：％s"
+
+msgid "Hardware address:"
+msgstr "ハードウェアアドレス："
+
+msgid "Help Articles"
+msgstr "ヘルプ記事"
+
+msgid "Help not available"
+msgstr "ヘルプは利用できません"
+
+msgid "Hide RAID device/LVM Volume _Group members"
+msgstr "RAIDデバイス/LVMボリュームを非表示にする_グループメンバー"
+
+msgid "Hide _Help"
+msgstr "_Helpを非表示"
+
+msgid "Host"
+msgstr "ホスト"
+
+msgid "Hostname"
+msgstr "ホスト名"
+
+msgid "Hostname Configuration"
+msgstr "ホスト名の構成"
+
+msgid "Hostname must be 64 or less characters in length."
+msgstr "ホスト名の長さは64文字以下である必要があります。"
+
+msgid "Hostname must start with a valid character in the range 'a-z' or 'A-Z'"
+msgstr "ホスト名は「a-z」または「A-Z」の範囲の有効な文字で始まる必要があります"
+
+msgid "Hostname specified with no DNS configured"
+msgstr "DNSが構成されていない状態でホスト名が指定されました"
+
+msgid "Hostnames can only contain the characters 'a-z', 'A-Z', '-', or '.'"
+msgstr ""
+"ホスト名には、「a-z」、「A-Z」、「-」、または「。」の文字のみを含めることがで"
+"きます。ホスト名には、「a-z」、「A-Z」、「-」、または「。」の文字のみを含める"
+"ことができます。"
+
+msgid "How would you like to get space to partition?"
+msgstr "パーティションを作成するためのスペースをどのように取得しますか？"
+
+msgid "How would you like to prepare the file system on this partition?"
+msgstr "このパーティションでファイルシステムをどのように準備しますか？"
+
+msgid "I _don't want to create a swap file"
+msgstr "スワップファイルを作成したくない"
+
+msgid "I _want to create a swap file"
+msgstr "スワップファイルを作成したい"
+
+msgid "I can't go to the previous step from here. You will have to try again."
+msgstr "ここから前のステップに進むことができません。"
+
+msgid "IP Address is missing"
+msgstr "IPアドレスがありません"
+
+msgid "IP Addresses must contain numbers between 0 and 255"
+msgstr "IPアドレスには0から255までの数字を含める必要があります"
+
+msgid "IP Addresses must contain numbers between 1 and 255"
+msgstr "IPアドレスには1から255までの数字が含まれている必要があります"
+
+msgid "IP address:"
+msgstr "IPアドレス："
+
+msgid "IP/Netmask"
+msgstr "IP/ネットマスク"
+
+msgid ""
+"If you are using a HTTP proxy server enter the name of the HTTP proxy server "
+"to use."
+msgstr ""
+
+msgid ""
+"If you are using non anonymous ftp, enter the account name and password you "
+"wish to use below."
+msgstr ""
+
+msgid ""
+"If you reboot, your system will be left in an inconsistent state that will "
+"likely require reinstallation.  Are you sure you wish to continue?"
+msgstr ""
+
+msgid ""
+"If you wish to add default options to the boot command, enter them into the "
+"'General kernel parameters' field."
+msgstr ""
+
+msgid ""
+"If you would like to test additional media, insert the next CD and press \"%s"
+"\". Testing each CD is not strictly required, however it is highly "
+"recommended.  Minimally, the CDs should be tested prior to using them for "
+"the first time. After they have been successfully tested, it is not required "
+"to retest each CD prior to using it again."
+msgstr ""
+
+msgid ""
+"If your system is part of a larger network where hostnames are assigned by "
+"DHCP, select automatically via DHCP. Otherwise, select manually and enter in "
+"a hostname for your system. If you do not, your system will be known as "
+"'localhost.'"
+msgstr ""
+
+msgid "Ignore"
+msgstr "無視する"
+
+msgid "Ignore drive"
+msgstr "ドライブを無視する"
+
+msgid "Illegal Logical Volume Name"
+msgstr "論理ボリューム名が無効です"
+
+msgid "Illegal logical volume name"
+msgstr "論理ボリューム名が無効です"
+
+msgid "Illegal size"
+msgstr "サイズが不正です"
+
+msgid "Image"
+msgstr "画像"
+
+msgid "In progress...   "
+msgstr "進行中..."
+
+msgid "Initializing"
+msgstr "初期化"
+
+msgid "Insert Driver Disk"
+msgstr "ドライバーディスクを挿入"
+
+msgid "Insert your driver disk into /dev/%s and press \"OK\" to continue."
+msgstr "ドライバディスクを/ dev /％sに挿入し、「OK」を押して続行します。"
+
+msgid "Insert your updates disk into /dev/%s and press \"OK\" to continue."
+msgstr "更新ディスクを/ dev /％sに挿入し、「OK」を押して続行します。"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "Install Boot Loader record on:"
+msgstr "ブートローダーレコードを次の場所にインストールします："
+
+msgid "Install Complete"
+msgstr "インストールが完了しました"
+
+msgid "Install Starting"
+msgstr "インストール開始"
+
+msgid "Install Window"
+msgstr "インストールウィンドウ"
+
+msgid "Install class forcing text mode installation"
+msgstr "テキストモードのインストールを強制するクラスをインストールします"
+
+msgid "Install on System"
+msgstr "システムにインストール"
+
+msgid "Installation Method"
+msgstr "インストール方法"
+
+msgid "Installation Progress"
+msgstr "インストールの進行状況"
+
+msgid "Installation Type"
+msgstr "インストールタイプ"
+
+msgid "Installation cannot continue."
+msgstr "インストールを続行できません。"
+
+msgid "Installation is completed."
+msgstr "インストールが完了しました。"
+
+msgid ""
+"Installation requires partitioning of your hard drive.  By default, a "
+"partitioning layout is chosen which is reasonable for most users.  You can "
+"either choose to use this or create your own."
+msgstr ""
+
+msgid "Installation to begin"
+msgstr "インストールを開始します"
+
+msgid "Installing %s-%s-%s.%s (%s)"
+msgstr "％s-％s-％s。％s（％s）をインストールしています"
+
+msgid "Installing %s-%s-%s.%s.\n"
+msgstr "％s-％s-％s。％sをインストールしています。\n"
+
+msgid "Installing %s-%s-%s... "
+msgstr "％s-％s-％sをインストールしています..."
+
+msgid ""
+"Installing <product> requires partitioning of your hard drive.  You can "
+"either use the default partitioning layout or create your own."
+msgstr ""
+
+msgid "Installing Packages"
+msgstr "パッケージのインストール"
+
+msgid "Installing bootloader..."
+msgstr "ブートローダーをインストールしています..."
+
+msgid "Installing the system on partition '%s'..."
+msgstr "パーティション'％s'にシステムをインストールしています..."
+
+msgid "Installing..."
+msgstr "インストール中..."
+
+msgid "Invalid Boot Label"
+msgstr "無効なブートラベル"
+
+msgid "Invalid Directories"
+msgstr "無効なディレクトリ"
+
+msgid "Invalid Entry for End Cylinder"
+msgstr "エンドシリンダーのエントリが無効です"
+
+msgid "Invalid Entry for Maximum Size"
+msgstr "最大サイズのエントリが無効です"
+
+msgid "Invalid Entry for Partition Size"
+msgstr "パーティションサイズのエントリが無効です"
+
+msgid "Invalid Entry for RAID Spares"
+msgstr "RAIDスペアの無効なエントリ"
+
+msgid "Invalid Entry for Starting Cylinder"
+msgstr "シリンダーを開始するための無効なエントリー"
+
+msgid "Invalid Hostname"
+msgstr "無効なホスト名"
+
+msgid "Invalid IP Information"
+msgstr "無効なIP情報"
+
+msgid "Invalid IP string"
+msgstr "無効なIP文字列"
+
+msgid "Invalid Volume Group Name"
+msgstr "無効なボリュームグループ名"
+
+msgid "Invalid information"
+msgstr "無効な情報"
+
+msgid "Invalid mount point"
+msgstr "無効なマウントポイント"
+
+msgid "It is OK to install from this media."
+msgstr "このメディアからインストールしてもOKです。"
+
+msgid ""
+"It is recommended that your swap file be at least %d MB.  Please enter a "
+"size for the swap file:"
+msgstr ""
+
+msgid ""
+"It is stongly recommended that you create a swap file.  Failure to do so "
+"could cause the installer to abort abnormally.  Are you sure that you wish "
+"to continue?"
+msgstr ""
+
+msgid "Keep all partitions and use existing free space"
+msgstr "すべてのパーティションを保持し、既存の空き領域を使用する"
+
+msgid "Kernel Parameters"
+msgstr "カーネルパラメータ"
+
+msgid "Keyboard Selection"
+msgstr "キーボードの選択"
+
+msgid "Keyboard Type"
+msgstr "キーボードタイプ"
+
+msgid "Kickstart Error"
+msgstr "キックスタートエラー"
+
+msgid "LVM Volume Groups"
+msgstr "LVMボリュームグループ"
+
+msgid "LVM Volume Groups can only be edited in the graphical installer."
+msgstr ""
+"LVMボリュームグループは、グラフィカルインストーラーでのみ編集できます。LVMボ"
+"リュームグループは、グラフィカルインストーラーでのみ編集できます。"
+
+msgid "LVM is NOT supported on this platform."
+msgstr "LVMはこのプラットフォームではサポートされていません。"
+
+msgid "Label"
+msgstr "ラベル"
+
+msgid "Language Selection"
+msgstr "言語の選択"
+
+msgid "Leave _unchanged (preserve data)"
+msgstr "_unchangedのままにする（データを保持する）"
+
+msgid "Leave unchanged"
+msgstr "変更しないでください"
+
+msgid "Leave unchanged (preserve data)"
+msgstr "変更しないでください（データを保持します）"
+
+msgid "Load another disk"
+msgstr "別のディスクをロードする"
+
+msgid "Load driver disk"
+msgstr "ドライバーディスクをロードする"
+
+msgid "Loading"
+msgstr "読み込み中"
+
+msgid "Loading %s driver..."
+msgstr "％sドライバーを読み込んでいます..."
+
+msgid "Loading SCSI driver"
+msgstr "SCSIドライバーを読み込んでいます"
+
+msgid "Local CDROM"
+msgstr "ローカルCDROM"
+
+msgid "Local installation media detected..."
+msgstr "ローカルインストールメディアが検出されました..."
+
+msgid "Logical Partition"
+msgstr "論理パーティション"
+
+msgid "Logical Volume Name"
+msgstr "論理ボリューム名"
+
+msgid "Logical Volume Name:"
+msgstr "論理ボリューム名："
+
+msgid "Logical Volume Names must be less than 128 characters"
+msgstr "論理ボリューム名は128文字未満である必要があります"
+
+msgid "Logical Volumes"
+msgstr "論理ボリューム"
+
+msgid "Low Memory"
+msgstr "メモリ不足"
+
+msgid "Make LVM Volume Group"
+msgstr "LVMボリュームグループを作成する"
+
+msgid "Make Logical Volume"
+msgstr "論理ボリュームを作成する"
+
+msgid "Make RAID Device"
+msgstr "RAIDデバイスを作成する"
+
+msgid "Make sure your password is at least 6 characters in length."
+msgstr "パスワードの長さが6文字以上であることを確認してください。"
+
+msgid "Manually choose"
+msgstr "手動で選択"
+
+msgid "Manually partition with _Disk Druid"
+msgstr "_Diskドルイドで手動で分割"
+
+msgid "Master Boot Record (MBR)"
+msgstr "マスターブートレコード（MBR）"
+
+msgid "Media Check"
+msgstr "メディアチェック"
+
+msgid "Media Check Result"
+msgstr "メディアチェック結果"
+
+msgid "Media Detected"
+msgstr "メディアが検出されました"
+
+msgid "Mi_grate partition to:"
+msgstr "Mi_grateパーティションから："
+
+msgid "Migrate File Systems"
+msgstr "ファイルシステムの移行"
+
+msgid "Migrate to %s"
+msgstr "％sに移行"
+
+msgid "Migrate to:"
+msgstr "移行先："
+
+msgid "Miscellaneous Network Settings"
+msgstr "その他のネットワーク設定"
+
+msgid "Miscellaneous Settings"
+msgstr "その他の設定"
+
+msgid "Missing ISO 9660 Image"
+msgstr "ISO9660イメージがありません"
+
+msgid "Missing Information"
+msgstr "情報が不足している"
+
+msgid "Model"
+msgstr "モデル"
+
+msgid "Modify Partition"
+msgstr "パーティションの変更"
+
+msgid "More Driver Disks?"
+msgstr "より多くのドライバーディスク？"
+
+msgid "Mount"
+msgstr "マウント"
+
+msgid "Mount Point"
+msgstr "マウントポイント"
+
+msgid ""
+"Mount Point/\n"
+"RAID/Volume"
+msgstr ""
+
+msgid "Mount Point:"
+msgstr "マウントポイント："
+
+msgid "Mount failed"
+msgstr "マウントに失敗しました"
+
+msgid "Mount point in use"
+msgstr "使用中のマウントポイント"
+
+msgid "Mouse Configuration"
+msgstr "マウス構成"
+
+msgid "Mouse Selection"
+msgstr "マウスの選択"
+
+msgid ""
+"Multiple devices on your system are labelled %s.  Labels across devices must "
+"be unique for your system to function properly.\n"
+"\n"
+"Please fix this problem and restart the installation process."
+msgstr ""
+
+msgid "Duplicate uuids"
+msgstr "重複したuuid"
+
+msgid ""
+"Multiple devices on your system are uuided %s.  Uuids across devices must be "
+"unique for your system to function properly.\n"
+"\n"
+"Please fix this problem and restart the installation process."
+msgstr ""
+
+msgid "Must have a / partition to install on."
+msgstr "インストールする/パーティションが必要です。"
+
+msgid "Must specify a value"
+msgstr "値を指定する必要があります"
+
+msgid "Must supply a --url argument to Url kickstart method."
+msgstr "Urlキックスタートメソッドに--url引数を指定する必要があります。"
+
+msgid "NFS Setup"
+msgstr "NFSセットアップ"
+
+msgid "NFS image"
+msgstr "NFS画像"
+
+msgid "NFS server name:"
+msgstr "NFSサーバー名："
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Name in use"
+msgstr "使用中の名前"
+
+msgid "Nameserver"
+msgstr "ネームサーバー"
+
+msgid "Nameserver IP"
+msgstr "ネームサーバーIP"
+
+msgid "Ne_w"
+msgstr ""
+
+msgid "Net_mask"
+msgstr "ネットマスク"
+
+msgid "Netmask"
+msgstr "ネットマスク"
+
+msgid "Netmask:"
+msgstr "ネットマスク："
+
+msgid "Network Configuration"
+msgstr "ネットワーク構成"
+
+msgid "Network Configuration for %s"
+msgstr "％sのネットワーク構成"
+
+msgid "Network Device: %s"
+msgstr "ネットワークデバイス：％s"
+
+msgid "Network Devices"
+msgstr "ネットワークデバイス"
+
+msgid "Network setting, Firewall Setting, Authentication."
+msgstr "ネットワーク設定、ファイアウォール設定、認証。"
+
+msgid "Networking Device"
+msgstr "ネットワークデバイス"
+
+msgid "New"
+msgstr "新規"
+
+msgid "New Partition or Logical Volume?"
+msgstr "新しいパーティションまたは論理ボリューム？"
+
+msgid "Next"
+msgstr "次へ"
+
+msgid "No"
+msgstr "いいえ"
+
+msgid ""
+"No %s CD was found which matches your boot media.  Please insert the %s CD "
+"and press %s to retry."
+msgstr ""
+
+msgid "No Boot Loader"
+msgstr "ブートローダーなし"
+
+msgid "No Drives Found"
+msgstr "ドライブが見つかりません"
+
+msgid "No IP address entered, skipping iSCSI setup"
+msgstr "IPアドレスが入力されておらず、iSCSIセットアップをスキップしています"
+
+msgid "No RAID minor device numbers available"
+msgstr "RAIDマイナーデバイス番号は利用できません"
+
+msgid "No RAID partitions"
+msgstr "RAIDパーティションなし"
+
+msgid "No Root Partition"
+msgstr "ルートパーティションがありません"
+
+msgid "No Volume Groups"
+msgstr "ボリュームグループなし"
+
+msgid "No boot loader will be installed."
+msgstr "ブートローダーはインストールされません。"
+
+msgid "No checksum information available, unable to verify media."
+msgstr "チェックサム情報が利用できないため、メディアを確認できません。"
+
+msgid ""
+"No device drivers have been loaded for your system.  Would you like to load "
+"any now?"
+msgstr ""
+
+msgid ""
+"No devices of the appropriate type were found on this driver disk.  Would "
+"you like to manually select the driver, continue anyway, or load another "
+"driver disk?"
+msgstr ""
+
+msgid "No driver found"
+msgstr "ドライバーが見つかりません"
+
+msgid "No drivers found"
+msgstr "ドライバーが見つかりません"
+
+msgid ""
+"No drivers were found to manually insert.  Would you like to use a driver "
+"disk?"
+msgstr ""
+
+msgid "No free slots"
+msgstr "空きスロットがありません"
+
+msgid "No free space"
+msgstr "空き容量がありません"
+
+msgid "No free space in root partition."
+msgstr "ルートパーティションに空き領域がありません。"
+
+msgid ""
+"No hard drives have been found.  You probably need to manually choose device "
+"drivers for the installation to succeed.  Would you like to select drivers "
+"now?"
+msgstr ""
+
+msgid "No help is available for this step of the install."
+msgstr "インストールのこのステップに利用できるヘルプはありません。"
+
+msgid ""
+"No kernel packages were installed on your system. Your boot loader "
+"configuration will not be changed."
+msgstr ""
+
+msgid "No members in RAID request, or not RAID level specified."
+msgstr "RAID要求にメンバーがないか、RAIDレベルが指定されていません。"
+
+msgid "No video hardware found, assuming headless"
+msgstr "ヘッドレスを想定したビデオハードウェアが見つかりません"
+
+msgid "No volume groups in which to create a logical volume"
+msgstr "論理ボリュームを作成するボリュームグループがありません"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Not Supported"
+msgstr "サポートされていません"
+
+msgid "Not enough physical volumes"
+msgstr "物理的なボリュームが不足しています"
+
+msgid "Not enough space"
+msgstr "十分なスペースがありません"
+
+msgid "Not supported"
+msgstr "サポートされていません"
+
+msgid "Notice"
+msgstr "通知"
+
+msgid "Number of _spares:"
+msgstr "_sparesの数："
+
+msgid "Number of spares?"
+msgstr "スペアの数は？"
+
+msgid "Office and Productivity"
+msgstr "オフィスと生産性"
+
+msgid ""
+"One or more existing Linux installations have been found on your system.\n"
+"\n"
+"Please choose one to upgrade, or select 'Reinstall System' to freshly "
+"install your system."
+msgstr ""
+
+msgid ""
+"One or more of the file systems listed in the /etc/fstab of your Linux "
+"system are inconsistent and cannot be mounted.  Please fix this problem and "
+"try to upgrade again."
+msgstr ""
+
+msgid ""
+"One or more of the file systems listed in the /etc/fstab on your Linux "
+"system cannot be mounted. Please fix this problem and try to upgrade again."
+msgstr ""
+
+msgid "Original File System Label:"
+msgstr "元のファイルシステムラベル："
+
+msgid "Original File System Type:"
+msgstr "元のファイルシステムタイプ："
+
+msgid "PASSED"
+msgstr "合格"
+
+msgid "PPC PReP Boot"
+msgstr "PPCPRePブート"
+
+msgid "Package"
+msgstr "パッケージ"
+
+msgid "Package Group Details"
+msgstr "パッケージグループの詳細"
+
+msgid "Package Installation"
+msgstr "パッケージのインストール"
+
+msgid "Package selection"
+msgstr "パッケージの選択"
+
+msgid "Parted exceptions can't be handled in command line mode!"
+msgstr "分割された例外はコマンドラインモードでは処理できません！"
+
+msgid "Partition"
+msgstr "パーティション"
+
+msgid "Partition Information"
+msgstr "パーティション情報"
+
+msgid "Partition Scheme"
+msgstr "パーティションスキーム"
+
+msgid "Partition Setup"
+msgstr "パーティションのセットアップ"
+
+msgid "Partitioning"
+msgstr "パーティショニング"
+
+msgid "Partitioning Errors"
+msgstr "パーティショニングエラー"
+
+msgid "Partitioning Operatioins"
+msgstr "パーティショニング操作"
+
+msgid "Partitioning Type"
+msgstr "パーティショニングタイプ"
+
+msgid "Partitioning Warning"
+msgstr "パーティション警告"
+
+msgid "Partitioning Warnings"
+msgstr "パーティション警告"
+
+msgid "Partitions can't end on a negative cylinder."
+msgstr "パーティションは負のシリンダーで終了できません。"
+
+msgid "Partitions can't start below the first cylinder."
+msgstr "パーティションは最初のシリンダーの下から開始できません。"
+
+msgid ""
+"Partitions of type '%s' must be constrained to a single drive.  This is done "
+"by selecting the drive in the 'Allowable Drives' checklist."
+msgstr ""
+
+msgid "Passed date"
+msgstr "合格日"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Password (confirm):"
+msgstr "パスワード（確認）："
+
+msgid "Password Length"
+msgstr "パスワードの長さ"
+
+msgid "Password Mismatch"
+msgstr "パスワードの不一致"
+
+msgid "Password Too Short"
+msgstr "パスワードが短すぎます"
+
+msgid "Password:"
+msgstr "パスワード："
+
+msgid "Passwords Do Not Match"
+msgstr "パスワードが一致しません"
+
+msgid "Passwords do not match"
+msgstr "パスワードが一致しません"
+
+msgid "Passwords don't match"
+msgstr "パスワードが一致しません"
+
+msgid ""
+"Perfect for personal computers or laptops, select this installation type to "
+"install a graphical desktop environment and create a system ideal for home "
+"or desktop use."
+msgstr ""
+
+msgid "Performing post install configuration..."
+msgstr "インストール後の構成を実行しています..."
+
+msgid "Physical Volumes to _Use:"
+msgstr "使用する物理ボリューム："
+
+msgid ""
+"Pick a root password. You must type it twice to ensure you know what it is "
+"and didn't make a mistake in typing. Remember that the root password is a "
+"critical part of system security!"
+msgstr ""
+
+msgid ""
+"Please choose how you would like to prepare the file system on this "
+"partition."
+msgstr ""
+
+msgid "Please connect to %s to begin the install..."
+msgstr "インストールを開始するには％sに接続してください..."
+
+msgid "Please connect to begin the install..."
+msgstr "接続してインストールを開始してください..."
+
+msgid "Please enter a logical volume name."
+msgstr "論理ボリューム名を入力してください。"
+
+msgid "Please enter a volume group name."
+msgstr "ボリュームグループ名を入力してください。"
+
+msgid ""
+"Please enter any parameters which you wish to pass to the %s module "
+"separated by spaces.  If you don't know what parameters to supply, skip this "
+"screen by pressing the \"OK\" button."
+msgstr ""
+
+msgid ""
+"Please enter the IP configuration for this machine. Each item should be "
+"entered as an IP address in dotted-decimal notation (for example, 1.2.3.4)."
+msgstr ""
+
+msgid ""
+"Please enter the following information:\n"
+"\n"
+"    o the name or IP number of your %s server\n"
+"    o the directory on that server containing\n"
+"      %s for your architecture\n"
+msgstr ""
+
+msgid "Please insert %s disc %d to continue."
+msgstr "続行するには％sディスク％dを挿入してください。"
+
+msgid ""
+"Please insert a floppy now. All contents of the disk will be erased, so "
+"please choose your diskette carefully."
+msgstr ""
+
+msgid "Please manually connect your vnc client to %s to begin the install."
+msgstr ""
+"インストールを開始するには、vncクライアントを％sに手動で接続してください。イ"
+"ンストールを開始するには、vncクライアントを％sに手動で接続してください。"
+
+msgid "Please manually connect your vnc client to begin the install."
+msgstr "vncクライアントを手動で接続してインストールを開始してください。"
+
+msgid "Please select a source drive."
+msgstr "ソースドライブを選択してください。"
+
+msgid ""
+"Please select the driver below which you wish to load.  If it does not "
+"appear and you have a driver disk, press F2."
+msgstr ""
+
+msgid "Please select the package groups you would like to have installed."
+msgstr "インストールしたいパッケージグループを選択してください。"
+
+msgid "Please select the target drives for the clone operation."
+msgstr "クローン操作の対象ドライブを選択してください。"
+
+msgid "Please specify a mount point for this partition."
+msgstr "このパーティションのマウントポイントを指定してください。"
+
+msgid "Please wait while formatting drive %s...\n"
+msgstr "ドライブ％sをフォーマットしている間お待ちください... \n"
+
+msgid "Please wait..."
+msgstr "お待ちください..."
+
+msgid "Point to Point (IP)"
+msgstr "ポイントツーポイント（IP）"
+
+msgid "Port Number:"
+msgstr "ポート番号："
+
+msgid "Post Install"
+msgstr "インストール後"
+
+msgid "Preparing Install"
+msgstr "インストールの準備"
+
+msgid "Preparing for installation..."
+msgstr "インストールの準備..."
+
+msgid "Preparing transaction from installation source..."
+msgstr "インストールソースからトランザクションを準備しています..."
+
+msgid ""
+"Press <Enter> to end the installation process.\n"
+"\n"
+msgstr ""
+
+msgid "Press <enter> for a shell"
+msgstr "シェルの場合は<Enter>を押します"
+
+msgid "Primary DNS"
+msgstr "プライマリDNS"
+
+msgid "Primary DNS:"
+msgstr "プライマリDNS："
+
+msgid "Primary Partition"
+msgstr "プライマリパーティション"
+
+msgid "Primary nameserver:"
+msgstr "プライマリネームサーバー："
+
+msgid "Proceed with upgrade?"
+msgstr "アップグレードを続行しますか？"
+
+msgid "Processing"
+msgstr "処理中"
+
+msgid "RAID"
+msgstr ""
+
+msgid "RAID Device"
+msgstr "RAIDデバイス"
+
+msgid "RAID Device %s"
+msgstr "RAIDデバイス％s"
+
+msgid "RAID Devices"
+msgstr "RAIDデバイス"
+
+msgid "RAID Level:"
+msgstr "RAIDレベル："
+
+msgid "RAID Members:"
+msgstr "RAIDメンバー："
+
+msgid "RAID Options"
+msgstr "RAIDオプション"
+
+msgid "RAID _Device:"
+msgstr "RAID _Device："
+
+msgid "RAID _Level:"
+msgstr "RAID _Level："
+
+msgid "RAM detected (MB):"
+msgstr "RAMが検出されました（MB）："
+
+msgid "R_AID"
+msgstr ""
+
+msgid "Re_set"
+msgstr "リセット"
+
+msgid "Re_try"
+msgstr ""
+
+msgid "Re_view and modify partitioning layout"
+msgstr "パーティショニングレイアウトを再表示および変更します"
+
+msgid "Read-Only"
+msgstr "読み取り専用"
+
+msgid "Reading anaconda updates..."
+msgstr "アナコンダの更新を読んでいます..."
+
+msgid "Reading driver disk..."
+msgstr "ドライバディスクを読み込んでいます..."
+
+msgid "Reboot"
+msgstr "再起動"
+
+msgid "reboot"
+msgstr "再起動"
+
+msgid "Reboot?"
+msgstr "再起動しますか？"
+
+msgid "Rebooting System"
+msgstr "システムの再起動"
+
+msgid "Red Hat Enterprise Linux AS"
+msgstr ""
+
+msgid "Red Hat Enterprise Linux Desktop"
+msgstr "Red HatEnterpriseLinuxデスクトップ"
+
+msgid "Red Hat Enterprise Linux ES"
+msgstr ""
+
+msgid "Red Hat Enterprise Linux WS"
+msgstr ""
+
+msgid "Reinstall System"
+msgstr "システムを再インストールします"
+
+msgid "Release Notes"
+msgstr "リリースノート"
+
+msgid "Release notes are missing.\n"
+msgstr "リリースノートがありません。\n"
+
+msgid "Remaining Time: %.0f Minutes"
+msgstr "残り時間：％。0f分"
+
+msgid "Remaining Time: %.0f Seconds"
+msgstr "残り時間：％。0f秒"
+
+msgid "Remaining Time: Less than a minute"
+msgstr "残り時間：1分未満"
+
+msgid "Remaining:  "
+msgstr "残り："
+
+msgid "Remote"
+msgstr "リモート"
+
+msgid "Remote path"
+msgstr "リモートパス"
+
+msgid "Remove"
+msgstr "削除"
+
+msgid "Remove all Linux partitions on this system"
+msgstr "このシステム上のすべてのLinuxパーティションを削除します"
+
+msgid "Remove all partitions on this system"
+msgstr "このシステムのすべてのパーティションを削除します"
+
+msgid ""
+"Remove any media used during the installation process and press <Enter> to "
+"reboot your system.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Remove any media used during the installation process and press the \"Reboot"
+"\" button to reboot your system.\n"
+"\n"
+msgstr ""
+
+msgid "Requested Logical Volume Does Not Exist"
+msgstr "要求された論理ボリュームが存在しません"
+
+msgid "Requested Partition Does Not Exist"
+msgstr "要求されたパーティションが存在しません"
+
+msgid "Requested Raid Device Does Not Exist"
+msgstr "要求されたRAIDデバイスが存在しません"
+
+msgid "Requested Volume Group Does Not Exist"
+msgstr "要求されたボリュームグループが存在しません"
+
+msgid ""
+"Requested password contains non-ascii characters which are not allowed for "
+"use in password."
+msgstr ""
+
+msgid "Requested value is not an integer"
+msgstr "要求された値は整数ではありません"
+
+msgid "Requested value is too large"
+msgstr "要求された値が大きすぎます"
+
+msgid "Required Install Media"
+msgstr "必要なインストールメディア"
+
+msgid "Rescue"
+msgstr "レスキュー"
+
+msgid "Rescue Method"
+msgstr "レスキュー方式"
+
+msgid "Rescue Mode"
+msgstr "レスキューモード"
+
+msgid "Retrieving"
+msgstr "取得"
+
+msgid "Retrieving installation information..."
+msgstr "インストール情報を取得しています..."
+
+msgid "Retry"
+msgstr "再試行"
+
+msgid "retry"
+msgstr "再試行"
+
+msgid "Review Partition Layout"
+msgstr "パーティションレイアウトを確認する"
+
+msgid "Review and modify partitioning layout?"
+msgstr "パーティショニングレイアウトを確認して変更しますか？"
+
+msgid "Root Password"
+msgstr "ルートパスワード"
+
+msgid "Running anaconda via telnet..."
+msgstr "telnet経由でanacondaを実行しています..."
+
+msgid "Running anaconda, the %s rescue mode - please wait...\n"
+msgstr "anaconda、％sレスキューモードを実行しています-お待ちください... \n"
+
+msgid "Running anaconda, the %s system installer - please wait...\n"
+msgstr ""
+"％sシステムインストーラーであるanacondaを実行しています-お待ちください... \n"
+"％sシステムインストーラーであるanacondaを実行しています-お待ちください... \n"
+
+msgid "Running post-install scripts"
+msgstr "インストール後のスクリプトの実行"
+
+msgid "Running pre-install scripts"
+msgstr "プレインストールスクリプトの実行"
+
+msgid "Running..."
+msgstr "実行中..."
+
+msgid "SCSI Id"
+msgstr "SCSI ID"
+
+msgid "SCSI LUN"
+msgstr ""
+
+msgid "SIZE"
+msgstr "サイズ"
+
+msgid "STATE"
+msgstr ""
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save Crash Dump"
+msgstr "クラッシュダンプを保存"
+
+msgid "Save to Remote Host"
+msgstr "リモートホストに保存"
+
+msgid "Save to _Remote"
+msgstr "_Remoteに保存"
+
+msgid "Saving Screenshot"
+msgstr "スクリーンショットを保存する"
+
+msgid "Screenshots Copied"
+msgstr "スクリーンショットがコピーされました"
+
+msgid "Scriptlet Failure"
+msgstr "スクリプトレットの失敗"
+
+msgid "Searching"
+msgstr "検索中"
+
+msgid "Searching for %s installations..."
+msgstr "％sインストールを検索しています..."
+
+msgid "Secondary DNS"
+msgstr "セカンダリDNS"
+
+msgid "Secondary DNS:"
+msgstr "セカンダリDNS："
+
+msgid ""
+"Select 'Yes' to continue and format these partitions, or 'No' to go back and "
+"change these settings."
+msgstr ""
+
+msgid "Select Device Driver to Load"
+msgstr "ロードするデバイスドライバーを選択"
+
+msgid "Select Disk"
+msgstr "ディスクを選択"
+
+msgid "Select Partition"
+msgstr "パーティションを選択"
+
+msgid "Select a partition to install system and click \"Next\" button."
+msgstr ""
+"システムをインストールするパーティションを選択し、「次へ」ボタンをクリックし"
+"ます。システムをインストールするパーティションを選択し、「次へ」ボタンをク"
+"リックします。"
+
+msgid "Select a partition to install bootloader and click \"Next\" button."
+msgstr ""
+"ブートローダーをインストールするパーティションを選択し、「次へ」ボタンをク"
+"リックします。ブートローダーをインストールするパーティションを選択し、「次"
+"へ」ボタンをクリックします。"
+
+msgid "Select driver"
+msgstr "ドライバーを選択"
+
+msgid "Select driver disk image"
+msgstr "ドライバディスクイメージを選択します"
+
+msgid "Select the _partition to put the swap file on:"
+msgstr "スワップファイルを配置する_partitionを選択します。"
+
+msgid "Select the appropriate mouse for the system."
+msgstr "システムに適切なマウスを選択します。"
+
+msgid "Select the drive(s) to use for this installation."
+msgstr "このインストールに使用するドライブを選択します。"
+
+msgid "Select the file which is your driver disk image."
+msgstr "ドライバディスクイメージであるファイルを選択します。"
+
+msgid ""
+"Select this installation type if you would like to set up file sharing, "
+"print sharing, and Web services. Additional services can also be enabled, "
+"and you can choose whether or not to install a graphical environment."
+msgstr ""
+
+msgid ""
+"Select this installation type to gain complete control over the installation "
+"process, including software package selection and partitioning."
+msgstr ""
+
+msgid "Selecting a partition to install system."
+msgstr "システムをインストールするパーティションを選択しています。"
+
+msgid "Sending request for IP information for %s..."
+msgstr "％sのIP情報の要求を送信しています..."
+
+msgid "Set Root Password"
+msgstr "ルートパスワードを設定する"
+
+msgid "Set the hostname:"
+msgstr "ホスト名を設定します："
+
+msgid "Setup Networking"
+msgstr "ネットワークのセットアップ"
+
+msgid "Show _Help"
+msgstr ""
+
+msgid "Size"
+msgstr "サイズ"
+
+msgid ""
+"Size\n"
+"(MB)"
+msgstr ""
+
+msgid "Size %sGB"
+msgstr "サイズ％sGB"
+
+msgid "Size (MB)"
+msgstr "サイズ（MB）"
+
+msgid "Size (MB):"
+msgstr "サイズ（MB）："
+
+msgid "Skip"
+msgstr "スキップ"
+
+msgid "Skip Boot Loader"
+msgstr "ブートローダーをスキップする"
+
+msgid "Skip boot loader updating"
+msgstr "ブートローダーの更新をスキップする"
+
+msgid "Software Development"
+msgstr "ソフトウェア開発"
+
+msgid ""
+"Software RAID allows you to combine several disks into a larger RAID "
+"device.  A RAID device can be configured to provide additional speed and "
+"reliability compared to using an individual drive.  For more information on "
+"using RAID devices please consult the %s documentation.\n"
+"\n"
+"You currently have %s software RAID partition(s) free to use.\n"
+"\n"
+msgstr ""
+
+msgid "Software RAID is NOT supported on this platform."
+msgstr "ソフトウェアRAIDはこのプラットフォームではサポートされていません。"
+
+msgid "Source Drive Error"
+msgstr "ソースドライブエラー"
+
+msgid "Source Drive:"
+msgstr "ソースドライブ："
+
+msgid "Space Required: %.1f GB\tSpace Available: %.1f GB"
+msgstr "必要なスペース：％。1f GB \t使用可能なスペース：％。1f GB"
+
+msgid "Specify optional module arguments"
+msgstr "オプションのモジュール引数を指定する"
+
+msgid "Start"
+msgstr "開始"
+
+msgid "Start Cylinder:"
+msgstr "シリンダーの開始："
+
+msgid "Start VNC"
+msgstr "VNCを開始します"
+
+msgid "Starting Interface"
+msgstr "インターフェースの開始"
+
+msgid "Starting VNC..."
+msgstr "VNCを開始しています..."
+
+msgid "Starting graphical installation..."
+msgstr "グラフィカルインストールを開始しています..."
+
+msgid "Starting install process.  This may take several minutes..."
+msgstr "インストールプロセスを開始しています。"
+
+msgid "Status: "
+msgstr "ステータス："
+
+msgid "Suggested size (MB):"
+msgstr "推奨サイズ（MB）："
+
+msgid "Summary"
+msgstr "まとめ"
+
+msgid "Swap file _size (MB):"
+msgstr "スワップファイルのサイズ（MB）："
+
+msgid "Swap file size (MB):"
+msgstr "スワップファイルサイズ（MB）："
+
+msgid "System Install"
+msgstr "システムのインストール"
+
+msgid "System Setting"
+msgstr "システム設定"
+
+msgid "System clock uses UTC"
+msgstr "システム時計はUTCを使用します"
+
+msgid "System install and applies settings."
+msgstr "システムをインストールして設定を適用します。"
+
+msgid "System to Rescue"
+msgstr "救助するシステム"
+
+msgid "System to Upgrade"
+msgstr "アップグレードするシステム"
+
+msgid "Target Drive Error"
+msgstr "ターゲットドライブエラー"
+
+msgid "Target Drive(s):"
+msgstr "ターゲットドライブ："
+
+msgid "Target IP address:"
+msgstr "ターゲットIPアドレス："
+
+msgid "Telnet"
+msgstr ""
+
+msgid "Tertiary DNS"
+msgstr "3次DNS"
+
+msgid "Tertiary DNS:"
+msgstr "3次DNS："
+
+msgid "Test"
+msgstr "テスト"
+
+msgid ""
+"Thank you for downloading this pre-release of %s.\n"
+"\n"
+"This is not a final release and is not intended for use on production "
+"systems.  The purpose of this release is to collect feedback from testers, "
+"and it is not suitable for day to day usage.\n"
+"\n"
+"To report feedback, please visit:\n"
+"\n"
+"   %s\n"
+"\n"
+"and file a report against '%s'.\n"
+msgstr ""
+
+msgid "That directory could not be mounted from the server or not server IP."
+msgstr ""
+"そのディレクトリをサーバーからマウントできなかったか、サーバーIPからマウント"
+"できませんでした。そのディレクトリをサーバーからマウントできなかったか、サー"
+"バーIPからマウントできませんでした。"
+
+msgid "That directory does not seem to contain a %s installation tree."
+msgstr "そのディレクトリには％sインストールツリーが含まれていないようです。"
+
+msgid "That's not the correct %s CDROM."
+msgstr "それは正しい％sCDROMではありません。"
+
+msgid ""
+"The %s CD was not found in any of your CDROM drives. Please insert the %s CD "
+"and press %s to retry."
+msgstr ""
+
+msgid "The %s boot loader will be installed on /dev/%s."
+msgstr "％sブートローダーが/ dev /％sにインストールされます。"
+
+msgid ""
+"The %s installation tree in that directory does not seem to match your boot "
+"media."
+msgstr ""
+
+msgid ""
+"The 2.4 kernel needs significantly more swap than older kernels, as much as "
+"twice as much swap space as RAM on the system.  You currently have %dMB of "
+"swap configured, but you may create additional swap space on one of your "
+"file systems now."
+msgstr ""
+
+msgid ""
+"The 2.4 kernel needs significantly more swap than older kernels, as much as "
+"twice as much swap space as RAM on the system. You currently have %dMB of "
+"swap configured, but you may create additional swap space on one of your "
+"file systems now."
+msgstr ""
+
+msgid "The IP information you have entered is invalid."
+msgstr "入力したIP情報が無効です。"
+
+msgid "The VNC server is now running."
+msgstr "VNCサーバーが実行されています。"
+
+msgid ""
+"The boot manager %s uses can boot other operating systems as well. You need "
+"to tell me what partitions you would like to be able to boot and what label "
+"you want to use for each of them."
+msgstr ""
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than maximum logical volume "
+"size (%10.2f MB). "
+msgstr ""
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than maximum logical volume "
+"size (%10.2f MB). To increase this limit you can create more Physical "
+"Volumes from unpartitioned disk space and add them to this Volume Group."
+msgstr ""
+
+msgid ""
+"The current requested size (%10.2f MB) is larger than the available size in "
+"the volume group (%10.2f MB)."
+msgstr ""
+
+msgid ""
+"The default installation of %s includes a set of  software applicable for "
+"general internet usage.  What additional tasks would you like your system to "
+"include  support for?"
+msgstr ""
+
+msgid ""
+"The default installation of %s includes a set of software applicable for "
+"general internet usage.  What additional tasks would you like your system to "
+"include  support for?"
+msgstr ""
+
+msgid ""
+"The device %s is LDL formatted instead of CDL formatted.  LDL formatted "
+"DASDs are not supported for usage during an install of %s.  If you wish to "
+"use this disk for installation, it must be re-initialized causing the loss "
+"of ALL DATA on this drive.\n"
+"\n"
+"Would you like to reformat this DASD using CDL format?"
+msgstr ""
+
+msgid ""
+"The drive /dev/%s will now be cloned to the following drives:\n"
+"\n"
+msgstr ""
+
+msgid "The drive clone editor could not be created for some reason."
+msgstr "何らかの理由でドライブクローンエディタを作成できませんでした。"
+
+msgid "The end cylinder must be greater than the start cylinder."
+msgstr "終了シリンダーは開始シリンダーより大きくなければなりません。"
+
+msgid "The entered IP '%s' is not a valid IP."
+msgstr "入力されたIP'％s'は有効なIPではありません。"
+
+msgid ""
+"The file systems of the Linux installation you have chosen to upgrade have "
+"already been mounted. You cannot go back past this point. \n"
+"\n"
+msgstr ""
+
+msgid ""
+"The following are directories which should instead be symbolic links, which "
+"will cause problems with the upgrade.  Please return them to their original "
+"state as symbolic links and restart the upgrade.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The following critical errors exist with your requested partitioning "
+"scheme.\n"
+"These errors must be corrected prior to continuing with your install."
+msgstr ""
+
+msgid "The following devices have been found on your system."
+msgstr "システムで次のデバイスが見つかりました。"
+
+msgid ""
+"The following error was found while parsing your kickstart configuration:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The following errors occurred with your partitioning:\n"
+"\n"
+"%s\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"The following errors occurred with your partitioning:\n"
+"\n"
+"%s\n"
+"\n"
+"This can happen if there is not enough space on your hard drive(s) for the "
+"installation.%s"
+msgstr ""
+
+msgid ""
+"The following file systems for your Linux system were not unmounted "
+"cleanly.  Please boot your Linux installation, let the file systems be "
+"checked and shut down cleanly to upgrade.\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The following file systems for your Linux system were not unmounted "
+"cleanly.  Would you like to mount them anyway?\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The following files are absolute symbolic links, which we do not support "
+"during an upgrade. Please change them to relative symbolic links and restart "
+"the upgrade.\n"
+"\n"
+msgstr ""
+
+msgid "The following installed system will be upgraded:"
+msgstr "次のインストール済みシステムがアップグレードされます。"
+
+msgid ""
+"The following invalid argument was specified for the kickstart driver disk "
+"command: %s:%s"
+msgstr ""
+
+msgid ""
+"The following partitions were not deleted because they are in use:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The following pre-existing partitions have been selected to be formatted, "
+"destroying all data."
+msgstr ""
+
+msgid ""
+"The following warnings exist with your requested partition scheme.\n"
+"Would you like to continue with your requested partitioning scheme?"
+msgstr ""
+
+msgid ""
+"The hostname is not valid for the following reason:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The image which was just tested has errors. This could be due to a corrupt "
+"download or a bad disc.  If applicable, please clean the disc and try "
+"again.  If this test continues to fail you should not continue the install."
+msgstr ""
+
+msgid ""
+"The installation program is unable to upgrade systems with a pre-rpm 4.x "
+"database. Please install the errata rpm packages for your release as "
+"described in the release notes and then run the upgrade procedure."
+msgstr ""
+
+msgid ""
+"The installer has detected the %s boot loader currently installed on %s."
+msgstr ""
+
+msgid ""
+"The installer has tried to mount image #%s, but cannot find it on the "
+"server.\n"
+"\n"
+"Please copy this image to the remote server's share path and click Retry. "
+"Click Reboot to abort the installation."
+msgstr ""
+
+msgid ""
+"The installer is unable to detect the boot loader currently in use on your "
+"system."
+msgstr ""
+
+msgid "The installer will now exit..."
+msgstr "インストーラーが終了します..."
+
+msgid "The logical volume name \"%s\" is already in use. Please pick another."
+msgstr "論理ボリューム名\"％s\"はすでに使用されています。"
+
+msgid ""
+"The logical volumes you have configured require %g MB, but the volume group "
+"only has %g MB.  Please either make the volume group larger or make the "
+"logical volume(s) smaller."
+msgstr ""
+
+msgid "The maximum number of spares with a RAID0 array is 0."
+msgstr "RAID0アレイのスペアの最大数は0です。"
+
+msgid ""
+"The media check %s\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"The mount point \"%s\" is already in use, please choose a different mount "
+"point."
+msgstr ""
+
+msgid "The mount point \"%s\" is in use, please pick another."
+msgstr "マウントポイント\\ \"％s\"が使用中です。別のものを選択してください。"
+
+msgid ""
+"The mount point %s cannot be used.  It must be a symbolic link for proper "
+"system operation.  Please select a different mount point."
+msgstr ""
+
+msgid ""
+"The mount point %s is invalid.  Mount points must start with '/' and cannot "
+"end with '/', and must contain printable characters and no spaces."
+msgstr ""
+
+msgid ""
+"The mount point already has been set on this partition.\n"
+" Will you proceed anyway?"
+msgstr ""
+
+msgid "The number of partitions created reaches the maximum limit"
+msgstr "作成されたパーティションの数が上限に達しました"
+
+msgid ""
+"The package %s-%s-%s.%s cannot be opened. This is due to a missing file or "
+"perhaps a corrupt package.  If you are installing from CD media this usually "
+"means the CD media is corrupt, or the CD drive is unable to read the media.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The package %s-%s-%s.%s cannot be opened. This is due to a missing file or "
+"perhaps a corrupt package.  If you are installing from CD media this usually "
+"means the CD media is corrupt, or the CD drive is unable to read the media.\n"
+"\n"
+"Press 'Retry' to try again."
+msgstr ""
+
+msgid ""
+"The packages you have installed, and any other packages which are needed to "
+"satisfy their dependencies, have been selected for installation. Would you "
+"like to customize the set of packages that will be upgraded?"
+msgstr ""
+
+msgid "The partition needs to be created before installing the system on it."
+msgstr ""
+"システムをパーティションにインストールする前に、パーティションを作成する必要"
+"があります。システムをパーティションにインストールする前に、パーティションを"
+"作成する必要があります。"
+
+msgid ""
+"The partition table on device %s (%s) was unreadable. To create new "
+"partitions it must be initialized, causing the loss of ALL DATA on this "
+"drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+
+msgid ""
+"The partition table on device disk was unreadable. To create new partitions "
+"it must be initialized, causing the loss of ALL DATA on this drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+
+msgid ""
+"The partition table on device %s was unreadable. To create new partitions it "
+"must be initialized, causing the loss of ALL DATA on this drive.\n"
+"\n"
+"This operation will override any previous installation choices about which "
+"drives to ignore.\n"
+"\n"
+"Would you like to initialize this drive, erasing ALL DATA?"
+msgstr ""
+
+msgid "The partition to install needs to be selected."
+msgstr "インストールするパーティションを選択する必要があります。"
+
+msgid ""
+"The partition to install is not reached the size request:%s. continue anyway?"
+msgstr ""
+
+msgid "The partition to install bootloader needs to be selected."
+msgstr ""
+"ブートローダーをインストールするパーティションを選択する必要があります。ブー"
+"トローダーをインストールするパーティションを選択する必要があります。"
+
+msgid ""
+"The partition with less than two gigabytes capacity could not be splitted."
+msgstr ""
+
+msgid ""
+"The partition with less than 130 megabytes capacity could not be created."
+msgstr ""
+
+msgid "The partition you selected will be deleted."
+msgstr "選択したパーティションが削除されます。"
+
+msgid ""
+"The partitioning options you have chosen have already been activated. You "
+"can no longer return to the disk editing screen. Would you like to continue "
+"with the installation process?"
+msgstr ""
+
+msgid "The password must be at least six characters long."
+msgstr "パスワードは6文字以上である必要があります。"
+
+msgid "The passwords you entered were different.  Please try again."
+msgstr "入力したパスワードが異なります。"
+
+msgid "The passwords you entered were different. Please try again."
+msgstr "入力したパスワードが異なります。"
+
+msgid ""
+"The physical extent size cannot be changed because otherwise the space "
+"required by the currently defined logical volumes will be increased to more "
+"than the available space."
+msgstr ""
+
+msgid ""
+"The physical extent size cannot be changed because the resulting maximum "
+"logical volume size (%10.2f MB) is smaller than one or more of the currently "
+"defined logical volumes."
+msgstr ""
+
+msgid ""
+"The physical extent size cannot be changed because the value selected "
+"(%10.2f MB) is larger than the smallest physical volume (%10.2f MB) in the "
+"volume group."
+msgstr ""
+
+msgid ""
+"The physical extent size cannot be changed because the value selected "
+"(%10.2f MB) is too large compared to the size of the smallest physical "
+"volume (%10.2f MB) in the volume group."
+msgstr ""
+
+msgid ""
+"The pre-existing partition has been selected to be formatted, destroying all "
+"data."
+msgstr ""
+
+msgid ""
+"The pre-existing partition has been selected to be formatted as hfs+, "
+"destroying all data."
+msgstr ""
+
+msgid "The release notes are missing."
+msgstr "リリースノートがありません。"
+
+msgid "The requested size as entered is not a valid number greater than 0."
+msgstr "入力された要求されたサイズは、0より大きい有効な数値ではありません。"
+
+msgid ""
+"The rescue environment will now attempt to find your Linux installation and "
+"mount it under the directory %s.  You can then make any changes required to "
+"your system.  If you want to proceed with this step choose 'Continue'.  You "
+"can also choose to mount your file systems read-only instead of read-write "
+"by choosing 'Read-Only'.\n"
+"\n"
+"If for some reason this process fails you can choose 'Skip' and this step "
+"will be skipped and you will go directly to a command shell.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The root account is used for administering the system.  Enter a password for "
+"the root user."
+msgstr ""
+
+msgid "The root password must be at least 6 characters long."
+msgstr "ルートパスワードは6文字以上である必要があります。"
+
+msgid "The root password must be at least six characters long."
+msgstr "ルートパスワードは6文字以上である必要があります。"
+
+msgid ""
+"The screenshots have been saved into the directory:\n"
+"\n"
+"\t/root/anaconda-screenshots/\n"
+"\n"
+"You can access these when you reboot and login as root."
+msgstr ""
+
+msgid ""
+"The size of the %s partition (%10.2f MB) exceeds the maximum size of %10.2f "
+"MB."
+msgstr ""
+
+msgid ""
+"The size of the requested partition (size = %s MB) exceeds the maximum size "
+"of %s MB."
+msgstr ""
+
+msgid "The size of the requested partition is negative! (size = %s MB)"
+msgstr "要求されたパーティションのサイズが負です！ "
+
+msgid ""
+"The software you have selected to install will require the following CDs:\n"
+"\n"
+"%s\n"
+"Please have these ready before proceeding with the installation.  If you "
+"need to abort the installation and reboot please select \"Reboot\"."
+msgstr ""
+
+msgid "The source drive /dev/%s cannot be selected as a target drive as well."
+msgstr "ソースドライブ/ dev /％sをターゲットドライブとしても選択できません。"
+
+msgid ""
+"The source drive has no partitions to be cloned.  You must first define "
+"partitions of type 'software RAID' on this drive before it can be cloned."
+msgstr ""
+
+msgid ""
+"The source drive selected has partitions on it which are not of type "
+"'software RAID'.\n"
+"\n"
+"These partitions will have to be removed before this drive can be cloned. "
+msgstr ""
+
+msgid ""
+"The source drive selected has partitions which are not constrained to the "
+"drive /dev/%s.\n"
+"\n"
+"These partitions will have to be removed or restricted to this drive before "
+"this drive can be cloned. "
+msgstr ""
+
+msgid ""
+"The source drive selected has software RAID partition(s) which are members "
+"of an active software RAID device.\n"
+"\n"
+"These partitions will have to be removed before this drive can be cloned."
+msgstr ""
+
+msgid "The swap file must be between 1 and 2000 MB in size."
+msgstr "スワップファイルのサイズは1〜2000MBである必要があります。"
+
+msgid "The system requires %sGB freespace."
+msgstr "システムには％sGBの空き領域が必要です。"
+
+msgid "The system will be rebooted now."
+msgstr "システムが再起動されます。"
+
+msgid ""
+"The target drive /dev/%s has a partition which cannot be removed for the "
+"following reason:\n"
+"\n"
+"\"%s\"\n"
+"\n"
+"This partition must be removed before this drive can be a target."
+msgstr ""
+
+msgid "The value you entered is not a valid number."
+msgstr "入力した値は有効な数値ではありません。"
+
+msgid "The volume group name \"%s\" is already in use. Please pick another."
+msgstr "ボリュームグループ名\\ \"％s\"はすでに使用されています。"
+
+msgid ""
+"The z/IPL Boot Loader will be installed on your system after installation is "
+"complete. You can now enter any additional kernel and chandev parameters "
+"which your machine or your setup may require."
+msgstr ""
+
+msgid ""
+"The z/IPL Boot Loader will now be installed on your system.\n"
+"\n"
+"The root partition will be the one you selected previously in the partition "
+"setup.\n"
+"\n"
+"The kernel used to start the machine will be the one to be installed by "
+"default.\n"
+"\n"
+"If you wish to make changes later after the installation feel free to change "
+"the /etc/zipl.conf configuration file.\n"
+"\n"
+"You can now enter any additional kernel parameters which your machine or "
+"your setup may require."
+msgstr ""
+
+msgid "The z/IPL boot loader will be installed on your system."
+msgstr "z/IPLブートローダーがシステムにインストールされます。"
+
+msgid ""
+"There are multiple partitions on this device which could contain the driver "
+"disk image.  Which would you like to use?"
+msgstr ""
+
+msgid ""
+"There is no room left in the volume group to create new logical volumes. To "
+"add a logical volume you will need to reduce the size of one or more of the "
+"currently existing logical volumes"
+msgstr ""
+
+msgid ""
+"There is not enough space on the device you selected for the swap partition."
+msgstr ""
+
+msgid "There was a problem writing the system state to the floppy."
+msgstr "システム状態をフロッピーに書き込む際に問題が発生しました。"
+
+msgid "There was a problem writing the system state to the remote host."
+msgstr "システム状態をリモートホストに書き込む際に問題が発生しました。"
+
+msgid "There was an error clearing the target drives.  Cloning failed."
+msgstr "ターゲットドライブのクリア中にエラーが発生しました。"
+
+msgid ""
+"There was an error running the scriptlet.  You may examine the output in "
+"%s.  This is a fatal error and your install will be aborted.\n"
+"\n"
+"Press the OK button to reboot your system."
+msgstr ""
+
+msgid ""
+"This RAID device can have a maximum of %s spares. To have more spares you "
+"will need to add members to the RAID device."
+msgstr ""
+
+msgid ""
+"This boot target cannot be deleted because it is for the %s system you are "
+"about to install."
+msgstr ""
+
+msgid ""
+"This change in the value of the physical extent will require the sizes of "
+"the current logical volume requests to be rounded up in size to an integer "
+"multiple of the physical extent.\n"
+"\n"
+"This change will take affect immediately."
+msgstr ""
+
+msgid ""
+"This change in the value of the physical extent will waste substantial space "
+"on one or more of the physical volumes in the volume group."
+msgstr ""
+
+msgid "This device is already being used for another boot entry."
+msgstr "このデバイスはすでに別のブートエントリに使用されています。"
+
+msgid "This is the recommended option."
+msgstr "これは推奨オプションです。"
+
+msgid "This label is already in use for another boot entry."
+msgstr "このラベルはすでに別のブートエントリで使用されています。"
+
+msgid ""
+"This mount point is invalid.  The %s directory must be on the / file system."
+msgstr ""
+
+msgid "This mount point must be on a linux file system."
+msgstr "このマウントポイントはLinuxファイルシステム上にある必要があります。"
+
+msgid ""
+"This option installs a graphical desktop environment with tools for software "
+"development and system administration. "
+msgstr ""
+
+msgid "This partition is holding the data for the hard drive install."
+msgstr ""
+"このパーティションはハードドライブインストールのデータを保持しています。この"
+"パーティションはハードドライブインストールのデータを保持しています。"
+
+msgid "This partition is part of a LVM volume group."
+msgstr "このパーティションはLVMボリュームグループの一部です。"
+
+msgid "This partition is part of a RAID device."
+msgstr "このパーティションはRAIDデバイスの一部です。"
+
+msgid "This partition is part of the LVM volume group '%s'."
+msgstr "このパーティションはLVMボリュームグループ'％s'の一部です。"
+
+msgid "This partition is part of the RAID device /dev/md%s."
+msgstr "このパーティションはRAIDデバイス/ dev / md％sの一部です。"
+
+msgid ""
+"This release of %s supports the ext3 journalling file system.  It has "
+"several benefits over the ext2 file system traditionally shipped in %s.  It "
+"is possible to migrate the ext2 formatted partitions to ext3 without data "
+"loss.\n"
+"\n"
+"Which of these partitions would you like to migrate?"
+msgstr ""
+
+msgid ""
+"This will let you create a new boot loader configuration.  If you wish to "
+"switch boot loaders, you should choose this."
+msgstr ""
+
+msgid ""
+"This will make no changes to boot loader configuration.  If you are using a "
+"third party boot loader, you should choose this."
+msgstr ""
+
+msgid "This will update your current boot loader."
+msgstr "これにより、現在のブートローダーが更新されます。"
+
+msgid "Time Zone Selection"
+msgstr "タイムゾーンの選択"
+
+msgid ""
+"To begin testing the CD media before installation press %s.\n"
+"\n"
+"Choose %s to skip the media test and start the installation."
+msgstr ""
+
+msgid ""
+"To use RAID you must first create at least two partitions of type 'software "
+"RAID'.  Then you can create a RAID device which can be formatted and "
+"mounted.\n"
+"\n"
+msgstr ""
+
+msgid "Too many spares"
+msgstr "スペアが多すぎます"
+
+msgid "Too small"
+msgstr "小さすぎる"
+
+msgid "Total    :"
+msgstr "合計："
+
+msgid "Total Space:"
+msgstr "合計スペース："
+
+msgid "Transferring install image to hard drive..."
+msgstr "インストールイメージをハードドライブに転送しています..."
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Unable To Delete"
+msgstr "削除できません"
+
+msgid "Unable To Edit"
+msgstr "編集できません"
+
+msgid "Unable to Start X"
+msgstr "Xを起動できません"
+
+msgid "Unable to access the CDROM."
+msgstr "CDROMにアクセスできません。"
+
+msgid ""
+"Unable to find any devices of the type needed for this installation type.  "
+"Would you like to manually select your driver or use a driver disk?"
+msgstr ""
+
+msgid "Unable to find install image %s"
+msgstr "インストールイメージ％sが見つかりません"
+
+msgid "Unable to instantiate a X hardware state object."
+msgstr "Xハードウェア状態オブジェクトをインスタンス化できません。"
+
+msgid "Unable to load file!"
+msgstr "ファイルを読み込めません！"
+
+msgid "Unable to load title bar"
+msgstr "タイトルバーを読み込めません"
+
+msgid ""
+"Unable to locate logical volume %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"Unable to locate partition %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"Unable to locate raid device %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"Unable to locate volume group %s to use for %s.\n"
+"\n"
+"Press 'OK' to reboot your system."
+msgstr ""
+
+msgid ""
+"Unable to read package metadata. This may be due to a missing repodata "
+"directory.  Please ensure that your install tree has been correctly "
+"generated.  %s"
+msgstr ""
+
+msgid ""
+"Unable to read the disc checksum from the primary volume descriptor.  This "
+"probably means the disc was created without adding the checksum."
+msgstr ""
+
+msgid "Unable to retrieve %s://%s/%s/%s."
+msgstr "％s：//％s /％s /％sを取得できません。"
+
+msgid "Unable to retrieve the install image."
+msgstr "インストールイメージを取得できません。"
+
+msgid "Unable to set vnc password - using no password!"
+msgstr "vncパスワードを設定できません-パスワードを使用していません！"
+
+msgid "Uncategorized"
+msgstr "未分類"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Unknown Error"
+msgstr "不明なエラー"
+
+msgid "Unknown Host"
+msgstr "不明なホスト"
+
+msgid "Unknown Linux system"
+msgstr "不明なLinuxシステム"
+
+msgid "Unknown Url method %s"
+msgstr "不明なURLメソッド％s"
+
+msgid "Unknown driver disk kickstart source: %s"
+msgstr "不明なドライバーディスクキックスタートソース：％s"
+
+msgid "Unknown install method"
+msgstr "不明なインストール方法"
+
+msgid "Unrecoverable Error"
+msgstr "回復不能なエラー"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Disk Source"
+msgstr "ディスクソースの更新"
+
+msgid "Update boot loader configuration"
+msgstr "ブートローダー構成を更新します"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Updates Disk"
+msgstr "ディスクを更新"
+
+msgid "Upgrade"
+msgstr "アップグレード"
+
+msgid "Upgrade Boot Loader Configuration"
+msgstr "ブートローダー構成のアップグレード"
+
+msgid "Upgrade Examine"
+msgstr "アップグレード検査"
+
+msgid "Upgrade Existing System"
+msgstr "既存のシステムをアップグレードする"
+
+msgid "Upgrade Swap Partition"
+msgstr "スワップパーティションのアップグレード"
+
+msgid "Upgrade bootloader on the following system:"
+msgstr "次のシステムでブートローダーをアップグレードします。"
+
+msgid "Upgrade to begin"
+msgstr "アップグレードを開始します"
+
+msgid "Upgrading %s-%s-%s.%s.\n"
+msgstr "％s-％s-％s。％sをアップグレードしています。\n"
+
+msgid "Use GRUB Boot Loader"
+msgstr "GRUBブートローダーを使用する"
+
+msgid "Use a GRUB Password"
+msgstr "GRUBパスワードを使用する"
+
+msgid "Use a driver disk"
+msgstr "ドライバディスクを使用する"
+
+msgid "Use dynamic IP configuration (BOOTP/DHCP)"
+msgstr "動的IP構成を使用する（BOOTP / DHCP）"
+
+msgid "Use non-anonymous ftp"
+msgstr "匿名でないftpを使用する"
+
+msgid "Use text mode"
+msgstr "テキストモードを使用する"
+
+msgid "Used Space:"
+msgstr "使用済みスペース："
+
+msgid "User name"
+msgstr "ユーザー名"
+
+msgid "VNC Configuration"
+msgstr "VNC構成"
+
+msgid "Virtualization (Xen)"
+msgstr "仮想化（Xen）"
+
+msgid "Volume Group Name:"
+msgstr "ボリュームグループ名："
+
+msgid "Volume Group Names must be less than 128 characters"
+msgstr "ボリュームグループ名は128文字未満である必要があります"
+
+msgid "Volume Group:"
+msgstr "ボリュームグループ："
+
+msgid "WWPN"
+msgstr ""
+
+msgid "Waiting for telnet connection..."
+msgstr "Telnet接続を待機しています..."
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Warning! This is pre-release software!"
+msgstr "警告！"
+
+msgid "Warning: %s"
+msgstr "警告：％s"
+
+msgid "Warning: %s."
+msgstr "警告：％s。"
+
+msgid "Warnings During Automatic Partitioning"
+msgstr "自動パーティショニング中の警告"
+
+msgid "Web server"
+msgstr "Webサーバー"
+
+msgid "Web site name:"
+msgstr "Webサイト名："
+
+msgid "Welcome"
+msgstr "ようこそ"
+
+msgid "Welcome to %s"
+msgstr "％sへようこそ"
+
+msgid "Welcome to %s - Rescue Mode"
+msgstr "％sへようこそ-レスキューモード"
+
+msgid ""
+"Welcome to %s!\n"
+"\n"
+msgstr ""
+
+msgid "What device is your mouse located on?"
+msgstr "マウスはどのデバイスにありますか？"
+
+msgid "What do you want to do now?"
+msgstr "今何をしたいですか？"
+
+msgid "What language would you like to use during the installation process?"
+msgstr "インストールプロセス中にどの言語を使用しますか？"
+
+msgid ""
+"What partition and directory on that partition hold the CD (iso9660) images "
+"for %s? If you don't see the disk drive you're using listed here, press F2 "
+"to configure additional devices."
+msgstr ""
+
+msgid "What partition holds the root partition of your installation?"
+msgstr ""
+"どのパーティションがインストールのルートパーティションを保持していますか？ど"
+"のパーティションがインストールのルートパーティションを保持していますか？"
+
+msgid "What time zone are you located in?"
+msgstr "あなたはどのタイムゾーンにいますか？"
+
+msgid "What type of keyboard do you have?"
+msgstr "どのタイプのキーボードがありますか？"
+
+msgid "What type of media contains the packages to be installed?"
+msgstr "インストールするパッケージが含まれているメディアの種類は何ですか？"
+
+msgid "What type of media contains the rescue image?"
+msgstr "レスキュー画像が含まれているメディアの種類は何ですか？"
+
+msgid "What type of system would you like to install?"
+msgstr "どのタイプのシステムをインストールしますか？"
+
+msgid "What would you like to do?"
+msgstr "何をしたいですか？"
+
+msgid "When finished please exit from the shell and your system will reboot."
+msgstr "終了したら、シェルを終了してください。システムが再起動します。"
+
+msgid "Where do you want to install the boot loader?"
+msgstr "ブートローダーをどこにインストールしますか？"
+
+msgid "Which boot loader would you like to use?"
+msgstr "どのブートローダーを使用しますか？"
+
+msgid "Which drive(s) do you want to use for this installation?"
+msgstr "このインストールに使用するドライブはどれですか？"
+
+msgid "Which model keyboard is attached to this computer?"
+msgstr "このコンピューターにはどのモデルのキーボードが接続されていますか？"
+
+msgid "Which model mouse is attached to this computer?"
+msgstr "このコンピューターにはどのモデルのマウスが接続されていますか？"
+
+msgid "Will try to connect again in 15 seconds..."
+msgstr "15秒後に再接続を試みます..."
+
+msgid "Wireless Settings"
+msgstr "ワイヤレス設定"
+
+msgid "Would you like to apply the modifications onto the disks?"
+msgstr "ディスクに変更を適用しますか？"
+
+msgid "Would you like to change the label of the selected partition?"
+msgstr "選択したパーティションのラベルを変更しますか？"
+
+# msgstr "선택된 구획의 이름을 변경하겠습니까?"
+msgid "Would you like to continue with the upgrade?"
+msgstr "アップグレードを続行しますか？"
+
+msgid "Would you like to continue with your requested partitioning scheme?"
+msgstr "要求されたパーティション分割スキームを続行しますか？"
+
+msgid "Would you like to create a new partition or a new logical volume?"
+msgstr "新しいパーティションまたは新しい論理ボリュームを作成しますか？"
+
+msgid "Would you like to create a new partition with specified settings?"
+msgstr "指定した設定で新しいパーティションを作成しますか？"
+
+msgid ""
+"Would you like to perform a checksum test of the ISO image:\n"
+"\n"
+"   %s?"
+msgstr ""
+
+msgid "Would you like to update the preexisting system or install the new one?"
+msgstr ""
+"既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
+"既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
+
+msgid ""
+"Would you like to update the preexisting bootloader or install the new one?"
+msgstr ""
+
+msgid "Wrong CDROM"
+msgstr "間違ったCDROM"
+
+msgid ""
+"X was unable to start on your machine.  Would you like to start VNC to "
+"connect to this computer from another computer and perform a graphical "
+"install or continue with a text mode install?"
+msgstr ""
+
+msgid ""
+"You appear to be upgrading from a system which is too old to upgrade to this "
+"version of %s.  Are you sure you wish to continue the upgrade process?"
+msgstr ""
+
+msgid "You are about to delete a RAID device."
+msgstr "RAIDデバイスを削除しようとしています。"
+
+msgid "You are about to delete all partitions on the device '/dev/%s'."
+msgstr "デバイス'/ dev /％s'のすべてのパーティションを削除しようとしています。"
+
+msgid "You are about to delete the /dev/%s partition."
+msgstr "/ dev /％sパーティションを削除しようとしています。"
+
+msgid "You are about to delete the logical volume \"%s\"."
+msgstr "論理ボリューム\\ \"％s\"を削除しようとしています。"
+
+msgid ""
+"You are about to delete the volume group \"%s\".\n"
+"\n"
+"ALL logical volumes in this volume group will be lost!"
+msgstr ""
+
+msgid "You are about to format the partition."
+msgstr "パーティションをフォーマットしようとしています。"
+
+msgid "You are about to install the system on partition '%s'."
+msgstr "システムをパーティション'％s'にインストールしようとしています。"
+
+msgid "You are about to install RedStar3.0 bootloader"
+msgstr "RedStar3.0ブートローダーをインストールしようとしています"
+
+msgid "RedStar3.0"
+msgstr ""
+
+msgid ""
+"You can configure the boot loader to boot other operating systems. It will "
+"allow you to select an operating system to boot from the list. To add "
+"additional operating systems, which are not automatically detected, click "
+"'Add.' To change the operating system booted by default, select 'Default' by "
+"the desired operating system."
+msgstr ""
+
+msgid "You cannot create more than %s logical volumes per volume group."
+msgstr ""
+"ボリュームグループごとに％sを超える論理ボリュームを作成することはできません。"
+"ボリュームグループごとに％sを超える論理ボリュームを作成することはできません。"
+
+msgid "You cannot delete a partition of a LDL formatted DASD."
+msgstr "LDL形式のDASDのパーティションを削除することはできません。"
+
+msgid "You cannot delete free space."
+msgstr "空き領域を削除できません。"
+
+msgid ""
+"You cannot delete this partition, as it is an extended partition which "
+"contains %s"
+msgstr ""
+
+msgid ""
+"You cannot delete this partition:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You cannot edit this partition, as it is an extended partition which "
+"contains %s"
+msgstr ""
+
+msgid ""
+"You cannot edit this partition:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You cannot remove this physical volume because otherwise the volume group "
+"will be too small to hold the currently defined logical volumes."
+msgstr ""
+
+msgid "You do not have enough RAM to install %s on this machine."
+msgstr "このマシンに％sをインストールするのに十分なRAMがありません。"
+
+msgid ""
+"You do not have enough RAM to use the graphical installer.  Starting text "
+"mode."
+msgstr ""
+
+msgid ""
+"You don't have any Linux partitions. Press return to get a shell. The system "
+"will reboot automatically when you exit from the shell."
+msgstr ""
+
+msgid ""
+"You don't seem to have any hard drives on your system! Would you like to "
+"configure additional devices?"
+msgstr ""
+
+msgid ""
+"You don't use the product after Juche96(2007).10.9 because this product is "
+"demo"
+msgstr ""
+
+msgid "You entered an invalid IP address."
+msgstr "無効なIPアドレスを入力しました。"
+
+msgid ""
+"You have allocated less swap space (%dM) than available RAM (%dM) on your "
+"system.  This could negatively impact performance."
+msgstr ""
+
+msgid ""
+"You have chosen to remove all Linux partitions (and ALL DATA on them) on the "
+"following drives:%s\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+msgid ""
+"You have chosen to remove all partitions (ALL DATA) on the following drives:"
+"%s\n"
+"Are you sure you want to do this?"
+msgstr ""
+
+msgid ""
+"You have chosen to use a pre-existing partition for this installation "
+"without formatting it. We recommend that you format this partition to make "
+"sure files from a previous operating system installation do not cause "
+"problems with this installation of Linux. However, if this partition "
+"contains files that you need to keep, such as home directories, then  "
+"continue without formatting this partition."
+msgstr ""
+
+msgid ""
+"You have elected to not install any boot loader. It is strongly recommended "
+"that you install a boot loader unless you have an advanced need.  A boot "
+"loader is almost always required in order to reboot your system into Linux "
+"directly from the hard drive.\n"
+"\n"
+"Are you sure you want to skip boot loader installation?"
+msgstr ""
+
+msgid ""
+"You have multiple devices which could serve as sources for a driver disk.  "
+"Which would you like to use?"
+msgstr ""
+
+msgid ""
+"You have multiple devices which could serve as sources for an update disk.  "
+"Which would you like to use?"
+msgstr ""
+
+msgid ""
+"You have multiple network devices on this system. Which would you like to "
+"install through?"
+msgstr ""
+
+msgid ""
+"You have no active network devices.  Your system will not be able to "
+"communicate over a network by default without at least one device active.\n"
+"\n"
+"NOTE: If you have a PCMCIA-based network adapter you should leave it "
+"inactive at this point. When you reboot your system the adapter will be "
+"activated automatically."
+msgstr ""
+
+msgid ""
+"You have not defined a root partition (/), which is required for "
+"installation of %s to continue."
+msgstr ""
+
+msgid "You have not specified a FCP LUN or the number is invalid."
+msgstr "FCP LUNを指定していないか、番号が無効です。"
+
+msgid "You have not specified a SCSI ID or the ID is invalid."
+msgstr "SCSI IDを指定していないか、IDが無効です。"
+
+msgid "You have not specified a SCSI LUN or the number is invalid."
+msgstr "SCSI LUNを指定していないか、番号が無効です。"
+
+msgid "You have not specified a device number or the number is invalid"
+msgstr "デバイス番号を指定していないか、番号が無効です"
+
+msgid "You have not specified a hostname."
+msgstr "ホスト名を指定していません。"
+
+msgid ""
+"You have not specified a hostname.  Depending on your network environment "
+"this may cause problems later."
+msgstr ""
+
+msgid ""
+"You have not specified a swap partition.  Although not strictly required in "
+"all cases, it will significantly improve performance for most installations."
+msgstr ""
+
+msgid "You have not specified a worldwide port name or the name is invalid."
+msgstr "ワールドワイドポート名を指定していないか、名前が無効です。"
+
+msgid ""
+"You have not specified the field \"%s\".  Depending on your network "
+"environment this may cause problems later."
+msgstr ""
+
+msgid "You have specified an install method which isn't supported by anaconda."
+msgstr "anacondaでサポートされていないインストール方法を指定しました。"
+
+msgid ""
+"You have specified more than 32 swap devices.  The kernel for %s only "
+"supports 32 swap devices."
+msgstr ""
+
+msgid ""
+"You must create a /boot/efi partition of type FAT and a size of 50 megabytes."
+msgstr ""
+
+msgid "You must create a PPC PReP Boot partition."
+msgstr "PPCPRePブートパーティションを作成する必要があります。"
+
+msgid "You must create an Apple Bootstrap partition."
+msgstr "AppleBootstrapパーティションを作成する必要があります。"
+
+msgid "You must enter a directory."
+msgstr "ディレクトリを入力する必要があります。"
+
+msgid "You must enter a server name."
+msgstr "サーバー名を入力する必要があります。"
+
+msgid "You must enter both a valid IP address and a netmask."
+msgstr "有効なIPアドレスとネットマスクの両方を入力する必要があります。"
+
+msgid "You must enter valid IP information to continue"
+msgstr "続行するには有効なIP情報を入力する必要があります"
+
+msgid ""
+"You must enter your root password and confirm it by typing it a second time "
+"to continue."
+msgstr ""
+
+msgid "You must first select a partition to delete."
+msgstr "最初に削除するパーティションを選択する必要があります。"
+
+msgid "You must select a partition to edit"
+msgstr "編集するパーティションを選択する必要があります"
+
+msgid "You must specify a label for the entry"
+msgstr "エントリのラベルを指定する必要があります"
+
+msgid "You need to select at least one hard drive to have %s installed onto."
+msgstr ""
+"％sをインストールするハードドライブを少なくとも1つ選択する必要があります。％s"
+"をインストールするハードドライブを少なくとも1つ選択する必要があります。"
+
+msgid ""
+"You're about to remove a FCP disk from your configuration. Are you sure that "
+"you wish to continue?"
+msgstr ""
+
+msgid ""
+"Your %s partition is less than %s megabytes which is lower than recommended "
+"for a normal %s install."
+msgstr ""
+
+msgid ""
+"Your boot loader password is less than six characters.  We recommend a "
+"longer boot loader password.\n"
+"\n"
+"Would you like to continue with this password?"
+msgstr ""
+
+msgid ""
+"Your dynamic IP request returned IP configuration information, but it did "
+"not include a DNS nameserver. If you know what your nameserver is, please "
+"enter it now. If you don't have this information, you can leave this field "
+"blank and the install will continue."
+msgstr ""
+
+msgid ""
+"Your root partition is less than 250 megabytes which is usually too small to "
+"install %s."
+msgstr ""
+
+msgid ""
+"Your system had dirty file systems which you chose not to mount.  Press "
+"return to get a shell from which you can fsck and mount your partitions.  "
+"The system will reboot automatically when you exit from the shell."
+msgstr ""
+
+msgid ""
+"Your system has been mounted under %s.\n"
+"\n"
+"Press <return> to get a shell. If you would like to make your system the "
+"root environment, run the command:\n"
+"\n"
+"\tchroot %s\n"
+"\n"
+"The system will reboot automatically when you exit from the shell."
+msgstr ""
+
+msgid "Your system is mounted under the %s directory."
+msgstr "システムは％sディレクトリの下にマウントされています。"
+
+msgid "Your system will be rebooted in %s seconds"
+msgstr "システムは％s秒で再起動されます"
+
+msgid "Your system will now be rebooted."
+msgstr "システムが再起動されます。"
+
+msgid ""
+"Your system's state has been successfully written to the floppy. Your system "
+"will now be rebooted."
+msgstr ""
+
+msgid ""
+"Your system's state has been successfully written to the remote host.\n"
+"Your system will now be reset."
+msgstr ""
+
+msgid "ZFCP Configuration"
+msgstr "ZFCP構成"
+
+msgid "_Activate on boot"
+msgstr "_起動時にアクティブ化"
+
+msgid "_Add"
+msgstr "_追加"
+
+msgid "_Automatically partition"
+msgstr "_自動的に分割"
+
+msgid "_Change Drive Order"
+msgstr "_ドライブの順序を変更する"
+
+msgid "_Confirm: "
+msgstr "_確認："
+
+msgid "_Create new boot loader configuration"
+msgstr "_新しいブートローダー構成を作成する"
+
+msgid "_Custom"
+msgstr "_カスタム"
+
+msgid "_Customize now"
+msgstr "_今すぐカスタマイズ"
+
+msgid "_Delete"
+msgstr "_削除"
+
+msgid "_Device"
+msgstr "_デバイス"
+
+msgid "_ESSID"
+msgstr ""
+
+msgid "_Edit"
+msgstr "_編集"
+
+msgid "_Emulate 3 buttons"
+msgstr "_3つのボタンをエミュレートする"
+
+msgid "_End Cylinder:"
+msgstr "_エンドシリンダー："
+
+msgid "_Fedora"
+msgstr ""
+
+msgid "_File System Type:"
+msgstr "_ファイルシステムタイプ："
+
+msgid "_Fixed size"
+msgstr "_固定サイズ"
+
+msgid "_Force LBA32 (not normally required)"
+msgstr "_Force LBA32（通常は必要ありません）"
+
+msgid "_Format partition?"
+msgstr "_パーティションをフォーマットしますか？"
+
+msgid "_General kernel parameters"
+msgstr "_一般的なカーネルパラメータ"
+
+msgid "_Help"
+msgstr "_ヘルプ"
+
+msgid "_Install %s"
+msgstr "_インストール％s"
+
+msgid "_LVM"
+msgstr ""
+
+msgid "_Logical Volume Name:"
+msgstr "_論理ボリューム名："
+
+msgid "_Personal Desktop"
+msgstr "_パーソナルデスクトップ"
+
+msgid "_Physical Extent:"
+msgstr "_物理的範囲："
+
+msgid "_Point to Point (IP)"
+msgstr "_ポイントツーポイント（IP）"
+
+msgid "_Primary DNS"
+msgstr "_プライマリDNS"
+
+msgid "_RAID Members:"
+msgstr "_RAIDメンバー："
+
+msgid "_Review and modify partitioning layout"
+msgstr "_パーティショニングレイアウトを確認および変更する"
+
+msgid "_Save to floppy"
+msgstr "_フロッピーに保存"
+
+msgid "_Secondary DNS"
+msgstr "_セカンダリDNS"
+
+msgid "_Select the drive(s) to use for this installation."
+msgstr "_このインストールに使用するドライブを選択します。"
+
+msgid "_Server"
+msgstr "_サーバー"
+
+msgid "_Size (MB):"
+msgstr "_サイズ（MB）："
+
+msgid "_Skip boot loader updating"
+msgstr "_ブートローダーの更新をスキップする"
+
+msgid "_Start Cylinder:"
+msgstr "_シリンダーの開始："
+
+msgid "_Tertiary DNS"
+msgstr "_3次DNS"
+
+msgid "_Update boot loader configuration"
+msgstr "_ブートローダー構成を更新します"
+
+msgid "_Upgrade an existing installation"
+msgstr "_既存のインストールをアップグレードする"
+
+msgid "_Upgrade an existing installation's bootloader"
+msgstr "_既存のインストールのブートローダーをアップグレードする"
+
+msgid "_Use a boot loader password"
+msgstr "_ブートローダーのパスワードを使用する"
+
+msgid "_Volume Group Name:"
+msgstr "_ボリュームグループ名："
+
+msgid "_automatically via DHCP"
+msgstr "_DHCP経由で自動的に"
+
+msgid "_manually"
+msgstr "_手動で"
+
+msgid "a partition which is a member of a LVM Volume Group."
+msgstr "LVMボリュームグループのメンバーであるパー​​ティション。"
+
+msgid "a partition which is a member of a RAID array."
+msgstr "RAIDアレイのメンバーであるパー​​ティション。"
+
+msgid "automatically via DHCP"
+msgstr "DHCP経由で自動的に"
+
+msgid "default:LTR"
+msgstr "デフォルト：LTR"
+
+msgid "iSCSI Configuration"
+msgstr "iSCSI構成"
+
+msgid "iSCSI Initiator Name:"
+msgstr "iSCSIイニシエーター名："
+
+msgid "iSCSI configuration"
+msgstr "iSCSI構成"
+
+msgid "loader has already been run.  Starting shell.\n"
+msgstr "ローダーはすでに実行されています。\n"
+
+msgid "logical volume"
+msgstr "論理ボリューム"
+
+msgid "manually"
+msgstr "手動で"
+
+msgid "partition"
+msgstr "パーティション"
+
+msgid "software RAID"
+msgstr "ソフトウェアRAID"
+
+msgid "the partition in use by the installer."
+msgstr "インストーラーが使用しているパーティション。"
+
+msgid "unknown install method: %s"
+msgstr "不明なインストール方法：％s"
+
+msgid "z/IPL Boot Loader Configuration"
+msgstr "z/IPLブートローダー構成"
+
+msgid "z/IPL Configuration"
+msgstr "z/IPL構成"
+
+msgid ""
+"zSeries machines can access industry-standard SCSI devices via Fibre Channel "
+"(FCP). You need to provide 5 parameters for each device: a 16 bit device "
+"number, a 16bit SCSI ID, a 64 bit World Wide Port Name (WWPN), a 16bit SCSI "
+"LUN and a 64 bit FCP LUN."
+msgstr ""
+
+msgid "can cel"
+msgstr "セルできます"
+
+msgid "Formatting OS partition..."
+msgstr "OSパーティションのフォーマット..."
+
+msgid "Formatting bootloader partition..."
+msgstr "ブートローダーパーティションをフォーマットしています..."
+
+msgid ""
+"Error informing the kernel about modifications to partition %s -- %s.  This "
+"means Linux won't know about any changes you made to %s until you reboot -- "
+"so you shouldn't mount it or use it in any way before rebooting."
+msgstr ""
+
+msgid "You are about to delete the partition."
+msgstr "パーティションを削除しようとしています。"
+
+msgid "The size entry is empty. Input the right size and try again"
+msgstr "サイズエントリが空です。"
+
+msgid "Unable to create partition which extends beyond the end of the disk."
+msgstr "ディスクの端を超えて拡張するパーティションを作成できません。"
+
+msgid ""
+"\n"
+"Enter the information for connecting to the internet through your local "
+"network (LAN).\n"
+"\n"
+"If you don't know this information, ask your system administrator."
+msgstr ""
+
+msgid ""
+"\n"
+"Please enter your personal information. It's used to register your Linux "
+"product, create\n"
+"your user account, and set up your infomation in Address Book. Your email "
+"address is \n"
+"also used to setup your Mail account."
+msgstr ""
+
+msgid "(Example: host.domain.com)"
+msgstr "(例：host.domain.com）"
+
+msgid "(Example: localhost)"
+msgstr "(例：localhost）"
+
+msgid "<Will be supplied by a server.>"
+msgstr "<サーバーから提供されます。>"
+
+msgid "Address"
+msgstr "住所"
+
+msgid "AddressBook Setup"
+msgstr "AddressBookのセットアップ"
+
+msgid "Administrator"
+msgstr "管理者"
+
+msgid "Area"
+msgstr "エリア"
+
+msgid "ChongJin"
+msgstr "清津"
+
+msgid "City"
+msgstr "市"
+
+msgid "Close"
+msgstr "閉じる"
+
+msgid "Company/School"
+msgstr "会社/学校"
+
+msgid "Confir_m Password:"
+msgstr "Confir_mパスワード："
+
+msgid "Create _account"
+msgstr "_accountを作成します"
+
+msgid "Create an account for the administrative purpose"
+msgstr "管理目的でアカウントを作成する"
+
+msgid "Current time"
+msgstr "現在の時刻"
+
+msgid "DHCP Client ID    (optional)"
+msgstr "DHCPクライアントID（オプション）"
+
+msgid "DNS Servers (optional for DHCP & BootP)"
+msgstr "DNSサーバー（DHCPではオプション）"
+
+msgid "Date and Time"
+msgstr "日付と時刻"
+
+msgid "Email Address (if you have one)"
+msgstr "メールアドレス（お持ちの場合）"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "GaeSong"
+msgstr "ケソン"
+
+msgid "HamHung"
+msgstr "咸興"
+
+msgid "Help"
+msgstr "ヘルプ"
+
+msgid "Host Name"
+msgstr "ホスト名"
+
+msgid "IP Address"
+msgstr "IPアドレス"
+
+msgid ""
+"It is highly recommended that a personal user account be created.  If you "
+"continue without an account, you can only log in with the root account, "
+"which is reserved for administrative use only."
+msgstr ""
+
+msgid ""
+"It is recommended that you create a system 'username' for regular (non-"
+"administrative) use of your system. To create a system 'username,' please "
+"provide the information requested below."
+msgstr ""
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Mannually"
+msgstr "毎年"
+
+msgid "NamPho"
+msgstr "ナムポ"
+
+msgid "Network Setup"
+msgstr "ネットワーク設定"
+
+msgid "OK"
+msgstr ""
+
+msgid "Phone Number"
+msgstr "電話番号"
+
+msgid "Please enter the IP Address and netmask configuration for this machine."
+msgstr "このマシンのIPアドレスとネットマスク構成を入力してください。"
+
+msgid "Please set the date and time for the system."
+msgstr "システムの日時を設定してください。"
+
+msgid "Please set the timezone for the system."
+msgstr "システムのタイムゾーンを設定してください。"
+
+msgid "PyongYang"
+msgstr "平壌"
+
+msgid "RaJin-SonBong"
+msgstr "羅先特別"
+
+msgid "Router Address"
+msgstr "ルーターアドレス"
+
+msgid "Short Nam_e:"
+msgstr "短いNam_e："
+
+msgid "State"
+msgstr "状態"
+
+msgid "Subnet Mask"
+msgstr "サブネットマスク"
+
+msgid "System User"
+msgstr "システムユーザー"
+
+msgid "TCP/IP connection type"
+msgstr "TCP/IP接続タイプ"
+
+msgid "The passwords do not match.  Please enter the password again."
+msgstr "パスワードが一致しません。"
+
+msgid ""
+"The system configuration has been done. The system must now reboot for some "
+"of your selections to take effect."
+msgstr ""
+
+msgid ""
+"The username '%s' is a reserved system account. Please specify another "
+"username."
+msgstr ""
+
+msgid ""
+"The fullname '%s' is a reserved system account. Please specify another "
+"username."
+msgstr ""
+
+msgid "Timezone"
+msgstr "タイムゾーン"
+
+msgid "TimeZone"
+msgstr ""
+
+msgid "To finish setting up your computer, you need to set the date and time"
+msgstr ""
+"コンピューターのセットアップを完了するには、日付と時刻を設定する必要がありま"
+"すコンピューターのセットアップを完了するには、日付と時刻を設定する必要があり"
+"ます"
+
+msgid "Today's date"
+msgstr "今日の日付"
+
+msgid "Using DHCP"
+msgstr "DHCPの使用"
+
+msgid "You should enter the user information for the administrator."
+msgstr "管理者のユーザー情報を入力する必要があります。"
+
+msgid "Zip Code"
+msgstr "郵便番号"
+
+msgid "_Back"
+msgstr "_戻る"
+
+msgid "_Continue"
+msgstr "_続行"
+
+msgid "_Finish"
+msgstr "_終了"
+
+msgid "_Next"
+msgstr "_次へ"
+
+msgid "_Password:"
+msgstr "_パスワード："
+
+msgid "Revert"
+msgstr "元に戻す"
+
+msgid "_Username:"
+msgstr "_ユーザー名："
+
+msgid "Please select the nearest city in your time zone."
+msgstr "タイムゾーンで最も近い都市を選択してください。"
+
+msgid "AM"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "Apply"
+msgstr "適用"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid ""
+"The name '%s' contains invalid characters.  Please use only UTF-8 characters."
+msgstr ""
+
+msgid "The name '%s' contains a colon. Please do not use colons in the name."
+msgstr "名前'％s'にコロンが含まれています。"
+
+msgid "Please enter a user name."
+msgstr "ユーザー名を入力してください。"
+
+msgid "The user name must not exceed %d characters."
+msgstr "ユーザー名は％d文字を超えてはなりません。"
+
+msgid ""
+"The user name '%s' contains a dollar sign which is not at the end. Please "
+"use dollar signs only at the end of user names to indicate Samba machine "
+"accounts."
+msgstr ""
+
+msgid ""
+"Using all numbers as the user name can cause confusion about whether the "
+"user name or numerical user id is meant. \n"
+"Input non-numerical-only user name and try again."
+msgstr ""
+
+msgid ""
+"The password contains invalid characters.  Please use only ASCII characters."
+msgstr ""
+
+msgid ""
+"The user name '%s' contains invalid characters. Please use only ASCII "
+"characters."
+msgstr ""
+
+msgid ""
+"The value you entered for IP address is incorrect.\n"
+" There are smaller or more than four octets in IP address field."
+msgstr ""
+
+msgid ""
+"The value you entered for IP address is incorrect.\n"
+" There is empty octet in IP address field."
+msgstr ""
+
+msgid ""
+"The value you entered for IP address is incorrect.\n"
+" Every octet must smaller than 255. "
+msgstr ""
+
+msgid ""
+"The value you entered for Mask is incorrect.\n"
+" There are smaller or more than four octets in Mask field."
+msgstr ""
+
+msgid ""
+"The value you entered for Mask is incorrect.\n"
+" There is empty octet in Mask field."
+msgstr ""
+
+msgid ""
+"The value you entered for Mask is incorrect.\n"
+" Every octet must smaller than 255. "
+msgstr ""
+
+msgid ""
+"The value you entered for Gateway is incorrect.\n"
+" There are smaller or more than four octets in Gateway field."
+msgstr ""
+
+msgid ""
+"The value you entered for Gateway is incorrect.\n"
+" There is empty octet in GateWay field."
+msgstr ""
+
+msgid ""
+"The value you entered for Gateway is incorrect.\n"
+" Every octet must smaller than 255. "
+msgstr ""
+
+msgid ""
+"The value you entered for DNS server is incorrect.\n"
+" There are smaller or more than four octets in DNS field."
+msgstr ""
+
+msgid ""
+"The value you entered for DNS server is incorrect.\n"
+" There is empty octet in DNS field."
+msgstr ""
+
+msgid ""
+"The value you entered for DNS server is incorrect.\n"
+" nonnumerical value inputed in DNS field."
+msgstr ""
+
+msgid ""
+"The value you entered for DNS server is incorrect.\n"
+" Every octet must smaller than 255. "
+msgstr ""
+
+msgid ""
+"The name entry is empty.\n"
+" Name entered automaticaly as 'localhost.localdomain'."
+msgstr ""
+
+msgid "There is an empty data field. Input all datas and try again."
+msgstr "空のデータフィールドがあります。"
+
+msgid ""
+"There is non-available data in input-entries. Check the data fields and try "
+"again."
+msgstr ""
+
+msgid "You can set year between 1969 ~ 2037."
+msgstr "1969年から2037年の間に年を設定できます。"
+
+msgid "PhoneNumber must be in range(0000000 ~ 99999999)"
+msgstr "PhoneNumberは範囲内にある必要があります（0000000〜99999999）"
+
+msgid "ZipCode must be in range (00000 ~ 999999)"
+msgstr "ZipCodeは範囲内にある必要があります（00000〜999999）"
+
+msgid "AreaCode must be in range (0~999)"
+msgstr "AreaCodeは範囲（0〜999）内にある必要があります"
+
+msgid "Email address must be as the same follow: test@sample.com.kp"
+msgstr "メールアドレスは次のとおりである必要があります：test@sample.com.kp"
+
+msgid "Email address must include only one times letter: '@'"
+msgstr "メールアドレスには1回だけ文字を含める必要があります：'@'"
+
+msgid ""
+"The words in Email address must not be starts or end with numberical letter"
+msgstr ""
+
+msgid "Email address must include letter: '.'"
+msgstr "メールアドレスには文字「。」を含める必要があります"
+
+msgid "Email address must not be end with letter: '.'"
+msgstr "メールアドレスは文字で終わらせてはいけません：'。'"
+
+msgid "Password _Hint:"
+msgstr "パスワード_ヒント："
+
+msgid "Name must be shorter than 60 byte."
+msgstr "名前は60バイトより短くする必要があります。"
+
+msgid "Name must be shorter than 32 byte."
+msgstr "名前は32バイトより短くする必要があります。"
+
+msgid "Name must be shorter than 250."
+msgstr "名前は250より短くする必要があります。"
+
+msgid "Reboot now"
+msgstr "今すぐ再起動"
+
+msgid "January"
+msgstr "1月"
+
+msgid "February"
+msgstr "2月"
+
+msgid "March"
+msgstr "3月"
+
+msgid "April"
+msgstr "4月"
+
+msgid "May"
+msgstr "5月"
+
+msgid "June"
+msgstr "6月"
+
+msgid "July"
+msgstr "7月"
+
+msgid "August"
+msgstr "8月"
+
+msgid "September"
+msgstr "9月"
+
+msgid "October"
+msgstr "10月"
+
+msgid "November"
+msgstr "11月"
+
+msgid "December"
+msgstr "12月"
+
+msgid "same shortname."
+msgstr "同じショートネーム。"
+
+msgid "same fullname."
+msgstr "同じフルネーム。"
+
+msgid "Preparing for upgrade..."
+msgstr "アップグレードの準備中..."
+
+msgid "installing upgrade packages..."
+msgstr "アップグレードパッケージのインストール..."
+
+msgid "You enter reserved word as shortname. Please enter another name"
+msgstr "予約語をショートネームとして入力しました。"
+
+msgid "You enter reserved word as username. Please enter another name"
+msgstr "ユーザー名として予約語を入力しました。"
+
+msgid "SWAP-SPACE"
+msgstr "スワップスペース"
+
+msgid ""
+"This hard drive has some bad partition table entries. Please recreate all "
+"partitions and try again."
+msgstr ""
+
+msgid "You clicked invalid partition."
+msgstr "無効なパーティションをクリックしました。"
+
+# JSH: timezone information
+msgid "Abu Dhabi - U.A.E."
+msgstr "アブダビ-アラブ首長国連邦"
+
+msgid "Accra - Ghana"
+msgstr "アクラ-ガーナ"
+
+msgid "Addis Ababa - Ethiopia"
+msgstr "アディスアベバ-エチオピア"
+
+msgid "Adelaide - Australia"
+msgstr "アデレード-オーストラリア"
+
+msgid "Afghanistan Time"
+msgstr "アフガニスタン時間"
+
+msgid "Africa/Accra"
+msgstr "アフリカ/アクラ"
+
+msgid "Africa/Addis_Ababa"
+msgstr "アフリカ/アディスアベバ"
+
+msgid "Africa/Algiers"
+msgstr "アフリカ/アルジェ"
+
+msgid "Africa/Bamako"
+msgstr "アフリカ/バマコ"
+
+msgid "Africa/Bangui"
+msgstr "アフリカ/バンギ"
+
+msgid "Africa/Cairo"
+msgstr "アフリカ/カイロ"
+
+msgid "Africa/Casablanca"
+msgstr "アフリカ/カサブランカ"
+
+msgid "Africa/Conakry"
+msgstr "アフリカ/コナクリ"
+
+msgid "Africa/Dakar"
+msgstr "アフリカ/ダカール"
+
+msgid "Africa/Dar_es_Salaam"
+msgstr "アフリカ/ダルエスサラーム"
+
+msgid "Africa/Djibouti"
+msgstr "アフリカ/ジブチ"
+
+msgid "Africa/Douala"
+msgstr "アフリカ/ドゥアラ"
+
+msgid "Africa/Freetown"
+msgstr "アフリカ/フリータウン"
+
+msgid "Africa/Harare"
+msgstr "アフリカ/ハラレ"
+
+msgid "Africa/Johannesburg"
+msgstr "アフリカ/ヨハネスブルグ"
+
+msgid "Africa/Kampala"
+msgstr "アフリカ/カンパラ"
+
+msgid "Africa/Khartoum"
+msgstr "アフリカ/ハルツーム"
+
+msgid "Africa/Lagos"
+msgstr "アフリカ/ラゴス"
+
+msgid "Africa/Luanda"
+msgstr "アフリカ/ルアンダ"
+
+msgid "Africa/Lusaka"
+msgstr "アフリカ/ルサカ"
+
+msgid "Africa/Maputo"
+msgstr "アフリカ/マプト"
+
+msgid "Africa/Mogadishu"
+msgstr "アフリカ/モガディシュ"
+
+msgid "Africa/Monrovia"
+msgstr "アフリカ/モンロビア"
+
+msgid "Africa/Nairobi"
+msgstr "アフリカ/ナイロビ"
+
+msgid "Africa/Ndjamena"
+msgstr "アフリカ/ンジャメナ"
+
+msgid "Africa/Nouakchott"
+msgstr "アフリカ/ヌアクショット"
+
+msgid "Africa/Ouagadougou"
+msgstr "アフリカ/ワガドゥグー"
+
+msgid "Africa/Tripoli"
+msgstr "アフリカ/トリポリ"
+
+msgid "Africa/Tunis"
+msgstr "アフリカ/チュニジア"
+
+msgid "Alaska Daylight Time"
+msgstr "アラスカ夏時間"
+
+msgid "Algiers - Algeria"
+msgstr "アルジェ-アルジェリア"
+
+msgid "America/Anchorage"
+msgstr "アメリカ/アンカレッジ"
+
+msgid "America/Asuncion"
+msgstr "アメリカ/アスンシオン"
+
+msgid "America/Barbados"
+msgstr "アメリカ/バルバドス"
+
+msgid "America/Bogota"
+msgstr "アメリカ/ボゴタ"
+
+msgid "America/Buenos_Aires"
+msgstr "アメリカ/ブエノスアイレス"
+
+msgid "America/Caracas"
+msgstr "南北アメリカ/カラカス"
+
+msgid "America/Cayenne"
+msgstr "アメリカ/カイエン"
+
+msgid "America/Chicago"
+msgstr "アメリカ/シカゴ"
+
+msgid "America/Costa_Rica"
+msgstr "南北アメリカ/コスタリカ"
+
+msgid "America/Denver"
+msgstr "アメリカ/デンバー"
+
+msgid "America/Detroit"
+msgstr "アメリカ/デトロイト"
+
+msgid "America/El_Salvador"
+msgstr "アメリカ/エルサルバドル"
+
+msgid "America/Godthab"
+msgstr "アメリカ/ゴッドタブ"
+
+msgid "America/Guatemala"
+msgstr "アメリカ/グアテマラ"
+
+msgid "America/Guayaquil"
+msgstr "アメリカ/グアヤキル"
+
+msgid "America/Guyana"
+msgstr "アメリカ/ガイアナ"
+
+msgid "America/Havana"
+msgstr "アメリカ/ハバナ"
+
+msgid "America/Indianapolis"
+msgstr "アメリカ/インディアナポリス"
+
+msgid "America/La_Paz"
+msgstr "アメリカ/ラパス"
+
+msgid "America/Lima"
+msgstr "アメリカ/リマ"
+
+msgid "America/Los_Angeles"
+msgstr "アメリカ/ Los_Angeles"
+
+msgid "America/Managua"
+msgstr "アメリカ/マナグア"
+
+msgid "America/Mexico_City"
+msgstr "アメリカ/メキシコシティ"
+
+msgid "America/Montevideo"
+msgstr "アメリカ/モンテビデオ"
+
+msgid "America/Montreal"
+msgstr "アメリカ/モントリオール"
+
+msgid "America/New_York"
+msgstr "アメリカ/ニューヨーク"
+
+msgid "America/Panama"
+msgstr "アメリカ/パナマ"
+
+msgid "America/Paramaribo"
+msgstr "アメリカ/パラマリボ"
+
+msgid "America/Phoenix"
+msgstr "アメリカ/フェニックス"
+
+msgid "America/Port-au-Prince"
+msgstr "アメリカ/ポルトープランス"
+
+msgid "America/Puerto_Rico"
+msgstr "アメリカ/プエルトリコ"
+
+msgid "America/Recife"
+msgstr "アメリカ/レシフェ"
+
+msgid "America/Santiago"
+msgstr "アメリカ/サンティアゴ"
+
+msgid "America/Santo_Domingo"
+msgstr "アメリカ/サントドミンゴ"
+
+msgid "America/Sao_Paulo"
+msgstr "アメリカ/サンパウロ"
+
+msgid "America/Tegucigalpa"
+msgstr "アメリカ/テグシガルパ"
+
+msgid "America/Vancouver"
+msgstr "アメリカ/バンクーバー"
+
+msgid "America/Winnipeg"
+msgstr "アメリカ/ウィニペグ"
+
+msgid "Amman - Jordan"
+msgstr "アンマン-ヨルダン"
+
+msgid "Amsterdam - Netherlands"
+msgstr "アムステルダム-オランダ"
+
+msgid "Anadyr - Russia"
+msgstr "アナディル-ロシア"
+
+msgid "Anadyr Summer Time"
+msgstr "アナディルサマータイム"
+
+msgid "Analog"
+msgstr "アナログ"
+
+msgid "Anchorage - U.S.A."
+msgstr "アンカレッジ-アメリカ"
+
+msgid "Ankara - Turkey"
+msgstr "アンカラ-トルコ"
+
+msgid "Antananarivo - Madagascar"
+msgstr "アンタナナリボ-マダガスカル"
+
+msgid "Arabian Standard Time"
+msgstr "アラビア標準時"
+
+msgid "Argentina Time"
+msgstr "アルゼンチン時間"
+
+msgid "Armenia Summer Time"
+msgstr "アルメニアの夏の時間"
+
+msgid "Asia/Aden"
+msgstr "アジア/アデン"
+
+msgid "Asia/Amman"
+msgstr "アジア/アンマン"
+
+msgid "Asia/Anadyr"
+msgstr "アジア/アナディル"
+
+msgid "Asia/Baghdad"
+msgstr "アジア/バグダッド"
+
+msgid "Asia/Bahrain"
+msgstr "アジア/バーレーン"
+
+msgid "Asia/Baku"
+msgstr "アジア/バクー"
+
+msgid "Asia/Bangkok"
+msgstr "アジア/バンコク"
+
+msgid "Asia/Beirut"
+msgstr "アジア/ベイルート"
+
+msgid "Asia/Calcutta"
+msgstr "アジア/カルカッタ"
+
+msgid "Asia/Colombo"
+msgstr "アジア/コロンボ"
+
+msgid "Asia/Damascus"
+msgstr "アジア/ダマスカス"
+
+msgid "Asia/Dubai"
+msgstr "アジア/ドバイ"
+
+msgid "Asia/Hong_Kong"
+msgstr "アジア/香港"
+
+msgid "Asia/Jerusalem"
+msgstr "アジア/エルサレム"
+
+msgid "Asia/Kabul"
+msgstr "アジア/カブール"
+
+msgid "Asia/Karachi"
+msgstr "アジア/カラチ"
+
+msgid "Asia/Katmandu"
+msgstr "アジア/カトマンズ"
+
+msgid "Asia/Krasnoyarsk"
+msgstr "アジア/クラスノヤルスク"
+
+msgid "Asia/Kuala_Lumpur"
+msgstr "アジア/クアラルンプール"
+
+msgid "Asia/Kuwait"
+msgstr "アジア/クウェート"
+
+msgid "Asia/Manila"
+msgstr "アジア/マニラ"
+
+msgid "Asia/Muscat"
+msgstr "アジア/マスカット"
+
+msgid "Asia/Novosibirsk"
+msgstr "アジア/ノボシビルスク"
+
+msgid "Asia/Omsk"
+msgstr "アジア/オムスク"
+
+msgid "Asia/Phnom_Penh"
+msgstr "アジア/プノンペン"
+
+msgid "Asia/Pyongyang"
+msgstr "アジア/平壌"
+
+msgid "Asia/Qatar"
+msgstr "アジア/カタール"
+
+msgid "Asia/Rangoon"
+msgstr "アジア/ラングーン"
+
+msgid "Asia/Riyadh"
+msgstr "アジア/リヤド"
+
+msgid "Asia/Saigon"
+msgstr "アジア/サイゴン"
+
+msgid "Asia/Shanghai"
+msgstr "アジア/上海"
+
+msgid "Asia/Singapore"
+msgstr "アジア/シンガポール"
+
+msgid "Asia/Taipei"
+msgstr "アジア/台北"
+
+msgid "Asia/Tashkent"
+msgstr "アジア/タシケント"
+
+msgid "Asia/Tehran"
+msgstr "アジア/テヘラン"
+
+msgid "Asia/Tokyo"
+msgstr "アジア/東京"
+
+msgid "Asia/Ulaanbaatar"
+msgstr "アジア/ウランバートル"
+
+msgid "Asia/Vladivostok"
+msgstr "アジア/ウラジオストク"
+
+msgid "Asia/Yakutsk"
+msgstr "アジア/ヤクーツク"
+
+msgid "Asia/Yerevan"
+msgstr "アジア/エレバン"
+
+msgid "Asuncion - Paraguay"
+msgstr "アスンシオン-パラグアイ"
+
+msgid "Athens - Greece"
+msgstr "アテネ-ギリシャ"
+
+msgid "Atlanta - U.S.A."
+msgstr "アトランタ-米国"
+
+msgid "Atlantic Daylight Time"
+msgstr "大西洋夏時間"
+
+msgid "Atlantic Standard Time"
+msgstr "大西洋標準時"
+
+msgid "Atlantic/Azores"
+msgstr "大西洋/アゾレス"
+
+msgid "Atlantic/Reykjavik"
+msgstr "大西洋/レイキャビク"
+
+msgid "Atlantic/South_Georgia"
+msgstr "Atlantic / South_Georgia"
+
+msgid "Austin - U.S.A."
+msgstr "オースティン-米国"
+
+msgid "Australia/Adelaide"
+msgstr "オーストラリア/アデレード"
+
+msgid "Australia/Brisbane"
+msgstr "オーストラリア/ブリスベン"
+
+msgid "Australia/Canberra"
+msgstr "オーストラリア/キャンベラ"
+
+msgid "Australia/Darwin"
+msgstr "オーストラリア/ダーウィン"
+
+msgid "Australia/Hobart"
+msgstr "オーストラリア/ホバート"
+
+msgid "Australia/Melbourne"
+msgstr "オーストラリア/メルボルン"
+
+msgid "Australia/Perth"
+msgstr "オーストラリア/パース"
+
+msgid "Australia/Sydney"
+msgstr "オーストラリア/シドニー"
+
+msgid "Australian Central Standard Time"
+msgstr "オーストラリア中央標準時間"
+
+msgid "Australian Eastern Standard Time"
+msgstr "オーストラリア東部標準時間"
+
+msgid "Australian Western Standard Time"
+msgstr "オーストラリア西部標準時"
+
+msgid "Azerbaijan Summer Time"
+msgstr "アゼルバイジャンの夏の時間"
+
+msgid "Azores Summer Time"
+msgstr "アゾレスサマータイム"
+
+msgid "Baghdad - Iraq"
+msgstr "バグダッド-イラク"
+
+msgid "Baku - Azerbaijan"
+msgstr "バクー-アゼルバイジャン"
+
+msgid "Bamako - Mali"
+msgstr "バマコ-マリ"
+
+msgid "Bangkok - Thailand"
+msgstr "バンコク-タイ"
+
+msgid "Bangui - Central African Republic"
+msgstr "バンギ-中央アフリカ共和国"
+
+msgid "Beijing - China"
+msgstr "北京-中国"
+
+msgid "Beirut - Lebanon"
+msgstr "ベイルート-レバノン"
+
+msgid "Belgrade - Serbia and Montenegro"
+msgstr "ベオグラード-セルビアとモンテネグロ"
+
+msgid "Berlin - Germany"
+msgstr "ベルリン-ドイツ"
+
+msgid "Bogota - Colombia"
+msgstr "ボゴタ-コロンビア"
+
+msgid "Bolivia Time"
+msgstr "ボリビア時間"
+
+msgid "Boston - U.S.A."
+msgstr "ボストン-米国"
+
+msgid "Brasalia - Brazil"
+msgstr "ブラジル-ブラジル"
+
+msgid "Brasilia Time"
+msgstr "ブラジリア時間"
+
+msgid "Bratislava - Slovakia"
+msgstr "ブラチスラバ-スロバキア"
+
+msgid "Brazil/East"
+msgstr "ブラジル/東"
+
+msgid "Bridgetown - Barbados"
+msgstr "ブリッジタウン-バルバドス"
+
+msgid "Brisbane - Australia"
+msgstr "ブリスベン-オーストラリア"
+
+msgid "British Summer Time"
+msgstr "イギリスの夏の時間"
+
+msgid "Brussels - Belgium"
+msgstr "ブリュッセル-ベルギー"
+
+msgid "Bucharest - Romania"
+msgstr "ブカレスト-ルーマニア"
+
+msgid "Budapest - Hungary"
+msgstr "ブダペスト-ハンガリー"
+
+msgid "Buenos Aires - Argentina"
+msgstr "ブエノスアイレス-アルゼンチン"
+
+msgid "Cairo - Egypt"
+msgstr "カイロ-エジプト"
+
+msgid "Calgary - Canada"
+msgstr "カルガリー-カナダ"
+
+msgid "Canada/Atlantic"
+msgstr "カナダ/大西洋"
+
+msgid "Canada/Eastern"
+msgstr "カナダ/東部"
+
+msgid "Canada/Saskatchewan"
+msgstr "カナダ/サスカチュワン"
+
+msgid "Canberra - Australia"
+msgstr "キャンベラ-オーストラリア"
+
+msgid "Cannot open file all_cities_adj.plist"
+msgstr "ファイルall_cities_adj.plistを開くことができません"
+
+msgid "Canton - China"
+msgstr "広州-中国"
+
+msgid "Cape Town - South Africa"
+msgstr "ケープタウン-南アフリカ"
+
+msgid "Caracas - Venezuela"
+msgstr "カラカス-ベネズエラ"
+
+msgid "Cardiff - Wales"
+msgstr "カーディフ-ウェールズ"
+
+msgid "Cayenne - French Guiana"
+msgstr "カイエンヌ-仏領ギアナ"
+
+msgid "Central Africa Time"
+msgstr "中央アフリカ時間"
+
+msgid "Central Daylight Time"
+msgstr "中部夏時間"
+
+msgid "Central European Summer Time"
+msgstr "中央ヨーロッパ夏時間"
+
+msgid "Central European Time"
+msgstr "中央ヨーロッパ時間"
+
+msgid "Central Standard Time"
+msgstr "中部標準時"
+
+msgid "Chennai - India"
+msgstr "チェンナイ-インド"
+
+msgid "Chicago - U.S.A."
+msgstr "シカゴ-米国"
+
+msgid "Chile Time"
+msgstr "チリ時間"
+
+msgid "China Standard Time"
+msgstr "中国標準時"
+
+msgid ""
+"Click your part of the world, then choose a city from the Closest City menu."
+msgstr ""
+
+msgid "Closest City:"
+msgstr "最寄りの都市："
+
+msgid "Closest city:"
+msgstr "最寄りの都市："
+
+msgid "Colombia Time"
+msgstr "コロンビア時間"
+
+msgid "Colombo - Sri Lanka"
+msgstr "コロンボ-スリランカ"
+
+msgid "Colombo Standard Time"
+msgstr "コロンボ標準時"
+
+msgid "Columbus - U.S.A."
+msgstr "コロンバス-米国"
+
+msgid "Conakry - Guinea"
+msgstr "コナクリ-ギニア"
+
+msgid "Copenhagen - Denmark"
+msgstr "コペンハーゲン-デンマーク"
+
+msgid "Cork - Ireland"
+msgstr "コルク-アイルランド"
+
+msgid "Could not call configure() for the KDE screensaver."
+msgstr "KDEスクリーンセーバーのconfigure（）を呼び出せませんでした。"
+
+msgid "Critical Error"
+msgstr "重大なエラー"
+
+msgid "Cuba Daylight Time"
+msgstr "キューバ夏時間"
+
+msgid "Cupertino - U.S.A."
+msgstr "クパチーノ-米国"
+
+msgid "Dakar - Senegal"
+msgstr "ダカール-セネガル"
+
+msgid "Dallas - U.S.A."
+msgstr "ダラス-米国"
+
+msgid "Damascus - Syria"
+msgstr "ダマスカス-シリア"
+
+msgid "Dar es Salaam - Tanzania"
+msgstr "ダルエスサラーム-タンザニア"
+
+msgid "Darwin - Australia"
+msgstr "ダーウィン-オーストラリア"
+
+msgid "Date & Time"
+msgstr "日付"
+
+msgid "Date Setting"
+msgstr "日付設定"
+
+msgid "Denver - U.S.A."
+msgstr "デンバー-米国"
+
+msgid "Detroit - U.S.A."
+msgstr "デトロイト-米国"
+
+msgid "Digital"
+msgstr "デジタル"
+
+msgid "Displa&y the time with seconds"
+msgstr "ディスプレイ"
+
+msgid "Djibouti - Djibouti"
+msgstr "ジブチ-ジブチ"
+
+msgid "Doha - Qatar"
+msgstr "ドーハ-カタール"
+
+msgid "Douala - Cameroon"
+msgstr "ドゥアラ-カメルーン"
+
+msgid "Dublin - Ireland"
+msgstr "ダブリン-アイルランド"
+
+msgid "East Africa Time"
+msgstr "東アフリカ時間"
+
+msgid "Eastern Daylight Time"
+msgstr "東部夏時間"
+
+msgid "Eastern European Summer Time"
+msgstr "東ヨーロッパ夏時間"
+
+msgid "Eastern Standard Time"
+msgstr "東部標準時"
+
+msgid "Ecuador Time"
+msgstr "エクアドル時間"
+
+msgid "Edinburgh - Scotland"
+msgstr "エジンバラ-スコットランド"
+
+msgid "Error setting new timezone."
+msgstr "新しいタイムゾーンの設定中にエラーが発生しました。"
+
+msgid "Error! Invalid index for the time zone band."
+msgstr "エラー！"
+
+msgid "Error! Invalid latitude in every entry."
+msgstr "エラー！"
+
+msgid "Error! Invalid status for analog clock."
+msgstr "エラー！"
+
+msgid "Error! Unexpected value : m_selectedBand < 0"
+msgstr "エラー！"
+
+msgid "Error: Failed for invalid parameter."
+msgstr "エラー：無効なパラメーターで失敗しました。"
+
+msgid "Europe/Amsterdam"
+msgstr "ヨーロッパ/アムステルダム"
+
+msgid "Europe/Athens"
+msgstr "ヨーロッパ/アテネ"
+
+msgid "Europe/Belgrade"
+msgstr "ヨーロッパ/ベオグラード"
+
+msgid "Europe/Berlin"
+msgstr "ヨーロッパ/ベルリン"
+
+msgid "Europe/Bratislava"
+msgstr "ヨーロッパ/ブラチスラバ"
+
+msgid "Europe/Bucharest"
+msgstr "ヨーロッパ/ブカレスト"
+
+msgid "Europe/Budapest"
+msgstr "ヨーロッパ/ブダペスト"
+
+msgid "Europe/Copenhagen"
+msgstr "ヨーロッパ/コペンハーゲン"
+
+msgid "Europe/Dublin"
+msgstr "ヨーロッパ/ダブリン"
+
+msgid "Europe/Helsinki"
+msgstr "ヨーロッパ/ヘルシンキ"
+
+msgid "Europe/Istanbul"
+msgstr "ヨーロッパ/イスタンブール"
+
+msgid "Europe/Kiev"
+msgstr "ヨーロッパ/キーウ"
+
+msgid "Europe/Lisbon"
+msgstr "ヨーロッパ/リスボン"
+
+msgid "Europe/Ljubljana"
+msgstr "ヨーロッパ/リュブリャナ"
+
+msgid "Europe/London"
+msgstr "ヨーロッパ/ロンドン"
+
+msgid "Europe/Madrid"
+msgstr "ヨーロッパ/マドリード"
+
+msgid "Europe/Moscow"
+msgstr "ヨーロッパ/モスクワ"
+
+msgid "Europe/Oslo"
+msgstr "ヨーロッパ/オスロ"
+
+msgid "Europe/Paris"
+msgstr "ヨーロッパ/パリ"
+
+msgid "Europe/Prague"
+msgstr "ヨーロッパ/プラハ"
+
+msgid "Europe/Rome"
+msgstr "ヨーロッパ/ローマ"
+
+msgid "Europe/Sofia"
+msgstr "ヨーロッパ/ソフィア"
+
+msgid "Europe/Stockholm"
+msgstr "ヨーロッパ/ストックホルム"
+
+msgid "Europe/Vienna"
+msgstr "ヨーロッパ/ウィーン"
+
+msgid "Europe/Warsaw"
+msgstr "ヨーロッパ/ワルシャワ"
+
+msgid "Europe/Zagreb"
+msgstr "ヨーロッパ/ザグレブ"
+
+msgid "Europe/Zurich"
+msgstr "ヨーロッパ/チューリッヒ"
+
+msgid "Freetown - Sierra Leone"
+msgstr "フリータウン-シエラレオネ"
+
+msgid "French Guiana Time"
+msgstr "仏領ギアナ時間"
+
+msgid "Geneva - Switzerland"
+msgstr "ジュネーブ-スイス"
+
+msgid "Georgetown - Guyana"
+msgstr "ジョージタウン-ガイアナ"
+
+msgid "Greenwich Mean Time"
+msgstr "グリニッジ標準時"
+
+msgid "Grytviken - South Georgia"
+msgstr "グリトビケン-サウスジョージア"
+
+msgid "Guam - U.S.A."
+msgstr "グアム-米国"
+
+msgid "Guatemala - Guatemala"
+msgstr "グアテマラ-グアテマラ"
+
+msgid "Gulf Standard Time"
+msgstr "湾岸標準時"
+
+msgid "Guyana Time"
+msgstr "ガイアナ時間"
+
+msgid "Halifax - Canada"
+msgstr "ハリファックス-カナダ"
+
+msgid "Hamburg - Germany"
+msgstr "ハンブルク-ドイツ"
+
+msgid "Hanoi - Vietnam"
+msgstr "ハノイ-ベトナム"
+
+msgid "Harare - Zimbabwe"
+msgstr "ハラレ-ジンバブエ"
+
+msgid "Havana - Cuba"
+msgstr "ハバナ-キューバ"
+
+msgid "Hawaii-Aleutian Standard Time"
+msgstr "ハワイ-アリューシャン標準時"
+
+msgid "Helsinki - Finland"
+msgstr "ヘルシンキ-フィンランド"
+
+msgid "Here you can change the system date's day of the month, month and year."
+msgstr "ここでは、システムの日付、月、月、年を変更できます。"
+
+msgid "Hobart - Australia"
+msgstr "ホバート-オーストラリア"
+
+msgid "Hong Kong - China"
+msgstr "香港-中国"
+
+msgid "Hong Kong Time"
+msgstr "香港時間"
+
+msgid "Honolulu - U.S.A."
+msgstr "ホノルル-米国"
+
+msgid "Houston - U.S.A."
+msgstr "ヒューストン-米国"
+
+msgid "India Standard Time"
+msgstr "インド標準時"
+
+msgid "Indian/Antananarivo"
+msgstr "インディアン/アンタナナリボ"
+
+msgid "Indian/Mahe"
+msgstr "インド/マヘ"
+
+msgid "Indian/Maldives"
+msgstr "インド/モルディブ"
+
+msgid "Indian/Mauritius"
+msgstr "インド/モーリシャス"
+
+msgid "Indianapolis - U.S.A."
+msgstr "インディアナポリス-米国"
+
+msgid "Indochina Time"
+msgstr "インドシナ時間"
+
+msgid "Invalid parameters"
+msgstr "無効なパラメータ"
+
+msgid "Iran Daylight Time"
+msgstr "イラン夏時間"
+
+msgid "Irish Summer Time"
+msgstr "アイルランドの夏時間"
+
+msgid "Islamabad - Pakistan"
+msgstr "イスラマバード-パキスタン"
+
+msgid "Israel Daylight Time"
+msgstr "イスラエル夏時間"
+
+msgid "Istanbul - Turkey"
+msgstr "イスタンブール-トルコ"
+
+msgid "Japan Standard Time"
+msgstr "日本標準時"
+
+msgid "Jerusalem - Palestine"
+msgstr "エルサレム-パレスチナ"
+
+msgid "Kabul - Afghanistan"
+msgstr "カブール-アフガニスタン"
+
+msgid "Kampala - Uganda"
+msgstr "カンパラ-ウガンダ"
+
+msgid "Katmandu - Nepal"
+msgstr "カトマンズ-ネパール"
+
+msgid "Khartoum - Sudan"
+msgstr "ハルツーム-スーダン"
+
+msgid "Kiev - Ukraine"
+msgstr "キーウ-ウクライナ"
+
+msgid "Knoxville - U.S.A."
+msgstr "ノックスビル-米国"
+
+msgid "Kolkata - India"
+msgstr "コルカタ-インド"
+
+msgid "Korean Standard Time"
+msgstr "韓国標準時"
+
+msgid "Krasnoyarsk - Russia"
+msgstr "クラスノヤルスク-ロシア"
+
+msgid "Krasnoyarsk Summer Time"
+msgstr "クラスノヤルスク夏時間"
+
+msgid "Kuala Lumpur - Malaysia"
+msgstr "クアラルンプール-マレーシア"
+
+msgid "Kuwait - Kuwait"
+msgstr "クウェート-クウェート"
+
+msgid "La Paz - Bolivia"
+msgstr "ラパス-ボリビア"
+
+msgid "Lagos - Nigeria"
+msgstr "ラゴス-ナイジェリア"
+
+msgid "Lima - Peru"
+msgstr "リマ-ペルー"
+
+msgid "Lisbon - Portugal"
+msgstr "リスボン-ポルトガル"
+
+msgid "Ljubljana - Slovenia"
+msgstr "リュブリャナ-スロベニア"
+
+msgid "London - England"
+msgstr "ロンドン-イギリス"
+
+msgid "Los Angeles - U.S.A."
+msgstr "ロサンゼルス-米国"
+
+msgid "Luanda - Angola"
+msgstr "ルアンダ-アンゴラ"
+
+msgid "Lusaka - Zambia"
+msgstr "ルサカ-ザンビア"
+
+msgid "Madrid - Spain"
+msgstr "マドリード-スペイン"
+
+msgid "Malaysia Time"
+msgstr "マレーシア時間"
+
+msgid "Maldives Time"
+msgstr "モルディブ時間"
+
+msgid "Male - Maldives"
+msgstr "男性-モルディブ"
+
+msgid "Managua - Nicaragua"
+msgstr "マナグア-ニカラグア"
+
+msgid "Manama - Bahrain"
+msgstr "マナーマ-バーレーン"
+
+msgid "Manchester - U.S.A."
+msgstr "マンチェスター-米国"
+
+msgid "Manila - Philippines"
+msgstr "マニラ-フィリピン"
+
+msgid "Maputo - Mozambique"
+msgstr "マプト-モザンビーク"
+
+msgid "Mauritius Time"
+msgstr "モーリシャス時間"
+
+msgid "Mecca - Saudia Arabia"
+msgstr "メッカ-サウジアラビア"
+
+msgid "Melbourne - Australia"
+msgstr "メルボルン-オーストラリア"
+
+msgid "Memphis - U.S.A."
+msgstr "メンフィス-米国"
+
+msgid "Mexico City - Mexico"
+msgstr "メキシコシティ-メキシコ"
+
+msgid "Miami - U.S.A."
+msgstr "マイアミ-アメリカ"
+
+msgid "Minneapolis - U.S.A."
+msgstr "ミネアポリス-米国"
+
+msgid "Mogadisho - Somalia"
+msgstr "モガディシュ-ソマリア"
+
+msgid "Monrovia - Liberia"
+msgstr "モンロビア-リベリア"
+
+msgid "Montevideo - Uruguay"
+msgstr "モンテビデオ-ウルグアイ"
+
+msgid "Montreal - Canada"
+msgstr "モントリオール-カナダ"
+
+msgid "Moscow - Russia"
+msgstr "モスクワ-ロシア"
+
+msgid "Moscow Summer Time"
+msgstr "モスクワの夏の時間"
+
+msgid "Mountain Daylight Time"
+msgstr "山岳部夏時間"
+
+msgid "Mountain Standard Time"
+msgstr "山岳部標準時"
+
+msgid "Mumbai - India"
+msgstr "ムンバイ-インド"
+
+msgid "Munich - Germany"
+msgstr "ミュンヘン-ドイツ"
+
+msgid "Muscat - Oman"
+msgstr "マスカット-オマーン"
+
+msgid "Nairobi - Kenya"
+msgstr "ナイロビ-ケニア"
+
+msgid "Ndjamena - Chad"
+msgstr "ンジャメナ-チャド"
+
+msgid "Nepal Time"
+msgstr "ネパール時間"
+
+msgid "New Caledonia Time"
+msgstr "ニューカレドニア時間"
+
+msgid "New Delhi - India"
+msgstr "ニューデリー-インド"
+
+msgid "New York - U.S.A."
+msgstr "ニューヨーク-米国"
+
+msgid "New Zealand Standard Time"
+msgstr "ニュージーランド標準時間"
+
+msgid "Nouakchott - Mauritania"
+msgstr "ヌアクショット-モーリタニア"
+
+msgid "Noumea - New Caledonia"
+msgstr "ヌメア-ニューカレドニア"
+
+msgid "Novosibirsk - Russia"
+msgstr "ノボシビルスク-ロシア"
+
+msgid "Novosibirsk Summer Time"
+msgstr "ノボシビルスクサマータイム"
+
+msgid "Nuuk - Greenland"
+msgstr "ヌーク-グリーンランド"
+
+msgid "Omsk - Russia"
+msgstr "オムスク-ロシア"
+
+msgid "Omsk Summer Time"
+msgstr "オムスクサマータイム"
+
+msgid "Osaka - Japan"
+msgstr "大阪-日本"
+
+msgid "Oslo - Norway"
+msgstr "オスロ-ノルウェー"
+
+msgid "Ottawa - Canada"
+msgstr "オタワ-カナダ"
+
+msgid "Ougadougou - Burkina Faso"
+msgstr "ワガドゥグー-ブルキナファソ"
+
+msgid "Pacific Daylight Time"
+msgstr "太平洋夏時間"
+
+msgid "Pacific/Auckland"
+msgstr "太平洋/オークランド"
+
+msgid "Pacific/Guam"
+msgstr "太平洋/グアム"
+
+msgid "Pacific/Honolulu"
+msgstr "パシフィック/ホノルル"
+
+msgid "Pacific/Noumea"
+msgstr "パシフィック/ヌメア"
+
+msgid "Pacific/Pago_Pago"
+msgstr "Pacific / Pago_Pago"
+
+msgid "Pago Pago - Samoa"
+msgstr "パゴパゴ-サモア"
+
+msgid "Pakistan Time"
+msgstr "パキスタン時間"
+
+msgid "Panama - Panama"
+msgstr "パナマ-パナマ"
+
+msgid "Paraguay Time"
+msgstr "パラグアイ時間"
+
+msgid "Paramaribo - Surinam"
+msgstr "パラマリボ-スリナム"
+
+msgid "Paris - France"
+msgstr "パリ-フランス"
+
+msgid "Parsing error for file all_cities_adj.plist"
+msgstr "ファイルall_cities_adj.plistの解析エラー"
+
+msgid "Perth - Australia"
+msgstr "パース-オーストラリア"
+
+msgid "Peru Time"
+msgstr "ペルー時間"
+
+msgid "Philadelphia - U.S.A."
+msgstr "フィラデルフィア-米国"
+
+msgid "Philippine Time"
+msgstr "フィリピン時間"
+
+msgid "Phnom Penh - Cambodia"
+msgstr "プノンペン-カンボジア"
+
+msgid "Phoenix - U.S.A."
+msgstr "フェニックス-米国"
+
+msgid "Ponta Delgada - Portugal"
+msgstr "ポンタデルガダ-ポルトガル"
+
+msgid "Port Louis - Mauritius"
+msgstr "ポートルイス-モーリシャス"
+
+msgid "Port-au-Prince - Haiti"
+msgstr "ポルトープランス-ハイチ"
+
+msgid "Portland - U.S.A."
+msgstr "ポートランド-米国"
+
+msgid "Prague - Czech Republic"
+msgstr "プラハ-チェコ共和国"
+
+msgid "Pyongyang"
+msgstr "平壌"
+
+msgid "Pyongyang - DPR KOREA"
+msgstr "平壌-朝鮮民主主義人民共和国"
+
+msgid "Quito - Ecuador"
+msgstr "キト-エクアドル"
+
+msgid "Rabat - Morocco"
+msgstr "ラバト-モロッコ"
+
+msgid "Rangoon - Burma"
+msgstr "ラングーン-ビルマ"
+
+msgid "Recife - Brazil"
+msgstr "レシフェ-ブラジル"
+
+msgid "Regina - Canada"
+msgstr "レジーナ-カナダ"
+
+msgid "Reykjavik - Iceland"
+msgstr "レイキャビク-アイスランド"
+
+msgid "Rio de Janeiro - Brazil"
+msgstr "リオデジャネイロ-ブラジル"
+
+msgid "Riyadh - Saudia Arabia"
+msgstr "リヤド-サウジアラビア"
+
+msgid "Rome - Italy"
+msgstr "ローマ-イタリア"
+
+msgid "Salt Lake City - U.S.A."
+msgstr "ソルトレイクシティ-米国"
+
+msgid "Samoa Standard Time"
+msgstr "サモア標準時"
+
+msgid "San Diego - U.S.A."
+msgstr "サンディエゴ-アメリカ"
+
+msgid "San Francisco - U.S.A."
+msgstr "サンフランシスコ-米国"
+
+msgid "San Jose - Costa Rica"
+msgstr "サンホセ-コスタリカ"
+
+msgid "San Juan - Puerto Rico"
+msgstr "サンファン-プエルトリコ"
+
+msgid "San Salvador - El Salvador"
+msgstr "サンサルバドル-エルサルバドル"
+
+msgid "Sanaa - Yemen"
+msgstr "サナア-イエメン"
+
+msgid "Santiago - Chile"
+msgstr "サンティアゴ-チリ"
+
+msgid "Santo Domingo - Dominican Republic"
+msgstr "サントドミンゴ-ドミニカ共和国"
+
+msgid "Sao Paulo - Brazil"
+msgstr "サンパウロ-ブラジル"
+
+msgid "Seattle - U.S.A."
+msgstr "シアトル-米国"
+
+msgid "Seoul - South Korea"
+msgstr "ソウル-韓国"
+
+msgid "Set date and time &automatically:"
+msgstr "日付と時刻を設定する"
+
+msgid "Set time zone "
+msgstr "タイムゾーンを設定する"
+
+msgid "Sh&ow AM/PM"
+msgstr "Sh"
+
+msgid "Shanghai - China"
+msgstr "上海-中国"
+
+msgid "Show date and time in menu bar"
+msgstr "メニューバーに日付と時刻を表示する"
+
+msgid "Show the day of the wee&k"
+msgstr "おしっこの日を表示"
+
+msgid "Singapore - Singapore"
+msgstr ""
+
+msgid "Singapore Standard Time"
+msgstr "シンガポール標準時"
+
+msgid "Sofia - Bulgaria"
+msgstr "ソフィア-ブルガリア"
+
+msgid "South Africa Standard Time"
+msgstr "南アフリカ標準時"
+
+msgid "Specified directory or file is not founded("
+msgstr "指定されたディレクトリまたはファイルが見つかりません（"
+
+msgid "St. Louis - U.S.A."
+msgstr "聖"
+
+msgid "St. Petersburg - Russia"
+msgstr "聖"
+
+msgid "Stockholm - Sweden"
+msgstr "ストックホルム-スウェーデン"
+
+msgid "Suriname Time"
+msgstr "スリナム時間"
+
+msgid "Sydney - Australia"
+msgstr "シドニー-オーストラリア"
+
+msgid "Taipei - Taiwan"
+msgstr "台北-台湾"
+
+msgid "Tashkent - Uzbekistan"
+msgstr "タシケント-ウズベキスタン"
+
+msgid "Tegucigalpa - Honduras"
+msgstr "テグシガルパ-ホンジュラス"
+
+msgid "Tehran - Iran"
+msgstr "テヘラン-イラン"
+
+msgid "Thanh Pho Ho Chi Minh - Vietnam"
+msgstr "Thanh Pho HoChiMinh-ベトナム"
+
+msgid "Tientsin - China"
+msgstr "天津-中国"
+
+msgid "Time &Zone"
+msgstr "時間"
+
+msgid "Time Zone:"
+msgstr ""
+
+msgid "Time Zone: %1"
+msgstr ""
+
+msgid "Timezone Error"
+msgstr ""
+
+msgid "To set date and time formats, user International preferences."
+msgstr ""
+
+msgid "Tokyo - Japan"
+msgstr ""
+
+msgid "Toronto - Canada"
+msgstr ""
+
+msgid "Tripoli - Libya"
+msgstr ""
+
+msgid "Tunis - Tunisia"
+msgstr ""
+
+msgid "US/Central"
+msgstr ""
+
+msgid "US/Eastern"
+msgstr ""
+
+msgid "US/Mountain"
+msgstr ""
+
+msgid "US/Pacific"
+msgstr ""
+
+msgid "Ulaanbaatar - Mongolia"
+msgstr ""
+
+msgid "Ulan Bator Time"
+msgstr ""
+
+msgid "Unable to contact time server: %1."
+msgstr ""
+
+msgid "Uruguay Time"
+msgstr ""
+
+msgid "Uzbekistan Time"
+msgstr ""
+
+msgid "Vancouver - Canada"
+msgstr ""
+
+msgid "Venezuela Time"
+msgstr ""
+
+msgid "Victoria - Seychelles"
+msgstr ""
+
+msgid "Vienna - Austria"
+msgstr ""
+
+msgid "View as:"
+msgstr ""
+
+msgid "Vladivostok - Russia"
+msgstr ""
+
+msgid "Vladivostok Summer Time"
+msgstr ""
+
+msgid "Volgograd - Russia"
+msgstr ""
+
+msgid "Volgograd Summer Time"
+msgstr ""
+
+msgid "Warsaw - Poland"
+msgstr ""
+
+msgid "Washington, D.C. - U.S.A."
+msgstr ""
+
+msgid "Wellington - New Zealand"
+msgstr ""
+
+msgid "West Africa Time"
+msgstr ""
+
+msgid "Western European Summer Time"
+msgstr ""
+
+msgid "Western European Time"
+msgstr ""
+
+msgid "Winnipeg - Canada"
+msgstr ""
+
+msgid "Yakutsk - Russia"
+msgstr ""
+
+msgid "Yakutsk Summer Time"
+msgstr ""
+
+msgid "Yerevan - Armenia"
+msgstr "エレバン-アルメニア"
+
+msgid "Zagreb - Croatia"
+msgstr "ザグレブ-クロアチア"
+
+msgid "Zurich - Switzerland"
+msgstr "チューリッヒ-スイス"
+
+msgid "insufficient disk space"
+msgstr "ディスク容量が不足しています"
+
+msgid ""
+"There was an error running your transaction, for the following reason(s): %s "
+msgstr ""
+
+msgid ""
+"The file %s cannot be opened. This is due to a missing file or perhaps a "
+"corrupt package.  If you are installing from CD media this usually means the "
+"CD media is corrupt, or the CD drive is unable to read the media.\n"
+"\n"
+msgstr ""
+
+msgid "Juche"
+msgstr "チュチェ"
+
+msgid "juche"
+msgstr "チュチェ"
+
+msgid "Calculating remaining time   "
+msgstr "残り時間を計算しています"
+
+msgid "Calculating remaining time.  "
+msgstr "残り時間を計算しています。"
+
+msgid "Calculating remaining time.. "
+msgstr "残り時間を計算しています。"
+
+msgid "Calculating remaining time..."
+msgstr "残り時間を計算しています..."
+
+msgid "Partition space is full. Please unckeck some packages"
+msgstr "パーティションスペースがいっぱいです。"
+
+msgid "not avaliable space for installation"
+msgstr "インストールに使用できるスペースがありません"
+
+msgid "Mon"
+msgstr "月"
+
+msgid "Tue"
+msgstr "火"
+
+msgid "Wed"
+msgstr "水"
+
+msgid "Thr"
+msgstr ""
+
+msgid "Fri"
+msgstr "金"
+
+msgid "Sat"
+msgstr "土"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "do not fill with space."
+msgstr "スペースを埋めないでください。"
+
+msgid "Error Rebooting"
+msgstr "再起動エラー"
+
+msgid "can not reboot while installing."
+msgstr "インストール中に再起動できません。"
+
+msgid "You can input less than 4 DNS addresses"
+msgstr "入力できるDNSアドレスは4つ未満です"

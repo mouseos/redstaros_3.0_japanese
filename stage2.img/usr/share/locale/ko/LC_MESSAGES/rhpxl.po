@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-06 15:13-0500\n"
+"PO-Revision-Date: 2005-04-05 11:23+1000\n"
+"Last-Translator: Du Jong Hyok <djh@osandok.inf.kp>\n"
+"Language-Team: Korean\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+
+msgid " X server started successfully."
+msgstr " X봉사기가 성공적으로 시작되였습니다."
+
+msgid "%d by %d dots per inch"
+msgstr "1인치 당 %d x %d"
+
+msgid "2 Button Mouse (PS/2)"
+msgstr "2 단추 마우스 (PS/2)"
+
+msgid "2 Button Mouse (USB)"
+msgstr "2 단추 마우스 (USB)"
+
+msgid "2 Button Mouse (serial)"
+msgstr "2 단추 마우스 (직렬)"
+
+msgid "3 Button Mouse (PS/2)"
+msgstr "3 단추 마우스 (PS/2)"
+
+msgid "3 Button Mouse (USB)"
+msgstr "3 단추 마우스 (USB)"
+
+msgid "3 Button Mouse (serial)"
+msgstr "3 단추 마우스 (직렬)"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "Attempting to start VESA driver X server"
+msgstr "VESA 구동프로그람으로 X봉사기를 시작합니다"
+
+msgid "Attempting to start frame buffer X server"
+msgstr "화면완충기억기 X봉사기를 시작합니다"
+
+msgid "Attempting to start native X server"
+msgstr "X봉사기를 시작합니다"
+
+msgid "Attempting to start native X server using resolution %sx%s"
+msgstr "%sx%s 해상도로 X봉사기를 시작합니다"
+
+msgid "C7 Mouse (serial, old C7 type)"
+msgstr "C7 마우스 (직렬 , 이전 C7 류형)"
+
+msgid "CC Series (serial)"
+msgstr "CC Series (직렬)"
+
+msgid "Compatible Mouse (serial)"
+msgstr "호환 가능한 마우스 (직렬)"
+
+msgid "Generic"
+msgstr "Generic"
+
+msgid "Genius"
+msgstr "Genius"
+
+msgid "IntelliMouse (serial)"
+msgstr "IntelliMouse (직렬)"
+
+msgid "Kensington"
+msgstr "Kensington"
+
+msgid "Logitech"
+msgstr "Logitech"
+
+msgid "MM"
+msgstr "MM"
+
+msgid "MM HitTablet (serial)"
+msgstr "MM HitTablet (직렬)"
+
+msgid "MM Series (serial)"
+msgstr "MM Series (직렬)"
+
+msgid "Microsoft"
+msgstr "Microsoft"
+
+msgid "MieMouse (serial)"
+msgstr "MieMouse (직렬)"
+
+msgid "Mouse"
+msgstr "마우스"
+
+msgid "Mouse (serial)"
+msgstr "마우스 (직렬)"
+
+msgid "Mouse Not Detected"
+msgstr "마우스가 탐색되지 않음"
+
+msgid "Mouse Systems"
+msgstr "마우스 체계"
+
+msgid "MouseMan+/FirstMouse+ (serial)"
+msgstr "MouseMan+/FirstMouse+ (직렬)"
+
+msgid "MouseMan/FirstMouse (serial)"
+msgstr "MouseMan/FirstMouse (직렬)"
+
+msgid "NetMouse (serial)"
+msgstr "NetMouse (직렬)"
+
+msgid "OK"
+msgstr "확 인"
+
+msgid "Probing for monitor type:   %s"
+msgstr "영상표시장치를 탐색중:   %s"
+
+msgid "Probing for video card:   %s"
+msgstr "비데오 카드를 탐색중:   %s"
+
+msgid "Probing monitor"
+msgstr "영상표시장치를 탐색중"
+
+msgid "Probing videocard"
+msgstr "비데오카드를 탐색 중"
+
+msgid "Rev 2.1A or higher (serial)"
+msgstr "Rev 2.1A 이상 (직렬)"
+
+msgid "Scan for mouse"
+msgstr "마우스 탐색"
+
+msgid "Sun"
+msgstr "Sun"
+
+msgid "Synaptics"
+msgstr "Synaptics"
+
+msgid "Synaptics Touchpad"
+msgstr "Synaptics Touchpad"
+
+msgid "Thinking Mouse (serial)"
+msgstr "Thinking 마우스 (직렬)"
+
+msgid "Unable to probe"
+msgstr "탐색할수 없음"
+
+msgid "Unknown"
+msgstr "알수 없음"
+
+msgid "Use text mode"
+msgstr "본문방식 사용"
+
+msgid "Waiting for X server to start...log located in /tmp/X.log\n"
+msgstr "X봉사기의 시작을 기다리고 있습니다... 기록은 /tmp/X.log에 저장됩니다\n"
+
+msgid "Wheel Mouse (PS/2)"
+msgstr "Wheel 마우스 (PS/2)"
+
+msgid "Wheel Mouse (USB)"
+msgstr "Wheel 마우스 (USB)"
+
+msgid ""
+"Your mouse was not automatically detected.  To proceed in the graphical "
+"installation mode, please proceed to the next screen and provide your mouse "
+"information. You may also use text mode installation which does not require "
+"a mouse. "
+msgstr ""
+"마우스가 자동적으로 탐색되지 않았습니다.  도형방식으로 설치하려면 다음 화면에"
+"서 마우스의 정보를 입력해주십시오. 원하면 마우스를 사용하지 않는 본문방식으로"
+"도 설치할수 있습니다."
+
+msgid ""
+"Your mouse was not automatically detected.  To proceed in the graphical "
+"installation mode, please proceed to the next screen and provide your mouse "
+"information. You may also use text mode installation which does not require "
+"a mouse. Optionally you can have the system probe for a mouse again."
+msgstr ""
+"마우스가 자동적으로 탐색되지 않았습니다.  도형방식으로 설치하려면 다음 화면에"
+"서 마우스의 정보를 입력해주십시오. 원하면 마우스를 사용하지 않는 본문방식으로"
+"도 설치할수 있습니다. 혹은 체계가 다시 한번 마우스를 탐색하도록 할수 있습니"
+"다."

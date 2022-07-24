@@ -1,0 +1,3839 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libc\n"
+"POT-Creation-Date: 2004-08-05 09:16+0200\n"
+"PO-Revision-Date: 2004-11-03 08:09+0900\n"
+"Last-Translator: root <root@swi>\n"
+"Language-Team:  <ko@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.3.1\n"
+
+msgid "\t\tAccess Rights : "
+msgstr "\t\t 접근권한  : "
+
+msgid "\t\tAttributes    : "
+msgstr "\t\t속성          : "
+
+msgid ""
+"\t%s [-abkCLNTM][-Dname[=value]] [-i size] [-I [-K seconds]] [-Y path] "
+"infile\n"
+msgstr ""
+"\t%s [-abkCLNTM][-Dname[=값]] [-i 크기] [-I [-K 초]] [-Y 경로] 입력파일\n"
+
+msgid "\t%s [-c | -h | -l | -m | -t | -Sc | -Ss | -Sm] [-o outfile] [infile]\n"
+msgstr ""
+"\t%s [-c | -h | -l | -m | -t | -Sc | -Ss | -Sm] [-o 출력파일] [입력파일]\n"
+
+msgid "\t%s [-n netid]* [-o outfile] [infile]\n"
+msgstr "\t%s [-n netid]* [-o 출력파일] [입력파일]\n"
+
+msgid "\t%s [-s nettype]* [-o outfile] [infile]\n"
+msgstr "\t%s [-s nettype]* [-o 출력파일] [입력파일]\n"
+
+msgid "\tAccess rights: "
+msgstr "\t접근권한 : "
+
+msgid "\tEntry data of type %s\n"
+msgstr "\t마당자료의 형 %s\n"
+
+msgid "\tName       : %s\n"
+msgstr "\t이름       : %s\n"
+
+msgid "\tPublic Key : "
+msgstr "\t공개열쇠     : "
+
+msgid "\tType         : %s\n"
+msgstr "\t형           : %s\n"
+
+msgid "\tUniversal addresses (%u)\n"
+msgstr "\t총주소 (%u)\n"
+
+msgid "\t[%d]\tName          : %s\n"
+msgstr "\t[%d]\t이름          : %s\n"
+
+msgid "\t[%u] - [%u bytes] "
+msgstr "\t[%u] - [%u바이트] "
+
+msgid ""
+"\n"
+"Group Members :\n"
+msgstr ""
+"\n"
+"그룹 성원들 :\n"
+
+msgid ""
+"\n"
+"Time to Live  : "
+msgstr ""
+"\n"
+"유효한 시간      : "
+
+msgid "            %2lus  server runtime\n"
+msgstr "            %2lus 봉사기운영시간\n"
+
+msgid "        %2um %2lus  server runtime\n"
+msgstr "        %2um %2lus 봉사기운영시간\n"
+
+msgid "       rpcinfo -b prognum versnum\n"
+msgstr "       rpcinfo -b prognum versnum\n"
+
+msgid "       rpcinfo -d prognum versnum\n"
+msgstr "       rpcinfo -d prognum versnum\n"
+
+msgid "       rpcinfo -p [ host ]\n"
+msgstr "       rpcinfo -p [ 호스트 ]\n"
+
+msgid "       rpcinfo [ -n portnum ] -t host prognum [ versnum ]\n"
+msgstr "       rpcinfo [ -n portnum ] -t 호스트 prognum [ versnum ]\n"
+
+msgid "      no"
+msgstr "  아니"
+
+msgid "     yes"
+msgstr "    예"
+
+msgid "    %2uh %2um %2lus  server runtime\n"
+msgstr "    %2uh %2um %2lus 봉사기운영시간\n"
+
+msgid "    Data Length = %u\n"
+msgstr "    자료길이    = %u\n"
+
+msgid "    Explicit members:\n"
+msgstr "    명시적인 성원들 :\n"
+
+msgid "    Explicit nonmembers:\n"
+msgstr "    명시적인 비성원들:\n"
+
+msgid "    Implicit members:\n"
+msgstr "    암시적인 성원들:\n"
+
+msgid "    Implicit nonmembers:\n"
+msgstr "    암시적인 비성원들:\n"
+
+msgid "    No explicit members\n"
+msgstr "    명시적인 성원들이 없습니다\n"
+
+msgid "    No explicit nonmembers\n"
+msgstr "    명시적인 비성원들이 없습니다\n"
+
+msgid "    No implicit members\n"
+msgstr "    암시적인 성원들이 없습니다\n"
+
+msgid "    No implicit nonmembers\n"
+msgstr "    암시적인 비성원들이 없습니다\n"
+
+msgid "    No recursive members\n"
+msgstr "    재귀적인 성원들이 없습니다\n"
+
+msgid "    No recursive nonmembers\n"
+msgstr "    재귀적인 비성원들이 없습니다\n"
+
+msgid "    Recursive members:\n"
+msgstr "    재귀적인 성원들:\n"
+
+msgid "   program vers proto   port\n"
+msgstr "   프로그람판본 규약포구\n"
+
+msgid "  or: "
+msgstr " 혹은: "
+
+msgid " (SKIPPED)\n"
+msgstr " (건너뜀)\n"
+
+msgid " (changed)\n"
+msgstr " (변경됨)\n"
+
+msgid " (rule from \"%s\", line %d)"
+msgstr " (\"%s\"로부터의 규칙 , %d행)"
+
+msgid " [OPTION...]"
+msgstr " [추가선택...]"
+
+msgid "\"%s\" is no directory; ignored"
+msgstr "\"%s\" 는 등록부가 아닙니다; 무시합니다."
+
+msgid "\"%s\", line %d: %s"
+msgstr "\"%s\", %d행: %s"
+
+msgid "\"Zone %s\" line and -l option are mutually exclusive"
+msgstr "\"Zone %s\"행과 -l 추가선택은 호상배제합니다."
+
+msgid "\"Zone %s\" line and -p option are mutually exclusive"
+msgstr "\"Zone %s\"행과 -p 추가선택은 호상배제합니다."
+
+msgid "\"infile\" is required for template generation flags.\n"
+msgstr "형타생성기발들에 \"입력파일\"이 요구됩니다.\n"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: ARGP_HELP_FMT 파라메터는 값을 요구합니다"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: 알수 없는 ARGP_HELP_FMT 파라메터"
+
+msgid "%1$s: definition does not end with `END %1$s'"
+msgstr "%1$s: 정의는 `END %1$s' 로 끝나지 않습니다."
+
+msgid "%15lu  number of times clients had to wait\n"
+msgstr "%15lu  의뢰기의 기다림시간\n"
+
+msgid "%3ud %2uh %2um %2lus  server runtime\n"
+msgstr "%3ud %2uh %2um %2lus 봉사기운영시간\n"
+
+msgid "%d libs found in cache `%s'\n"
+msgstr "%d 서고가 고속완충기억기 `%s 에서 발견되였습니다\n"
+
+msgid "%s in ruleless zone"
+msgstr "규칙없는 지대에서의 %s "
+
+msgid "%s is a 32 bit ELF file.\n"
+msgstr "%s 는 32비트 ELF파일입니다.\n"
+
+msgid "%s is a 64 bit ELF file.\n"
+msgstr "%s는 64비트 ELF파일입니다.\n"
+
+msgid "%s is for unknown machine %d.\n"
+msgstr "%s는 알수 없는 기계 %d를 위한것입니다.\n"
+
+msgid "%s is not a known library type"
+msgstr "%s는 알려진 서고형태가 아닙니다."
+
+msgid "%s is not a shared object file (Type: %d).\n"
+msgstr "%s는 공유객체파일(형태: %d)이 아닙니다.\n"
+
+msgid "%s is not a symbolic link\n"
+msgstr "%s는 기호련결이 아닙니다.\n"
+
+msgid "%s is not an ELF file - it has the wrong magic bytes at the start.\n"
+msgstr ""
+"%s는 ELF파일이 아닙니다 - 선두에 틀린 magic바이트들을 가지고 있습니다.\n"
+
+msgid "%s%s%s:%u: %s%sAssertion `%s' failed.\n"
+msgstr "%s%s%s:%u: %s%sAssertion `%s'이 실패했습니다.\n"
+
+msgid "%s%s%s:%u: %s%sUnexpected error: %s.\n"
+msgstr "%s%s%s:%u: %s%s예견치 않은 오유: %s.\n"
+
+msgid "%s%sUnknown signal %d\n"
+msgstr "%s%s알수 없는 신호 %d 입니다.\n"
+
+msgid "%s: %d did not sign extend correctly\n"
+msgstr "%s: %d표식은 정확히 연장되지 않음.\n"
+
+msgid "%s: <mb_cur_max> must be greater than <mb_cur_min>\n"
+msgstr "%s: <mb_cur_max>는 <mb_cur_min>보다 커야 합니다.\n"
+
+msgid "%s: C preprocessor failed with exit code %d\n"
+msgstr "%s: C 전처리기는 탈퇴한 코드 %d 를 가지고 실패하였습니다.\n"
+
+msgid "%s: C preprocessor failed with signal %d\n"
+msgstr "%s: C 전처리문은 신호 %d 를 가지고 실패하였습니다.\n"
+
+msgid "%s: Can't create %s: %s\n"
+msgstr "%s: %s을 작성할수 없습니다: %s\n"
+
+msgid "%s: Can't create directory %s: %s\n"
+msgstr "%s: 등록부%s를 작성할수 없습니다: %s\n"
+
+msgid "%s: Can't link from %s to %s: %s\n"
+msgstr "%s: %s로부터 %s로 련결할수 없습니다: %s\n"
+
+msgid "%s: Can't open %s: %s\n"
+msgstr "%s: %s를 열수 없습니다: %s\n"
+
+msgid "%s: Can't remove %s: %s\n"
+msgstr "%s: %s를 삭제할수 없습니다: %s\n"
+
+msgid "%s: Can't unlink  %s: %s\n"
+msgstr "%s: %s 련결을 해제할수 없습니다: %s\n"
+
+msgid "%s: Error closing %s: %s\n"
+msgstr "%s: %s  닫기오유: %s\n"
+
+msgid "%s: Error reading %s\n"
+msgstr "%s: %s의 읽기 오유\n"
+
+msgid "%s: Error writing %s\n"
+msgstr "%s: %s의 쓰기오유\n"
+
+msgid "%s: Leap line in non leap seconds file %s\n"
+msgstr "%s: 비도약 중개파일 %s에 Leap 행이 있음\n"
+
+msgid "%s: Memory exhausted: %s\n"
+msgstr "%s: 기억기 부족: %s\n"
+
+msgid "%s: More than one -L option specified\n"
+msgstr "%s: -L 추가선택이 반복 지정됨\n"
+
+msgid "%s: More than one -d option specified\n"
+msgstr "%s: -d 추가선택이 반복 지정됨\n"
+
+msgid "%s: More than one -l option specified\n"
+msgstr "%s: -l 추가선택이 반복 지정됨\n"
+
+msgid "%s: More than one -p option specified\n"
+msgstr "%s: -p 추가선택이 반복 지정됨\n"
+
+msgid "%s: More than one -y option specified\n"
+msgstr "%s: -y 추가선택이 반복 지정됨\n"
+
+msgid "%s: Too many arguments\n"
+msgstr "%s: 인수가 너무 많음\n"
+
+msgid "%s: `%s' mentioned more than once in definition of weight %d"
+msgstr "%s: `%s'는 %d 의 주요정의에서 반복 지정됨"
+
+msgid "%s: `%s' must be a character"
+msgstr "%s: `%s'는 문자이여야 합니다."
+
+msgid "%s: `%s' value does not match `%s' value"
+msgstr "%s: `%s'값은 `%s'의 값과 맞지 않습니다."
+
+msgid "%s: `-1' must be last entry in `%s' field"
+msgstr "%s: -1은 `%s'마당의 맨 마지막입구이여야 합니다."
+
+msgid "%s: `forward' and `backward' are mutually excluding each other"
+msgstr "%s: `forward' 와 `backward'가 서로 호상 배제하고 있습니다."
+
+msgid ""
+"%s: `position' must be used for a specific level in all sections or none"
+msgstr ""
+"%s: `position'은 모든 선택내용이나 비선택내용의 특정한 준위에서 사용되여야 합"
+"니다."
+
+msgid "%s: `translit_start' section does not end with `translit_end'"
+msgstr "%s: `translit_start' 부분이 `translit_end'로 끝나지 않았습니다."
+
+msgid "%s: bad symbol <%.*s>"
+msgstr "%s: 불량 기호 <%.*s>"
+
+msgid ""
+"%s: byte sequence of first character of sequence is not lower than that of "
+"the last character"
+msgstr ""
+"%s: 문자렬에서 첫문자의 바이트렬은 마지막 문자의 바이트렬보다 작지 않습니다."
+
+msgid ""
+"%s: byte sequences of first and last character must have the same length"
+msgstr "%s: 제일 처음과 맨 마지막 문자의 바이트렬은 길이가 같아야 합니다."
+
+msgid "%s: cannot have `%s' as end of ellipsis range"
+msgstr "%s: 생략기호 범위의 끝에 `%s'를 가질수 없습니다."
+
+msgid "%s: cannot reorder after %.*s: symbol not known"
+msgstr "%s: %.*s 다음에 재순서화 할수 없습니다: 알수 없는 기호입니다."
+
+msgid "%s: character `%s' in charmap not representable with one byte"
+msgstr "%s: 문자표의 문자 `%s'는 한바이트로 표시할수 없음"
+
+msgid ""
+"%s: character `%s' needed as default value not representable with one byte"
+msgstr "%s: 기정값으로 필요한 문자 `%s'는 한바이트로 표현할수 없음"
+
+msgid "%s: character `%s' not defined in charmap while needed as default value"
+msgstr "%s: 문자 `%s'는 기정값으로 필요한 동안 문자표에서 정의되지 않음"
+
+msgid "%s: character `%s' not defined while needed as default value"
+msgstr "%s: : 문자 `%s'는 기정값으로 필요한 동안 정의되지 않음"
+
+msgid "%s: command was '%s', result was %d\n"
+msgstr "%s: 지령은 `%s', 결과는 %d입니다.\n"
+
+msgid "%s: direction flag in string %Zd in `era' field is not '+' nor '-'"
+msgstr "%s: `era'마당의 문자렬 %Zd 안의 방향기발이 `+'도 `-'도 아닙니다."
+
+msgid ""
+"%s: direction flag in string %Zd in `era' field is not a single character"
+msgstr "%s: `era'마당의 문자렬 %Zd 의 방향기발이 단일문자가 아닙니다."
+
+msgid "%s: duplicate `default_missing' definition"
+msgstr "%s: `default_missing'정의가 중복되였습니다."
+
+msgid "%s: duplicate category version definition"
+msgstr "%s: category 판번호의 정의가 중복되였습니다."
+
+msgid "%s: duplicate declaration of section `%s'"
+msgstr "%s: `%s'부분의 선언이 중복되였습니다."
+
+msgid "%s: duplicate definition of `%s'"
+msgstr "%s: `%s'의 정의가 중복되였습니다."
+
+msgid "%s: empty category description not allowed"
+msgstr "%s: 빈 범주기호는 허용되지 않습니다."
+
+msgid "%s: empty weight string not allowed"
+msgstr "%s: 빈 문자렬은 허용되지 않습니다."
+
+msgid "%s: error in state machine"
+msgstr "%s: 상태기대에서 오유"
+
+msgid "%s: field `%s' declared more than once"
+msgstr "%s: `%s'마당이 다중선언되였습니다."
+
+msgid "%s: field `%s' does not contain exactly ten entries"
+msgstr "%s: `%s'마당에 정확히 10개 항목이 없습니다"
+
+msgid "%s: field `%s' must not be empty"
+msgstr "%s: `%s'마당이 비지 말아야 합니다."
+
+msgid "%s: field `%s' not defined"
+msgstr "%s: `%s'마당이 정의되지 않았습니다."
+
+msgid "%s: field `%s' undefined"
+msgstr "%s: `%s'마당이 정의되지 않았습니다."
+
+msgid "%s: garbage at end of offset value in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 있는 편위값의 끝에 페품"
+
+msgid "%s: garbage at end of starting date in string %Zd in `era' field "
+msgstr "%s: `era'마당의 문자렬 %Zd에 있는 시작날자의 끝에 페품"
+
+msgid "%s: garbage at end of stopping date in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 있는 중지날자의 끝에 페품"
+
+msgid "%s: illegal option -- %c\n"
+msgstr "%s: 비법 추가선택 -- %c\n"
+
+msgid "%s: incomplete `END' line"
+msgstr "%s: 불완전한 `END'행"
+
+msgid "%s: invalid escape sequence in field `%s'"
+msgstr "%s: `%s'마당에 무효한 탈출문자 있음"
+
+msgid "%s: invalid number for offset in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에서 편위에 대한 번호가 무효"
+
+msgid "%s: invalid number of sorting rules"
+msgstr "%s: 정렬규칙번호 무효"
+
+msgid "%s: invalid option -- %c\n"
+msgstr "%s: 추가선택 무효-- %c\n"
+
+msgid "%s: invalid starting date in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에서 시작날자가 무효"
+
+msgid "%s: invalid stopping date in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에서 중지날자가 무효"
+
+msgid "%s: invalid value for field `%s'"
+msgstr "%s: 마당 `%s'에 대한 값이 무효"
+
+msgid "%s: language abbreviation `%s' not defined"
+msgstr "%s: 언어략칭 `%s'가 정의되지 않았습니다."
+
+msgid "%s: line %d: bad command `%s'\n"
+msgstr "%s: %d 행: 지령 `%s'을 알수 없음\n"
+
+msgid "%s: line %d: cannot specify more than %d services"
+msgstr "%s: %d 행: %d개 이상의 봉사를 지정할수 없습니다."
+
+msgid "%s: line %d: cannot specify more than %d trim domains"
+msgstr "%s: %d 행: %d개 이상의 령역들을 지정할수 없습니다."
+
+msgid "%s: line %d: expected `on' or `off', found `%s'\n"
+msgstr "%s: %d 행: `on'이나 `off'가 있어야 합니다. `%s'을 찾았습니다.\n"
+
+msgid "%s: line %d: expected service, found `%s'\n"
+msgstr "%s: %d 행: 봉사가 예견됩니다. `%s'을 찾았습니다.\n"
+
+msgid "%s: line %d: ignoring trailing garbage `%s'\n"
+msgstr "%s: %d 행: 무효한 뒤변페품 `%s'\n"
+
+msgid "%s: line %d: list delimiter not followed by domain"
+msgstr "%s: %d 행: 목록구분기호가 령역다음에 없음."
+
+msgid "%s: line %d: list delimiter not followed by keyword"
+msgstr "%s: %d 행: 령역다음에 열쇠단어가 없음"
+
+msgid "%s: missing `order_end' keyword"
+msgstr "%s: `order_end'열쇠단어가 없습니다."
+
+msgid "%s: missing `reorder-end' keyword"
+msgstr "%s: `reorder-end'열쇠단어가 없습니다."
+
+msgid "%s: missing `reorder-sections-end' keyword"
+msgstr "%s: `reorder-sections-end'열쇠단어가 없습니다."
+
+msgid "%s: missing era format in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 era형식이 없음"
+
+msgid "%s: missing era name in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 era 이름이 없음"
+
+msgid "%s: multiple order definitions for section `%s'"
+msgstr "%s: `%s'구간이 다중 순서정의 되였음"
+
+msgid "%s: multiple order definitions for unnamed section"
+msgstr "%s: 이름없는 부분에 대한 다중 순서정의"
+
+msgid "%s: no correct regular expression for field `%s': %s"
+msgstr "%s: 마당 `%s'에 대한 정규적표현이 틀림: %s"
+
+msgid "%s: no identification for category `%s'"
+msgstr "%s: 범주 `%s'에 대한 식별자가 없습니다."
+
+msgid "%s: no representable `default_missing' definition found"
+msgstr "%s: 표현가능한 `default_missing'정의가 없습니다."
+
+msgid "%s: not enough sorting rules"
+msgstr "%s: 정렬규칙이 충분하지 않습니다."
+
+msgid "%s: numeric country code `%d' not valid"
+msgstr "%s: 나라코드번호 `%d'가 무효"
+
+msgid "%s: option `%c%s' doesn't allow an argument\n"
+msgstr "%s: 추가선택 `%c%s'은 인수를 허용하지 않습니다.\n"
+
+msgid "%s: option `%s' is ambiguous\n"
+msgstr "%s: 추가선택 `%s'이 다의성입니다.\n"
+
+msgid "%s: option `%s' requires an argument\n"
+msgstr "%s: 추가선택 `%s'에는 인수가 요구됩니다.\n"
+
+msgid "%s: option `--%s' doesn't allow an argument\n"
+msgstr "%s: 추가선택 `--%s'은 인수를 허용하지 않습니다.\n"
+
+msgid "%s: option `-W %s' doesn't allow an argument\n"
+msgstr "%s: 추가선택 `-W %s'은 인수를 허용하지 않습니다.\n"
+
+msgid "%s: option `-W %s' is ambiguous\n"
+msgstr "%s: 추가선택 `-W %s'가 모호합니다.\n"
+
+msgid "%s: option requires an argument -- %c\n"
+msgstr "%s: 추가선택에는 인수가 요구됩니다. -- %c\n"
+
+msgid "%s: order for `%.*s' already defined at %s:%Zu"
+msgstr "%s: `%.*s'에 대한 순서는 이미 %s:%Zu 에서 정의되였습니다."
+
+msgid "%s: order for collating element %.*s not yet defined"
+msgstr "%s: 대조요소 %.*s 에 대한 순서는 아직 정의되지 않았습니다."
+
+msgid "%s: order for collating symbol %.*s not yet defined"
+msgstr "%s: 대조기호 %.*s 에 대한 순서는 아직 정의되지 않았습니다."
+
+msgid "%s: output would overwrite %s\n"
+msgstr "%s: %s에 대하여 겹쳐씁니다.\n"
+
+msgid "%s: panic: Invalid l_value %d\n"
+msgstr "%s: 오유: 무효한 값 %d\n"
+
+msgid "%s: premature end of file"
+msgstr "%s: 파일끝이 너무 이르게 발견되였습니다."
+
+msgid "%s: profiler found no PLTREL in object %s\n"
+msgstr "%s: profiler는 대상 `%s'에서 PLTREL을 찾을수 없습니다.\n"
+
+msgid "%s: profiler out of memory shadowing PLTREL of %s\n"
+msgstr "%s: profiler는 %s의 PLTREL를 기억기로 그늘지우기하였습니다\n"
+
+msgid "%s: section `%.*s' not known"
+msgstr "%s: `%.*s'구간을 알수 없음"
+
+msgid "%s: starting date is invalid in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 있는 시작날자가 무효합니다."
+
+msgid "%s: stopping date is invalid in string %Zd in `era' field"
+msgstr "%s: `era'마당의 문자렬 %Zd에 있는 중지날자가 무효합니다."
+
+msgid ""
+"%s: symbolic range ellipsis must not be directly followed by `order_end'"
+msgstr "%s: 기호범위간략형을 `order_end'다음에 직접 배치하지 말아야 합니다."
+
+msgid "%s: symbolic range ellipsis must not directly follow `order_start'"
+msgstr "%s: 기호범위간략형은 `order_start'다음에 직접 배치하지 말아야 합니다."
+
+msgid "%s: syntax error"
+msgstr "%s: 문법오유"
+
+msgid "%s: syntax error in definition of new character class"
+msgstr "%s: 새 문자클라스 정의에 구문론오유"
+
+msgid "%s: syntax error in definition of new character map"
+msgstr "%s: 새 문자표 정의에 구문론오유"
+
+msgid "%s: table for class \"%s\": %lu bytes\n"
+msgstr "%s: 클라스 `%s'에 대한 표: %lu 바이트\n"
+
+msgid "%s: table for map \"%s\": %lu bytes\n"
+msgstr "%s: 매프 `%s'에 대한 표: %lu바이트\n"
+
+msgid "%s: table for width: %lu bytes\n"
+msgstr "%s: 너비에 대한 표: %lu 바이트\n"
+
+msgid "%s: terminology language code `%s' not defined"
+msgstr "%s: 용어코드 `%s'는 정의되지 않았습니다."
+
+msgid "%s: the start and the end symbol of a range must stand for characters"
+msgstr "%s: 범위의 시작 및 끝기호는 문자들을 나타내야 합니다."
+
+msgid "%s: third operand for value of field `%s' must not be larger than %d"
+msgstr "%s: `%s'마당의 값에 대한 세번째 조작은  %d 보다 클수 없습니다."
+
+msgid "%s: too few values for field `%s'"
+msgstr "%s: `%s'마당의 값은 너무 작습니다."
+
+msgid "%s: too many rules; first entry only had %d"
+msgstr "%s: 규칙이 많습니다; 첫 입구에 %d만 있습니다."
+
+msgid "%s: too many values"
+msgstr "%s: 값이 너무 많습니다."
+
+msgid "%s: too many values for field `%s'"
+msgstr "%s: `%s'마당에 대한 값이 너무 많습니다."
+
+msgid "%s: transliteration data from locale `%s' not available"
+msgstr "%s: 지역정보 `%s'로부터 번역된 자료는 리용할수 없습니다"
+
+msgid "%s: unable to open %s: %m\n"
+msgstr "%s: %s 을 열수 없습니다: %m\n"
+
+msgid "%s: unknown character in collating symbol name"
+msgstr "%s: 대조기호이름안에 알수 없는 문자가 있습니다"
+
+msgid "%s: unknown character in equivalent definition name"
+msgstr "%s: 동등한 정의이름에 있는 문자를 알수 없습니다."
+
+msgid "%s: unknown character in equivalent definition value"
+msgstr "%s: 동등한 정의값에 있는 문자를 알수 없습니다."
+
+msgid "%s: unknown character in field `%s'"
+msgstr "%s: 마당 `%s'에 알지 못할 문자가 있습니다."
+
+msgid "%s: unknown section name `%s'"
+msgstr "%s: 구간 `%s'의 이름을 알수 없음"
+
+msgid "%s: unknown symbol `%s' in equivalent definition"
+msgstr "%s: 동등한 정의에 있는 기호 `%s'를 알수 없습니다."
+
+msgid "%s: unrecognized option `%c%s'\n"
+msgstr "%s: 인식할수 없는 추가선택 `%c%s'\n"
+
+msgid "%s: unrecognized option `--%s'\n"
+msgstr "%s: 인식할수 없는 추가선택 `--%s'\n"
+
+msgid "%s: value for field `%s' must be a single character"
+msgstr "%s: 마당`%s'의 값은 단일문자여야 합니다."
+
+msgid "%s: value for field `%s' must be in range %d...%d"
+msgstr "%s: 마당 `%s'의 값은 %d...%d 의 범위에 있습니다."
+
+msgid "%s: value for field `%s' must not be an empty string"
+msgstr "%s: 마당 `%s'에 대한 값은 빈 문자렬이여서는 안됩니다."
+
+msgid "%s: value for field `%s' must not be the empty string"
+msgstr "%s: 마당 `%s'에 대한 값은 빈 문자렬이여서는 안됩니다"
+
+msgid ""
+"%s: value of field `int_curr_symbol' does not correspond to a valid name in "
+"ISO 4217"
+msgstr ""
+"%s: 마당 `int_curr_symbol'의 값은 ISO 4217에서 사용가능한 이름과 일치하지 않"
+"습니다."
+
+msgid "%s: value of field `int_curr_symbol' has wrong length"
+msgstr "%s: 마당 `int_curr_symbol'값의 길이가 틀립니다."
+
+msgid "%s: values for field `%s' must be smaller than 127"
+msgstr "%s: 마당 `%s'에 대한 값은 127보다 작아야 합니다."
+
+msgid "%s: values for field `%s' must not be larger than %d"
+msgstr "%s: 마당 `%s'에 대한  값은 %d 보다 크면 안됩니다."
+
+msgid "%s: values of field `%s' must not be larger than %d"
+msgstr "%s: 마당 `%s'의 값은 %d 보다 클수 없습니다."
+
+msgid "%s: weights must use the same ellipsis symbol as the name"
+msgstr "%s: 무게는 이름으로서 같은 생략기호를 사용하여야 합니다."
+
+msgid "%s: while writing output %s: %m"
+msgstr "%s: 출력 %s 을 쓰는중: %m"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(프로그람 오유) 판번호를 알수 없음"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "(프로그람 오유) 항목은 인식되였습니까?"
+
+msgid "(Unknown object)\n"
+msgstr "(알수 없는 객체)\n"
+
+msgid "(unknown authentication error - %d)"
+msgstr "(알수 없는 인증 오유 - %d)"
+
+msgid "(unknown)"
+msgstr "(알수 없음)"
+
+msgid "*** The file `%s' is stripped: no detailed analysis possible\n"
+msgstr "***파일 `%s'에서 기호들을 제거합니다.: 자세한 설명은 없습니다.\n"
+
+msgid "*standard input*"
+msgstr "*표준입력*"
+
+msgid ", OS ABI: %s %d.%d.%d"
+msgstr ", OS ABI: %s %d.%d.%d"
+
+msgid ""
+"-o OUTPUT-FILE [INPUT-FILE]...\n"
+"[OUTPUT-FILE [INPUT-FILE]...]"
+msgstr ""
+"-o 출력파일 [입력파일]...\n"
+"[출력파일 [입력파일]...]"
+
+msgid ".lib section in a.out corrupted"
+msgstr "a.out 안의 .lib 부분이 파괴되였습니다."
+
+msgid "; low version = %lu, high version = %lu"
+msgstr "; 낮은 판번호 = %lu, 높은 판번호 = %lu"
+
+msgid "; why = "
+msgstr "; 리유 = "
+
+msgid "<%s> and <%s> are illegal names for range"
+msgstr "<%s> 과 <%s> 는 범위에 대하여 비법적인 이름입니다."
+
+msgid "<%s> and <%s> are invalid names for range"
+msgstr "<%s> 과 <%s> 는 범위에 대하여 무효한 이름입니다."
+
+msgid "<SP> character must not be in class `%s'"
+msgstr "<SP> 문자는 클라스 `%s'에 없어야 합니다."
+
+msgid "<SP> character not in class `%s'"
+msgstr "<SP> 클라스 `%s'에 없는 문자"
+
+msgid "?"
+msgstr "?"
+
+msgid "Aborted"
+msgstr "포기함"
+
+msgid "Access Rights : "
+msgstr "접근 권한  : "
+
+msgid "Accessing a corrupted shared library"
+msgstr "파괴된 공유서고에 접근하기"
+
+msgid "Add locales named by parameters to archive"
+msgstr "압축파일에 파라메터로 설정된 지역정보를 추가"
+
+msgid "Adding %s\n"
+msgstr "%s 추가\n"
+
+msgid "Address already in use"
+msgstr "주소가 이미 리용되고 있습니다."
+
+msgid "Address family for hostname not supported"
+msgstr "호스트이름에 대한 주소계렬은 지원되지 않습니다."
+
+msgid "Address family not supported by protocol"
+msgstr "주소계렬은 규약에 의해 지원되지 않습니다."
+
+msgid "Address family not supported by protocol family"
+msgstr "주소계렬은 규약계렬에 의해 지원되지 않습니다."
+
+msgid "Advertise error"
+msgstr "통지 오유"
+
+msgid "Alarm clock"
+msgstr "경보 시계"
+
+msgid "All requests done"
+msgstr "모든 요구는 끝났습니다."
+
+msgid "Also draw graph for total memory consumption"
+msgstr "전체 기억기 소비에 대한 그라프그리기"
+
+msgid "Anode table overflow"
+msgstr " Anode표 자리넘침"
+
+msgid "Another string for testing."
+msgstr "시험을 위한 다른 문자렬."
+
+msgid "Archive control:"
+msgstr "압축파일 조종체:"
+
+msgid "Arg list too long"
+msgstr "인수목록이 너무 깁니다."
+
+msgid "Argument list too long"
+msgstr "인수목록이 너무 깁니다."
+
+msgid "Argument out of domain"
+msgstr "인수목록이 령역밖에 있습니다."
+
+msgid "Attempt to remove a non-empty table"
+msgstr "비지 않은 표를 지우려고 합니다."
+
+msgid "Attempting to link in more shared libraries than system limit"
+msgstr "체계제한이상의 공유서고에로 련결하려고 합니다."
+
+msgid "Attempting to link in too many shared libraries"
+msgstr "너무 많은 공유서고에 련결하려고 시도함"
+
+msgid "Authentication OK"
+msgstr "인증 성공"
+
+msgid "Authentication error"
+msgstr "인증 오유"
+
+msgid "BOGUS OBJECT\n"
+msgstr "오유객체\n"
+
+msgid "Bad address"
+msgstr "불량 주소"
+
+msgid "Bad exchange descriptor"
+msgstr "불량 교환서술자"
+
+msgid "Bad file descriptor"
+msgstr "불량 파일서술자"
+
+msgid "Bad file number"
+msgstr "불량 파일번호"
+
+msgid "Bad font file format"
+msgstr "불량서체파일 형식"
+
+msgid "Bad message"
+msgstr "불량통보문"
+
+msgid "Bad request code"
+msgstr "불량요청코드"
+
+msgid "Bad request descriptor"
+msgstr "불량요구서술자"
+
+msgid "Bad system call"
+msgstr "불량체계호출"
+
+msgid "Bad value for ai_flags"
+msgstr "불량 ai_flags 값"
+
+msgid "Be strictly POSIX conform"
+msgstr "엄밀한 POSIX규격에 따름"
+
+msgid "Binary data\n"
+msgstr "2진자료\n"
+
+msgid "Block device required"
+msgstr "블로크장치가 요구됨"
+
+msgid "Broadcast poll problem"
+msgstr "방송 대기 문제"
+
+msgid "Broken pipe"
+msgstr "관 절단"
+
+msgid "Bus error"
+msgstr "모선 오유"
+
+msgid "CPU time limit exceeded"
+msgstr "CPU시간제한 초과"
+
+msgid "Cache expired"
+msgstr "고속완충기가 기간을 초과하였습니다."
+
+msgid "Can not access a needed shared library"
+msgstr "필요한 공유서고에 접근할수 없음"
+
+msgid "Can not exec a shared library directly"
+msgstr "공유서고는 직접 실행할수 없습니다."
+
+msgid "Can't bind to server which serves this domain"
+msgstr "이 령역을 취급하는 봉사기에 결합할수 없습니다."
+
+msgid "Can't chdir to /"
+msgstr "등록부를 /로 바꿀수 없습니다."
+
+msgid "Can't communicate with portmapper"
+msgstr "portmapper와 통신할수 없습니다."
+
+msgid "Can't communicate with ypbind"
+msgstr "ypbind와 통신할수 없습니다."
+
+msgid "Can't communicate with ypserv"
+msgstr "ypserv와 통신할수 없습니다."
+
+msgid "Can't create temporary cache file %s"
+msgstr "림시고속완충파일 %s 을 만들수 없습니다."
+
+msgid "Can't find %s"
+msgstr "%s 을 찾을수 없습니다."
+
+msgid "Can't link %s to %s"
+msgstr "%s를 %s 에 련결할수 없습니다."
+
+msgid "Can't lstat %s"
+msgstr "%s lstat할수 없습니다."
+
+msgid "Can't open cache file %s\n"
+msgstr "고속완충파일 %s 을 열수 없습니다.\n"
+
+msgid "Can't open cache file directory %s\n"
+msgstr "고속완충기억파일등록부 %s 를 열수 없습니다.\n"
+
+msgid "Can't open configuration file %s"
+msgstr "설정파일 %s 을 열수 없습니다."
+
+msgid "Can't open directory %s"
+msgstr "등록부 %s 를 열수 없습니다."
+
+msgid "Can't remove old temporary cache file %s"
+msgstr "낡은 림시고속완충파일 %s 을 없앨수 없습니다."
+
+msgid "Can't stat %s"
+msgstr "%s 를 stat 할수 없습니다."
+
+msgid "Can't stat %s\n"
+msgstr "%s 를 stat 할수 없습니다.\n"
+
+msgid "Can't unlink %s"
+msgstr "%s 련결을 해제할수 없습니다."
+
+msgid "Cannot allocate memory"
+msgstr "기억기를 할당할수 없습니다."
+
+msgid "Cannot assign requested address"
+msgstr "요구된 주소를 할당할수 없습니다."
+
+msgid "Cannot create socket for broadcast rpc"
+msgstr " RPC 방송을 위한 소케트를 작성할수 없습니다."
+
+msgid "Cannot exec a shared library directly"
+msgstr "공유서고는 직접 실행할수 없습니다."
+
+msgid "Cannot fstat file %s.\n"
+msgstr "%s 파일을 fstat할수 없습니다.\n"
+
+msgid "Cannot have more than one file generation flag!\n"
+msgstr "파일생성기발은 다중정의할수 없습니다!\n"
+
+msgid "Cannot lstat %s"
+msgstr "%s 를 lstat 할수 없습니다."
+
+msgid "Cannot mmap file %s.\n"
+msgstr "파일 %s 을 기억기에 사영할수 없습니다.\n"
+
+msgid "Cannot receive reply to broadcast"
+msgstr "방송에로의 응답을 접수할수 없습니다."
+
+msgid "Cannot register service"
+msgstr "봉사를 등록할수 없습니다."
+
+msgid "Cannot run nscd in secure mode as unprivileged user"
+msgstr "허용되지 않은 사용자는 안전방식에서 nscd를 실행할수 없습니다."
+
+msgid "Cannot send after socket shutdown"
+msgstr "소케트를 닫은후에 송신할수 없습니다."
+
+msgid "Cannot send after transport endpoint shutdown"
+msgstr "목적지가 닫긴 후에 송신할수 없습니다."
+
+msgid "Cannot send broadcast packet"
+msgstr "방송파케트를 송신할수 없습니다."
+
+msgid "Cannot set LC_ALL to default locale"
+msgstr "LC_ALL를 표준장소에 설정할수 없습니다."
+
+msgid "Cannot set LC_COLLATE to default locale"
+msgstr "LC_COLLATE를 표준장소에 설정할수 없습니다."
+
+msgid "Cannot set LC_CTYPE to default locale"
+msgstr "LC_CTYPE를 표준장소에 설정할수 없습니다."
+
+msgid "Cannot set LC_MESSAGES to default locale"
+msgstr "LC_MESSAGES를 표준장소에 설정할수 없습니다."
+
+msgid "Cannot set socket option SO_BROADCAST"
+msgstr "소케트추가선택 SO_BROADCAST 를 설정할수 없습니다."
+
+msgid "Cannot specify more than one input file!\n"
+msgstr "입력파일을 다중정의 할수 없습니다!\n"
+
+msgid "Cannot stat %s"
+msgstr "%s 를 stat 할수 없습니다."
+
+msgid "Cannot use netid flag with inetd flag!\n"
+msgstr " netid 기발은 inetd 기발과 함께 사용할수 없습니다!\n"
+
+msgid "Cannot use netid flag without TIRPC!\n"
+msgstr " TIRPC 없이 netid 기발을 사용할수 없습니다!\n"
+
+msgid "Cannot use table flags with newstyle!\n"
+msgstr "새 형식을 가진 표기발은 사용할수 없습니다!\n"
+
+msgid "Change to and use ROOT as root directory"
+msgstr " ROOT를 뿌리등록부로 사용 및 변경."
+
+msgid "Changing access rights of %s to %#o failed"
+msgstr "%s 의 접근권한을  %#o 에로 변경할수 없습니다."
+
+msgid "Channel number out of range"
+msgstr "통로번호가 범위를 벗어 났습니다."
+
+msgid "Character Separator : %c\n"
+msgstr "문자 구분      : %c\n"
+
+msgid "Child exited"
+msgstr "자식과제가 탈퇴됨"
+
+msgid "Client credential too weak"
+msgstr "의뢰기의 신임이 너무 약함"
+
+msgid "Columns             :\n"
+msgstr "렬  \t\t:\n"
+
+msgid "Communication error on send"
+msgstr "송신중 통신오유"
+
+msgid "Compile locale specification"
+msgstr "지역정보명세를 콤파일"
+
+msgid "Computer bought the farm"
+msgstr "콤퓨터가 `파괴'되였습니다."
+
+msgid "Configure Dynamic Linker Run Time Bindings."
+msgstr "동적련결실시간묶기 설정"
+
+msgid "Connection refused"
+msgstr "접속이 거절됨"
+
+msgid "Connection reset by peer"
+msgstr "대방에 의해 접속이 재설정"
+
+msgid "Connection timed out"
+msgstr "접속시간초과"
+
+msgid "Continued"
+msgstr "계속"
+
+msgid "Convert encoding of given files from one encoding to another."
+msgstr "주어진 파일의 부호체계를 변환"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"This is free software; see the source for copying conditions.  There is NO\n"
+"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
+msgstr ""
+"저작권 %s 공개쏘프트웨어\n"
+" \n"
+" \n"
+
+msgid "Could not create log file \"%s\""
+msgstr "기록파일`%.s'을 작성할수 없습니다."
+
+msgid "Create C header file NAME containing symbol definitions"
+msgstr "기호정의를 포함한 C머리부파일 이름을 작성"
+
+msgid "Create fastloading iconv module configuration file."
+msgstr "고속적재용 iconv 모듈설정파일 작성"
+
+msgid "Create old-style tables"
+msgstr "낡은 형식의 표를 작성"
+
+msgid "Create output even if warning messages were issued"
+msgstr "경고통보문이 있어도 출력 창조"
+
+msgid "Creation Time : %s"
+msgstr "작성시간      : %s"
+
+msgid "Cross-device link"
+msgstr "교차 장치 련결"
+
+msgid "DATAFILE [OUTFILE]"
+msgstr "자료파일 [출력파일]"
+
+msgid "DES entry for netname %s not unique\n"
+msgstr "망이름 %s 의 DES 항목이 중복됩니다.\n"
+
+msgid "DIRECTORY\n"
+msgstr "등록부\n"
+
+msgid "DST not allowed in SUID/SGID programs"
+msgstr "DST는 SUID/SGID프로그람에서 허용되지 않습니다."
+
+msgid "DYNAMIC LINKER BUG!!!"
+msgstr "동적련결 오유!!!"
+
+msgid "Database for table does not exist"
+msgstr "표의 자료기지가 존재하지 않습니다."
+
+msgid "Database is busy"
+msgstr "자료기지는 사용중 입니다."
+
+msgid "Deadlock situation detected/avoided"
+msgstr "교착상태 검출/포기함"
+
+msgid "Default Access rights :\n"
+msgstr "표준 접근권한:\n"
+
+msgid "Destination address required"
+msgstr "도착지 주소가 요구됩니다."
+
+msgid "Device busy"
+msgstr "장치가 사용중입니다."
+
+msgid "Device not a stream"
+msgstr "장치는 흐름형이 아닙니다."
+
+msgid "Device or resource busy"
+msgstr "장치 혹은 자원이 사용중입니다."
+
+msgid "Diffie-Hellmann (%d bits)\n"
+msgstr " Diffie-Hellmann (%d 비트)\n"
+
+msgid "Directory     : %s\n"
+msgstr "등록부  : %s\n"
+
+msgid "Directory not empty"
+msgstr "빈 등록부가 아닙니다."
+
+msgid "Disc quota exceeded"
+msgstr "디스크사용량을 초과하였습니다."
+
+msgid "Disk quota exceeded"
+msgstr "디스크사용량을 초과하였습니다."
+
+msgid "Do not fork and display messages on the current tty"
+msgstr "처리를 생성하지 않고 현재 tty에 통보문 현시"
+
+msgid "Do not use existing catalog, force new output file"
+msgstr "존재하는 목록을 사용하지 않고 강제로 새 출력파일을 사용"
+
+msgid "Domain not bound"
+msgstr "령역이 결합되지 않았습니다."
+
+msgid "Don't add new data to archive"
+msgstr "압축파일에 새 날자를 추가할수 없습니다."
+
+msgid "Don't buffer output"
+msgstr "출력이 완충되지 않습니다."
+
+msgid "Don't build cache"
+msgstr "고속완충기억을 구축할수 없습니다."
+
+msgid "Don't generate links"
+msgstr "련결을 생성할수 않습니다."
+
+msgid "Dump information generated by PC profiling."
+msgstr "PC 륜곽분석에 의하여 생성된 dump 정보"
+
+msgid "ELF file ABI version invalid"
+msgstr "ELF파일의 ABI 판번호가 무효"
+
+msgid "ELF file OS ABI invalid"
+msgstr "ELF파일의 OS ABI 가 무효"
+
+msgid "ELF file data encoding not big-endian"
+msgstr "ELF파일의 날자부호화가 big-endian이 아닙니다."
+
+msgid "ELF file data encoding not little-endian"
+msgstr "ELF파일의 날자 부호화가 little-endian이 아닙니다."
+
+msgid "ELF file version does not match current one"
+msgstr "ELF파일의 판번호가 현재의 것과 일치하지 않습니다."
+
+msgid "ELF file version ident does not match current one"
+msgstr "ELF파일의 판번호식별자는 현재의것과 일치하지 않습니다."
+
+msgid "ELF file's phentsize not the expected size"
+msgstr "ELF파일의 phentsize는 기대되는 크기가 아닙니다."
+
+msgid "ELF load command address/offset not properly aligned"
+msgstr "ELF 적재지령 주소/편위가 적절히 할당되지 않았습니다."
+
+msgid "ELF load command alignment not page-aligned"
+msgstr "ELF 적재지령 정돈이 페지정돈되지 않았습니다."
+
+msgid "EMT trap"
+msgstr "EMT 함정"
+
+msgid "ENTRY\n"
+msgstr "마당\n"
+
+msgid "Encrypted data\n"
+msgstr "암호화 자료\n"
+
+msgid "Entry/table type mismatch"
+msgstr "입구와 표의 형이 맞지 않음"
+
+msgid "Enumeration not supported on %s\n"
+msgstr "수값은 %s 에서 지원되지 않습니다.\n"
+
+msgid "Error 0"
+msgstr "오유 0"
+
+msgid "Error 100"
+msgstr "오유 100"
+
+msgid "Error 101"
+msgstr "오유 101"
+
+msgid "Error 102"
+msgstr "오유 102"
+
+msgid "Error 103"
+msgstr "오유 103"
+
+msgid "Error 104"
+msgstr "오유 104"
+
+msgid "Error 105"
+msgstr "오유 105"
+
+msgid "Error 106"
+msgstr "오유 106"
+
+msgid "Error 107"
+msgstr "오유 107"
+
+msgid "Error 108"
+msgstr "오유 108"
+
+msgid "Error 109"
+msgstr "오유 109"
+
+msgid "Error 110"
+msgstr "오유 110"
+
+msgid "Error 111"
+msgstr "오유 111"
+
+msgid "Error 112"
+msgstr "오유 112"
+
+msgid "Error 113"
+msgstr "오유 113"
+
+msgid "Error 114"
+msgstr "오유 114"
+
+msgid "Error 115"
+msgstr "오유 115"
+
+msgid "Error 116"
+msgstr "오유 116"
+
+msgid "Error 117"
+msgstr "오유 117"
+
+msgid "Error 118"
+msgstr "오유 118"
+
+msgid "Error 119"
+msgstr "오유 119"
+
+msgid "Error 136"
+msgstr "오유 136"
+
+msgid "Error 142"
+msgstr "오유 142"
+
+msgid "Error 58"
+msgstr "오유 58"
+
+msgid "Error 59"
+msgstr "오유 59"
+
+msgid "Error 72"
+msgstr "오유 72"
+
+msgid "Error 73"
+msgstr "오유 73"
+
+msgid "Error 75"
+msgstr "오유 75"
+
+msgid "Error 76"
+msgstr "오유 76"
+
+msgid "Error 91"
+msgstr "오유 91"
+
+msgid "Error 92"
+msgstr "오유 92"
+
+msgid "Error in RPC subsystem"
+msgstr "RPC부분체계에서 오유"
+
+msgid "Error in accessing NIS+ cold start file.  Is NIS+ installed?"
+msgstr ""
+"NIS+ cold 시작파일에로의 접근이 실패하였습니다. NIS+ 를 설치하였습니까?"
+
+msgid "Error in unknown error system: "
+msgstr "알수 없는 오유체계에서의 오유:"
+
+msgid "Error while talking to callback proc"
+msgstr "역호출 수속으로 통신중 오유"
+
+msgid "Error writing standard output"
+msgstr "오유를 표준출력에 쓰고 있습니다."
+
+msgid "Error: .netrc file is readable by others."
+msgstr "오유: 파일 .netrc 는 다른 사용자도 읽을 권한이 있습니다."
+
+msgid "Exchange full"
+msgstr "교환 넘침"
+
+msgid "Exec format error"
+msgstr "실행서식 오유"
+
+msgid "FATAL: system does not define `_POSIX2_LOCALEDEF'"
+msgstr "치명적 오유: 체계는 _POSIX2_LOCALEDEF'를 정의하지 않음"
+
+msgid "FILE contains mapping from symbolic names to UCS4 values"
+msgstr "파일은 기호이름으로부터 UCS4 값까지의 사영을 포함합니다."
+
+msgid "Failed (unspecified error)"
+msgstr "실패(지정되지 않은 오유)"
+
+msgid "Failed to look up user '%s' to run server as"
+msgstr "사용자'%s'가 봉사기로 동작하는것이 실패"
+
+msgid "Failed to run nscd as user '%s'"
+msgstr "사용자 `%s'로서 nscd실행하기 오유"
+
+msgid "File %s is too small, not checked."
+msgstr "파일 %s 는 너무 작아서 검사하지 않습니다."
+
+msgid "File descriptor in bad state"
+msgstr "파일 서술자가 틀린 상태에 있습니다."
+
+msgid "File exists"
+msgstr "파일이 존재합니다."
+
+msgid "File is not a cache file.\n"
+msgstr "파일은 고속완충파일이 아닙니다.\n"
+
+msgid "File locking deadlock"
+msgstr "파일잠그기 교착"
+
+msgid "File locking deadlock error"
+msgstr "파일잠그기 교착 오유"
+
+msgid "File name too long"
+msgstr "파일이름이 너무 깁니다."
+
+msgid "File size limit exceeded"
+msgstr "파일크기제한을 초과"
+
+msgid "File table overflow"
+msgstr "파일표 자리넘침"
+
+msgid "File too large"
+msgstr "파일이 너무 큽니다."
+
+msgid "Filters not supported with LD_TRACE_PRELINKING"
+msgstr "려과기는 LD_TRACE_PRELINKING를 지원하지 않습니다."
+
+msgid "First string for testing."
+msgstr "시험을 위한 초기 문자렬"
+
+msgid "First/next chain broken"
+msgstr "처음과 다음의 련쇄가 파괴됨"
+
+msgid "Floating point exception"
+msgstr "류동소수점연산 례외"
+
+msgid "Format to use: new, old or compat (default)"
+msgstr "사용할 형식: 새것 혹은 낡은것, 호환(기본값)"
+
+msgid "Full resync required for directory"
+msgstr "등록부에 대한 완전 resync 가 요구됨"
+
+msgid "Function not implemented"
+msgstr "실현되지 않은 함수"
+
+msgid "GROUP\n"
+msgstr "그룹\n"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "ARGP_HELP_FMT 에 오유: %s"
+
+msgid "Generate graphic from memory profiling data"
+msgstr "기억기리력자료로부터 화상을 생성"
+
+msgid ""
+"Generate output linear to time (default is linear to number of function "
+"calls)"
+msgstr "시간에 선형으로 출력을 생성(기본값은 함수호출의 값에 선형)"
+
+msgid "Generate verbose messages"
+msgstr "통보문 표시"
+
+msgid "Generic system error"
+msgstr "일반적인 체계오유"
+
+msgid "Get locale-specific information."
+msgstr "지역고유정보 얻기"
+
+msgid "Give a short usage message"
+msgstr "간단한 사용방법 얻기"
+
+msgid "Give this help list"
+msgstr "이 도움말목록얻기"
+
+msgid "Gratuitous error"
+msgstr "불필요한 오유"
+
+msgid "Group         : %s\n"
+msgstr "그룹\t\t: %s\n"
+
+msgid "Group Flags :"
+msgstr "그룹기발:"
+
+msgid "Group entry for \"%s.%s\" group:\n"
+msgstr "그룹마당 `%s.%s' 그룹:\n"
+
+msgid "Hang for SECS seconds (default 3600)"
+msgstr "SECS 초동안 끊기(기본값 3600)"
+
+msgid "Hangup"
+msgstr "정지"
+
+msgid "Haven't found \"%d\" in group cache!"
+msgstr "그룹고속완충기에 `%d' 가 없음!"
+
+msgid "Haven't found \"%d\" in password cache!"
+msgstr "암호완충기에 `%d' 가 없음!"
+
+msgid "Haven't found \"%s\" in group cache!"
+msgstr "그룹고속완충기에 `%s' 가 없음!"
+
+msgid "Haven't found \"%s\" in hosts cache!"
+msgstr "호스트고속완충기에  `%s' 가 없음!"
+
+msgid "Haven't found \"%s\" in password cache!"
+msgstr "암호고속완충기에 `%s' 가 없음!"
+
+msgid "Host is down"
+msgstr "호스트가 끊어짐"
+
+msgid "Host name lookup failure"
+msgstr "호스트이름 탐색 실패"
+
+msgid "I/O error"
+msgstr "입출력 오유"
+
+msgid "I/O possible"
+msgstr " I/O 가능"
+
+msgid "IOT trap"
+msgstr " IOT 함정"
+
+msgid "Identifier removed"
+msgstr "식별자를  제거하였습니다."
+
+msgid "Ignored file %s since it is not a regular file."
+msgstr "정규파일이 아니므로 파일 %s 를 무시"
+
+msgid "Illegal byte sequence"
+msgstr "비법적인 바이트렬"
+
+msgid "Illegal instruction"
+msgstr "비법적인 명령"
+
+msgid "Illegal object type for operation"
+msgstr "조작에 대한 비법적인 객체형"
+
+msgid "Illegal seek"
+msgstr "비법적인 탐색"
+
+msgid "Inappropriate file type or format"
+msgstr "적당치 않은 파일형 혹은 형식"
+
+msgid "Inappropriate ioctl for device"
+msgstr "장치에 대한 적당치 않은 ioctl "
+
+msgid "Inappropriate operation for background process"
+msgstr "배경처리에 적당치 않은조작"
+
+msgid "Information request"
+msgstr "정보 요구"
+
+msgid "Information:"
+msgstr "정보:"
+
+msgid "Input Files:"
+msgstr "입력 파일:"
+
+msgid "Input file %s not found.\n"
+msgstr "입력파일 %s 가 없음\n"
+
+msgid "Input/Output format specification:"
+msgstr "입력/출력형식 명세:"
+
+msgid "Input/output error"
+msgstr "입력/출력 오유"
+
+msgid "Internal NIS error"
+msgstr "NIS 내부 오유"
+
+msgid "Internal ypbind error"
+msgstr "ypbind 내부 오유"
+
+msgid "Interrupt"
+msgstr "새치기"
+
+msgid "Interrupted by a signal"
+msgstr "신호에 의한 새치기"
+
+msgid "Interrupted system call"
+msgstr "체계호출 새치기"
+
+msgid "Interrupted system call should be restarted"
+msgstr "새치기된 체계호출은 재시동하여야 합니다."
+
+msgid "Invalid argument"
+msgstr "무효한 인수"
+
+msgid "Invalid back reference"
+msgstr "무효한 후반 참조"
+
+msgid "Invalid character class name"
+msgstr "무효한 문자클라스이름"
+
+msgid "Invalid client credential"
+msgstr "무효한 의뢰기의 신임장"
+
+msgid "Invalid client verifier"
+msgstr "무효한 의뢰기 확인"
+
+msgid "Invalid collation character"
+msgstr "무효한 조합문자"
+
+msgid "Invalid content of \\{\\}"
+msgstr "무효한 \\{\\} 의 내용"
+
+msgid "Invalid cross-device link"
+msgstr "무효한 교차장치 련결"
+
+msgid "Invalid exchange"
+msgstr "무효한 교환"
+
+msgid "Invalid numeric gid \"%s\"!"
+msgstr "무효한 그룹 식별자 번호 `%s'!"
+
+msgid "Invalid numeric uid \"%s\"!"
+msgstr "무효한 사용자 식별자 번호 `%s'!"
+
+msgid "Invalid object for operation"
+msgstr "조작에 대한 무효한 객체"
+
+msgid "Invalid or incomplete multibyte or wide character"
+msgstr "무효 혹은 불완전한 다중바이트 혹은 확장문자"
+
+msgid "Invalid preceding regular expression"
+msgstr "무효한 이전의 정규표현"
+
+msgid "Invalid range end"
+msgstr "무효한 끝범위"
+
+msgid "Invalid regular expression"
+msgstr "무효한 정규표현"
+
+msgid "Invalid request code"
+msgstr "무효한 요구코드"
+
+msgid "Invalid request descriptor"
+msgstr "무효한 요구서술자"
+
+msgid "Invalid server verifier"
+msgstr "무효한 봉사기 검증"
+
+msgid "Invalid slot"
+msgstr "무효한 슬로트"
+
+msgid "Invalidate the specified cache"
+msgstr "지정한 고속완충기를 무효화"
+
+msgid "Is a directory"
+msgstr "등록부"
+
+msgid "Is a name file"
+msgstr "파일이름"
+
+msgid "Is a named type file"
+msgstr "이름붙인 파일"
+
+msgid "Kerberos.\n"
+msgstr "Kerberos.\n"
+
+msgid "Killed"
+msgstr "강제 완료"
+
+msgid "LINK\n"
+msgstr "련결\n"
+
+msgid "LOCAL entry for UID %d in directory %s not unique\n"
+msgstr "UID %d를 위한 국부 입구는 등록부 %s에서 유일하지 않습니다.\n"
+
+msgid "Level 2 halted"
+msgstr "준위 2 정지"
+
+msgid "Level 2 not synchronized"
+msgstr "준위2는 동기화되지 않음"
+
+msgid "Level 3 halted"
+msgstr "준위3 정지"
+
+msgid "Level 3 reset"
+msgstr "준위3 재설정"
+
+msgid "Link has been severed"
+msgstr "련결이 됨"
+
+msgid "Link number out of range"
+msgstr "련결수가 범위 초과"
+
+msgid "Link points to illegal name"
+msgstr "련결이 비법적인이름을 지정"
+
+msgid "Linked Object Type : "
+msgstr "련결된 객체형: "
+
+msgid "Linked to : %s\n"
+msgstr "다음의 위치에 련결: %s\n"
+
+msgid "List content of archive"
+msgstr "압축파일의 내용을 목록화"
+
+msgid "Local domain name not set"
+msgstr "국부령역이름이 설정되지 않음"
+
+msgid "Local resource allocation failure"
+msgstr "국부자원확보 실패"
+
+msgid "Machine is not on the network"
+msgstr "기대는 망상에 없음"
+
+msgid "Malformed name, or illegal name"
+msgstr "틀리거나 비법적인 이름"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr ""
+"긴 추가선택에 대한 필수적인 혹은 임의의 인수는 그에 대한 짧은 추가선택에 대해"
+"서도 필수적이거나 임의의것입니다."
+
+msgid "Manually link individual libraries."
+msgstr "개개의 서고에 수동으로 련결하십시오."
+
+msgid "Master Server :\n"
+msgstr "주봉사기:\n"
+
+msgid "Master server busy, full dump rescheduled."
+msgstr "주봉사기는 바쁩니다. full dump가 다시 일정계획화되였습니다."
+
+msgid "Memory allocation failure"
+msgstr "기억기배정에 실패"
+
+msgid "Memory exhausted"
+msgstr "기억기 고갈"
+
+msgid "Message tables full"
+msgstr "통보문 표가 다 참"
+
+msgid "Message too long"
+msgstr "통보문이 너무 깁니다."
+
+msgid "Missing or malformed attribute"
+msgstr "속성이 보이지 않던가 정확하지 않습니다."
+
+msgid "Mod. Time     : %s"
+msgstr "변경시간      : %s"
+
+msgid "Modification failed"
+msgstr "갱신이 실패하였습니다."
+
+msgid "Modify operation failed"
+msgstr "갱신조작이 실패하였습니다."
+
+msgid "Modify output format:"
+msgstr "출력형식의 갱신:"
+
+msgid "Multihop attempted"
+msgstr "다중호프가 기대됩니다."
+
+msgid "Must specify user name for server-user option"
+msgstr "봉사기사용자항목에 사용자이름을 지정하여야 합니다."
+
+msgid "NAME"
+msgstr "이름"
+
+msgid ""
+"NAME\n"
+"[--add-to-archive|--delete-from-archive] FILE...\n"
+"--list-archive [FILE]"
+msgstr ""
+"이름\n"
+"[--add-to-archive|--delete-from-archive] 파일...\n"
+"--list-archive [파일]"
+
+msgid ""
+"NAME\n"
+"[-a|-m]"
+msgstr ""
+"파일\n"
+"[-a|-m]"
+
+msgid "NIS client/server version mismatch - can't supply service"
+msgstr ""
+"NIS의뢰기와 봉사기의 판번호가 일치하지 않습니다. - 봉사를 제공할수 없습니다."
+
+msgid "NIS map database is bad"
+msgstr "NIS 사영자료기지가 불량입니다."
+
+msgid "NIS+ operation failed"
+msgstr "NIS+ 조작이 실패되였습니다."
+
+msgid "NIS+ servers unreachable"
+msgstr "NIS+ 봉사기에 도달할수 없습니다."
+
+msgid "NIS+ service is unavailable or not installed"
+msgstr "NIS+ 봉사가 리용불가능하든가, 설치되여있지 않습니다."
+
+msgid "NO OBJECT\n"
+msgstr "객체가 없음\n"
+
+msgid "NUMBER"
+msgstr "번호"
+
+msgid "Name : `%s'\n"
+msgstr "이름: `%s'\n"
+
+msgid "Name Service Cache Daemon."
+msgstr "이름봉사 고속완충기억데몬."
+
+msgid "Name not served by this server"
+msgstr "이름은 이 봉사기에서 관리되지 않음"
+
+msgid "Name not unique on network"
+msgstr "이름은 망에서 유일하지 않음"
+
+msgid "Name or service not known"
+msgstr "이름 또는 봉사를 알수 없음"
+
+msgid "Name output file"
+msgstr "출력파일이름"
+
+msgid "Name/entry isn't unique"
+msgstr "이름/입구가 유일하지 않음"
+
+msgid "Named object is not searchable"
+msgstr "현재 이름의 객체를 찾을수 없음"
+
+msgid "Need authenticator"
+msgstr "인증이 필요합니다."
+
+msgid "Network dropped connection because of reset"
+msgstr "재설정으로 망 접속이 차단됨"
+
+msgid "Network dropped connection on reset"
+msgstr "재설정중에 망접속이 차단되였습니다"
+
+msgid "Network is down"
+msgstr "망이 끓어짐"
+
+msgid "Network is unreachable"
+msgstr "망이 련결되지 않았습니다."
+
+msgid "No CSI structure available"
+msgstr "CSI구조가 유용하지 않습니다."
+
+msgid "No XENIX semaphores available"
+msgstr "XENIX신호기가 리용될수 없습니다."
+
+msgid "No address associated with hostname"
+msgstr "호스트이름에 대응하는 주소가 아닙니다."
+
+msgid "No address associated with name"
+msgstr "이름에 대응하는 주소가 아닙니다."
+
+msgid "No anode"
+msgstr "양극(anode)이 아닙니다."
+
+msgid "No buffer space available"
+msgstr "리용가능한 완충기 령역이 없습니다."
+
+msgid "No character set name specified in charmap"
+msgstr "문자모임이름이 문자표에 정의되지 않았습니다."
+
+msgid "No child processes"
+msgstr "자식처리가 아닙니다."
+
+msgid "No data available"
+msgstr "리용가능한 자료가 없습니다."
+
+msgid "No definition for %s category found"
+msgstr "%s범주에 대한 정의가 없음"
+
+msgid "No file space on server"
+msgstr "봉사기에 파일공간이 없습니다."
+
+msgid "No link created since soname could not be found for %s"
+msgstr "%s 에 대한 soname 이 보이지 않으므로 련결이 진행될수 없습니다."
+
+msgid "No locks available"
+msgstr "잠그기를 리용할수 없습니다."
+
+msgid "No match"
+msgstr "일치하지 않습니다."
+
+msgid "No medium found"
+msgstr "매체가 없음"
+
+msgid "No message of desired type"
+msgstr "요구하는 형식의 통보문이 아닙니다."
+
+msgid "No more records in map database"
+msgstr "사영자료기지에 더 이상 기록이 없습니다."
+
+msgid "No previous regular expression"
+msgstr "이전 정규표현이 정의되여 있지 않습니다."
+
+msgid "No record locks available"
+msgstr "기록페쇄가 리용될수 없습니다."
+
+msgid "No remote programs registered.\n"
+msgstr "원격프로그람이 등록되여 있지 않습니다.\n"
+
+msgid "No route to host"
+msgstr "호스트에로의 경로가 아닙니다."
+
+msgid "No space left on device"
+msgstr "장치에 빈 령역이 없습니다."
+
+msgid "No such device"
+msgstr "이러한 장치는 없습니다."
+
+msgid "No such device or address"
+msgstr "그와 같은 장치나 주소는 없습니다."
+
+msgid "No such file or directory"
+msgstr "그와 같은 파일이나 등록부는 없습니다."
+
+msgid "No such key in map"
+msgstr "사영에 그와 같은 건이 없습니다."
+
+msgid "No such map in server's domain"
+msgstr "봉사기령역에 그와 같은 사영은 없습니다."
+
+msgid "No such process"
+msgstr "그런 처리는 없습니다"
+
+msgid "Non NIS+ namespace encountered"
+msgstr "NIS+ 이름공간에서 마주치지 않습니다."
+
+msgid "Non-recoverable failure in name resolution"
+msgstr "이름의 해결시에 회복가능이 실패"
+
+msgid "None.\n"
+msgstr "없음.\n"
+
+msgid "Not a XENIX named type file"
+msgstr "XENIX의 이름인 파일이 없습니다."
+
+msgid "Not a data message"
+msgstr "자료통보문이 아닙니다."
+
+msgid "Not a directory"
+msgstr "등록부가 아닙니다."
+
+msgid "Not a name file"
+msgstr "이름파일이 아닙니다."
+
+msgid "Not a stream device"
+msgstr "련속흐름장치가 아닙니다."
+
+msgid "Not available"
+msgstr "리용할수 없습니다."
+
+msgid "Not enough space"
+msgstr "충분한 공간이 없습니다."
+
+msgid "Not found"
+msgstr "찾을수 없습니다."
+
+msgid "Not found, no such name"
+msgstr "그런 이름이 보이지 않습니다."
+
+msgid "Not master server for this domain"
+msgstr "이 령역의 주봉사기가 아닙니다."
+
+msgid "Not owner"
+msgstr "소유자가 아닙니다."
+
+msgid "Not supported"
+msgstr "지원되지 않습니다."
+
+msgid "Number of Columns   : %d\n"
+msgstr "렬수              : %d\n"
+
+msgid "Number of objects : %u\n"
+msgstr "객체수    : %u\n"
+
+msgid ""
+"Number of symbolic links encountered during path name traversal exceeds "
+"MAXSYMLINKS"
+msgstr "경로이름을 검사할 때에 통과하는 기호련결수가 MAXSYNLINKS를 넘습니다."
+
+msgid "Numerical argument out of domain"
+msgstr "수값인수는 령역밖의 수입니다."
+
+msgid "Numerical result out of range"
+msgstr "계산결과는 범위밖의 수입니다."
+
+msgid "Object #%d:\n"
+msgstr "객체 #%d:\n"
+
+msgid "Object Name   : %s\n"
+msgstr "객체이름 : %s\n"
+
+msgid "Object Type   : "
+msgstr "객체형: "
+
+msgid "Object is remote"
+msgstr "객체는 원격화되여 있습니다."
+
+msgid "Object with same name exists"
+msgstr "같은 이름을 가진 객체가 존재합니다."
+
+msgid "Odd number of quotation marks"
+msgstr "인용부호개수가 홀수입니다."
+
+msgid ""
+"Only process directories specified on the command line.  Don't build cache."
+msgstr ""
+"지령행에서 지정된 등록부만을 처리합니다. 고속완충기억을 구축할수 없습니다."
+
+msgid "Only root is allowed to use this option!"
+msgstr "이 추가선택은 체계관리자만이 사용할수 있습니다!"
+
+msgid "Operation already in progress"
+msgstr "조작은 이미 처리중입니다."
+
+msgid "Operation canceled"
+msgstr "조작은 중지되였습니다."
+
+msgid "Operation not applicable"
+msgstr "조작은 적용될수 없습니다."
+
+msgid "Operation not permitted"
+msgstr "평가할수 없는 조작."
+
+msgid "Operation not supported"
+msgstr "지원되지 않는 조작."
+
+msgid "Operation not supported on transport endpoint"
+msgstr "조작은 전송하기에 앞서 지원되지 않았습니다."
+
+msgid "Operation now in progress"
+msgstr "현재 처리중의 조작"
+
+msgid "Operation would block"
+msgstr "블로크되여 있는 조작"
+
+msgid "Option not supported by protocol"
+msgstr "추가선택은 규약에 의하여 제공되지 않았습니다."
+
+msgid "Optional output file prefix"
+msgstr "출력파일에 앞붙이를 붙입니다."
+
+msgid "Out of stream resources"
+msgstr "련속흐름자원령역초과"
+
+msgid "Out of streams resources"
+msgstr "련속흐름자원 밖의"
+
+msgid "Output control:"
+msgstr "출력조종:"
+
+msgid "Output selection:"
+msgstr "출력선택:"
+
+msgid "PRIVATE\n"
+msgstr "비공개\n"
+
+msgid "Package not installed"
+msgstr "패키지는 설치되여 있지 않습니다."
+
+msgid "Parse error: %s"
+msgstr "구문해석오유: %s"
+
+msgid "Partial success"
+msgstr "부분적으로 성공"
+
+msgid "Passed object is not the same object on server"
+msgstr "통과된 객체는 봉사기상에서 동일하지 않습니다."
+
+msgid "Path `%s' given more than once"
+msgstr "한번이상 지정된 경로`%s'"
+
+msgid "Permission denied"
+msgstr "허가권한이 거절되였습니다."
+
+msgid "Power failure"
+msgstr "전원고장"
+
+msgid "Prefix used for all file accesses"
+msgstr "모든 파일 접근을 위해 사용된 앞붙이."
+
+msgid "Premature end of regular expression"
+msgstr "너무 이른 정규표현의 끝"
+
+msgid "Print cache"
+msgstr "고속완충기억 출력"
+
+msgid "Print current configuration statistic"
+msgstr "현재설정통계를 인쇄"
+
+msgid "Print more information"
+msgstr "상세정보 인쇄"
+
+msgid "Print more messages"
+msgstr "자세한 통보문 인쇄"
+
+msgid "Print program version"
+msgstr "프로그람의 판번호 인쇄"
+
+msgid "Probable success"
+msgstr "성공"
+
+msgid "Probably not found"
+msgstr "찾을수 없습니다."
+
+msgid "Processing request in progress"
+msgstr "요구는 처리중입니다."
+
+msgid "Profiling timer expired"
+msgstr "륜곽시계가 파괴되였습니다."
+
+msgid "Protocol driver not attached"
+msgstr "규약구동프로그람이 부가되지 않습니다."
+
+msgid "Protocol error"
+msgstr "규약오유"
+
+msgid "Protocol family not supported"
+msgstr "규약 계렬이 지원되지 않았습니다."
+
+msgid "Protocol not available"
+msgstr "규약은 리용할수 없습니다."
+
+msgid "Protocol not supported"
+msgstr "규약은 지원되지 않았습니다."
+
+msgid "Protocol wrong type for socket"
+msgstr "소케트에 대하여 틀린 규약형식"
+
+msgid "Query illegal for named table"
+msgstr "이름표에 대한 비법적인 질문"
+
+msgid "Quit"
+msgstr "탈퇴"
+
+msgid "RFS specific error"
+msgstr "RFS특정오유"
+
+msgid "RPC bad procedure for program"
+msgstr "프로그람에 대한 RPC의 틀린 수속"
+
+msgid "RPC failure on NIS operation"
+msgstr "NIS조작에서 RPC의 실패"
+
+msgid "RPC program not available"
+msgstr "RPC프로그람은 리용할수 없습니다."
+
+msgid "RPC program version wrong"
+msgstr "RPC프로그람 판번호가 틀립니다."
+
+msgid "RPC struct is bad"
+msgstr "RPC구조가 정확하지 않습니다."
+
+msgid "RPC version wrong"
+msgstr "RPC판번호가 틀립니다."
+
+msgid "RPC: (unknown error code)"
+msgstr "RPC: (알수 없는 오유코드)"
+
+msgid "RPC: Authentication error"
+msgstr "RPC: 인증오유"
+
+msgid "RPC: Can't decode result"
+msgstr "RPC: 결과를 해신할수 없습니다."
+
+msgid "RPC: Can't encode arguments"
+msgstr "RPC: 인수를 해신할수 없습니다."
+
+msgid "RPC: Failed (unspecified error)"
+msgstr "RPC: 실패되였습니다. (지정되지 않은 오유)"
+
+msgid "RPC: Incompatible versions of RPC"
+msgstr "RPC: RPC의 판번호가 호환되지 않습니다."
+
+msgid "RPC: Port mapper failure"
+msgstr "RPC: 포구작성자의 실패"
+
+msgid "RPC: Procedure unavailable"
+msgstr "RPC: 수속을 리용할수 없습니다."
+
+msgid "RPC: Program not registered"
+msgstr "RPC: 프로그람이 등록되여 있지 않습니다."
+
+msgid "RPC: Program unavailable"
+msgstr "RPC: 프로그람을 리용할수 없습니다."
+
+msgid "RPC: Program/version mismatch"
+msgstr "RPC: 프로그람과 판번호가 일치하지 않습니다."
+
+msgid "RPC: Remote system error"
+msgstr "RPC: 원격체계오유."
+
+msgid "RPC: Server can't decode arguments"
+msgstr "RPC: 봉사기가 인수를 해신할수 없습니다."
+
+msgid "RPC: Success"
+msgstr "RPC: 성공입니다."
+
+msgid "RPC: Timed out"
+msgstr "RPC: 요구시간입니다."
+
+msgid "RPC: Unable to receive"
+msgstr "RPC: 접수할수 없습니다."
+
+msgid "RPC: Unable to send"
+msgstr "RPC: 전송되지 않습니다."
+
+msgid "RPC: Unknown host"
+msgstr "RPC: 알수 없는 호스트"
+
+msgid "RPC: Unknown protocol"
+msgstr "RPC: 알수 없는 규약"
+
+msgid "RSA (%d bits)\n"
+msgstr "RSA (%d비트)\n"
+
+msgid "RTLD_NEXT used in code not dynamically loaded"
+msgstr "코드에서 사용하고 있는 RTLD_NEXT를 동적으로 읽어 들일수 없습니다."
+
+msgid "Read and display shared object profiling data"
+msgstr "공유객체의 리력자료를 읽어들여 표시합니다."
+
+msgid "Read configuration data from NAME"
+msgstr "이름으로부터 설정정보를 읽어들입니다."
+
+msgid "Read-only file system"
+msgstr "읽기 전용파일체계"
+
+msgid "Real-time signal %d"
+msgstr "실시간 신호 %d"
+
+msgid "Regular expression too big"
+msgstr "정규표현이 너무 깁니다."
+
+msgid "Remote I/O error"
+msgstr "원격I/O오유"
+
+msgid "Remote address changed"
+msgstr "원격 주소가 변경되였습니다."
+
+msgid "Remove locales named by parameters from archive"
+msgstr "압축파일로부터 파라메터로 준 이름의 지역정보를 삭제합니다."
+
+msgid "Remove password or make file unreadable by others."
+msgstr "암호를 삭제하든지 혹은 3자에 의해 읽을수 없는 파일을 만드시오."
+
+msgid "Renaming of %s to %s failed"
+msgstr "%s 부터 %s 에로의 이름갱신이 실패하였습니다."
+
+msgid "Reopening shared object `%s' failed"
+msgstr "공유객체`%s'의 다시 열기가 실패하였습니다."
+
+msgid "Replace existing archive content"
+msgstr "존재하는 압축파일의 내용 교체"
+
+msgid "Replicate :\n"
+msgstr "복제:\n"
+
+msgid "Report bugs to %s.\n"
+msgstr "오유를 발견하면  %s 에 알려 주십시요.\n"
+
+msgid "Report bugs using the `glibcbug' script to <bugs@gnu.org>.\n"
+msgstr "오유를 `glibcbug'각본을 리용하여<bugs@gnu.org>까지 알려 주십시요.\n"
+
+msgid "Request arguments bad"
+msgstr "요구하는 인수가 정확하지 않습니다."
+
+msgid "Request canceled"
+msgstr "요구는 무시되였습니다."
+
+msgid "Request not canceled"
+msgstr "요구는 무시되지 못합니다."
+
+msgid "Reserved for future use"
+msgstr "예약"
+
+msgid "Resolver Error 0 (no error)"
+msgstr "해석기오유 0 (오유가 아닙니다)"
+
+msgid "Resolver internal error"
+msgstr "해석기 내부오유"
+
+msgid "Resource deadlock avoided"
+msgstr "자원교착을 회피합니다."
+
+msgid "Resource lost"
+msgstr "자원을 잃었습니다."
+
+msgid "Resource temporarily unavailable"
+msgstr "자원을 일시적으로 리용할수 없습니다."
+
+msgid "Result too large"
+msgstr "결과가 너무 큽니다."
+
+msgid "Results sent to callback proc"
+msgstr "역호출수속에 결과를 보냅니다"
+
+msgid "SHOBJ [PROFDATA]"
+msgstr "SHOBJ [PROFDATA]"
+
+msgid "Search Path         : %s\n"
+msgstr "탐색경로\t\t: %s\n"
+
+msgid "Segmentation fault"
+msgstr "토막화실패"
+
+msgid "Server busy, try again"
+msgstr "봉사기가 사용중입니다. 다시 시도하십시오. "
+
+msgid "Server out of memory"
+msgstr "봉사기 기억기 넘침"
+
+msgid "Server rejected credential"
+msgstr "봉사기가 인증을 거절합니다."
+
+msgid "Server rejected verifier"
+msgstr "봉사기가 확인을 거절합니다."
+
+msgid "Service configuration to be used"
+msgstr "리용된 봉사설정"
+
+msgid "Servname not supported for ai_socktype"
+msgstr "봉사기이름은  ai_socktype에 대하여 제공되여 있지 않습니다."
+
+msgid "Set the program name"
+msgstr "프로그람이름을 설정합니다."
+
+msgid "Shut the server down"
+msgstr "봉사기를 끝냅니다."
+
+msgid "Signal 0"
+msgstr "신호 0"
+
+msgid "Socket operation on non-socket"
+msgstr "소케트가 아닌것에 소케트조작을 하고 있습니다."
+
+msgid "Socket type not supported"
+msgstr "소케트형식은 제공되여 있지 않습니다."
+
+msgid "Software caused connection abort"
+msgstr "쏘프트웨어가 접속을 중단하였습니다."
+
+msgid "Sorry. You are not root\n"
+msgstr "미안합니다. 체계관리자가 되여야 합니다.\n"
+
+msgid "Source definitions are found in FILE"
+msgstr "원천정의는 FILE에서 찾아집니다"
+
+msgid "Srmount error"
+msgstr "Srmount오유"
+
+msgid "Stack fault"
+msgstr "탄창 오유"
+
+msgid "Stale NFS file handle"
+msgstr "실효성 없는 NFS파일처리기입니다."
+
+msgid "Start NUMBER threads"
+msgstr "NUMBER개 토막처리를 기동합니다."
+
+msgid "Stopped"
+msgstr "정지되였습니다."
+
+msgid "Stopped (signal)"
+msgstr "정지되였습니다 (신호.)"
+
+msgid "Stopped (tty input)"
+msgstr "정지되였습니다(tty 입력.)"
+
+msgid "Stopped (tty output)"
+msgstr "정지되였습니다(tty 출력.)"
+
+msgid "Streams pipe error"
+msgstr "련속흐름 파이프 오유"
+
+msgid "Structure needs cleaning"
+msgstr "구조체를 제거할 필요가 있습니다."
+
+msgid "Success"
+msgstr "성공"
+
+msgid "Supported databases:"
+msgstr "지원되고 있는 자료기지:"
+
+msgid "Suppress warnings and information messages"
+msgstr "경고 및 정보통보문의 금지"
+
+msgid "Symbolic character names defined in FILE"
+msgstr "기호문자이름은 파일안에 정의되여 있습니다"
+
+msgid "System error"
+msgstr "체계오유"
+
+msgid "System information:"
+msgstr "체계정보:"
+
+msgid "System resource allocation failure"
+msgstr "체계자원의 확보 실패"
+
+msgid ""
+"System's directory for character maps : %s\n"
+"                       repertoire maps: %s\n"
+"                       locale path    : %s\n"
+"%s"
+msgstr ""
+"문자사영에 대한  체계등록부: %s\n"
+"목록사영에 대한 체계등록부: %s\n"
+"국부경로에 대한    체계등록부: %s\n"
+"%s"
+
+msgid "TABLE"
+msgstr "표"
+
+msgid "TABLE\n"
+msgstr "표\n"
+
+msgid "TABLE,yes"
+msgstr "표,예"
+
+msgid ""
+"TLS generation counter wrapped!  Please send report with the 'glibcbug' "
+"script."
+msgstr "TLS 생성 발생기는 완성되였습니다. `glibcbug'각본으로 보고하여주십시오."
+
+msgid "Table Type          : %s\n"
+msgstr "표형태\t\t: %s\n"
+
+msgid "Temporary failure in name resolution"
+msgstr "이름해석중 일시적인 실패"
+
+msgid "Terminated"
+msgstr "완료되였습니다."
+
+msgid "Text file busy"
+msgstr "본문파일이 기다림상태입니다."
+
+msgid ""
+"The following list contain all the coded character sets known.  This does\n"
+"not necessarily mean that all combinations of these names can be used for\n"
+"the FROM and TO command line parameters.  One coded character set can be\n"
+"listed with several different names (aliases).\n"
+"\n"
+"  "
+msgstr ""
+"아래의 목록에서는 알고 있는 모든 문자코드가 포함되여 있습니다..\n"
+"이것은 이러한 이름들이 명령파라메터의 FROM 및 TO에서 사용되여 \n"
+"완전히 조합한다는것을 의미하지 않습니다. 어떤 문자설정은 ,\n"
+"몇개의 차이나는 별명과 함께 등록되여 있습니다.\n"
+"\n"
+"  "
+
+msgid "This implementation doesn't support newstyle or MT-safe code!\n"
+msgstr ""
+"이 실현은 새로운 형식과 다중스레드안전방식 코드를 제공하고 있지 않습니다!\n"
+
+msgid "Time to live : "
+msgstr "유지시간: "
+
+msgid "Timer expired"
+msgstr "유효기간이 지났습니다."
+
+msgid "Title string used in output graphic"
+msgstr "제목문자렬은 출력그라픽스에서 사용되고 있습니다."
+
+msgid "Too many attributes"
+msgstr "너무 많은 속성."
+
+msgid "Too many levels of symbolic links"
+msgstr "기호련결이 대부분입니다."
+
+msgid "Too many links"
+msgstr "련결이 대부분입니다."
+
+msgid "Too many open files"
+msgstr "파일열기가 너무 많습니다."
+
+msgid "Too many open files in system"
+msgstr "체계에서 열린 파일이 너무 많습니다."
+
+msgid "Too many processes"
+msgstr "처리가 너무 많습니다."
+
+msgid "Too many references: cannot splice"
+msgstr "참고가 너무 많습니다: 결합할수 없습니다."
+
+msgid "Too many users"
+msgstr "사용자가 너무 많습니다."
+
+msgid "Trace/breakpoint trap"
+msgstr "추적/중지점 함정"
+
+msgid "Trailing backslash"
+msgstr "역사선이 남아있습니다."
+
+msgid "Translator died"
+msgstr "번역프로그람이 꺼졌습니다."
+
+msgid "Transport endpoint is already connected"
+msgstr "전송하기에 앞서 이미 접속되여야 합니다."
+
+msgid "Transport endpoint is not connected"
+msgstr "전송하기에 앞서 접속되여 있지 않습니다."
+
+msgid "Try `%s --help' or `%s --usage' for more information.\n"
+msgstr "상세한것은 `%s -help' 또는 `%s -usage'를 실행하여주십시오.\n"
+
+msgid "Trying %s...\n"
+msgstr "`%s'를 실행하여보십시오...\n"
+
+msgid "Type : %s\n"
+msgstr "형   : %s\n"
+
+msgid "UNKNOWN"
+msgstr "알수 없음"
+
+msgid "Unable to authenticate NIS+ client"
+msgstr " NIS+ 의뢰기를 참고할수 없습니다."
+
+msgid "Unable to authenticate NIS+ server"
+msgstr " NIS+ 봉사기를 인정할수 없습니다."
+
+msgid "Unable to create callback"
+msgstr "역호출을 창조할수 없습니다."
+
+msgid "Unable to create process on server"
+msgstr "봉사기상에서 처리를 창조할수 없습니다."
+
+msgid "Unknown (type = %d, bits = %d)\n"
+msgstr "알수 없음 (형 = %d, 비트 = %d)\n"
+
+msgid "Unknown .netrc keyword %s"
+msgstr "알수 없는 .netrc예약어 %s"
+
+msgid "Unknown ELFCLASS in file %s.\n"
+msgstr "파일 %s 안에서 ELFCLASS는 알수 없습니다.\n"
+
+msgid "Unknown NIS error code"
+msgstr "알수 없는 NIS오유코드"
+
+msgid "Unknown OS"
+msgstr "알수 없는 OS"
+
+msgid "Unknown database: %s\n"
+msgstr "알수 없는 자료기지: %s\n"
+
+msgid "Unknown error"
+msgstr "알수 없는 오유"
+
+msgid "Unknown error "
+msgstr "알수 없는 오유"
+
+msgid "Unknown host"
+msgstr "알수 없는 호스트"
+
+msgid "Unknown object"
+msgstr "알수 없는 객체"
+
+msgid "Unknown option: %s %s %s"
+msgstr "알수 없는 추가선택: %s %s %s"
+
+msgid "Unknown resolver error"
+msgstr "알수 없는 해석오유"
+
+msgid "Unknown server error"
+msgstr "알수 없는 봉사기오유"
+
+msgid "Unknown signal %d"
+msgstr "알수 없는 신호 (%d)"
+
+msgid "Unknown system error"
+msgstr "알수 없는 체계오유"
+
+msgid "Unknown ypbind error"
+msgstr "알수 없는 ypbind오유"
+
+msgid "Unmatched ( or \\("
+msgstr "( 또는  \\( 이 일치하지 않습니다."
+
+msgid "Unmatched ) or \\)"
+msgstr ") 또는  \\) 이 일치하지 않습니다."
+
+msgid "Unmatched [ or [^"
+msgstr "[ 또는 [^ 이 일치하지 않습니다"
+
+msgid "Unmatched \\{"
+msgstr "\\{ 이 일치하지 않습니다."
+
+msgid "Unrecognized variable `%s'"
+msgstr "변수`%s'를 인식할수 없습니다."
+
+msgid "Urgent I/O condition"
+msgstr "긴급한 입출력상황입니다."
+
+msgid "Usage:"
+msgstr "사용법:"
+
+msgid "Usage: %s [-v specification] variable_name [pathname]\n"
+msgstr "사용법: %s [-v사양] 변수이름 [경로이름]\n"
+
+msgid "Usage: rpcinfo [ -n portnum ] -u host prognum [ versnum ]\n"
+msgstr "사용법: rpcinfo [ -n 포구번호] -u 호스트 프로그람 번호[판번호]\n"
+
+msgid "Use CACHE as cache file"
+msgstr "고속완충기억파일로서 CACHE 를 사용합니다."
+
+msgid "Use CONF as configuration file"
+msgstr "설정파일로서 CONF 를 사용합니다."
+
+msgid "Use separate cache for each user"
+msgstr "매 사용자에 대하여 차이나는 고속완충기를 사용하고 있습니다."
+
+msgid "User defined signal 1"
+msgstr "사용자정의신호1"
+
+msgid "User defined signal 2"
+msgstr "사용자정의신호 2"
+
+msgid "Value too large for defined data type"
+msgstr "정의되여 있는 자료형에 따라 값이 커집니다."
+
+msgid "Virtual timer expired"
+msgstr "가상시간이 지났습니다."
+
+msgid "Wild result from command execution"
+msgstr "지령실행으로부터의 치명적인 결과"
+
+msgid "Window changed"
+msgstr "창문이 변경되였습니다."
+
+msgid "Write names of available charmaps"
+msgstr "쓰기가능한 문자사영이름의 출력"
+
+msgid "Write names of available locales"
+msgstr "리용가능한 지역정보이름의 쓰기"
+
+msgid "Write names of selected categories"
+msgstr "선택된 카테고리 이름의 쓰기."
+
+msgid "Write names of selected keywords"
+msgstr "선택되여 있는 건반이름의 쓰기"
+
+msgid "Write output to file NAME"
+msgstr "파일이름에로의 출력을 쓰기"
+
+msgid "Writing of cache data failed"
+msgstr "고속완충자료의 쓰기가 실패"
+
+msgid "Writing of cache data failed."
+msgstr "고속완충자료의 쓰기가 실패하였습니다."
+
+msgid "Written by %s.\n"
+msgstr "%s에 의한 쓰기\n"
+
+msgid "Wrong medium type"
+msgstr "틀린 매체형식"
+
+msgid "YPBINDPROC_DOMAIN: %s\n"
+msgstr "YPBINDPROC_DOMAIN: %s\n"
+
+msgid "Yes, 42 is the meaning of life"
+msgstr "예, 42는 평균 생존나이입니다."
+
+msgid "You really blew it this time"
+msgstr "실지 이 시간에 울립니다."
+
+msgid "Zone continuation line end time is not after end time of previous line"
+msgstr "구역 련속행 끝시간은 전행의 끝시간 다음에 있는것이 아닙니다."
+
+msgid "[DIR...]"
+msgstr "[등록부...]"
+
+msgid "[FILE...]"
+msgstr "[파일...]"
+
+msgid "[FILE]"
+msgstr "[파일]"
+
+msgid "__get_myaddress: ioctl (get interface configuration)"
+msgstr "__get_myaddress: ioctl (대면부설정을 얻습니다.)"
+
+msgid "`%.*s' already defined as collating element"
+msgstr "`%.*s'는 순서대조요소로 이미 정의되여 있습니다."
+
+msgid "`%.*s' already defined as collating symbol"
+msgstr "`%.*s'는 순서대조기호로 이미 정의되여 있습니다."
+
+msgid "`%.*s' already defined in charmap"
+msgstr "`%.*s'는 문자표 안에 이미 정의되여 있습니다."
+
+msgid "`%.*s' already defined in repertoire"
+msgstr "`%.*s'는 목록안에 이미 정의되여 있습니다."
+
+msgid "`%1$s' definition does not end with `END %1$s'"
+msgstr "`%1$s'의 정의는 `END %1$s' 에서 완료되지 않았습니다."
+
+msgid "`%s' and `%.*s' are no valid names for symbolic range"
+msgstr "`%s'와 `%.*s' 는 기호범위로서 비법적인 이름입니다."
+
+msgid "`%s' is no correct profile data file for `%s'"
+msgstr "`%s'는`%s'에 대한 정확한 리력자료파일이 아닙니다."
+
+msgid "`digit' category has not entries in groups of ten"
+msgstr "`digit'범주는 그룹안에 10개의 입구를 가지고 있지 않습니다."
+
+msgid "ai_family not supported"
+msgstr " ai_family는 지원되지 않았습니다."
+
+msgid "ai_socktype not supported"
+msgstr " ai_socktype 는 지원되지 않았습니다."
+
+msgid "already running"
+msgstr "이미 실행하고 있습니다."
+
+msgid "argument to <%s> must be a single character"
+msgstr "인수 <%s>는 단일문자로 되여 있어야 합니다."
+
+msgid "argument to `%s' must be a single character"
+msgstr "인수 `%s'는 단일문자로 되여 있어야 합니다."
+
+msgid "auth_none.c - Fatal marshalling problem"
+msgstr "auth_none.c - 치명적인 묶어보내기정수렬의 문제"
+
+msgid "authunix_create: out of memory\n"
+msgstr "authunix_create: 기억기가 부족합니다.\n"
+
+msgid "bad argument"
+msgstr "불량인수"
+
+msgid "bad owner"
+msgstr "불량소유자"
+
+msgid "blank FROM field on Link line"
+msgstr "Link 행의 FROM 마당이 비여있습니다."
+
+msgid "blank TO field on Link line"
+msgstr "Link행의 TO마당이 비여있습니다."
+
+msgid "block freed twice\n"
+msgstr "블로크의 해방이 2번 진행되였습니다.\n"
+
+msgid "bogus mcheck_status, library is buggy\n"
+msgstr "mcheck_status 가 거짓입니다. 서고오유입니다.\n"
+
+msgid "broadcast: ioctl (get interface configuration)"
+msgstr "방송: ioctl (대면설정을 얻습니다."
+
+msgid "broadcast: ioctl (get interface flags)"
+msgstr "방송: ioctl (대면부기발을 얻습니다.)"
+
+msgid "cache_set: could not allocate new rpc_buffer"
+msgstr "cache_set: 새로운 rpc_buffer를 확보할수 없습니다."
+
+msgid "cache_set: victim alloc failed"
+msgstr "cache_set: 특정령역확보가 실패하였습니다."
+
+msgid "cache_set: victim not found"
+msgstr "cache_set: 특정령역이 보이지 않습니다."
+
+msgid "can't determine time zone abbreviation to use just after until time"
+msgstr "그 시간을 사용하는 시간대의 단축형태를 결정할수 없습니다."
+
+msgid "can't reassign procedure number %ld\n"
+msgstr "수속번호 %ld 를 다시 할당할수 없습니다.\n"
+
+msgid "cannot add already read locale `%s' a second time"
+msgstr "이미 읽어들인 국부`%s'는 두번째시간도 추가할수 없습니다."
+
+msgid "cannot add to locale archive"
+msgstr "국부 Archive에 추가할수 없습니다."
+
+msgid "cannot allocate TLS data structures for initial thread"
+msgstr "초기 스레드를 위한 TLS자료구조를 할당할수 없습니다."
+
+msgid "cannot allocate dependency list"
+msgstr "의존목록을 할당할수 없습니다."
+
+msgid "cannot allocate memory for program header"
+msgstr "프로그람머리부에 대한 기억기를 배정할수 없습니다."
+
+msgid "cannot allocate name record"
+msgstr "이름기록마당을 할당할수 없습니다."
+
+msgid "cannot allocate symbol data"
+msgstr "기호자료를 할당할수 없습니다."
+
+msgid "cannot allocate symbol search list"
+msgstr "기호탐색목록을 할당할수 없습니다."
+
+msgid "cannot allocate version reference table"
+msgstr "판번참조표를 할당수 없습니다."
+
+msgid "cannot change memory protections"
+msgstr "기억기보호를 변경할수 없습니다."
+
+msgid "cannot change mode of new locale archive"
+msgstr "새로운 국부 압축파일의 방식을 변경할수 없습니다."
+
+msgid "cannot change mode of resized locale archive"
+msgstr "크기변경된 국부 압축파일의 방식을 변경할수 없습니다."
+
+msgid "cannot create RUNPATH/RPATH copy"
+msgstr " RUNPATH/RPATH의 복사를 작성할수 없습니다."
+
+msgid "cannot create TLS data structures"
+msgstr "TLS자료구조체를 창조할수 없습니다."
+
+msgid "cannot create cache for search path"
+msgstr "탐색경로에 대한 고속완충기를 만들수 없습니다"
+
+msgid "cannot create capability list"
+msgstr "용량목록을 창조할수 없습니다."
+
+msgid "cannot create directory for output files"
+msgstr "출력파일을 위한 등록부를 창조할수 없습니다."
+
+msgid "cannot create internal descriptor"
+msgstr "내부서술자를 작성할수 없습니다."
+
+msgid "cannot create internal descriptors"
+msgstr "내부서술자를 작성할수 없습니다."
+
+msgid "cannot create output file `%s' for category `%s'"
+msgstr "범주`%2$s'용 출력파일`%1$s'를 작성할수 없습니다."
+
+msgid "cannot create scope list"
+msgstr "범위목록을 창조할수 없습니다."
+
+msgid "cannot create search path array"
+msgstr "탐색경로 배렬을 작성할수 없습니다."
+
+msgid "cannot create searchlist"
+msgstr "탐색목록을 작성할수 없습니다."
+
+msgid "cannot create shared object descriptor"
+msgstr "공유객체서술자를 작성할수 없습니다."
+
+msgid "cannot create temporary file"
+msgstr "림시파일을 창조할수 없습니다."
+
+msgid "cannot determine escape character"
+msgstr "탈출문자를 결정할수 없습니다."
+
+msgid "cannot dynamically load executable"
+msgstr "실행파일을 동적으로 적재할수 없습니다."
+
+msgid "cannot enable socket to accept connections: %s"
+msgstr "소케트가 접속을 허락하도록 할수 없습니다: %s"
+
+msgid "cannot extend global scope"
+msgstr "대역범위를 확장할수 없습니다."
+
+msgid "cannot extend locale archive file"
+msgstr "국부 압축파일을 확장할수 없습니다."
+
+msgid "cannot find C preprocessor: %s \n"
+msgstr " C전처리기가 없음: %s \n"
+
+msgid "cannot find any C preprocessor (cpp)\n"
+msgstr "어떠한  C전처리기도 보이지 않습니다.(cpp)\n"
+
+msgid "cannot generate output file"
+msgstr "출력파일을 생성할수 없습니다."
+
+msgid "cannot handle TLS data"
+msgstr "TLS자료를 취급할수 없습니다."
+
+msgid "cannot handle old request version %d; current version is %d"
+msgstr ""
+"요구되는 이전 판번호 %d 를 처리할수 없습니다. 현재 판번호는  %d 입니다."
+
+msgid "cannot initialize archive file"
+msgstr "압축파일을 초기화할수 없습니다."
+
+msgid ""
+"cannot load auxiliary `%s' because of empty dynamic string token "
+"substitution\n"
+msgstr "동적인 빈 문자렬통표의 치환으로 `%s'를 보조적으로 적재할수 없습니다.\n"
+
+msgid "cannot load profiling data"
+msgstr "리력자료를 적재할수 없습니다."
+
+msgid "cannot lock locale archive \"%s\""
+msgstr "국부 압축파일 `%s' 를 잠글수 없습니다."
+
+msgid "cannot lock new archive"
+msgstr "새로운 압축파일을 잠글수 없습니다."
+
+msgid "cannot make segment writable for relocation"
+msgstr "재 확보용 토막을 쓰기입력 가능한 상태로 할수 없습니다."
+
+msgid "cannot map archive header"
+msgstr "압축파일 머리부를 사영할수 없습니다."
+
+msgid "cannot map locale archive file"
+msgstr "국부 압축파일을 사영할수 없습니다."
+
+msgid "cannot map zero-fill pages"
+msgstr "령으로 채워진 페지를 사영할수 없습니다."
+
+msgid "cannot open"
+msgstr "열수 없습니다."
+
+msgid "cannot open `%s'"
+msgstr "`%s'를 열수 없습니다"
+
+msgid "cannot open directory \"%s\": %s: ignored"
+msgstr "등록부 `%s'을 열수 없습니다: %s 무시합니다."
+
+msgid "cannot open input file"
+msgstr "입력파일을 열수 없습니다."
+
+msgid "cannot open input file `%s'"
+msgstr "입력파일`%s'을 열수 없습니다."
+
+msgid "cannot open locale archive \"%s\""
+msgstr "국부 압축파일 `%s'을 열수 없습니다."
+
+msgid "cannot open locale definition file `%s'"
+msgstr "국부정의파일`%s'을 열수 없습니다."
+
+msgid "cannot open output file"
+msgstr "출력파일을 열수 없습니다."
+
+msgid "cannot open output file `%s'"
+msgstr "출력파일`%s'를 열수 없습니다."
+
+msgid "cannot open output file `%s' for category `%s'"
+msgstr "범위`%2$s'용 출력파일`%1$s'를 열수 없습니다."
+
+msgid "cannot open shared object file"
+msgstr "공유객체파일을 열수 없습니다."
+
+msgid "cannot open socket: %s"
+msgstr "소케트를 열수 없습니다: %s"
+
+msgid "cannot open zero fill device"
+msgstr "령으로 채워진 장치를 열수 없습니다."
+
+msgid "cannot read all files in \"%s\": ignored"
+msgstr "`%s'의 모든 파일을 읽을수 없습니다: 무시합니다."
+
+msgid "cannot read archive header"
+msgstr "압축파일 머리부를 읽을수 없습니다. "
+
+msgid "cannot read character map directory `%s'"
+msgstr "문자사영등록부`%s'를 읽어들일수 없습니다."
+
+msgid "cannot read configuration file; this is fatal"
+msgstr "설정파일을 읽어들일수 없습니다. 이것은 치명적입니다."
+
+msgid "cannot read file data"
+msgstr "파일자료가 읽어지지 않습니다."
+
+msgid "cannot read header"
+msgstr "머리부를 읽을수 없습니다."
+
+msgid "cannot read header from `%s'"
+msgstr "`%s'의 머리부를 읽을수 없습니다."
+
+msgid "cannot read statistics data"
+msgstr "통계자료를 읽어들일수 없습니다."
+
+msgid "cannot rename new archive"
+msgstr "새로운 압축파일의 이름을 변경할수 없습니다."
+
+msgid "cannot resize archive file"
+msgstr "압축파일의 크기를 변경할수 없습니다."
+
+msgid "cannot restore segment prot after reloc"
+msgstr "재배치후에 토막의 보호상태를 다시 저장할수 없습니다."
+
+msgid "cannot safe new repertoire map"
+msgstr "새로운 목록사영은 안전하지 않습니다."
+
+msgid "cannot stat locale archive \"%s\""
+msgstr "국부 압축파일 `%s'를 stat할수 없습니다."
+
+msgid "cannot stat shared object"
+msgstr "공유객체를 해석할수 없습니다."
+
+msgid "cannot stat() file `%s': %s"
+msgstr "파일`%s'이 stat()할수 없습니다: %s"
+
+msgid "cannot write output files to `%s'"
+msgstr "출력파일`%s'에로의 쓸수 없습니다."
+
+msgid "cannot write result: %s"
+msgstr "결과를 출력할수 없습니다: %s"
+
+msgid "cannot write statistics: %s"
+msgstr "통계를 출력할수 없습니다: %s"
+
+msgid "character '%s' in class `%s' must be in class `%s'"
+msgstr "클라스`%2$s'의 문자`%1$s'는 클라스`%3$s'이여야 합니다."
+
+msgid "character '%s' in class `%s' must not be in class `%s'"
+msgstr "클라스`%2$s'의 문자`%1$s'는 클라스`%3$s'에 있지 말아야 합니다."
+
+msgid "character <SP> not defined in character map"
+msgstr "문자 <SP>가 문자넘기기에서 정의되지 않았습니다"
+
+msgid "character L'\\u%0*x' in class `%s' must be in class `%s'"
+msgstr "문자 L`\\u%0*x' (클라스`%s'안에 있는) 클라스`%s'에 있어야 합니다."
+
+msgid "character L'\\u%0*x' in class `%s' must not be in class `%s'"
+msgstr ""
+"문자 L`\\u%0*x' (클라스`%s'안에 있는) 는 클라스`%s'에 있지 말아야 합니다."
+
+msgid "character `%s' not defined while needed as default value"
+msgstr "기정값으로서 필요한 문자 `%s'가 정의되여 있지 않습니다."
+
+msgid "character class `%s' already defined"
+msgstr "문자클라스`%s'는 이미 정의되여 있습니다."
+
+msgid "character map `%s' already defined"
+msgstr "문자넘기기`%s'는 이미 정의되여 있습니다."
+
+msgid ""
+"character map `%s' is not ASCII compatible, locale not ISO C compliant\n"
+msgstr ""
+"문자넘기기`%s'는 아스키와 호환되지 않습니다. 지역은 ISO C에 따르지 않습니"
+"다.\n"
+
+msgid "character map file `%s' not found"
+msgstr "문자사영파일 `%s' 이 없음"
+
+msgid "character sets with locking states are not supported"
+msgstr "패쇄상태를 가진 문자모임이 지원되지 않습니다."
+
+msgid "cheese"
+msgstr "cheese"
+
+msgid "circular dependencies between locale definitions"
+msgstr "지역정의안에서 의존관계를 신뢰합니다."
+
+msgid "clnt_raw.c - Fatal header serialization error."
+msgstr " clnt_raw.c -머리부의 직렬화에서 치명적오유."
+
+msgid "clnttcp_create: out of memory\n"
+msgstr "clnttcp_create: 기억기가 부족합니다.\n"
+
+msgid "clntudp_create: out of memory\n"
+msgstr "clntudp_create: 기억기가 부족합니다.\n"
+
+msgid "clntunix_create: out of memory\n"
+msgstr "clntunix_create: 기억기가 부족합니다.\n"
+
+msgid "connect to address %s: "
+msgstr "주소 %s에 접속할수 없습니다: "
+
+msgid "constant or identifier expected"
+msgstr "상수 혹은 식별자가 기대됩니다."
+
+msgid "conversion from `%s' and to `%s' are not supported"
+msgstr "`%s'부터`%s'에로의 변경은 지원되지 않습니다."
+
+msgid "conversion from `%s' is not supported"
+msgstr "`%s'로부터의 변환은 지원되지 않습니다."
+
+msgid "conversion from `%s' to `%s' is not supported"
+msgstr "`%s'부터`%s'에로의 변경은 지원되지 않습니다."
+
+msgid "conversion modules not available"
+msgstr "변경모듈이 리용될수 없습니다."
+
+msgid "conversion rate value cannot be zero"
+msgstr "변환률은 령이 될수 없습니다."
+
+msgid "conversion stopped due to problem in writing the output"
+msgstr "출력쓰기중에 문제가 있기때문에 변환을 중지하여야 합니다."
+
+msgid "conversion to `%s' is not supported"
+msgstr "`%s'에로의 변환은 지원되지 않습니다."
+
+msgid "couldn't create an rpc server\n"
+msgstr "RPC봉사기를 만들수 없습니다.\n"
+
+msgid "couldn't register prog %ld vers %ld\n"
+msgstr "프로그람`%ld '판번호가  %ld 를 등록할수 없습니다.\n"
+
+msgid "database [key ...]"
+msgstr "자료기지[건 ...]"
+
+msgid "default character map file `%s' not found"
+msgstr "기정문자 넘기기`%s'은 찾을수 않습니다."
+
+msgid "duplicate definition of <%s>"
+msgstr "<%s> 의 정의는 증복되였습니다."
+
+msgid "duplicate definition of script `%s'"
+msgstr "스크립트`%s'의 정의가 증복됩니다."
+
+msgid "duplicate set definition"
+msgstr "설정정의가 중복됩니다."
+
+msgid "duplicated definition for mapping `%s'"
+msgstr "중복된 넘기기 `%s'의 정의"
+
+msgid "duplicated message identifier"
+msgstr "중복된 통보문 식별자"
+
+msgid "duplicated message number"
+msgstr "중복된 통보문번호"
+
+msgid "ellipsis range must be marked by two operands of same type"
+msgstr "생략범위는 같은형의 2가지 연산자에 의하여 표식화되여야 합니다."
+
+msgid "empty char string"
+msgstr "빈 문자렬"
+
+msgid "empty dynamic string token substitution"
+msgstr "빈 동적문자렬 통표치환"
+
+msgid "empty dynamics string token substitution"
+msgstr "빈 동적문자렬 통표치환"
+
+msgid "enablecache: cache already enabled"
+msgstr "enablecache: 고속완충기는 이미 유효합니다."
+
+msgid "enablecache: could not allocate cache"
+msgstr "enablecache: 고속완충기억기를 확보할수 없습니다."
+
+msgid "enablecache: could not allocate cache data"
+msgstr "enablecache: 고속완충기자료를 확보할수 없습니다."
+
+msgid "enablecache: could not allocate cache fifo"
+msgstr "enablecache: 고속완충기 fifo를 확보할수 없습니다."
+
+msgid "encoding for output"
+msgstr "출력시 부호화"
+
+msgid "encoding of original text"
+msgstr "초기 본문의 부호화"
+
+msgid "error getting callers id: %s"
+msgstr "호출자 ID얻기에서 오유: %s"
+
+msgid "error while adding equivalent collating symbol"
+msgstr "등가적인 기호첨가중에 오유"
+
+msgid "error while closing input `%s'"
+msgstr "입력파일`%s'을 닫을 때의 오유"
+
+msgid "error while closing output file"
+msgstr "출력파일을 닫을때의 오유"
+
+msgid "error while closing the profiling data file"
+msgstr "륜곽분석정보파일을 닫을때의 오유"
+
+msgid "error while loading shared libraries"
+msgstr "공유서고적재시 오유"
+
+msgid "error while reading the input"
+msgstr "입력을 읽어들일때의 오유"
+
+msgid "expect string argument for `copy'"
+msgstr "`copy'를 위한 문자렬인수가 기대됩니다."
+
+msgid "expected continuation line not found"
+msgstr "기대되는 련속행은 찾을수 없습니다."
+
+msgid "extra trailing semicolon"
+msgstr "특별한 두점기호가 없습니다."
+
+msgid "failed to create new locale archive"
+msgstr "새로운 국부 압축파일창조 실패"
+
+msgid "failed to load shared object `%s'"
+msgstr "공유객체`%s'의 읽어들이기에서 실패."
+
+msgid "failed to load symbol data"
+msgstr "기호자료의 읽어들이기에서 실패"
+
+msgid "failed to map segment from shared object"
+msgstr "공유객체의 토막화 넘기기에서 실패하였습니다."
+
+msgid "failed to mmap the profiling data file"
+msgstr "리력자료파일을 기억기에 사영하는것이 실패되였습니다."
+
+msgid "failed to start conversion processing"
+msgstr "변환처리 초기실패"
+
+msgid "failure while writing data for category `%s'"
+msgstr "범주`%s'의 자료를 쓰기 실패"
+
+msgid "file %s is truncated\n"
+msgstr "파일 %s 이 자르기됩니다.\n"
+
+msgid "file `%s' already exists and may be overwritten\n"
+msgstr "파일`%s'은 이미 존재합니다. 덧쓰기 될수 있습니다.\n"
+
+msgid "file too short"
+msgstr "파일이 너무 짧습니다."
+
+msgid "fstat failed"
+msgstr "fstat가 실패"
+
+msgid "garbage at end of character code specification"
+msgstr "문자코드지정 완료정보가 남아있습니다."
+
+msgid "garbage at end of number"
+msgstr "수자완료정보가 남아있습니다."
+
+msgid "generate call graph"
+msgstr "호출도표를 생성합니다."
+
+msgid "generate flat profile with counts and ticks"
+msgstr "계수 및 박자를 가진 완전한 리력을 생성합니다."
+
+msgid "get_myaddress: ioctl (get interface configuration)"
+msgstr "get_myaddress: ioctl (대면부의 설정을 얻습니다)"
+
+msgid "getent - get entries from administrative database."
+msgstr "getent -관리자료기지로부터 항목을 얻습니다."
+
+msgid "getgrouplist failed"
+msgstr "getgrouplist실패"
+
+msgid "handle_request: request received (Version = %d)"
+msgstr "handle_request: 요구가 지연되였습니다(판본 = %d)"
+
+msgid "hard link failed, symbolic link used"
+msgstr "장치련결이 실패, 기호련결을 사용합니다."
+
+msgid "hard linked somewhere"
+msgstr "하드련결되였습니다."
+
+msgid "hexadecimal range format should use only capital characters"
+msgstr "16진 범위형식은 영문 대문자만을 사용하여야 합니다."
+
+msgid "illegal CORRECTION field on Leap line"
+msgstr "Leap 행에 비법적인 CORRECTION 마당이 있습니다."
+
+msgid "illegal Rolling/Stationary field on Leap line"
+msgstr "Leap 행에 비법적인 Rolling/Stationary 마당이 있습니다."
+
+msgid "illegal character in file: "
+msgstr "파일안에 비법적인 문자가 있습니다: "
+
+msgid "illegal escape sequence at end of string"
+msgstr "문자렬의 마지막에 비법적인 탈출문자가 있습니다."
+
+msgid "illegal input sequence at position %Zd"
+msgstr "위치 %Zd에 비법적인 입력문자렬이 있습니다."
+
+msgid "illegal input sequence at position %ld"
+msgstr "위치 %ld 에 비법적인 입력문자렬이 있습니다."
+
+msgid "illegal nettype :`%s'\n"
+msgstr "비법적인 nettype입니다:`%s'\n"
+
+msgid "illegal set number"
+msgstr "비법적인 설정값입니다."
+
+msgid "implementation limit: no more than %Zd character classes allowed"
+msgstr "실현상의 제한: %Zd 이상의 문자클라스는 허용될수 없습니다."
+
+msgid "implementation limit: no more than %d character maps allowed"
+msgstr "실현상의 제한: %d 이상의 문자넘기기는 허용될수 없습니다."
+
+msgid "incomplete character or shift sequence at end of buffer"
+msgstr "완충기의 마지막에 불완전한 문자나 이동문자렬이 있습니다."
+
+msgid "incomplete set of locale files in \"%s\""
+msgstr "`%s'에서 국부파일의 비완전한 설정"
+
+msgid "input line of unknown type"
+msgstr "알수 없는 형식의 입력행입니다."
+
+msgid "internal error"
+msgstr "내부오유"
+
+msgid "internal error (illegal descriptor)"
+msgstr "내부오유 (비법적인 서술자)"
+
+msgid "internal error - addtype called with bad isdst"
+msgstr "내부오유 - 틀린 isdst와 함께 addtype 이 호출되였습니다. "
+
+msgid "internal error - addtype called with bad ttisgmt"
+msgstr "내부오유 - 틀린 ttisgmt 와 함께 addtype 가 호출되였습니다."
+
+msgid "internal error - addtype called with bad ttisstd"
+msgstr "내부오유 -  틀린 ttisstd 와 함께 addtype 가 호출되였습니다."
+
+msgid "internal error in %s, line %u"
+msgstr "%s의 %u행에서 내부오유"
+
+msgid "invalid ELF header"
+msgstr "무효한 ELF머리부화일"
+
+msgid "invalid UTC offset"
+msgstr "무효한 UTC편위주소"
+
+msgid "invalid abbreviation format"
+msgstr "무효한 간략서식"
+
+msgid "invalid character: message ignored"
+msgstr "무효한 문자: 통보문을 무시합니다."
+
+msgid "invalid day of month"
+msgstr "달의 무효한 날자"
+
+msgid "invalid definition"
+msgstr "무효한 정의"
+
+msgid "invalid encoding given"
+msgstr "주어진 부호화는 무효합니다."
+
+msgid "invalid ending year"
+msgstr "무효한 완료년"
+
+msgid "invalid escape sequence"
+msgstr "무효한 탈출문자"
+
+msgid "invalid leaping year"
+msgstr "정확치 않은 윤년입니다."
+
+msgid "invalid line"
+msgstr "무효한 행"
+
+msgid "invalid mode for dlopen()"
+msgstr " dlopen()에 대한 무효한 방식"
+
+msgid "invalid month name"
+msgstr "무효한 달이름"
+
+msgid "invalid names for character range"
+msgstr "문자범위에 대한 무효한 이름"
+
+msgid "invalid pointer size"
+msgstr "무효한 지적자크기"
+
+msgid "invalid quote character"
+msgstr "무효한 인용부호문자"
+
+msgid "invalid saved time"
+msgstr "부당한 보관시간"
+
+msgid "invalid starting year"
+msgstr "무효한 시작년"
+
+msgid "invalid time of day"
+msgstr "날의 무효한 시간"
+
+msgid "invalid weekday name"
+msgstr "무효한 요일이름"
+
+msgid "key length in request too long: %d"
+msgstr "요구된 건길이가 너무 깁니다: %d"
+
+msgid "libc4 library %s in wrong directory"
+msgstr "틀린 등록부에 있는 libc4서고 %s "
+
+msgid "libc5 library %s in wrong directory"
+msgstr "틀린 등록부에 있는 libc5서고 %s"
+
+msgid "libc6 library %s in wrong directory"
+msgstr "틀린 등록부에 있는 libc6서고 %s"
+
+msgid ""
+"libraries %s and %s in directory %s have same soname but different type."
+msgstr ""
+"등록부 %3$s 에 있는 서고 %1$s 와 %2$s 는 같은 soname을 가지지만 다른 형입니"
+"다."
+
+msgid "line too long"
+msgstr "행이 너무 깁니다."
+
+msgid "list all known coded character sets"
+msgstr "알려진 모든 코드화된 문자모임을 표시"
+
+msgid "locale \"%s\" not in archive"
+msgstr "지역정보 `%s'은 Archive에 없습니다."
+
+msgid "locale '%s' already exists"
+msgstr "지역정보 `%s'은 이미 존재합니다."
+
+msgid "locale alias file `%s' not found"
+msgstr "지역정보 별명파일 `%s`을 찾을수 없습니다."
+
+msgid "locale name should consist only of portable characters"
+msgstr "지역이름은 이식가능한(portable) 문자만으로 구성되여야 합니다."
+
+msgid "locale.alias file to consult when making archive"
+msgstr "압축파일을 언제 창조할가를 요구하는 local.alias파일"
+
+msgid "lstat failed"
+msgstr "lstat에 실패하였습니다."
+
+msgid "make output graphic VALUE pixel high"
+msgstr "출력그라픽스값의 화소를 높입니다."
+
+msgid "make output graphic VALUE pixel wide"
+msgstr "출력그라픽스값의 화소를 낮춥니다."
+
+msgid "makecontext: does not know how to handle more than 8 arguments\n"
+msgstr "makecontext: 8인수이상을 취급하는 방법은 알려져있지 않습니다.\n"
+
+msgid "malformed line ignored"
+msgstr "부당한 행을 무시하였습니다."
+
+msgid "mapping of section header string table failed"
+msgstr "분구머리부 문자렬표 사영이 실패하였습니다."
+
+msgid "mapping of section headers failed"
+msgstr "분구머리부의 사영이 실패하였습니다."
+
+msgid "memory clobbered before allocated block\n"
+msgstr "블로크를 할당하기전에 기억기를 리용하였습니다.\n"
+
+msgid "memory clobbered past end of allocated block\n"
+msgstr "할정된 블로크의 끝을 넘어서 기억기를 리용하였습니다.\n"
+
+msgid "memory exhausted"
+msgstr "기억기를 다 썼습니다."
+
+msgid "memory is consistent, library is buggy\n"
+msgstr "기억기는 일관하지만 서고가 오유입니다.\n"
+
+msgid "mmap of cache file failed.\n"
+msgstr "고속완충파일의 mmap가 실패하였습니다.\n"
+
+msgid "more than one dynamic segment\n"
+msgstr "여러개의 동적 토막\n"
+
+msgid "nameless rule"
+msgstr "이름없는 규칙"
+
+msgid "netname2user: (nis+ lookup): %s\n"
+msgstr "netname2user: (nis+ lookup): %s\n"
+
+msgid "netname2user: DES entry for %s in directory %s not unique"
+msgstr "netname2user: 등록부 %2$s의 %1$s에 대한 DES항목이 중복됩니다."
+
+msgid "netname2user: LOCAL entry for %s in directory %s not unique"
+msgstr "netname2user: 등록부 %2$s의 %1$s에 대한 LOCAL항목이 중복됩니다."
+
+msgid "netname2user: missing group id list in `%s'."
+msgstr "netname2user: `%s'에 그룹ID목록이 없습니다."
+
+msgid "netname2user: principal name `%s' too long"
+msgstr "netname2user: 주이름`%s'가 너무 깁니다."
+
+msgid "netname2user: should not have uid 0"
+msgstr "netname2user: uid 0을 사용하지 말아야 합니다."
+
+msgid "never registered prog %d\n"
+msgstr "프로그람 %d를 등록할수 없습니다.\n"
+
+msgid "no <Uxxxx> or <Uxxxxxxxx> value given"
+msgstr "<Uxxxx> 혹은 <Uxxxxxxxx>값이 주어지지 않았습니다."
+
+msgid "no day in month matches rule"
+msgstr "달의 날중에서 규칙과 일치하는것이 없습니다."
+
+msgid "no definition of `UNDEFINED'"
+msgstr "UNDEFINED는 정의되지 않았습니다."
+
+msgid ""
+"no filename for profiling data given and shared object `%s' has no soname"
+msgstr ""
+"주어진 자료를 보관하기위한 파일이름이 없거나 공유객체 `%s'가 서고이름이 없습"
+"니다."
+
+msgid "no input digits defined and none of the standard names in the charmap"
+msgstr "입력수자가 정의되지 않았고 문자표속에 표준이름이 없습니다."
+
+msgid "no other keyword shall be specified when `copy' is used"
+msgstr "`copy'을 사용할 때 다른 어떠한 실마리어도 지정되지 않았습니다."
+
+msgid "no output digits defined and none of the standard names in the charmap"
+msgstr "출력수자가 정의되지 않았고 문자표속에 표준이름이 없습니다."
+
+msgid "no output file produced because warning were issued"
+msgstr "경고가 생겼기때문에 출력파일이 만들어 지지 않았습니다."
+
+msgid "no symbolic name given"
+msgstr "기호이름이 주어지지 않았습니다"
+
+msgid "no symbolic name given for end of range"
+msgstr "령역의 끝에 기호이름이 주어지지 않았습니다"
+
+msgid "non-symbolic character value should not be used"
+msgstr "비기호문자값은 사용할수 없습니다."
+
+msgid "not all characters used in `outdigit' are available in the charmap"
+msgstr ""
+"문자표에서 리용가능한 `outdigit?'에는 모든 문자들이 사용되지 않았습니다."
+
+msgid "not all characters used in `outdigit' are available in the repertoire"
+msgstr ""
+"`outdigit'에서 사용하는 문자의 일부는 문자넘기기에서 유용하지 않습니다."
+
+msgid "not regular file"
+msgstr "정규파일이 아닙니다."
+
+msgid ""
+"nscd configuration:\n"
+"\n"
+"%15d  server debug level\n"
+msgstr ""
+"nscd 설정:\n"
+"\n"
+"%15d  봉사기 오유수정준위\n"
+
+msgid "nscd not running!\n"
+msgstr "nscd는 실행되지 않습니다!\n"
+
+msgid ""
+"number of bytes for byte sequence of beginning and end of range not the "
+"same: %d vs %d"
+msgstr "범위의 시작과 끝의 바이트렬에서 바이트수가 차이납니다:%d 대 %d"
+
+msgid "object file has no dynamic section"
+msgstr "객체파일은 동적토막을 가질수 없습니다."
+
+msgid "omit invalid characters from output"
+msgstr "출력으로부터 비법적인 문자를 무시합니다."
+
+msgid "only ET_DYN and ET_EXEC can be loaded"
+msgstr "ET_DYN 와 ET_EXEC 만이 넣어질수 있습니다."
+
+msgid "only WIDTH definitions are allowed to follow the CHARMAP definition"
+msgstr "WIDTH 정의는  CHARMAP 정의에 따른것만을 허락합니다."
+
+msgid "order for `%.*s' already defined at %s:%Zu"
+msgstr "`%.*s'에 대한 지령은 %s:%Zu 에서 이미 정의되였습니다."
+
+msgid "out of memory"
+msgstr "기억기넘침"
+
+msgid "output file"
+msgstr "출력파일"
+
+msgid "parameter null or not set"
+msgstr "파라메터가 NULL이거나 설정되지 않았습니다."
+
+msgid "pmap_getmaps rpc problem"
+msgstr "pmap_getmaps rpc가 문제입니다."
+
+msgid "poll: protocol failure in circuit setup\n"
+msgstr "poll: 회선의 설정에서 규약이 실패하였습니다.\n"
+
+msgid "premature end of `translit_ignore' definition"
+msgstr "`translit_ignore'정의의 마지막이 너무 이릅니다"
+
+msgid "preprocessor error"
+msgstr "전처리기 오유"
+
+msgid "previous definition was here"
+msgstr "그전에 정의되여 있습니다."
+
+msgid "print list of count paths and their number of use"
+msgstr "계수한 경로와 그 사용수의 목록을 표시"
+
+msgid "print progress information"
+msgstr "처리정보의 표시"
+
+msgid "profiling data file `%s' does not match shared object `%s'"
+msgstr "리력자료파일`%s'은 공유객체`%s'과 일치하지 않습니다."
+
+msgid "program %lu is not available\n"
+msgstr "프로그람%lu은 리용할수 없습니다.\n"
+
+msgid "program %lu version %lu is not available\n"
+msgstr "프로그람%lu판번호%lu는 리용할수 없습니다.\n"
+
+msgid "program %lu version %lu ready and waiting\n"
+msgstr "프로그람 %lu 판번호 %lu 의 준비가 완료될때까지 기다리는 중입니다.\n"
+
+msgid "rcmd: %s: short read"
+msgstr "rcmd: %s: 간단한 읽어들이기"
+
+msgid "rcmd: Cannot allocate memory\n"
+msgstr "rcmd: 기억기를 활당할수 없습니다.\n"
+
+msgid "rcmd: poll (setting up stderr): %m\n"
+msgstr "rcmd: poll (stderr 를 설정하는 중입니다): %m\n"
+
+msgid "rcmd: socket: All ports in use\n"
+msgstr "rcmd: socket: 전체 포구가 사용중입니다.\n"
+
+msgid "rcmd: write (setting up stderr): %m\n"
+msgstr "rcmd: write (stderr 를 설정하는 중입니다): %m\n"
+
+msgid "registerrpc: out of memory\n"
+msgstr "registerrpc: 기억기가 부족합니다.\n"
+
+msgid "relative path `%s' used to build cache"
+msgstr "고속완충기억을 만드는데 리용된  `%s'의 상대경로 "
+
+msgid "relocation error"
+msgstr "재배치 오유"
+
+msgid "repeated leap second moment"
+msgstr "반복도약순간"
+
+msgid "repertoire map file `%s' not found"
+msgstr "능력범위사영 파일`%s'이 없음"
+
+msgid "resulting bytes for range not representable."
+msgstr "표시할수 없는 범위에 대한 결과바이트"
+
+msgid "rpcgen: arglist coding error\n"
+msgstr "rpcgen: 인수목록 코드오유\n"
+
+msgid "rpcgen: too many defines\n"
+msgstr "rpcgen: 대부분의 정의\n"
+
+msgid "rpcinfo: %s is unknown host\n"
+msgstr "rpcinfo: %s는 알수 없는 호스트입니다.\n"
+
+msgid "rpcinfo: %s is unknown service\n"
+msgstr "rpcinfo: %s는 알수 없는 봉사입니다.\n"
+
+msgid "rpcinfo: Could not delete registration for prog %s version %s\n"
+msgstr "rpcinfo: 프로그람%s판번호%s에로의 등록을 삭제할수 없습니다.\n"
+
+msgid "rpcinfo: broadcast failed: %s\n"
+msgstr "rpcinfo: 방송이 실패하였습니다: %s\n"
+
+msgid "rpcinfo: can't contact portmapper"
+msgstr "rpcinfo: 포구배렬기와 접속할수 없습니다."
+
+msgid "same rule name in multiple files"
+msgstr "여러개의 파일에 동일한 규칙이름이 있습니다."
+
+msgid "setgroups failed"
+msgstr "그룹설정 실패"
+
+msgid "shared object cannot be dlopen()ed"
+msgstr "공유객체는 dlopen() 할수 없습니다."
+
+msgid "shared object cannot be dlopen()ed: static TLS memory too small"
+msgstr "공유객체를 dlopen() 할수 없습니다: 정적 TLS기억기가 너무 작습니다."
+
+msgid "shared object not open"
+msgstr "공유대상이 열리지 않습니다."
+
+msgid "short read while reading request key: %s"
+msgstr "정의된 건: %s 을 읽어들이기가 간단합니다."
+
+msgid "short read while reading request: %s"
+msgstr "요구: %s 를 간단히 읽어들입니다."
+
+msgid "short write in %s: %s"
+msgstr "%s 에서 간단한 쓰기: %s"
+
+msgid "socket: protocol failure in circuit setup\n"
+msgstr "socket: 회선의 설정중에 규약이 실패하였습니다.\n"
+
+msgid "standard input"
+msgstr "표준입력"
+
+msgid "start and end character sequence of range must have the same length"
+msgstr "범위안의 시작 및 완료문자렬은 같은 길이여야 합니다."
+
+msgid "starting year greater than ending year"
+msgstr "시작년도가 완료년도보다 커졌습니다."
+
+msgid "starting year too high to be represented"
+msgstr "시작년도값이 크기때문에 표시될수 없습니다."
+
+msgid "starting year too low to be represented"
+msgstr "시작년도값이 작기때문에 표시할수 없습니다."
+
+msgid "stat of \"%s\" failed: %s: ignored"
+msgstr "`%s'의 stat실패: %s 무시합니다."
+
+msgid "suppress warnings"
+msgstr "경고 지원"
+
+msgid "svc_run: - poll failed"
+msgstr "svc_run: - poll이 실패하였습니다."
+
+msgid "svc_tcp.c - cannot getsockname or listen"
+msgstr "svc_tcp.c - getsockname 혹은 listen할수 없습니다."
+
+msgid "svc_tcp.c - tcp socket creation problem"
+msgstr "svc_tcp.c - tcp소케트작성에 문제가 있습니다."
+
+msgid "svc_tcp: makefd_xprt: out of memory\n"
+msgstr "svc_tcp: makefd_xprt: 기억기가 부족합니다\n"
+
+msgid "svc_unix.c - AF_UNIX socket creation problem"
+msgstr "svc_unix.c - AF_UNIX소케트창조에 문제가 있습니다."
+
+msgid "svc_unix.c - cannot getsockname or listen"
+msgstr "svc_unix.c - getsockname 혹은 listen할수 없습니다."
+
+msgid "svc_unix: makefd_xprt: out of memory\n"
+msgstr "svc_unix: makefd_xprt: 기억기가 부족합니다\n"
+
+msgid "svctcp_create: out of memory\n"
+msgstr "svctcp_create: 기억기가 부족합니다.\n"
+
+msgid "svcudp_create - cannot getsockname"
+msgstr "svcudp_create - getsockname할수 없습니다"
+
+msgid "svcudp_create: out of memory\n"
+msgstr "svcudp_create: 기억기가 부족합니다.\n"
+
+msgid "svcudp_create: socket creation problem"
+msgstr "svcudp_create: 소케트 작성에 문제가 있습니다."
+
+msgid "svcudp_create: xp_pad is too small for IP_PKTINFO\n"
+msgstr "svcudp_create: xp_pad는 IP_PKTINFO에 비하여 작습니다.\n"
+
+msgid "svcunix_create: out of memory\n"
+msgstr "svcunix_create: 기억기가 부족합니다.\n"
+
+msgid "symbol `%.*s' not in charmap"
+msgstr "문자표에 알수 없는 기호`%.*s'가 있습니다."
+
+msgid "symbol `%.*s' not in repertoire map"
+msgstr "기호`%.*s' 가 목록사영에 없습니다"
+
+msgid "symbol `%s'"
+msgstr "기호`%s'"
+
+msgid "symbol `%s' has the same encoding as"
+msgstr "기호`%s'는 아래와 같은 부호화를 가지고 있습니다."
+
+msgid "symbol `%s' not defined"
+msgstr "기호`%s'이 정의되여 있지 않습니다."
+
+msgid "syntax error"
+msgstr "구문론오유"
+
+msgid "syntax error in %s definition: %s"
+msgstr "%s의 정의에서 문법오유: %s"
+
+msgid "syntax error in prolog: %s"
+msgstr "prolog 에서 구문론오유: %s"
+
+msgid "syntax error in repertoire map definition: %s"
+msgstr "목록사영의 정의에서 구문론오유: %s"
+
+msgid "syntax error: not inside a locale definition section"
+msgstr "구문론오유: 지역정의 토막내부가 아닙니다."
+
+msgid "this is the first definition"
+msgstr "이것은 초기 정의입니다."
+
+msgid "time before zero"
+msgstr "령전의 시간"
+
+msgid "time overflow"
+msgstr "시간 넘침"
+
+msgid "time too small"
+msgstr "아주 작은 시간"
+
+msgid "to-value <U%0*X> of range is smaller than from-value <U%0*X>"
+msgstr "범위안의 to값 `U%0*X'은 양식값 `U%0*X' 보다도 작습니다."
+
+msgid "to-value character sequence is smaller than from-value sequence"
+msgstr "to값 문자렬은 양식값 문자렬보다도 작습니다"
+
+msgid "too few bytes in character encoding"
+msgstr "바이트수가 너무 적어서 문자부호화에 적합치 않습니다."
+
+msgid "too many bytes in character encoding"
+msgstr "바이트수가 너무 커서 문자부호화에 적합하지 않습니다."
+
+msgid "too many errors; giving up"
+msgstr "주어진자료에서 오유가 너무 많습니다."
+
+msgid "too many leap seconds"
+msgstr "도약순간이 대부분입니다."
+
+msgid "too many local time types"
+msgstr "국부시간형식이 대부분입니다."
+
+msgid "too many transitions?!"
+msgstr "이행이 대부분입니까?!"
+
+msgid "too many, or too long, time zone abbreviations"
+msgstr "시간대 간략기호가 너무 많든가 혹은 너무 깁니다."
+
+msgid "trailing garbage at end of line"
+msgstr "행끝기호가 남아있습니다."
+
+msgid "trouble replying to prog %d\n"
+msgstr "프로그람` %d '에로 응답할 때 문제가 발생하였습니다.\n"
+
+msgid "typed single year"
+msgstr "형태화된 단일년도"
+
+msgid "unable to allocate buffer for input"
+msgstr "입력용 완충기를 할당할수 없습니다."
+
+msgid "unable to free arguments"
+msgstr "인수를 해방할수 없습니다."
+
+msgid "undefined"
+msgstr "정의미정"
+
+msgid "unknown"
+msgstr "알수 없음"
+
+msgid "unknown character `%s'"
+msgstr "알수 없는 문자`%s'"
+
+msgid "unknown directive `%s': line ignored"
+msgstr "알수 없는 지시자`%s'가 있습니다: 이 행은 무시됩니다."
+
+msgid "unknown iconv() error %d"
+msgstr "알수 없는 iconv() 오유 %d"
+
+msgid "unknown set `%s'"
+msgstr "알수 없는 설정`%s'입니다."
+
+msgid "unknown specification \"%s\""
+msgstr "알수 없는 명세 `%s' 입니다."
+
+msgid "unruly zone"
+msgstr "조종할수 없는 지역"
+
+msgid "unterminated message"
+msgstr "통보문을 완료할수 없습니다."
+
+msgid "unterminated string"
+msgstr "문자렬을 완료할수 없습니다."
+
+msgid "unterminated string constant"
+msgstr "종단되지 않은 문자렬상수."
+
+msgid "unterminated symbolic name"
+msgstr "기호이름을 완료할수 없습니다."
+
+msgid "upper limit in range is not higher then lower limit"
+msgstr "범위안의 웃 한계가 아래한계보다 작습니다."
+
+msgid "upper limit in range is not smaller then lower limit"
+msgstr "범위안의 웃자리는 아래자리보다 작지 말아야 합니다."
+
+msgid "usage: %s infile\n"
+msgstr "사용법: %s 입력파일\n"
+
+msgid "use of 2/29 in non leap-year"
+msgstr "도약년도가 아닌데서 2/29의 사용"
+
+msgid "value for %s must be an integer"
+msgstr "`%s'값은 옹근수가 되여야 합니다."
+
+msgid "value for <%s> must be 1 or greater"
+msgstr "`%s'값은 1이상이 되여야 합니다."
+
+msgid "value of <%s> must be greater or equal than the value of <%s>"
+msgstr "`%s'값은`%s'의 값이상이여야 합니다."
+
+msgid "warning: "
+msgstr "경고: "
+
+msgid "while accepting connection: %s"
+msgstr "접속을 받아들이는 중: %s"
+
+msgid "while allocating cache entry"
+msgstr "고속완충기마당 할당중"
+
+msgid "while allocating cache: %s"
+msgstr "고속완충기 할당중: %s"
+
+msgid "while allocating hash table entry"
+msgstr "해쉬표마당 할당중"
+
+msgid "while allocating key copy"
+msgstr "건 복사 할당중"
+
+msgid "while inserting in search tree"
+msgstr "탐색나무에로의 삽입중입니다."
+
+msgid "while opening old catalog file"
+msgstr "낡은 일람표파일 열기중"
+
+msgid "while preparing output"
+msgstr "전처리출력중"
+
+msgid "while stat'ing profiling data file"
+msgstr "리력자료파일 쓰기중"
+
+msgid ""
+"with UCS range values one must use the hexadecimal symbolic ellipsis `..'"
+msgstr "UCS 값 범위에서는 16진 기호생략`..'을 사용하여야 합니다."
+
+msgid ""
+"with character code range values one must use the absolute ellipsis `...'"
+msgstr "문자코드값 범위로서 생략기호`...'를 사용하여야 합니다."
+
+msgid ""
+"with symbolic name range values the absolute ellipsis `...' must not be used"
+msgstr "기호이름값 범위에서 생략기호`...'를 사용하지 않습니다."
+
+msgid "write incomplete"
+msgstr "쓰기가 불완전합니다."
+
+msgid "writeable by other than owner"
+msgstr "소유자이외의 쓰기가 가능합니다."
+
+msgid "wrong number of arguments"
+msgstr "인수값이 틀립니다."
+
+msgid "wrong number of fields on Leap line"
+msgstr "Leap행 마당수가 틀립니다."
+
+msgid "wrong number of fields on Link line"
+msgstr "Link행 마당수가 틀립니다."
+
+msgid "wrong number of fields on Rule line"
+msgstr "Rule행 마당수가 틀립니다."
+
+msgid "wrong number of fields on Zone continuation line"
+msgstr "Zone continuation행 마당수가 틀립니다."
+
+msgid "wrong number of fields on Zone line"
+msgstr "Zone행 마당수가 틀립니다."
+
+msgid "xdr_array: out of memory\n"
+msgstr "xdr_array: 기억기가 부족합니다.\n"
+
+msgid "xdr_bytes: out of memory\n"
+msgstr "xdr_bytes: 기억기가 부족합니다\n"
+
+msgid "xdr_reference: out of memory\n"
+msgstr "xdr_reference: 기억기가 부족합니다\n"
+
+msgid "xdr_string: out of memory\n"
+msgstr "xdr_string: 기억기가 부족합니다\n"
+
+msgid "xdrrec_create: out of memory\n"
+msgstr "xdrrec_create: 기억기가 부족합니다\n"
+
+msgid "yp_update: cannot convert host to netname\n"
+msgstr "yp_update: 호스트를 망이름으로 변환할수 없습니다.\n"
+
+msgid "yp_update: cannot get server address\n"
+msgstr "yp_update: 봉사기주소를 얻을수 없습니다.\n"

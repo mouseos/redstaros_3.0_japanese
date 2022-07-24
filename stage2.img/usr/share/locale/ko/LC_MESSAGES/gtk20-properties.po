@@ -1,0 +1,3799 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+-properrties 2.3.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-13 11:01-0500\n"
+"PO-Revision-Date: 2006-01-28 03:18+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "A GdkImage to display"
+msgstr "표시할 GdkImage"
+
+msgid "A GdkPixbuf to display"
+msgstr "표시할 GdkPixbuf"
+
+msgid "A GdkPixmap to display"
+msgstr "표시할 GdkPixmap"
+
+msgid ""
+"A GtkPackType indicating whether the child is packed with reference to the "
+"start or end of the parent"
+msgstr ""
+"자식 창문부분품을 부모 창문부분품의 시작이나 끝을 기준으로 묶을것인가를 나타"
+"내는 GtkPackType"
+
+msgid "A boolean that determines whether the menu grabs the keyboard focus"
+msgstr "차림표가 건반입력을 받는가를 결정하는 론리값"
+
+msgid "A boolean that indicates whether the menu is torn-off"
+msgstr "차림표를 떼여냈는가를 나타내는 론리값"
+
+msgid "A column in the data source model to get the strings from"
+msgstr "자료원천모형에서 문자렬을 가져올때 쓰이는 렬"
+
+msgid "A list of style attributes to apply to the text of the label"
+msgstr "표식자의 본문에 적용할 류형특성의 목록"
+
+msgid "A list of style attributes to apply to the text of the renderer"
+msgstr "표시기의 본문에 적용할 류형특성의 목록"
+
+msgid ""
+"A logo for the about box. If this is not set, it defaults to "
+"gtk_window_get_default_icon_list()"
+msgstr ""
+"정보대화창문의 상표. 설정하지 않으면 기정값은 "
+"gtk_window_get_default_icon_list()입니다"
+
+msgid "A name for the action group."
+msgstr "이 동작 집단의 이름"
+
+msgid "A named icon to use as the logo for the about box."
+msgstr "정보대화창문의 상표에 사용할 이름있는 그림기호"
+
+msgid ""
+"A number between 0.0 and 1.0 specifying the horizontal alignment of the text "
+"in the progress widget"
+msgstr "진척 창문부분품에서 본문의 가로맞춤을 지정하는 0.0과 1.0 사이의 수"
+
+msgid ""
+"A number between 0.0 and 1.0 specifying the vertical alignment of the text "
+"in the progress widget"
+msgstr "진척 창문부분품에서 본문의 세로맞춤을 지정하는 0.0과 1.0 사이의 수"
+
+msgid "A pointer to the pixel data of the pixbuf"
+msgstr "pixbuf에서 화소자료를 가리키는 지시자"
+
+msgid "A shorter label that may be used on toolbar buttons."
+msgstr "도구띠단추에 사용할 짧은 표식자"
+
+msgid ""
+"A string with _ characters in positions correspond to characters in the text "
+"to underline"
+msgstr "밑줄을 칠 위치앞에 _ 문자가 들어있는 문자렬"
+
+msgid ""
+"A title that may be displayed by the window manager when this menu is torn-"
+"off"
+msgstr "이 차림표를 떼여냈을때 창문관리자에 의해 표시될 제목"
+
+msgid "A tooltip for this action."
+msgstr "이 동작에 대한 설명"
+
+msgid "A unique name for the action."
+msgstr "이 동작에 대한 고유한 이름"
+
+msgid "A widget to display in place of the usual expander label"
+msgstr "일반적인 확장단추표식자 대신 표시할 창문부분품"
+
+msgid "A widget to display in place of the usual frame label"
+msgstr "일반적인 틀표식자 대신 표시할 창문부분품"
+
+msgid "Above child"
+msgstr "자식 창문부분품의 꼭대기"
+
+msgid "Accelerator Closure"
+msgstr "단축건 범위"
+
+msgid "Accelerator Widget"
+msgstr "단축건 창문부분품"
+
+msgid "Accept focus"
+msgstr "초점 받기"
+
+msgid "Accepts tab"
+msgstr "타브 입력"
+
+msgid "Action"
+msgstr "동작"
+
+msgid "Action Group"
+msgstr "동작그룹"
+
+msgid "Action area border"
+msgstr "동작령역 테두리"
+
+msgid "Activatable"
+msgstr "활성화 가능"
+
+msgid "Activates default"
+msgstr "기본 활성화"
+
+msgid "Active"
+msgstr "활성"
+
+msgid "Active item"
+msgstr "활성항목"
+
+msgid "Activity Blocks"
+msgstr "활성화블로크"
+
+msgid "Activity Step"
+msgstr "활성화단계"
+
+msgid "Activity mode"
+msgstr "활동방식"
+
+msgid "Add tearoffs to menus"
+msgstr "차림표에 떼여내기를 추가"
+
+msgid "Adjustment"
+msgstr "조정"
+
+msgid "Alignment"
+msgstr "맞춤"
+
+msgid "Allow Grow"
+msgstr "확대 허용"
+
+msgid "Allow Rules"
+msgstr "자 허용"
+
+msgid "Allow Shrink"
+msgstr "축소 허용"
+
+msgid "Allow drawing of alternating color rows"
+msgstr "엇갈리는 색의 렬을 그리도록 허용"
+
+msgid "Allow empty"
+msgstr "비워두기 허용"
+
+msgid "Alternative button order"
+msgstr "다른 단추 주문"
+
+msgid "Always enable arrows"
+msgstr "항상 화살건 사용"
+
+msgid "Amount of border space between the menubar shadow and the menu items"
+msgstr "차림표띠 그림자와 차림표항목 사이의 테두리 여백 크기"
+
+msgid "Amount of border space between the toolbar shadow and the buttons"
+msgstr "도구띠 그림자와 단추 사이의 테두리 여백 크기"
+
+msgid "Amount to increase child's size on either side"
+msgstr "량끝에서 자식 창문부품의 크기를 증가시킬 량"
+
+msgid "Amount to increase child's size on the top and bottom"
+msgstr "웃쪽과 아래쪽에서 자식 창문부품의 크기를 증가시킬 량"
+
+msgid "Amount to indent the paragraph, in pixels"
+msgstr "문장을 들여쓰기할 크기(화소단위)"
+
+msgid "An XML string describing the merged UI"
+msgstr "병합된 UI를 나타내는 XML 문자렬"
+
+msgid "Angle"
+msgstr "각도"
+
+msgid "Angle at which the label is rotated"
+msgstr "표식자를 회전할 각도"
+
+msgid "Animation"
+msgstr "동화상"
+
+msgid "Appearance of the frame border"
+msgstr "틀 테두리의 모양"
+
+msgid "Appearance of the shadow surrounding the arrow"
+msgstr "화살표 주위의 그림자 모양"
+
+msgid "Appearance of the shadow that surrounds the container"
+msgstr "용기를 둘러싼 그림자 모양"
+
+msgid "Appears as list"
+msgstr "목록으로 표시"
+
+msgid "Application paintable"
+msgstr "응용프로그람 그리기 가능"
+
+msgid "Application supplied widget for custom previews."
+msgstr "프로그람 전용의 미리보기를 위해 응용프로그람에서 제공한 창문부품"
+
+msgid "Application supplied widget for extra options."
+msgstr "추가적인 기능을 위해 응용프로그람에서 만든 창문부품"
+
+msgid "Arrow X Displacement"
+msgstr "화살표 가로 움직임"
+
+msgid "Arrow Y Displacement"
+msgstr "화살표 세로 움직임"
+
+msgid "Arrow direction"
+msgstr "화살표 방향"
+
+msgid "Arrow shadow"
+msgstr "화살표 그림자"
+
+msgid "Artists"
+msgstr "제작자"
+
+msgid "Aspect ratio if obey_child is FALSE"
+msgstr "obey_child가 FALSE일때 가로세로비"
+
+msgid "Aspect ratio with which to draw insertion cursor"
+msgstr "삽입유표를 그릴때 사용할 가로세로비"
+
+msgid "Attributes"
+msgstr "특성"
+
+msgid "Authors"
+msgstr "개발자"
+
+msgid "Background color"
+msgstr "배경색"
+
+msgid "Background color as a (possibly unallocated) GdkColor"
+msgstr "배경색을 표시하는 GdkColor 형식의 문자렬(해제했을수도 있음)"
+
+msgid "Background color as a GdkColor"
+msgstr "배경색 GdkColor"
+
+msgid "Background color as a string"
+msgstr "배경색 문자렬"
+
+msgid "Background color name"
+msgstr "배경색 이름"
+
+msgid "Background full height"
+msgstr "배경색 전체높이"
+
+msgid "Background full height set"
+msgstr "배경 전체높이 설정"
+
+msgid "Background set"
+msgstr "배경색 설정"
+
+msgid "Background stipple mask"
+msgstr "배경 점선 마스크"
+
+msgid "Background stipple set"
+msgstr "배경 점선 설정"
+
+msgid "Backward stepper"
+msgstr "뒤로 가기 단추"
+
+msgid "Bar style"
+msgstr "막대 종류"
+
+msgid "Bitmap to use as a mask when drawing the text background"
+msgstr "본문의 배경을 그릴때 마스크로 사용할 비트도"
+
+msgid "Bitmap to use as a mask when drawing the text foreground"
+msgstr "본문 글자를 그릴때 마스크로 사용할 비트도"
+
+msgid "Bits per Sample"
+msgstr "본보기당 비트수"
+
+msgid "Border relief"
+msgstr "테두리 강조"
+
+msgid "Border width"
+msgstr "테두리 두께"
+
+msgid "Bottom Attach"
+msgstr "아래쪽 붙임"
+
+msgid "Bottom Padding"
+msgstr "아래여백"
+
+msgid "Bottom attachment"
+msgstr "아래쪽 붙임"
+
+msgid "Buffer"
+msgstr "완충기"
+
+msgid "Button relief"
+msgstr "단추 강조"
+
+msgid "Button spacing"
+msgstr "단추 간격"
+
+msgid "Can be used to add a new child to the container"
+msgstr "용기에 새로운 자식 창문부품을 더하는데 리용 가능"
+
+msgid "Can change accelerators"
+msgstr "단축건 바꾸기 가능"
+
+msgid "Can default"
+msgstr "기정 가능"
+
+msgid "Can focus"
+msgstr "입력 가능"
+
+msgid "Case sensitive"
+msgstr "대소문자 구분"
+
+msgid "Cell background color"
+msgstr "칸 배경색"
+
+msgid "Cell background color as a GdkColor"
+msgstr "칸 배경색 GdkColor"
+
+msgid "Cell background color as a string"
+msgstr "칸 배경색 문자렬"
+
+msgid "Cell background color name"
+msgstr "칸 배경색 이름"
+
+msgid "Cell background set"
+msgstr "칸 배경 설정"
+
+msgid "Child"
+msgstr "자식 창문부품"
+
+msgid "Child Pack direction"
+msgstr "자식 창문부품 모으기 방향"
+
+msgid "Child X Displacement"
+msgstr "자식 창문부품 가로움직임"
+
+msgid "Child Y Displacement"
+msgstr "자식 창문부품 세로움직임"
+
+msgid "Child internal height padding"
+msgstr "자식 창문부품 내부높이 여백"
+
+msgid "Child internal width padding"
+msgstr "자식 창문부품 내부너비 여백"
+
+msgid "Child widget to appear next to the button text"
+msgstr "단추본문의 옆에 나타날 자식 창문부품"
+
+msgid "Child widget to appear next to the menu text"
+msgstr "차림표 본문의 옆에 나타날 자식 창문부품"
+
+msgid "Clickable"
+msgstr "누르기가능"
+
+msgid "Climb Rate"
+msgstr "가속도"
+
+msgid "Color of hyperlinks"
+msgstr "초련결의 색"
+
+msgid "Color of the selection box"
+msgstr "선택칸의 색"
+
+msgid "Color to use for even rows"
+msgstr "짝수렬에 사용할 색"
+
+msgid "Color to use for odd rows"
+msgstr "홀수렬에 사용할 색"
+
+msgid "Color with which to draw error-indication underlines"
+msgstr "오유를 나타내는 밑줄을 그릴때 사용할 색"
+
+msgid "Color with which to draw insertion cursor"
+msgstr "삽입유표를 그릴때 사용할 색"
+
+msgid ""
+"Color with which to draw the secondary insertion cursor when editing mixed "
+"right-to-left and left-to-right text"
+msgstr ""
+"오른쪽에서 왼쪽으로 쓰는 본문과 왼쪽에서 오른쪽으로 쓰는 본문이 섞인본문을 편"
+"집하는 경우 보조삽입유표를 그릴때 쓰는 색"
+
+msgid "Colorspace"
+msgstr "색공간"
+
+msgid "Column Spacing"
+msgstr "렬간격"
+
+msgid "Column gets share of extra width allocated to the widget"
+msgstr "창문부품에 추가로 너비를 할당하면 각 렬도 그에 따라 늘어납니다"
+
+msgid "Column headers respond to click events"
+msgstr "렬 머리부가 누르기사건에 반응하기"
+
+msgid "Column is user-resizable"
+msgstr "사용자가 렬의 크기를 조정 가능"
+
+msgid "Column spacing"
+msgstr "렬간격"
+
+msgid "Column span column"
+msgstr "렬범위 렬"
+
+msgid "Columns"
+msgstr "렬"
+
+msgid "ComboBox model"
+msgstr "ComboBox 모형"
+
+msgid "Comments about the program"
+msgstr "프로그람에 대한 주해"
+
+msgid "Comments string"
+msgstr "설명문자렬"
+
+msgid "Completion Model"
+msgstr "완성모형"
+
+msgid "Composite child"
+msgstr "자식 창문부품 혼합"
+
+msgid "Content area border"
+msgstr "내용령역 테두리"
+
+msgid "Copyright information for the program"
+msgstr "프로그람의 저작권정보"
+
+msgid "Copyright string"
+msgstr "저작권 문자렬"
+
+msgid "Create the same proxies as a radio action"
+msgstr "같은 대리체를 라지오동작으로 만들기"
+
+msgid ""
+"Credits to the translators. This string should be marked as translatable"
+msgstr "번역자. 이 문자렬은 번역가능하도록 표시해야 합니다."
+
+msgid "Current Alpha"
+msgstr "현재 투명값"
+
+msgid "Current Color"
+msgstr "현재 색"
+
+msgid "Current fixed width of the column"
+msgstr "렬의 현재 고정너비"
+
+msgid "Current text of the buffer"
+msgstr "완충기의 현재 본문"
+
+msgid "Current width of the column"
+msgstr "렬의 현재 너비"
+
+msgid "Cursor Blink"
+msgstr "유표 깜빡이기"
+
+msgid "Cursor Blink Time"
+msgstr "유표 깜박임 시간"
+
+msgid "Cursor Position"
+msgstr "유표 위치"
+
+msgid "Cursor Visible"
+msgstr "유표 보여주기"
+
+msgid "Cursor color"
+msgstr "유표 색"
+
+msgid "Cursor line aspect ratio"
+msgstr "유표 선 가로세로비"
+
+msgid "Cursor theme name"
+msgstr "유표 주제 이름"
+
+msgid "Cursor theme size"
+msgstr "유표 주제 크기"
+
+msgid "Curve type"
+msgstr "곡선 형"
+
+msgid "Custom palette"
+msgstr "사용자 색상표"
+
+msgid "Custom tabs for this text"
+msgstr "이 본문에 쓸 사용자 정의 타브"
+
+msgid "Dash pattern used to draw the focus indicator"
+msgstr "초점표시기를 그릴때 사용할 점선류형"
+
+msgid "Day"
+msgstr "일"
+
+msgid "Decorated"
+msgstr "꾸밈"
+
+msgid "Default Display"
+msgstr "표준 영상표시"
+
+msgid "Default Height"
+msgstr "표준 높이"
+
+msgid "Default Outside Spacing"
+msgstr "표준 외부간격"
+
+msgid "Default Spacing"
+msgstr "기정 간격"
+
+msgid "Default Width"
+msgstr "기정 너비"
+
+msgid "Default file chooser backend"
+msgstr "기정 파일 선택창 뒤부분"
+
+msgid "Delay before drop down menus appear"
+msgstr "차림표를 표시하기전까지의 지연시간"
+
+msgid "Delay before hiding a submenu"
+msgstr "보조차림표를 감추기전까지의 지연시간"
+
+msgid "Delay before submenus appear"
+msgstr "보조차림표가 보이기전까지의 지연시간"
+
+msgid "Delay before the submenus of a menu bar appear"
+msgstr "차림띠의 보조차림표를 표시하기전까지의 지연시간"
+
+msgid "Deprecated property, use shadow_type instead"
+msgstr "낡아서 추천하지 않는 등록정보입니다. 대신 shadow_type를 사용하십시오."
+
+msgid "Destroy with Parent"
+msgstr "부모창문부품과 함께 파괴"
+
+msgid "Detail"
+msgstr "상세한 내용"
+
+msgid "Determines how the shadowed box around the viewport is drawn"
+msgstr "보이점 주위의 그림자칸을 그리는 방법을 결정"
+
+msgid "Dialog"
+msgstr "대화창문"
+
+msgid "Digits"
+msgstr "수자 개수"
+
+msgid "Discrete Blocks"
+msgstr "개별 블로크"
+
+msgid "Displace focus"
+msgstr "입력위치 이동"
+
+msgid ""
+"Display a second backward arrow button on the opposite end of the scrollbar"
+msgstr "흘림띠의 반대쪽 끝에 뒤로가기 화살단추를 추가로 표시합니다"
+
+msgid ""
+"Display a second backward arrow button on the opposite end of the tab area"
+msgstr "타브부분의 반대쪽 끝에 뒤로가기 화살단추를 추가로 표시합니다"
+
+msgid ""
+"Display a second forward arrow button on the opposite end of the tab area"
+msgstr "타브부분의 반대쪽 끝에 앞으로가기 화살단추를 추가로 표시합니다"
+
+msgid ""
+"Display a secondary forward arrow button on the opposite end of the scrollbar"
+msgstr "흘림띠의 반대쪽 끝에 앞으로가기 화살단추를 추가로 표시합니다"
+
+msgid "Display the cell"
+msgstr "칸 표시하기"
+
+msgid "Display the cell sensitive"
+msgstr "칸을 반응가능하도록 표시"
+
+msgid "Display the standard backward arrow button"
+msgstr "기본적인 뒤로가기 화살단추를 표시합니다"
+
+msgid "Display the standard forward arrow button"
+msgstr "기본적인 앞으로가기 화살단추를 표시합니다"
+
+msgid "Do overwrite confirmation"
+msgstr "덧쓰기 확인"
+
+msgid "Documenters"
+msgstr "문서작성자"
+
+msgid "Don't change slider size, just lock it to the minimum length"
+msgstr "미끄럼대의 크기를 바꾸지 않고 최소크기로 고정시켜 놓습니다"
+
+msgid "Double Click Distance"
+msgstr "두번 누르기거리"
+
+msgid "Double Click Time"
+msgstr "두번 누르기시간"
+
+msgid "Drag threshold"
+msgstr "끌어놓기 턱값"
+
+msgid "Draw"
+msgstr "그리기"
+
+msgid "Draw Border"
+msgstr "테두리 그리기"
+
+msgid "Draw Indicator"
+msgstr "표시기 그리기"
+
+msgid "Draw Value"
+msgstr "값 그리기"
+
+msgid "Draw as radio menu item"
+msgstr "라지오 차림표항목으로 그리기"
+
+msgid "Draw the toggle button as a radio button"
+msgstr "절환단추를 라지오단추로 그림"
+
+msgid "Editability set"
+msgstr "편집가능 설정"
+
+msgid "Editable"
+msgstr "편집가능"
+
+msgid "Editable mode of the CellRenderer"
+msgstr "CellRenderer의 편집가능방식"
+
+msgid "Ellipsize"
+msgstr "줄임표"
+
+msgid "Ellipsize set"
+msgstr "줄임표 설정"
+
+msgid "Enable Popup"
+msgstr "튀여나오기 가능"
+
+msgid "Enable Search"
+msgstr "찾기 사용"
+
+msgid "Enable arrow keys"
+msgstr "화살건 사용"
+
+msgid "Error underline color"
+msgstr "오유밑줄의 색"
+
+msgid "Even Row Color"
+msgstr "짝수렬 색"
+
+msgid "Events"
+msgstr "사건"
+
+msgid "Expand"
+msgstr "확장"
+
+msgid "Expanded"
+msgstr "확장됨"
+
+msgid "Expander Column"
+msgstr "확장렬"
+
+msgid "Expander Size"
+msgstr "확장단추 크기"
+
+msgid "Extension events"
+msgstr "확장사건"
+
+msgid "Extra space at the top and bottom of the menu"
+msgstr "차림표의 웃쪽과 아래쪽에 추가할 공간"
+
+msgid "Extra space to add for CAN_DEFAULT buttons"
+msgstr "CAN_DEFAULT 단추에 추가할 간격"
+
+msgid ""
+"Extra space to add for CAN_DEFAULT buttons that is always drawn outside the "
+"border"
+msgstr "CAN_DEFAULT 단추의 외부에 추가할 테두리 바깥에 항상 그려지는 간격"
+
+msgid ""
+"Extra space to put between the child and its left and right neighbors, in "
+"pixels"
+msgstr "자식 창문부품의 좌우에 추가할 공간 (화소단위)"
+
+msgid "Extra space to put between the child and its neighbors, in pixels"
+msgstr "자식 창문부품과 주변 사이의 화소단위 추가여백"
+
+msgid ""
+"Extra space to put between the child and its upper and lower neighbors, in "
+"pixels"
+msgstr "자식 창문부품의 상하에 추가할 공간(화소단위)"
+
+msgid "Extra widget"
+msgstr "추가 창문부품"
+
+msgid ""
+"FALSE displays the \"invisible char\" instead of the actual text (password "
+"mode)"
+msgstr "거짓이면 실지 본문대신 \"보이지 않는 문자\"를 표시합니다(통과어방식)"
+
+msgid "FALSE removes outside bevel from entry"
+msgstr "거짓이면 항목에서 외부경사를 없앱니다"
+
+msgid "Fallback Icon Theme Name"
+msgstr "림시그림기호 주제 이름"
+
+msgid "File System Backend"
+msgstr "파일체계 뒤부분"
+
+msgid "Filename"
+msgstr "파일이름"
+
+msgid "Filename to load and display"
+msgstr "읽어들여 표시할 파일이름"
+
+msgid "Fill"
+msgstr "채움"
+
+msgid "Filter"
+msgstr "려과기"
+
+msgid "Fixed Height Mode"
+msgstr "고정높이방식"
+
+msgid "Fixed Width"
+msgstr "고정너비"
+
+msgid "Fixed slider size"
+msgstr "미끄럼대 크기 고정"
+
+msgid "Focus in Toplevel"
+msgstr "최고창문부품에 입력"
+
+msgid "Focus line dash pattern"
+msgstr "입력선의 점선모양"
+
+msgid "Focus linewidth"
+msgstr "입력선 두께"
+
+msgid "Focus on click"
+msgstr "누르기하면 입력가능"
+
+msgid "Focus on map"
+msgstr "나타날때 입력가능"
+
+msgid "Focus padding"
+msgstr "입력 여백"
+
+msgid "Follow State"
+msgstr "상태에 따름"
+
+msgid "Font"
+msgstr "서체"
+
+msgid "Font Name"
+msgstr "서체이름"
+
+msgid "Font description as a PangoFontDescription struct"
+msgstr "PangoFontDescription 구조로 서체 서술"
+
+msgid "Font description as a string"
+msgstr "문자렬로 서체 서술"
+
+msgid "Font description as a string, e.g. \"Sans Italic 12\""
+msgstr "문자렬로 서체 서술, 실례: \"Sans Italic 12\""
+
+msgid "Font family"
+msgstr "서체종류"
+
+msgid "Font family set"
+msgstr "서체종류 설정"
+
+msgid "Font name"
+msgstr "서체이름"
+
+msgid "Font points"
+msgstr "서체점수"
+
+msgid "Font scale"
+msgstr "서체크기 조정"
+
+msgid "Font scale set"
+msgstr "서체크기 조정 설정"
+
+msgid "Font scaling factor"
+msgstr "서체크기 조정 계수"
+
+msgid "Font size"
+msgstr "서체크기"
+
+msgid ""
+"Font size as a scale factor relative to the default font size. This properly "
+"adapts to theme changes etc. so is recommended. Pango predefines some scales "
+"such as PANGO_SCALE_X_LARGE"
+msgstr ""
+"기정 서체크기에 대한 비률로서의 서체크기. 주제가 바뀌는 경우 게 적용하게 됩니"
+"다."
+
+msgid "Font size in Pango units"
+msgstr "Pango단위의 서체크기"
+
+msgid "Font size in points"
+msgstr "점으로 나타낸 서체크기"
+
+msgid "Font size set"
+msgstr "서체크기 설정"
+
+msgid "Font stretch"
+msgstr "서체 늘림"
+
+msgid "Font stretch as a PangoStretch, e.g. PANGO_STRETCH_CONDENSED"
+msgstr "PangoStretch로서의 서체 확장, 실례:  PANGO_STRETCH_CONDENSED"
+
+msgid "Font stretch set"
+msgstr "서체 늘림 설정"
+
+msgid "Font style"
+msgstr "서체종류"
+
+msgid "Font style as a PangoStyle, e.g. PANGO_STYLE_ITALIC"
+msgstr "PangoStyle로서의 서체종류, 실례: PANGO_STYLE_ITALIC"
+
+msgid "Font style set"
+msgstr "서체종류 설정"
+
+msgid "Font variant"
+msgstr "서체 변형"
+
+msgid "Font variant as a PangoVariant, e.g. PANGO_VARIANT_SMALL_CAPS"
+msgstr "PangoVariant로서의 서체 변형, 실례:  PANGO_VARIANT_SMALL_CAPS"
+
+msgid "Font variant set"
+msgstr "서체 변형 설정"
+
+msgid "Font weight"
+msgstr "서체 두께"
+
+msgid ""
+"Font weight as an integer, see predefined values in PangoWeight; for "
+"example, PANGO_WEIGHT_BOLD"
+msgstr ""
+"옹근수로서의 서체 무게, PangoWeight에서 미리 정의된 값을 볼것, 실례: "
+"PANGO_WEIGHT_BOLD"
+
+msgid "Font weight set"
+msgstr "서체 두께 설정"
+
+msgid "Force aspect ratio to match that of the frame's child"
+msgstr "틀의 자식 창문부품에 맞추어 가로세로비을 맞추기"
+
+msgid "Foreground color"
+msgstr "글자색"
+
+msgid "Foreground color as a (possibly unallocated) GdkColor"
+msgstr "글자색을 표시하는 GdkColor 형식의 문자렬(해제했을수도 있음) "
+
+msgid "Foreground color as a GdkColor"
+msgstr "글자색을 표시하는 GdkColor 형식의 문자렬"
+
+msgid "Foreground color as a string"
+msgstr "글자색을 표시하는 문자렬"
+
+msgid "Foreground color name"
+msgstr "글자색 이름"
+
+msgid "Foreground set"
+msgstr "글자색 설정"
+
+msgid "Foreground stipple mask"
+msgstr "글자 점선 마스크"
+
+msgid "Foreground stipple set"
+msgstr "글자 점선 설정"
+
+msgid "Forward stepper"
+msgstr "앞으로 가기 단추"
+
+msgid "Fraction"
+msgstr "비률"
+
+msgid "Frame shadow"
+msgstr "틀 그림자"
+
+msgid "GTK Modules"
+msgstr "GTK 모듈"
+
+msgid "GdkPixbufAnimation to display"
+msgstr "표시할 GdkPixbufAnimation"
+
+msgid "Gravity"
+msgstr "끌림"
+
+msgid "Group"
+msgstr "그룹"
+
+msgid "Handle Size"
+msgstr "핸들 크기"
+
+msgid "Handle position"
+msgstr "조종대 위치"
+
+msgid "Has Alpha"
+msgstr "투명 사용"
+
+msgid "Has Entry"
+msgstr "입력창문 있음"
+
+msgid "Has Frame"
+msgstr "틀 사용"
+
+msgid "Has Opacity Control"
+msgstr "투명도 조정 사용"
+
+msgid "Has Resize Grip"
+msgstr "크기조절 사용"
+
+msgid "Has default"
+msgstr "기정 사용"
+
+msgid "Has focus"
+msgstr "입력 받음"
+
+msgid "Has palette"
+msgstr "색상표 사용"
+
+msgid "Has separator"
+msgstr "구분선 사용"
+
+msgid "Headers Clickable"
+msgstr "머리부 누르기가능"
+
+msgid "Headers Visible"
+msgstr "머리부 표시"
+
+msgid "Height"
+msgstr "높이"
+
+msgid "Height request"
+msgstr "높이 요청"
+
+msgid "Hide if empty"
+msgstr "비여있으면 숨김"
+
+msgid ""
+"Hint to help the desktop environment understand what kind of window this is "
+"and how to treat it."
+msgstr ""
+"이 창문이 어떤 종류이고 어떻게 처리하는가 등의 탁상환경을 리해할수 있도록 도"
+"움을 주는 암시"
+
+msgid "Homogeneous"
+msgstr "균등"
+
+msgid "Homogenous"
+msgstr "균등"
+
+msgid "Horizontal Adjustment"
+msgstr "가로 조정"
+
+msgid "Horizontal Adjustment for the widget"
+msgstr "창문부품의 가로 조정"
+
+msgid "Horizontal Alignment"
+msgstr "가로맞춤"
+
+msgid "Horizontal Offset"
+msgstr "가로방향 편위"
+
+msgid "Horizontal Scrollbar Policy"
+msgstr "가로 흘림띠 정책"
+
+msgid "Horizontal Separator Width"
+msgstr "가로구분선 너비"
+
+msgid "Horizontal Tab Border"
+msgstr "가로타브 테두리"
+
+msgid "Horizontal adjustment"
+msgstr "가로 조정"
+
+msgid "Horizontal adjustment for the text widget"
+msgstr "본문창문부품의 가로 조정"
+
+msgid "Horizontal alignment"
+msgstr "가로맞춤"
+
+msgid "Horizontal alignment for child"
+msgstr "자식 창문부품의 가로맞춤"
+
+msgid "Horizontal options"
+msgstr "가로 추가선택"
+
+msgid "Horizontal padding"
+msgstr "가로 여백"
+
+msgid ""
+"Horizontal position of child in available space. 0.0 is left aligned, 1.0 is "
+"right aligned"
+msgstr ""
+"비여있는 공간에서 자식 창문부품의 가로위치. 0.0은 왼쪽 맞춤, 1.0은 오른쪽 맞"
+"춤입니다"
+
+msgid "Horizontal scale"
+msgstr "가로방향 크기 조정"
+
+msgid "Horizontal space between cells.  Must be an even number"
+msgstr "칸 사이의 가로방향공간으로서  짝수여야 합니다."
+
+msgid "Hover Expand"
+msgstr "따라다니기 확장"
+
+msgid "Hover Selection"
+msgstr "따라다니기 선택"
+
+msgid ""
+"How far in the x direction to move the arrow when the button is depressed"
+msgstr "단추를 눌렀을때 화살표가 가로방향으로 움직이는 거리"
+
+msgid ""
+"How far in the x direction to move the child when the button is depressed"
+msgstr "단추를 눌렀을때 자식 창문부품이 가로방향으로 움직이는 거리"
+
+msgid ""
+"How far in the y direction to move the arrow when the button is depressed"
+msgstr "단추를 눌렀을때 화살표가 세로방향으로 움직이는 거리"
+
+msgid ""
+"How far in the y direction to move the child when the button is depressed"
+msgstr "단추를 눌렀을때 자식 창문부품이 세로방향으로 움직이는 거리"
+
+msgid "How the range should be updated on the screen"
+msgstr "범위를 화면에 갱신하는 방법"
+
+msgid ""
+"How the text and icon of each item are positioned relative to each other"
+msgstr "각 항목에서 본문과 그림기호의 상대위치"
+
+msgid ""
+"How to break the string into multiple lines, if the cell renderer does not "
+"have enough room to display the entire string"
+msgstr ""
+"칸에 전체 문자렬을 표시할 공간이 부족한 경우 문자렬을 여러줄로 나누는 방법"
+
+msgid "How to draw the input method preedit string"
+msgstr "입력기에서 조합중인 문자렬을 그리는 법"
+
+msgid "How to draw the input method statusbar"
+msgstr "입력방법 상태표시줄을 그리는 법"
+
+msgid "How to draw the toolbar"
+msgstr "도구띠을 그리는 방법"
+
+msgid ""
+"How to layout the buttons in the box. Possible values are default, spread, "
+"edge, start and end"
+msgstr ""
+"창문내에 단추들을 배치하는 방법. 가능한 값은 default, spread, edge, start, "
+"end입니다"
+
+msgid "IM Preedit style"
+msgstr "조합중인 글자의 표시방법"
+
+msgid "IM Status style"
+msgstr "입력기 상태 종류"
+
+msgid "Icon"
+msgstr "그림기호"
+
+msgid "Icon Name"
+msgstr "그림기호 이름"
+
+msgid "Icon Sizes"
+msgstr "그림기호 크기"
+
+msgid "Icon Theme Name"
+msgstr "그림기호 주제 이름"
+
+msgid "Icon View Model"
+msgstr "그림기호 보기 모형"
+
+msgid "Icon for this window"
+msgstr "이 창의 그림기호"
+
+msgid "Icon name"
+msgstr "그림기호 이름"
+
+msgid "Icon set"
+msgstr "그림기호 모임"
+
+msgid "Icon set to display"
+msgstr "표시할 그림기호 모임"
+
+msgid "Icon size"
+msgstr "그림기호 크기"
+
+msgid "Icon widget"
+msgstr "그림기호 창문부품"
+
+msgid "Icon widget to display in the item"
+msgstr "이 항목에 표시할 그림기호 창문부품"
+
+msgid "If FALSE, don't allow to enter strings other than the chosen ones"
+msgstr "FALSE이면 기존의 선택문자렬이 아닌 다른 문자렬을 입력할수 없습니다."
+
+msgid ""
+"If TRUE the GtkProgress is in activity mode, meaning that it signals "
+"something is happening, but not how much of the activity is finished. This "
+"is used when you're doing something that you don't know how long it will take"
+msgstr ""
+"TRUE이면 GtkkProgress가 활동방식에 들어가며 이것은 어떤 현상이 일어나고있다"
+"는 신호이지만 얼마나 많은 활동이 끝났는가는 알수 없습니다. 이것은 시간이 얼마"
+"나 걸릴지 모르는 일을 할때 사용됩니다."
+
+msgid "If TRUE this means the table cells are all the same width/height"
+msgstr "TRUE이면 표 칸이 모두 같은 너비와 높이를 가진다는것을 의미합니다"
+
+msgid "If TRUE, a heading is displayed"
+msgstr "TRUE이면 제목을 표시합니다"
+
+msgid "If TRUE, day names are displayed"
+msgstr "TRUE이면 날자이름들을 표시합니다"
+
+msgid ""
+"If TRUE, hidden widgets are ignored when determining the size of the group"
+msgstr "TRUE이면 그룹의 크기를 결정할때 숨긴 창문부품을 무시합니다"
+
+msgid ""
+"If TRUE, pressing the right mouse button on the notebook pops up a menu that "
+"you can use to go to a page"
+msgstr ""
+"TRUE이면 노트북에서 오른쪽 마우스 단추를 눌렀을때 나타나는 차림표를 통해 특"
+"정 페지로 이동할수 있습니다"
+
+msgid "If TRUE, scroll arrows are added if there are too many tabs to fit"
+msgstr "TRUE이면 타브가 많아서 크기에 맞출수 없을 경우 흘림화살표를 추가합니다"
+
+msgid ""
+"If TRUE, the child appears in a secondary group of children, suitable for, e."
+"g., help buttons"
+msgstr ""
+"TRUE이면 자식 창문부품의 보조그룹안에 나타나게 됩니다.  례를 들어 도움말 단추"
+"에 적합합니다."
+
+msgid "If TRUE, the child can be made smaller than its requisition"
+msgstr "TRUE이면 자식 창문부품이 처음 요청한 크기보다 더 작아질수 있습니다"
+
+msgid "If TRUE, the child expands and shrinks along with the paned widget"
+msgstr "TRUE이면 자식 창문부품이 구분창문부품을 따라 늘어나고 줄어듭니다"
+
+msgid "If TRUE, the popup window will appear for a single match."
+msgstr "TRUE이면 1개가 일치할 경우에 튀여나오기창문이 나타납니다."
+
+msgid "If TRUE, the popup window will have the same size as the entry"
+msgstr "TRUE이면 튀여나오기창문의 크기가 입력창문과 같습니다"
+
+msgid "If TRUE, the selected month cannot be changed"
+msgstr "TRUE이면 선택한 달을 바꿀수 없습니다"
+
+msgid "If TRUE, the widget will receive the default action when it is focused"
+msgstr "TRUE이면 활성화시 이 창문부품이 기본동작을 받습니다"
+
+msgid ""
+"If TRUE, the window has no mimimum size. Setting this to TRUE is 99% of the "
+"time a bad idea"
+msgstr ""
+"TRUE이면 창문에 최소크기가 없습니다. TRUE로 하는것은 99%의 경우 좋지 않은 생"
+"각입니다."
+
+msgid ""
+"If TRUE, the window is modal (other windows are not usable while this one is "
+"up)"
+msgstr "TRUE이면 현재 창문이 표시되여있을 때 다른 창문을 사용할수 없게 됩니다."
+
+msgid "If TRUE, users can expand the window beyond its minimum size"
+msgstr "TRUE이면 사용자가 창문을 그 최소크기보다 크게 조정할수 있습니다."
+
+msgid "If TRUE, users can resize the window"
+msgstr "TRUE이면 사용자가 창문의 크기를 조정할수 있습니다."
+
+msgid "If TRUE, week numbers are displayed"
+msgstr "TRUE이면 몇번째 주인가를 표시합니다."
+
+msgid "If an arrow should be shown if the toolbar doesn't fit"
+msgstr "도구띠가 좁을 경우에 화살표를 표시합니다"
+
+msgid ""
+"If available horizontal space is bigger than needed for the child, how much "
+"of it to use for the child. 0.0 means none, 1.0 means all"
+msgstr ""
+"가로방향으로 사용가능한 공간이 자식 창문부품이 필요로 하는것보다 큰 경우 그가"
+"운데 일부를 자식 창문부품에 사용합니다.  0.0은 사용하지 않음, 1.0은 모두 사용"
+"함"
+
+msgid ""
+"If available vertical space is bigger than needed for the child, how much of "
+"it to use for the child. 0.0 means none, 1.0 means all"
+msgstr ""
+"수직방향으로 사용가능한 공간이 자식 창문부품이 필요로 하는것보다 큰 경우 그가"
+"운데 일부를 자식 창문부품에 사용합니다.  0.0은 사용하지 않음, 1.0은 모두 사용"
+"함"
+
+msgid ""
+"If set, an underline in the label property indicates that the next character "
+"should be used for the mnemonic accelerator key in the overflow menu"
+msgstr ""
+"TRUE이면 표식자속성에 밑줄문자를 썼을 경우 그 다음 문자가 확장차림표에서 련상"
+"기호건으로 쓰입니다"
+
+msgid ""
+"If set, an underline in the text indicates the next character should be used "
+"for the mnemonic accelerator key"
+msgstr ""
+"TRUE이면 본문내에 밑줄문자로 그 다음 문자가 단축건으로 쓰인다는것을 의미합니"
+"다"
+
+msgid ""
+"If set, the label is used to pick a stock item instead of being displayed"
+msgstr ""
+"TRUE이면 표식자는 그 본문을 표시하는것이 아니라 재고 항목을 선택하는데 쓰입니"
+"다"
+
+msgid "If set, wrap lines if the text becomes too wide"
+msgstr "TRUE인 경우 본문이 너무 길면 줄을 바꿉니다."
+
+msgid "If the insertion cursor is shown"
+msgstr "삽입유표가 보여진 경우"
+
+msgid "If the toggle button is in an \"in between\" state"
+msgstr "절환단추가 \"3상태\"에 놓인 경우"
+
+msgid "If the toggle button should be pressed in or not"
+msgstr "절환단추의 눌림 여부"
+
+msgid "If the toggle part of the button is displayed"
+msgstr "단추의 절환부분 표시 여부"
+
+msgid "If the tooltips of the toolbar should be active or not"
+msgstr "도구띠의 도구해설 사용 여부"
+
+msgid "If this window should be destroyed when the parent is destroyed"
+msgstr "부모창문이 파괴될때 이 창문의 파괴 여부"
+
+msgid "Ignore hidden"
+msgstr "숨긴 창문부품 무시"
+
+msgid "Image"
+msgstr "화상"
+
+msgid "Image widget"
+msgstr "화상 창문부품"
+
+msgid "Image/label border"
+msgstr "화상 및 표식자 테두리"
+
+msgid "Inconsistent"
+msgstr "모순"
+
+msgid "Inconsistent state"
+msgstr "모순된 상태"
+
+msgid "Indent"
+msgstr "들여쓰기"
+
+msgid "Indent Expanders"
+msgstr "확장 들여쓰기"
+
+msgid "Indent set"
+msgstr "들여쓰기 설정"
+
+msgid "Indicator Size"
+msgstr "표시기 크기"
+
+msgid "Indicator Spacing"
+msgstr "표시기 간격"
+
+msgid "Inline completion"
+msgstr "직렬 완성"
+
+msgid "Interior Focus"
+msgstr "내부 초점"
+
+msgid "Internal padding"
+msgstr "내부 여백"
+
+msgid "Invert direction slider moves to increase range value"
+msgstr "령역값이 증가할때 미끄럼대가 움직일 방향을 반전합니다"
+
+msgid "Inverted"
+msgstr "반전"
+
+msgid "Invisible"
+msgstr "보이지 않음"
+
+msgid "Invisible character"
+msgstr "보이지 않는 글자"
+
+msgid "Invisible set"
+msgstr "보이지 않기 설정"
+
+msgid "Is Active"
+msgstr "활성화되여있는가"
+
+msgid "Is Expanded"
+msgstr "확장되여있는가"
+
+msgid "Is Expander"
+msgstr "확장가능한가"
+
+msgid "Is focus"
+msgstr "입력가능한가"
+
+msgid "Is important"
+msgstr "중요한가"
+
+msgid "Is this curve linear, spline interpolated, or free-form"
+msgstr "곡선이 선형인가, 스플라인련결인가, 미사용양식인가를 지정합니다"
+
+msgid "Justification"
+msgstr "행맞춤"
+
+msgid "Justification set"
+msgstr "행맞춤 설정"
+
+msgid "Key Theme Name"
+msgstr "건의 주제이름"
+
+msgid "Keybinding to activate the menu bar"
+msgstr "차림띠를 활성화하는 건조합"
+
+msgid "Label"
+msgstr "표식자"
+
+msgid "Label widget"
+msgstr "표식자 창문부품"
+
+msgid "Label xalign"
+msgstr "표식자 가로맞춤"
+
+msgid "Label yalign"
+msgstr "표식자 세로맞춤"
+
+msgid "Language"
+msgstr "언어"
+
+msgid "Language set"
+msgstr "언어 설정"
+
+msgid "Largest possible value for the \"position\" property"
+msgstr "\"위치\" 속성의 가능한 최대값"
+
+msgid "Layout style"
+msgstr "배치종류"
+
+msgid "Left Attach"
+msgstr "왼쪽 붙임"
+
+msgid "Left Margin"
+msgstr "왼쪽 여백"
+
+msgid "Left Padding"
+msgstr "왼쪽 여백"
+
+msgid "Left attachment"
+msgstr "왼쪽 붙임"
+
+msgid "Left margin"
+msgstr "왼쪽 여백"
+
+msgid "Left margin set"
+msgstr "왼쪽 여백 설정"
+
+msgid "Left, right, or center justification"
+msgstr "좌, 우, 중앙 정렬"
+
+msgid "Length of scale's slider"
+msgstr "자미끄럼대 길이"
+
+msgid "Length of step buttons at ends"
+msgstr "끝에 있는 걸음단추의 길이"
+
+msgid "Length of the cursor blink cycle, in milleseconds"
+msgstr "유표가 깜박이는 주기, 천분의 일초"
+
+msgid "Line Wrap"
+msgstr "줄바꿈"
+
+msgid "Line wrap"
+msgstr "줄바꿈"
+
+msgid "Link Color"
+msgstr "단축건 색"
+
+msgid "List of authors of the program"
+msgstr "프로그람개발자 목록"
+
+msgid "List of currently active GTK modules"
+msgstr "현재 활성화중인 GTK 모듈의 목록"
+
+msgid "List of icon sizes (gtk-menu=16,16:gtk-button=20,20..."
+msgstr "그림기호 크기 목록 (gtk-menu=16,16;gtk-button=20,20..."
+
+msgid "List of people documenting the program"
+msgstr "프로그람 문서작성자 목록"
+
+msgid "List of people who have contributed artwork to the program"
+msgstr "프로그람 미술가 목록"
+
+msgid "Local Only"
+msgstr "국부 전용"
+
+msgid "Logo"
+msgstr "상표"
+
+msgid "Logo Icon Name"
+msgstr "상표 그림기호 이름"
+
+msgid "Lower"
+msgstr "최저값"
+
+msgid "Lower limit of ruler"
+msgstr "눈금자의 최저값"
+
+msgid "Make the expanders indented"
+msgstr "확장을 들여씀"
+
+msgid "Margin"
+msgstr "여백"
+
+msgid "Marked up text to render"
+msgstr "표시할 Markup 본문"
+
+msgid "Markup column"
+msgstr "Markup 렬"
+
+msgid "Mask"
+msgstr "마스크"
+
+msgid "Mask bitmap to use with GdkImage or GdkPixmap"
+msgstr "GdkImage 혹은 GdkPixmap에 사용할 마스크 비트도"
+
+msgid "Max Size"
+msgstr "최대크기"
+
+msgid "Maximal Position"
+msgstr "위치 최대값"
+
+msgid "Maximum Value"
+msgstr "최대값"
+
+msgid "Maximum Width"
+msgstr "최대너비"
+
+msgid "Maximum Width In Characters"
+msgstr "최대너비(문자개수 단위)"
+
+msgid "Maximum X"
+msgstr "최대 X"
+
+msgid "Maximum Y"
+msgstr "최대 Y"
+
+msgid "Maximum allowed width of the column"
+msgstr "렬의 최대 가능 너비"
+
+msgid ""
+"Maximum distance allowed between two clicks for them to be considered a "
+"double click (in pixels)"
+msgstr "두번 누르기로 인식하는 두번의 누르기사이의 최대거리(화소단위)"
+
+msgid "Maximum length"
+msgstr "최대길이"
+
+msgid "Maximum number of characters for this entry. Zero if no maximum"
+msgstr "이 항목에 쓸수 있는 최대의 문자수. 최대값이 없는 경우 0"
+
+msgid "Maximum possible X value"
+msgstr "최대 X 값"
+
+msgid "Maximum possible value for Y"
+msgstr "최대 Y 값"
+
+msgid "Maximum size of the ruler"
+msgstr "눈금자의 최대크기"
+
+msgid ""
+"Maximum time allowed between two clicks for them to be considered a double "
+"click (in milliseconds)"
+msgstr "두번 누르기로 인식하는 두번 누르기사이의 최대시간(1000분의 1초)"
+
+msgid "Menu"
+msgstr "차림표"
+
+msgid "Menu bar accelerator"
+msgstr "차림띠 단축건"
+
+msgid "Menu label"
+msgstr "차림표 표식자"
+
+msgid "Merged UI definition"
+msgstr "병합된 UI 정의"
+
+msgid "Message Buttons"
+msgstr "통보문 단추"
+
+msgid "Message Type"
+msgstr "통보문 형"
+
+msgid "Metric"
+msgstr "단위"
+
+msgid "Minimal Position"
+msgstr "위치 최소값"
+
+msgid "Minimum Key Length"
+msgstr "최소 건길이"
+
+msgid "Minimum Slider Length"
+msgstr "최소 미끄럼대 길이"
+
+msgid "Minimum Value"
+msgstr "최소값"
+
+msgid "Minimum Width"
+msgstr "최소너비"
+
+msgid "Minimum X"
+msgstr "최소 X"
+
+msgid "Minimum Y"
+msgstr "최소 Y"
+
+msgid "Minimum allowed width of the column"
+msgstr "렬의 최소 가능 너비"
+
+msgid "Minimum child height"
+msgstr "최소 자식 창문부품 높이"
+
+msgid "Minimum child width"
+msgstr "최소 자식 창문부품 너비"
+
+msgid "Minimum height of buttons inside the box"
+msgstr "칸안의 단추들의 최소높이"
+
+msgid "Minimum length of scrollbar slider"
+msgstr "흘림띠 미끄럼대의 최소길이"
+
+msgid "Minimum length of the search key in order to look up matches"
+msgstr "일치하는 본문을 찾을때 리용할 검색열쇠의 최소길이"
+
+msgid "Minimum possible value for X"
+msgstr "최소 X 값"
+
+msgid "Minimum possible value for Y"
+msgstr "최소 Y 값"
+
+msgid ""
+"Minimum time the pointer must stay over a menu item before the submenu appear"
+msgstr "보조차림표가 보이기전까지 지시자가 차림표항목우에서 기다릴 최소시간"
+
+msgid "Minimum width of buttons inside the box"
+msgstr "칸안의 단추들의 최소너비"
+
+msgid "Mnemonic key"
+msgstr "련상기호건"
+
+msgid "Mnemonic widget"
+msgstr "련상기호 창문부품"
+
+msgid "Modal"
+msgstr "양상"
+
+msgid "Mode"
+msgstr "방식"
+
+msgid "Model"
+msgstr "모형"
+
+msgid "Model column to search through when searching through code"
+msgstr "검색시 기준으로 삼을 모형렬"
+
+msgid "Model column used to retrieve the icon pixbuf from"
+msgstr "그림기호 화소완충기를 가져오는데 사용할 모형렬"
+
+msgid "Model column used to retrieve the text from"
+msgstr "본문을 가져오는데 사용할 모형렬"
+
+msgid "Model column used to retrieve the text if using Pango markup"
+msgstr "Pango markup 사용시 본문을 가져오는데 사용할 모형렬"
+
+msgid "Month"
+msgstr "월"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Name of a icon theme to fall back to"
+msgstr "대신 사용할 그림기호 주제의 이름"
+
+msgid "Name of default font to use"
+msgstr "기정으로 사용할 서체"
+
+msgid "Name of file system backend to use"
+msgstr "사용할 파일체계 뒤부분의 이름"
+
+msgid "Name of icon theme to use"
+msgstr "사용할 그림기호 주제의 이름"
+
+msgid "Name of key theme RC file to load"
+msgstr "적재할 열쇠 주제 RC파일의 이름"
+
+msgid "Name of the GtkFileChooser backend to use by default"
+msgstr "기정으로 사용할 GtkFileChooser 뒤부분의 이름"
+
+msgid "Name of the cursor theme to use"
+msgstr "사용할 유표 주제의 이름"
+
+msgid "Name of the font family, e.g. Sans, Helvetica, Times, Monospace"
+msgstr "서체종류의 이름, 실례로 Sans, Helvetica, Times, Monospace"
+
+msgid "Name of the themed icon for this window"
+msgstr "이 창문의 주제그림기호 이름"
+
+msgid "Name of theme RC file to load"
+msgstr "적재할 주제 RC파일의 이름"
+
+msgid "Name used to refer to the text tag. NULL for anonymous tags"
+msgstr "본문표적를 가리키는데 쓰일 이름. 닉명표적에는 NULL"
+
+msgid "No Month Change"
+msgstr "달을 변경하지 않음"
+
+msgid "No show all"
+msgstr "아무것도 보여주지 않음"
+
+msgid "Number of Channels"
+msgstr "통로수"
+
+msgid "Number of characters to leave space for in the entry"
+msgstr "항목에 공간을 확보할 문자수"
+
+msgid "Number of columns"
+msgstr "렬수"
+
+msgid "Number of columns to display"
+msgstr "표시할 렬수"
+
+msgid "Number of pixels between the scrollbars and the scrolled window"
+msgstr "흐름띠와 흐름창문 사이의 화소수"
+
+msgid "Number of pixels of the entry scrolled off the screen to the left"
+msgstr "화면 왼쪽으로 흐름항목의 화소수"
+
+msgid "Number of pixels the cursor can move before dragging"
+msgstr "끌어놓기전에 유표가 움직일수 있는 화소수"
+
+msgid "Numeric"
+msgstr "수자"
+
+msgid "Obey child"
+msgstr "자식 창문부품 따르기"
+
+msgid "Obsolete property, ignored"
+msgstr "낡은 등록정보, 무시합니다"
+
+msgid "Odd Row Color"
+msgstr "홀수렬 색"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative)"
+msgstr "기준선의 웃방향으로 본문의 편위 (부수이면 기준선의 아래방향)"
+
+msgid ""
+"Offset of text above the baseline (below the baseline if rise is negative) "
+"in Pango units"
+msgstr ""
+"기준선의 웃방향으로 본문의 편위(Pango 단위이며 부수이면 기준선의 아래방향)"
+
+msgid "Opacity of the selection box"
+msgstr "선택칸의 투명도"
+
+msgid "Options specifying the horizontal behaviour of the child"
+msgstr "자식 창문부품의 가로동작을 나타내는 추가선택"
+
+msgid "Options specifying the vertical behaviour of the child"
+msgstr "자식 창문부품의 세로동작을 나타내는 추가선택"
+
+msgid "Orientation"
+msgstr "방향"
+
+msgid "Orientation and growth direction of the progress bar"
+msgstr "진척정형띠의 위치와 진행방향"
+
+msgid ""
+"Override for height request of the widget, or -1 if natural request should "
+"be used"
+msgstr ""
+"창문부품의 높이요청값을 새로 정하거나 높이요청을 그대로 사용할 경우 -1입니다."
+
+msgid ""
+"Override for width request of the widget, or -1 if natural request should be "
+"used"
+msgstr ""
+"창문부품의 너비요청값을 새로 정하거나 폭요청을 그대로 사용할 경우 -1입니다."
+
+msgid "Overwrite mode"
+msgstr "덧쓰기방식"
+
+msgid "Pack direction"
+msgstr "모으기방향"
+
+msgid "Pack type"
+msgstr "묶음형"
+
+msgid "Padding"
+msgstr "여백"
+
+msgid "Page"
+msgstr "페지"
+
+msgid "Page Increment"
+msgstr "페지 증가값"
+
+msgid "Page Size"
+msgstr "페지 크기"
+
+msgid "Palette to use in the color selector"
+msgstr "색 선택기에서 사용할 색상표"
+
+msgid "Paragraph background color"
+msgstr "단락 배경색"
+
+msgid "Paragraph background color as a (possibly unallocated) GdkColor"
+msgstr "단락의 배경색을 나타내는 GdkColor 형식의 문자렬(해제했을수도 있음) "
+
+msgid "Paragraph background color as a string"
+msgstr "단락 배경색 문자렬"
+
+msgid "Paragraph background color name"
+msgstr "단락 배경색 이름"
+
+msgid "Paragraph background set"
+msgstr "단락 배경 설정"
+
+msgid "Parent widget"
+msgstr "부모창문부품"
+
+msgid "Pattern"
+msgstr "류형"
+
+msgid "Pixbuf"
+msgstr "화소완충기"
+
+msgid "Pixbuf Expander Closed"
+msgstr "화소완충기 확장행 닫기"
+
+msgid "Pixbuf Expander Open"
+msgstr "화소완충기 확장행 열기"
+
+msgid "Pixbuf Object"
+msgstr "화소완충기 객체"
+
+msgid "Pixbuf column"
+msgstr "화소완충기 렬"
+
+msgid "Pixbuf for closed expander"
+msgstr "닫기 확장행에 대한 화소완충기"
+
+msgid "Pixbuf for open expander"
+msgstr "열기 확장행에 대한 화소완충기"
+
+msgid "Pixel size"
+msgstr "화소크기"
+
+msgid "Pixel size to use for named icon"
+msgstr "이름있는 그림기호에 사용할 화소크기"
+
+msgid "Pixels"
+msgstr "화소"
+
+msgid "Pixels Above Lines"
+msgstr "선우의 화소수"
+
+msgid "Pixels Below Lines"
+msgstr "선아래의 화소수"
+
+msgid "Pixels Inside Wrap"
+msgstr "바꿔쓴 선 화소수"
+
+msgid "Pixels above lines"
+msgstr "선우의 화소수"
+
+msgid "Pixels above lines set"
+msgstr "선우의 화소 설정"
+
+msgid "Pixels below lines"
+msgstr "선아래의 화소수"
+
+msgid "Pixels below lines set"
+msgstr "선우의 화소수 설정"
+
+msgid "Pixels inside wrap"
+msgstr "바꿔쓴 선 화소수"
+
+msgid "Pixels inside wrap set"
+msgstr "바꿔쓴 선 화소수 설정"
+
+msgid "Pixels of blank space above paragraphs"
+msgstr "단락우의 빈공간 화소수"
+
+msgid "Pixels of blank space below paragraphs"
+msgstr "단락아래의 빈공간 화소수"
+
+msgid "Pixels of blank space between wrapped lines in a paragraph"
+msgstr "단락내에서 줄바꿈 사이의 빈공간 화소수"
+
+msgid "Pixmap"
+msgstr "픽스매프"
+
+msgid "Popup completion"
+msgstr "튀여나오기 완성"
+
+msgid "Popup set width"
+msgstr "튀여나오기의 너비 설정"
+
+msgid "Popup single match"
+msgstr "튀여나오기의 단일 일치"
+
+msgid "Position"
+msgstr "위치"
+
+msgid "Position Set"
+msgstr "위치 설정"
+
+msgid "Position of mark on the ruler"
+msgstr "눈금자에서 표식의 위치"
+
+msgid ""
+"Position of paned separator in pixels (0 means all the way to the left/top)"
+msgstr "분리자의 위치를 화소단위로 설정합니다(0: 오른쪽 꼭대기)"
+
+msgid "Position of the handle relative to the child widget"
+msgstr "자식 창문부품에 대한 조종대의 상대 위치"
+
+msgid "Preview Widget Active"
+msgstr "미리보기 창문부품 활성화"
+
+msgid "Preview text"
+msgstr "미리보기 본문"
+
+msgid "Preview widget"
+msgstr "미리보기 창문부품"
+
+msgid "Program name"
+msgstr "프로그람 이름"
+
+msgid "Program version"
+msgstr "프로그람 판본"
+
+msgid "Pulse Step"
+msgstr "박자단계"
+
+msgid "Radio state"
+msgstr "라지오 상태"
+
+msgid "Ratio"
+msgstr "비률"
+
+msgid "Reads the current value, or sets a new value"
+msgstr "현재 값을 읽거나 새로운 값을 설정합니다"
+
+msgid "Receives default"
+msgstr "기정수신"
+
+msgid "Render detail to pass to the theme engine"
+msgstr "주제엔진에 넘기는 자세한 정보"
+
+msgid "Reorderable"
+msgstr "순서바꾸기 가능"
+
+msgid "Resizable"
+msgstr "크기조절 가능"
+
+msgid "Resize"
+msgstr "크기조절"
+
+msgid "Resize mode"
+msgstr "크기변경방식"
+
+msgid "Resize mode of the column"
+msgstr "렬의 크기조절방식"
+
+msgid "Resolution for Xft, in 1024 * dots/inch. -1 to use default value"
+msgstr "Xft 해상도, 1024 * 점/인치. 기본값을 사용하려면 -1"
+
+msgid "Right Attach"
+msgstr "오른쪽 붙임"
+
+msgid "Right Margin"
+msgstr "오른쪽 여백"
+
+msgid "Right Padding"
+msgstr "오른쪽 여백"
+
+msgid "Right attachment"
+msgstr "오른쪽 붙임"
+
+msgid "Right margin"
+msgstr "오른쪽 여백"
+
+msgid "Right margin set"
+msgstr "오른쪽 여백 설정"
+
+msgid "Rise"
+msgstr "떠오름"
+
+msgid "Rise set"
+msgstr "떠오름 설정"
+
+msgid "Row Spacing"
+msgstr "행간격"
+
+msgid "Row has children"
+msgstr "행에 자식창문부품을 가지는가"
+
+msgid "Row is an expander row, and is expanded"
+msgstr "행이 확장행이고 확장하였는가"
+
+msgid "Row spacing"
+msgstr "행간격"
+
+msgid "Row span column"
+msgstr "행범위렬"
+
+msgid "Rows"
+msgstr "행"
+
+msgid "Rowstride"
+msgstr "행크기"
+
+msgid "Rules Hint"
+msgstr "눈금자 암시"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Screen"
+msgstr "Screen"
+
+msgid "Scroll offset"
+msgstr "흘림 편위"
+
+msgid "Scrollable"
+msgstr "흘리기 가능"
+
+msgid "Scrollbar spacing"
+msgstr "흘림띠 간격"
+
+msgid "Search Column"
+msgstr "탐색렬"
+
+msgid "Secondary"
+msgstr "보조"
+
+msgid "Secondary backward stepper"
+msgstr "보조 뒤로 가기 단추"
+
+msgid "Secondary cursor color"
+msgstr "보조 유표색"
+
+msgid "Secondary forward stepper"
+msgstr "보조회송단추"
+
+msgid "Select Multiple"
+msgstr "여러개 선택"
+
+msgid "Select multiple"
+msgstr "여러개 선택"
+
+msgid "Select on focus"
+msgstr "마우스유표를 가져갈 때 선택"
+
+msgid "Selectable"
+msgstr "선택가능"
+
+msgid "Selection Bound"
+msgstr "선택경계"
+
+msgid "Selection Box Alpha"
+msgstr "선택창 알파"
+
+msgid "Selection Box Color"
+msgstr "선택창 색"
+
+msgid "Selection mode"
+msgstr "선택방식"
+
+msgid "Sensitive"
+msgstr "반응"
+
+msgid "Set a hint to the theme engine to draw rows in alternating colors"
+msgstr "주제엔진에 특정한 색으로 행을 그리는 암시를 부여합니다"
+
+msgid "Set the column for the expander column"
+msgstr "이 렬을 확장렬로 사용합니다."
+
+msgid "Shadow Type"
+msgstr "그림자형"
+
+msgid "Shadow type"
+msgstr "그림자형"
+
+msgid "Short label"
+msgstr "짧은 표식"
+
+msgid "Show Arrow"
+msgstr "화살표 표시"
+
+msgid "Show Border"
+msgstr "테두리 표시"
+
+msgid "Show Day Names"
+msgstr "날자이름 표시"
+
+msgid "Show Heading"
+msgstr "제목 표시"
+
+msgid "Show Hidden"
+msgstr "숨겨진 파일 표시"
+
+msgid "Show Tabs"
+msgstr "타브 표시"
+
+msgid "Show Week Numbers"
+msgstr "몇번째 주인가를 표시"
+
+msgid "Show button images"
+msgstr "단추화상 표시"
+
+msgid "Show file operations"
+msgstr "파일조작 표시"
+
+msgid "Show menu images"
+msgstr "차림표화상을 표시"
+
+msgid "Show size"
+msgstr "크기 표시"
+
+msgid "Show style"
+msgstr "모양 표시"
+
+msgid "Show text"
+msgstr "본문 표시"
+
+msgid "Show the column header buttons"
+msgstr "렬머리부단추 표시"
+
+msgid "Shrink"
+msgstr "줄어들기"
+
+msgid ""
+"Side of the handlebox that's lined up with the docking point to dock the "
+"handlebox"
+msgstr "조종칸을 계류하기 위하여 계류위치에 맞춰진 조종칸의 측면"
+
+msgid "Single Line Mode"
+msgstr "한 행 방식"
+
+msgid "Single Paragraph Mode"
+msgstr "단일단락 방식"
+
+msgid "Size"
+msgstr "크기"
+
+msgid "Size of areas outside the widget's allocation to draw"
+msgstr "창문부품에 할당한 령역 바깥쪽에 그릴 령역의 크기"
+
+msgid "Size of check or radio indicator"
+msgstr "선택 혹은 라지오표시기의 크기"
+
+msgid "Size of dropdown indicator"
+msgstr "내리펼침표시기의 크기"
+
+msgid "Size of icons in default toolbars"
+msgstr "기본 도구띠의 그림기호 크기"
+
+msgid "Size of spacers"
+msgstr "공백의 크기"
+
+msgid "Size of the expander arrow"
+msgstr "확장화살표의 크기"
+
+msgid "Size to use for cursors"
+msgstr "유표에 사용할 크기"
+
+msgid "Sizing"
+msgstr "크기 조절"
+
+msgid "Skip pager"
+msgstr "페지이송루틴 무시"
+
+msgid "Skip taskbar"
+msgstr "과제띠 무시"
+
+msgid "Slider Length"
+msgstr "미끄럼띠 길이"
+
+msgid "Slider Width"
+msgstr "미끄럼대 너비"
+
+msgid "Smallest possible value for the \"position\" property"
+msgstr "\"position\" 속성의 가능한 최소값"
+
+msgid "Snap edge"
+msgstr "모서리"
+
+msgid "Snap edge set"
+msgstr "모서리 설정"
+
+msgid "Snap to Ticks"
+msgstr "가까운 단계로 이동"
+
+msgid "Sort direction the sort indicator should indicate"
+msgstr "정렬표시기가 가리킬 정렬방향"
+
+msgid "Sort indicator"
+msgstr "정렬표시기"
+
+msgid "Sort order"
+msgstr "정렬순서"
+
+msgid "Space between value text and the slider/trough area"
+msgstr "값본문과 미끄럼띠/골짜기령역사이의 간격"
+
+msgid "Space style"
+msgstr "공백 류형"
+
+msgid "Space to put between the label and the child"
+msgstr "표식과 자식창문부품사이에 넣을 공간"
+
+msgid "Space which is inserted at the edges of the icon view"
+msgstr "그림기호보기의 바깥쪽에 들어갈 간격"
+
+msgid "Space which is inserted between cells"
+msgstr "칸사이에 들어갈 간격"
+
+msgid "Space which is inserted between cells of an item"
+msgstr "항목의 칸사이에 들어갈 간격"
+
+msgid "Space which is inserted between grid column"
+msgstr "렬사이에 들어갈 간격"
+
+msgid "Space which is inserted between grid rows"
+msgstr "행사이에 들어갈 간격"
+
+msgid "Spacer size"
+msgstr "간격크기"
+
+msgid "Spacing"
+msgstr "간격"
+
+msgid "Spacing around check or radio indicator"
+msgstr "선택 혹은 라지오표시기 주변의 간격"
+
+msgid "Spacing around expander arrow"
+msgstr "확장단추화살표 주변의 공백"
+
+msgid "Spacing around indicator"
+msgstr "표시기주변의 간격"
+
+msgid "Spacing between buttons"
+msgstr "단추사이의 간격"
+
+msgid "Spacing between step buttons and thumb"
+msgstr "단추와 흘림칸사이의 간격"
+
+msgid "Spacing between thumb/steppers and outer trough bevel"
+msgstr "흘림칸/걸음기와 외부 골짜기경사사이의 간격"
+
+msgid "Specifies the visual style of the bar in percentage mode (Deprecated)"
+msgstr "퍼센트방식에서 띠의 보기형식을 명시합니다 (권고하지 않음)"
+
+msgid "Specify how resize events are handled"
+msgstr "크기변경사건를 어떻게 처리할것인가를 명시"
+
+msgid "Speeds up GtkTreeView by assuming that all rows have the same height"
+msgstr "모든 렬의 높이가 같다고 가정합니다 - GtkTreeView의 속도를 높입니다"
+
+msgid "Split Cursor"
+msgstr "유표 분리"
+
+msgid "Step Increment"
+msgstr "단계별 증가값"
+
+msgid "Stepper Size"
+msgstr "걸음 크기"
+
+msgid "Stepper Spacing"
+msgstr "걸음 간격"
+
+msgid "Stock ID"
+msgstr "재고 ID"
+
+msgid "Stock ID for a stock image to display"
+msgstr "표시할 재고화상의 재고 ID"
+
+msgid "Stock Icon"
+msgstr "재고그림기호"
+
+msgid "Stock Id"
+msgstr "재고 ID"
+
+msgid "Storage type"
+msgstr "보관형식"
+
+msgid "Strikethrough"
+msgstr "취소선"
+
+msgid "Strikethrough set"
+msgstr "취소선 설정"
+
+msgid "Style"
+msgstr "모양"
+
+msgid "Style of bevel around the contents"
+msgstr "내용주변의 경사형식"
+
+msgid "Style of bevel around the menubar"
+msgstr "차림표주변의 경사형식"
+
+msgid "Style of bevel around the spin button"
+msgstr "회전단추주변의 그림자 모양"
+
+msgid "Style of bevel around the statusbar text"
+msgstr "상태띠본문주변의 경사형식"
+
+msgid "Style of bevel around the toolbar"
+msgstr "도구띠주변의 경사형식"
+
+msgid "Style of underline for this text"
+msgstr "이 본문의 밑줄형식"
+
+msgid "Symbolic size to use for stock icon, icon set or named icon"
+msgstr "재고 그림기호, 그림기호묶음, 이름있는 그림기호에 사용할 기호 크기"
+
+msgid "TRUE if the Position property should be used"
+msgstr "위치등록정보를 사용하여야 하는 경우 참"
+
+msgid "TRUE if the window should be brought to the user's attention."
+msgstr "사용자의 관심을 끌어야 하는 경우 참입니다."
+
+msgid "TRUE if the window should not be in the pager."
+msgstr "창문을 페지이송루틴에서 표시하지 않아야 하는 경우 참."
+
+msgid "TRUE if the window should not be in the task bar."
+msgstr "창문이 과제띠에서 보이지 않아야 하는 경우 참."
+
+msgid "TRUE if the window should receive the input focus when mapped."
+msgstr "창문이 나타날때 입력초점을 받아야 하는 경우에 참입니다."
+
+msgid "TRUE if the window should receive the input focus."
+msgstr "창문이 입력초첨을 받아야 하는 경우에 참입니다."
+
+msgid "Tab Border"
+msgstr "타브경계"
+
+msgid "Tab Position"
+msgstr "타브위치"
+
+msgid "Tab expand"
+msgstr "타브 확장"
+
+msgid "Tab fill"
+msgstr "타브 채우기"
+
+msgid "Tab label"
+msgstr "타브표식"
+
+msgid "Tab pack type"
+msgstr "타브묶음 형식"
+
+msgid "Tabs"
+msgstr "타브"
+
+msgid "Tabs set"
+msgstr "타브 설정"
+
+msgid "Tag Table"
+msgstr "타브표"
+
+msgid "Tag name"
+msgstr "표적이름"
+
+msgid "Take Focus"
+msgstr "초점 받음"
+
+msgid "Tearoff State"
+msgstr "떼여내기 상태"
+
+msgid "Tearoff Title"
+msgstr "떼여내기 제목"
+
+msgid "Text"
+msgstr "본문"
+
+msgid "Text Column"
+msgstr "본문렬"
+
+msgid "Text Tag Table"
+msgstr "본문태그 표"
+
+msgid "Text column"
+msgstr "본문렬"
+
+msgid "Text direction"
+msgstr "본문방향"
+
+msgid "Text direction, e.g. right-to-left or left-to-right"
+msgstr "본문방향, 우에서 좌로 혹은 좌에서 우로"
+
+msgid "Text of the expander's label"
+msgstr "확장단추의 표식에 들어갈 본문"
+
+msgid "Text of the frame's label"
+msgstr "틀의 표식에 들어갈 본문"
+
+msgid ""
+"Text of the label widget inside the button, if the button contains a label "
+"widget"
+msgstr "단추안의 표식본문 (단추안에 창문부품이 들어있는 경우)"
+
+msgid "Text on the progress bar"
+msgstr "진척정형띠 우의 본문"
+
+msgid "Text to be displayed in the progress bar"
+msgstr "진척정형띠에 표시할 본문"
+
+msgid "Text to render"
+msgstr "그리려는 본문"
+
+msgid "Text to show in the item."
+msgstr "항목에 표시할 본문."
+
+msgid "Text x alignment"
+msgstr "본문 가로정돈"
+
+msgid "Text y alignment"
+msgstr "본문 세로정돈"
+
+msgid "The GdkFont that is currently selected"
+msgstr "현재 선택된 Gdk서체"
+
+msgid ""
+"The GtkActionGroup this GtkAction is associated with, or NULL (for internal "
+"use)."
+msgstr "이 GtkAction과 련결한 GtkActionGroup, 혹은 NULL (내부적으로 사용)."
+
+msgid "The GtkAdjustment connected to the progress bar (Deprecated)"
+msgstr "진척정형띠에 련결된 GtkAdjustment (권고하지 않음)"
+
+msgid "The GtkAdjustment for the horizontal position"
+msgstr "수평위치의 GtkAdjustment"
+
+msgid "The GtkAdjustment for the vertical position"
+msgstr "수직위치의 GtkAdjustment"
+
+msgid "The GtkAdjustment that contains the current value of this range object"
+msgstr "이 범위 객체의 현재값을 가지고 있는 GtkAdjustment"
+
+msgid ""
+"The GtkAdjustment that determines the values of the horizontal position for "
+"this viewport"
+msgstr "이 보임창의 가로위치값을 결정하는 GtkAdjustment"
+
+msgid ""
+"The GtkAdjustment that determines the values of the vertical position for "
+"this viewport"
+msgstr "이 보임창의 수직위치값을 결정하는 GtkAdjustment"
+
+msgid "The GtkIconSize value that specifies the size of the rendered icon"
+msgstr "표시할 그림기호의 크기를 명시하는 GtkIconSize 값"
+
+msgid "The URL for the link to the website of the program"
+msgstr "프로그람의 웨브싸이트 URL"
+
+msgid "The X string that represents this font"
+msgstr "이 서체를 표현하는 X 문자렬"
+
+msgid "The acceleration rate when you hold down a button"
+msgstr "단추를 누르고 있을때 가속 정도"
+
+msgid "The adjustment that holds the value of the spinbutton"
+msgstr "회전단추의 값을 가지고 있는 조절"
+
+msgid ""
+"The alignment of the lines in the text of the label relative to each other. "
+"This does NOT affect the alignment of the label within its allocation. See "
+"GtkMisc::xalign for that"
+msgstr ""
+"표식본문안의 행간격 맞춤.  이 등록정보는 이 표식의 정렬상태에 영향을 미치지 "
+"않습니다. 표식의 정렬상태에 대해서는 GtkMisc::xalign을 참고하십시오."
+
+msgid "The amount of space between children"
+msgstr "자식창문부품사이의 간격"
+
+msgid "The amount of space between two consecutive columns"
+msgstr "두개의 린접한 렬사이의 간격"
+
+msgid "The amount of space between two consecutive rows"
+msgstr "두개의 린접한 행사이의 간격"
+
+msgid ""
+"The amount of space to add on the left and right of the widget, in pixels"
+msgstr "창문부품의 좌우에 더할 공간 (화소단위)"
+
+msgid ""
+"The amount of space to add on the top and bottom of the widget, in pixels"
+msgstr "창문부품의 웃쪽/아래쪽에 더할 공간 (화소단위)"
+
+msgid "The border relief style"
+msgstr "경계 강조형식."
+
+msgid "The buffer which is displayed"
+msgstr "표시할 내용이 들어있는 완충기."
+
+msgid "The buttons shown in the message dialog"
+msgstr "통보문대화창에 나타나는 단추"
+
+msgid "The character to use when masking entry contents (in \"password mode\")"
+msgstr "항목내용 대신 표시할때 리용할 문자 (\"통과어방식\"에서)"
+
+msgid "The child pack direction of the menubar"
+msgstr "차림표띠의 자식창문부품의 묶음방향"
+
+msgid "The closure to be monitored for accelerator changes"
+msgstr "련상기호건의 변화를 감시할 범위"
+
+msgid "The colorspace in which the samples are interpreted"
+msgstr "례제를 해석할때 리용할 색공간"
+
+msgid "The column number to attach the left side of the child to"
+msgstr "자식창문부품의 왼쪽에 붙일 렬번호"
+
+msgid "The column number to attach the right side of a child widget to"
+msgstr "자식창문부품의 오른쪽에 붙일 렬번호"
+
+msgid "The column number to attach the right side of the child to"
+msgstr "자식창문부품의 오른쪽에 붙일 렬번호"
+
+msgid "The column of the model containing the strings."
+msgstr "문자렬이 들어있는 모형의 렬."
+
+msgid "The contents of the entry"
+msgstr "항목의 내용"
+
+msgid "The current color"
+msgstr "현재 색"
+
+msgid "The current filter for selecting which files are displayed"
+msgstr "어떤 파일을 표시하겠는가를 선택할 때 쓰는 현재 려과기"
+
+msgid "The current opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "현재 투명도값 (0은 완전히 투명, 65535는 완전히 불투명)"
+
+msgid "The current position of the insertion cursor in chars"
+msgstr "문자단위로 된 삽입유표의 현재 위치"
+
+msgid "The currently selected filename"
+msgstr "현재 선택된 파일이름"
+
+msgid "The default display for GDK"
+msgstr "GDK 기본 표시기"
+
+msgid ""
+"The default height of the window, used when initially showing the window"
+msgstr "창문의 기본 높이는 창문이 처음으로 표시될때 사용됩니다."
+
+msgid "The default width of the window, used when initially showing the window"
+msgstr "창문의 기본 너비는 창문이 처음으로 표시될때 사용됩니다."
+
+msgid "The desired maximum width of the label, in characters"
+msgstr "표식의 최대 너비, 문자단위"
+
+msgid "The desired width of the button widget, in characters."
+msgstr "단추의 너비, 문자단위."
+
+msgid "The desired width of the label, in characters"
+msgstr "표식의 너비 (문자단위)"
+
+msgid "The dialog has a separator bar above its buttons"
+msgstr "대화창의 단추우에 구분선이 있는가"
+
+msgid "The direction the arrow should point"
+msgstr "화살표가 가리킬 방향"
+
+msgid ""
+"The directions in which the size group affects the requested sizes of its "
+"component widgets"
+msgstr "그 부품이 요청한 크기에 영향을 미치는 크기그룹의 방향"
+
+msgid "The dropdown menu"
+msgstr "내리펼침 차림표"
+
+msgid "The event mask that decides what kind of GdkEvents this widget gets"
+msgstr ""
+"이 창문부품이 어떤 형의 GdkEvent를 받아들이겠는가를 결정하는 사건마스크"
+
+msgid "The file chooser dialog to use."
+msgstr "사용할 파일 선택대화창."
+
+msgid "The fixed height"
+msgstr "고정된 높이"
+
+msgid "The fixed width"
+msgstr "고정된 너비"
+
+msgid "The fraction of total progress to move the bouncing block when pulsed"
+msgstr "매 박자마다 튀는 블로크를 움직일 전체 진척정형의 비률"
+
+msgid "The fraction of total work that has been completed"
+msgstr "전체 작업에서 완료한 작업의 비률"
+
+msgid "The height of the layout"
+msgstr "배치 높이"
+
+msgid "The horizontal alignment of the label"
+msgstr "표식 가로 정돈"
+
+msgid ""
+"The horizontal alignment, from 0 (left) to 1 (right). Reversed for RTL "
+"layouts."
+msgstr "가로 정돈, 0(왼쪽)에서 1(오른쪽)까지. RTL 배치인 경우에는 그 반대."
+
+msgid "The inconsistent state of the button"
+msgstr "단추의 모순된 상태"
+
+msgid "The increment used for each iteration in activity mode (Deprecated)"
+msgstr "활성화방식에서 매 반복시마다 사용할 증가값 (권고하지 않음)"
+
+msgid "The index of the child in the parent"
+msgstr "부모창문부품에서의 자식창문부품 색인"
+
+msgid "The index of the current page"
+msgstr "현재 페지의 색인"
+
+msgid "The initial position of the window"
+msgstr "창문의 처음 위치"
+
+msgid "The item which is currently active"
+msgstr "현재 활성화된 항목"
+
+msgid ""
+"The label for the link to the website of the program. If this is not set, it "
+"defaults to the URL"
+msgstr ""
+"프로그람의 웨브싸이트 련상기호건표식. 설정하지 않으면 기본값은 URL입니다"
+
+msgid "The label used for menu items and buttons that activate this action."
+msgstr "이 동작을 실행하는 차림표항목과 단추에 사용할 표식."
+
+msgid ""
+"The language this text is in, as an ISO code. Pango can use this as a hint "
+"when rendering the text. If not set, an appropriate default will be used."
+msgstr ""
+"이 본문의 언어 (ISO 코드). Pango는 본문을 묘사할때 이 값에서 암시를 얻습니"
+"다. 설정하지 않으면 기정값을 사용합니다."
+
+msgid ""
+"The language this text is in, as an ISO code. Pango can use this as a hint "
+"when rendering the text. If you don't understand this parameter, you "
+"probably don't need it"
+msgstr ""
+"ISO 코드로서의 이 본문언어. Pango는 본문을 묘사할때 이 값에서 암시를 얻습니"
+"다. "
+
+msgid "The mask that decides what kind of extension events this widget gets"
+msgstr "이 창문부품이 어떤 형의 확장사건를 받아들이겠는가를 결정하는 마스크"
+
+msgid "The maximum value of the adjustment"
+msgstr "정돈 최대값"
+
+msgid "The menu of options"
+msgstr "추가선택 차림표"
+
+msgid "The metric used for the ruler"
+msgstr "눈금자에 사용할 단위"
+
+msgid "The minimum value of the adjustment"
+msgstr "정돈 최소값"
+
+msgid "The mnemonic accelerator key for this label"
+msgstr "이 표식의 련상기호건"
+
+msgid "The model containing the possible values for the combo box"
+msgstr "가능한 값들을 포함하고 있는 모형"
+
+msgid "The model for the TreeModelSort to sort"
+msgstr "나무구조모형정렬에서 리용하는 모형"
+
+msgid "The model for the combo box"
+msgstr "모형"
+
+msgid "The model for the icon view"
+msgstr "그림기호보기 모형"
+
+msgid "The model for the tree view"
+msgstr "나무구조 모형"
+
+msgid "The model to find matches in"
+msgstr "일치성 찾는 모형"
+
+msgid "The name of the icon from the icon theme"
+msgstr "그림기호주제의 그림기호 이름"
+
+msgid ""
+"The name of the program. If this is not set, it defaults to "
+"g_get_application_name()"
+msgstr ""
+"프로그람의 이름. 설정하지 않으면 기본값은 g_get_application_name()입니다"
+
+msgid "The name of the selected font"
+msgstr "선택한 서체의 이름"
+
+msgid "The name of the themed icon displayed on the item"
+msgstr "항목에 현시할 주제그림기호 이름"
+
+msgid "The name of the widget"
+msgstr "창문부품의 이름"
+
+msgid "The number of bits per sample"
+msgstr "표본당 비트수"
+
+msgid ""
+"The number of blocks which can fit in the progress bar area in activity mode "
+"(Deprecated)"
+msgstr "활성화방식에서 진척정형띠 령역에 맞는 블로크수 (권고하지 않음)"
+
+msgid ""
+"The number of bytes between the start of a row and the start of the next row"
+msgstr "행시작 위치에서부터 다음행 시작위치까지의 바이트수"
+
+msgid "The number of columns in the table"
+msgstr "표의 렬수"
+
+msgid "The number of columns of the pixbuf"
+msgstr "화소완충기의 렬수"
+
+msgid "The number of decimal places that are displayed in the value"
+msgstr "값을 표시하는데 리용할 십진수의 자리수"
+
+msgid "The number of decimal places to display"
+msgstr "표시할 십진수의 자리수"
+
+msgid ""
+"The number of discrete blocks in a progress bar (when shown in the discrete "
+"style)"
+msgstr "진척정형띠에서 개별 블로크수 (개별 류형으로 표시될 때)"
+
+msgid "The number of rows in the table"
+msgstr "표의 행수"
+
+msgid "The number of rows of the pixbuf"
+msgstr "화소완충기의 행수"
+
+msgid "The number of samples per pixel"
+msgstr "화소당 표본수"
+
+msgid "The orientation of the toolbar"
+msgstr "도구띠의 방향"
+
+msgid "The pack direction of the menubar"
+msgstr "차림표띠의 묶음방향"
+
+msgid "The padding to insert at the bottom of the widget."
+msgstr "창문부품의 아래쪽에 끼워넣을 여백."
+
+msgid "The padding to insert at the left of the widget."
+msgstr "창문부품의 왼쪽에 끼워넣을 여백."
+
+msgid "The padding to insert at the right of the widget."
+msgstr "창문부품의 오른쪽에 끼워넣을 여백."
+
+msgid "The padding to insert at the top of the widget."
+msgstr "창문부품의 웃쪽에 끼워넣을 여백."
+
+msgid "The page increment of the adjustment"
+msgstr "조정페지 증가값"
+
+msgid "The page size of the adjustment"
+msgstr "조정페지 크기"
+
+msgid "The parent widget of this widget. Must be a Container widget"
+msgstr "이 창문부품의 부모창문부품. 용기창문부품이여야 합니다"
+
+msgid "The pixbuf to render"
+msgstr "표시될 화소완충기"
+
+msgid "The position in which the current value is displayed"
+msgstr "현재값이 표시될 위치"
+
+msgid ""
+"The position of the opposite end of the selection from the cursor in chars"
+msgstr "유표에서 선택한 령역의 문자단위의 반대쪽 위치"
+
+msgid ""
+"The preferred place to ellipsize the string, if the cell renderer does not "
+"have enough room to display the entire string, if at all"
+msgstr ""
+"칸에 전체 문자렬을 표시할 공간이 부족한 경우 문자렬에 줄임표를 붙일 위치"
+
+msgid ""
+"The preferred place to ellipsize the string, if the label does not have "
+"enough room to display the entire string, if at all"
+msgstr ""
+"표식에 전체 문자렬을 표시할 공간이 부족한 경우 문자렬에 줄임표를 붙일 위치"
+
+msgid ""
+"The preferred place to ellipsize the string, if the progressbar does not "
+"have enough room to display the entire string, if at all"
+msgstr ""
+"진척정형띠에 전체 문자렬을 표시할 공간이 부족한 경우 문자렬에 줄임표를 붙일 "
+"위치"
+
+msgid "The radio action whose group this action belongs to."
+msgstr "이 동작이 포함될 그룹의 라지오 동작."
+
+msgid "The radio button whose group this widget belongs to."
+msgstr "이 창문부품이 포함될 그룹의 라지오단추."
+
+msgid "The representation being used for image data"
+msgstr "그림자료 표현방법"
+
+msgid "The row number to attach the bottom of the child to"
+msgstr "자식창문부품의 아래쪽에 붙일 행번호"
+
+msgid "The row number to attach the top of a child widget to"
+msgstr "자식창문부품의 웃쪽에 붙일 행번호"
+
+msgid "The row number to attach the top of the child to"
+msgstr "자식창문부품의 웃쪽에 붙일 행번호"
+
+msgid "The screen where this window will be displayed"
+msgstr "이 창이 표시될 화면"
+
+msgid "The selected color"
+msgstr "선택한 색"
+
+msgid ""
+"The selected day (as a number between 1 and 31, or 0 to unselect the "
+"currently selected day)"
+msgstr "선택한 날자 (1부터 31까지, 0이면 현재 선택한 날자를 선택해제합니다)"
+
+msgid "The selected month (as a number between 0 and 11)"
+msgstr "선택한 월 (0부터 11까지)"
+
+msgid "The selected opacity value (0 fully transparent, 65535 fully opaque)"
+msgstr "선택한 투명도값 (0은 완전히 투명, 65535는 완전히 불투명)"
+
+msgid "The selected year"
+msgstr "선택한 년도"
+
+msgid "The selection mode"
+msgstr "선택방식"
+
+msgid "The step increment of the adjustment"
+msgstr "조정단계별 증가값"
+
+msgid "The stock ID of the stock icon to render"
+msgstr "표시할 재고그림기호의 재고 ID"
+
+msgid "The stock icon displayed in widgets representing this action."
+msgstr "이 동작을 실행하는 창문부품에 표시할 재고그림기호."
+
+msgid "The stock icon displayed on the item"
+msgstr "항목에 표시할 재고그림기호"
+
+msgid "The string displayed in the child's menu entry"
+msgstr "보조차림표항목에 표시할 문자렬"
+
+msgid "The string displayed on the child's tab label"
+msgstr "보조타브표식에 표시할 문자렬"
+
+msgid ""
+"The style of the widget, which contains information about how it will look "
+"(colors etc)"
+msgstr ""
+"창문부품의 류형.  류형에는 창문부품이 어떻게 보이겠는가에 대한 정보가 (색 "
+"등) 들어 있습니다."
+
+msgid "The text of the label"
+msgstr "표식에 리용할 본문"
+
+msgid "The text of the label includes XML markup. See pango_parse_markup()"
+msgstr "표식의 본문에 XML 표식 포함.  pango_parse_markup() 참고"
+
+msgid "The text to display in order to demonstrate the selected font"
+msgstr "선택한 서체를 미리보기 위하여 표시할 본문"
+
+msgid ""
+"The time before hiding a submenu when the pointer is moving towards the "
+"submenu"
+msgstr "지시자가 보조차림표로 움직일때까지 보조차림표를 숨기기 전의 시간"
+
+msgid "The title of the color selection dialog"
+msgstr "색선택대화창의 제목"
+
+msgid "The title of the file chooser dialog."
+msgstr "파일선택대화창의 제목."
+
+msgid "The title of the font selection dialog"
+msgstr "서체선택대화창의 제목"
+
+msgid "The title of the window"
+msgstr "창문 제목"
+
+msgid "The toggle button can be activated"
+msgstr "절환단추를 활성화할수 있는가"
+
+msgid "The toggle state of the button"
+msgstr "단추의 절환상태"
+
+msgid "The type of message"
+msgstr "통보문의 형식"
+
+msgid "The type of operation that the file selector is performing"
+msgstr "파일선택기가 수행할 조작의 형"
+
+msgid "The type of the window"
+msgstr "창문형식"
+
+msgid "The value"
+msgstr "값"
+
+msgid "The value of the adjustment"
+msgstr "조정값"
+
+msgid ""
+"The value returned by gtk_radio_action_get_current_value() when this action "
+"is the current action of its group."
+msgstr ""
+"그룹에서 이 동작이 현재 동작할 때, gtk_radio_action_get_current_value()가 귀"
+"환할 값."
+
+msgid "The version of the program"
+msgstr "프로그람의 판본"
+
+msgid "The vertical alignment of the label"
+msgstr "표식의 세로 정돈"
+
+msgid "The vertical alignment, from 0 (top) to 1 (bottom)"
+msgstr "세로 정돈, 0(우)에서 1(아래)까지"
+
+msgid "The widget to be activated when the label's mnemonic key is pressed"
+msgstr "이 표식의 련상기호건이 눌렸을 경우 활성화할 창문부품"
+
+msgid "The widget to be monitored for accelerator changes"
+msgstr "련상기호건의 변화를 감시할 창문부품"
+
+msgid "The width at which the text is wrapped"
+msgstr "본문을 행바꾸기할 너비"
+
+msgid "The width of the empty border outside the containers children"
+msgstr "자식창문부품밖의 빈 테두리의 너비"
+
+msgid "The width of the layout"
+msgstr "배치 너비"
+
+msgid "The width used for each item"
+msgstr "매 항목에 사용할 너비"
+
+msgid "The window gravity of the window"
+msgstr "창문의 중심"
+
+msgid "The x-align"
+msgstr "가로정돈"
+
+msgid "The xpad"
+msgstr "가로여백"
+
+msgid "The y-align"
+msgstr "세로정돈"
+
+msgid "The ypad"
+msgstr "세로여백"
+
+msgid "Theme Name"
+msgstr "주제이름"
+
+msgid "Title"
+msgstr "제목"
+
+msgid "Title to appear in column header"
+msgstr "렬머리부에 표시할 제목"
+
+msgid "Toggle state"
+msgstr "절환상태"
+
+msgid "Toolbar Style"
+msgstr "도구띠 형식"
+
+msgid "Toolbar icon size"
+msgstr "도구띠 그림기호의 크기"
+
+msgid "Toolbar style"
+msgstr "도구띠 형식"
+
+msgid "Tooltip"
+msgstr "도구 설명"
+
+msgid "Tooltips"
+msgstr "도구 설명"
+
+msgid "Top Attach"
+msgstr "웃쪽 붙임"
+
+msgid "Top Padding"
+msgstr "웃쪽 여백"
+
+msgid "Top attachment"
+msgstr "웃쪽 붙임"
+
+msgid "Translator credits"
+msgstr "번역한 사람"
+
+msgid "TreeModel column containing the column span values"
+msgstr "렬범위값이 들어있는 나무구조모형 렬"
+
+msgid "TreeModel column containing the row span values"
+msgstr "행범위값이 들어있는 나무구조모형 렬"
+
+msgid "TreeModelSort Model"
+msgstr "나무구조모형정렬 모형"
+
+msgid "TreeView Model"
+msgstr "나무구조보기 모형"
+
+msgid "Trough Border"
+msgstr "골짜기 경계"
+
+msgid "Type hint"
+msgstr "형식 암시"
+
+msgid "Type of bevel around toolbar buttons"
+msgstr "도구띠단추 주위의 경사 형식"
+
+msgid "Type of subpixel antialiasing; none, rgb, bgr, vrgb, vbgr"
+msgstr "보조화소 경계잡음제거 형; none, rgb, bgr, vrgb, vbgr"
+
+msgid "Underline"
+msgstr "밑줄"
+
+msgid "Underline set"
+msgstr "밑줄 설정"
+
+msgid "Unique identifier for the window to be used when restoring a session"
+msgstr "대화접속을 복구할때 리용하는 창문의 고유 ID"
+
+msgid "Update Policy"
+msgstr "갱신방책"
+
+msgid "Update policy"
+msgstr "갱신방책"
+
+msgid "Upper"
+msgstr "최고값"
+
+msgid "Upper limit of ruler"
+msgstr "눈금자의 최고값"
+
+msgid "Urgent"
+msgstr "긴급"
+
+msgid "Use Preview Label"
+msgstr "미리보기표식 사용"
+
+msgid "Use alpha"
+msgstr "투명 사용"
+
+msgid "Use font in label"
+msgstr "표식에서 서체 사용"
+
+msgid "Use markup"
+msgstr "표식 사용"
+
+msgid "Use separator"
+msgstr "구분선 사용"
+
+msgid "Use size in label"
+msgstr "표식에서 크기 사용"
+
+msgid "Use stock"
+msgstr "재고 사용"
+
+msgid "Use underline"
+msgstr "밑줄 사용"
+
+msgid "Value"
+msgstr "값"
+
+msgid "Value Position"
+msgstr "값 위치"
+
+msgid "Value in list"
+msgstr "목록에 있는 값"
+
+msgid "Value of the progress bar"
+msgstr "진척정형띠의 값"
+
+msgid "Value spacing"
+msgstr "값간격"
+
+msgid "Vertical Adjustment"
+msgstr "세로 정돈"
+
+msgid "Vertical Adjustment for the widget"
+msgstr "창문부품의 세로 정돈"
+
+msgid "Vertical Alignment"
+msgstr "세로 정돈"
+
+msgid "Vertical Offset"
+msgstr "수직방향 편위"
+
+msgid "Vertical Padding"
+msgstr "세로 여백"
+
+msgid "Vertical Scrollbar Policy"
+msgstr "수직흘림띠 방책"
+
+msgid "Vertical Tab Border"
+msgstr "수직타브 경계"
+
+msgid "Vertical adjustment"
+msgstr "수직정돈"
+
+msgid "Vertical adjustment for the text widget"
+msgstr "본문창문부분품의 수직 정돈"
+
+msgid "Vertical alignment"
+msgstr "수직 정돈"
+
+msgid "Vertical alignment for child"
+msgstr "자식창문부품의 수직 정돈"
+
+msgid "Vertical options"
+msgstr "수직 옵션"
+
+msgid "Vertical padding"
+msgstr "수직채움"
+
+msgid ""
+"Vertical position of child in available space. 0.0 is top aligned, 1.0 is "
+"bottom aligned"
+msgstr ""
+"빈 공간에서 자식창문부분품의 수직위치. 0.0은 웃쪽 맞추기, 1.0은 아래 맞추기입"
+"니다"
+
+msgid "Vertical scale"
+msgstr "수직방향크기 조절"
+
+msgid "Vertical space between cells.  Must be an even number"
+msgstr "칸사이의 수직방향공간.  짝수이여야 합니다."
+
+msgid "View allows user to search through columns interactively"
+msgstr "사용자가 보기렬에서 대화적으로 찾을수 있도록 합니다"
+
+msgid "View is reorderable"
+msgstr "보기의 재정돈 가능성"
+
+msgid "Visibility"
+msgstr "보여주기"
+
+msgid "Visible"
+msgstr "보임"
+
+msgid "Visible Window"
+msgstr "창문 보이기"
+
+msgid "Visible when horizontal"
+msgstr "가로방향에서 표시"
+
+msgid "Visible when overflown"
+msgstr "정해진 크기를 넘을때 표시"
+
+msgid "Visible when vertical"
+msgstr "수직방향에서 표시"
+
+msgid "Website URL"
+msgstr "웨브싸이트 URL"
+
+msgid "Website label"
+msgstr "웨브싸이트 표식"
+
+msgid ""
+"What degree of hinting to use; hintnone, hintslight, hintmedium, or hintfull"
+msgstr "사용할 암시의 정도; hintnone, hintslight, hintmedium, 혹은 hintfull"
+
+msgid "When TRUE, empty menu proxies for this action are hidden."
+msgstr "참이면, 이 동작에 대한 차림표대리기가 비여있는 경우 숨깁니다."
+
+msgid ""
+"When TRUE, toolitem proxies for this action are represented in the toolbar "
+"overflow menu."
+msgstr "참이면, 도구띠차림표에 넘쳐나는 도구항목지령을 표시합니다."
+
+msgid "When the horizontal scrollbar is displayed"
+msgstr "가로흘림띠가 표시될 때"
+
+msgid ""
+"When the menu is a submenu, position it this number of pixels offset "
+"horizontally"
+msgstr ""
+"차림표가 보조차림표일 경우, 가로방향의 위치를 이 화소수만큼의 편위로 합니다."
+
+msgid ""
+"When the menu is a submenu, position it this number of pixels offset "
+"vertically"
+msgstr ""
+"차림표가 보조차림표일 경우, 수직방향의 위치를 이 화소수만큼의 편의로 합니다."
+
+msgid "When the vertical scrollbar is displayed"
+msgstr "수직흘림띠가 표시될 때"
+
+msgid "Where the contents are located with respect to the scrollbars"
+msgstr "흘림띠에 따라 내용을 위치시킬 위치"
+
+msgid "Whether Tab will result in a tab character being entered"
+msgstr "타브를 누르면 타브문자가 입력되겠는가를 결정"
+
+msgid ""
+"Whether a file chooser in GTK_FILE_CHOOSER_ACTION_SAVE will present an "
+"overwrite confirmation dialog if the user selects a file name that already "
+"exists."
+msgstr ""
+"GTK_FILE_CHOOSER_ACTION_SAVE로 실행한 파일선택창문에서 사용자가 기존 파일과 "
+"같은 파일이름을 선택한 경우 덧쓰겠는가를 확인하는 대화창문를 표시합니다."
+
+msgid "Whether a palette should be used"
+msgstr "색상표를 사용하는가를 결정"
+
+msgid "Whether a spin button should wrap upon reaching its limits"
+msgstr "회전단추가 한계값에 도달하면 넘어가는가를 결정"
+
+msgid "Whether an empty value may be entered in this field"
+msgstr "이 마당에 값을 비워둘 수 있는가를 결정"
+
+msgid "Whether buttons for creating/manipulating files should be displayed"
+msgstr "파일 생성/조작단추를 표시하겠는가를 결정"
+
+msgid "Whether buttons in dialogs should use the alternative button order"
+msgstr "대화창의 단추에 다른 단추순서를 사용하겠는가를 결정"
+
+msgid ""
+"Whether default toolbars have text only, text and icons, icons only, etc."
+msgstr ""
+"도구띠에 기정값으로 본문만 쓸것인지, 본문과 그림기호를 쓸것인지, 그림기호만"
+"을 쓸것인지, 등."
+
+msgid "Whether dropdowns should have a tearoff menu item"
+msgstr "내리펼침차림표에 떼여내기차림표항목을 넣겠는가를 결정"
+
+msgid "Whether dropdowns should look like lists rather than menus"
+msgstr "내리펼침을 차림표가 아니라 목록처럼 표시하겠는가를 결정"
+
+msgid "Whether entered text overwrites existing contents"
+msgstr "입력한 본문이 기존 내용을 덧쓰겠는가를 결정"
+
+msgid "Whether entered values must already be present in the list"
+msgstr "입력된 값이 목록에 이미 있는 값이여야 하는가를 결정"
+
+msgid ""
+"Whether erroneous values are automatically changed to a spin button's "
+"nearest step increment"
+msgstr ""
+"잘못된 값이 자동으로 회전단추의 가장 가까운 단계증가값으로 변경될것인가를 결"
+"정"
+
+msgid ""
+"Whether extra space given to the child should be allocated to the child or "
+"used as padding"
+msgstr ""
+"자식창문부분품에 주어지는 추가여백이 자식창문부분품에 할당될것인가 혹은 여백"
+"으로 사용될것인가를 결정"
+
+msgid "Whether gtk_widget_show_all() should not affect this widget"
+msgstr "gtk_widget_show_all()이 이 창문부품에 영향을 미치지 않는가를 결정"
+
+msgid "Whether images should be shown in menus"
+msgstr "차림표에 그림을 표시하겠는가를 결정"
+
+msgid "Whether lines are wrapped at widget edges"
+msgstr "창문부품변두리에서 행을 바꾸겠는가를 결정"
+
+msgid "Whether list item matching is case sensitive"
+msgstr "목록항목을 맞춰 볼때 대/소문자를 구분할것인가"
+
+msgid ""
+"Whether menu accelerators can be changed by pressing a key over the menu item"
+msgstr "차림표항목우에서 건을 눌러 차림표지름건를 바꿀수 있는가를 결정"
+
+msgid "Whether non-numeric characters should be ignored"
+msgstr "수자가 아닌 문자를 무시하겠는가를 결정"
+
+msgid "Whether or not to give the color an alpha value"
+msgstr "색에 투명값을 사용하겠는가를 결정"
+
+msgid "Whether or not to keep all text in a single paragraph"
+msgstr "한 문절에 모든 본문이 들어가겠는가를 결정"
+
+msgid ""
+"Whether rows should be expanded/collapsed when the pointer moves over them"
+msgstr "지시자를 옮기면 그에 따라 행을 확장/축소하겠는가를 결정"
+
+msgid "Whether selected font size is shown in the label"
+msgstr "선택한 서체크기를 표식에 표시하겠는가를 결정"
+
+msgid "Whether spacers are vertical lines or just blank"
+msgstr "간격에 수직선을 그리겠는지 아니면 빈 칸을 그리겠는가를 결정"
+
+msgid "Whether stock icons should be shown in buttons"
+msgstr "단추에서 스토크그림기호를 표시하겠는가를 결정"
+
+msgid "Whether tabs should be shown or not"
+msgstr "타브를 보여주겠는가를 결정"
+
+msgid "Whether tabs should have homogeneous sizes"
+msgstr "타브크기가 균등한가를 결정"
+
+msgid "Whether tearoff menu items should be added to menus"
+msgstr "차림표에 떼여내기차림표항목을 추가하겠는가를 결정"
+
+msgid "Whether the action group is enabled."
+msgstr "이 동작그룹을 사용하겠는가를 결정."
+
+msgid "Whether the action group is visible."
+msgstr "동작그룹을 표시하겠는가를 결정"
+
+msgid ""
+"Whether the action is considered important. When TRUE, toolitem proxies for "
+"this action show text in GTK_TOOLBAR_BOTH_HORIZ mode."
+msgstr ""
+"이 동작이 중요한가를 결정. 참이면, 이 동작에 대한 도구항목대리기가"
+"GTK_TOOLBAR_BOTH_HORIZ 방식으로 본문을 표시합니다."
+
+msgid "Whether the action is enabled."
+msgstr "이 동작을 사용하겠는가를 결정."
+
+msgid "Whether the action is visible."
+msgstr "동작을 표시하겠는가를 결정."
+
+msgid ""
+"Whether the application supplied widget for custom previews should be shown."
+msgstr ""
+"응용프로그람에서 전용으로 제작한 미리보기창문부품을보기하겠는가를 결정."
+
+msgid "Whether the application will paint directly on the widget"
+msgstr "응용프로그람이 직접 창문부품에 그리겠는가를 결정"
+
+msgid "Whether the arrow keys move through the list of items"
+msgstr "화살건으로 항목목록사이를 이동할수 있겠는가를 결정"
+
+msgid ""
+"Whether the background color fills the entire line height or only the height "
+"of the tagged characters"
+msgstr ""
+"배경색으로 전체 행높이를 채울것인지, 아니면 표시된 문자의 높이만을 채울것인가"
+"를 결정"
+
+msgid "Whether the border should be shown or not"
+msgstr "경계를 보여주겠는가를 결정"
+
+msgid "Whether the button grabs focus when it is clicked with the mouse"
+msgstr "마우스로 누르면 단추에 초점이 가겠는가를 결정"
+
+msgid "Whether the child should receive extra space when the parent grows"
+msgstr "부모창문부품이 커질때 자식창문부품이 추가공간을 받겠는가를 결정."
+
+msgid "Whether the child's tab should fill the allocated area or not"
+msgstr "자식타브가 할당된 령역을 채우겠는가를 결정"
+
+msgid ""
+"Whether the child_displacement_x/_y properties should also affect the focus "
+"rectangle"
+msgstr "child_displacement_x/_y 속성이 초점령역에 영향을 미치는가를 결정"
+
+msgid "Whether the children should all be the same size"
+msgstr "자식창문부품이 모두 같은 크기를 가지는가를 결정."
+
+msgid "Whether the color selector should allow setting opacity"
+msgstr "색 선택기에서 투명도를 조정할수 있는가를 결정"
+
+msgid "Whether the column can be reordered around the headers"
+msgstr "머리부를 기준으로 렬의 순서를 바꾸겠는가를 결정"
+
+msgid "Whether the combo box draws a frame around the child"
+msgstr "내리펼침창에서 자식창문부품주위에 경계를 그리겠는가를 결정"
+
+msgid "Whether the combo box grabs focus when it is clicked with the mouse"
+msgstr "마우스로 누를때 내리펼침창에 초점이 가는가를 결정"
+
+msgid "Whether the common prefix should be inserted automatically"
+msgstr "공통된 앞붙이를 자동으로 입력하겠는가를 결정"
+
+msgid "Whether the completions should be shown in a popup window"
+msgstr "완성기능을 튀여나오기차림표로 표시하겠는가를 결정"
+
+msgid "Whether the current value is displayed as a string next to the slider"
+msgstr "현재값이 흘림띠옆에 문자렬로 표시되겠는가를 결정"
+
+msgid "Whether the cursor should blink"
+msgstr "유표를 깜박이겠는가를 결정"
+
+msgid "Whether the entry contents can be edited"
+msgstr "항목내용을 편집할수 있는가를 결정"
+
+msgid ""
+"Whether the event box is visible, as opposed to invisible and only used to "
+"trap events."
+msgstr ""
+"사건창문을 보이겠는가를 결정, 보이지 않는 사건창문은 사건를 잡는 용도로만 사"
+"용됩니다."
+
+msgid ""
+"Whether the event-trapping window of the eventbox is above the window of the "
+"child widget as opposed to below it."
+msgstr ""
+"사건잡기창문을 자식창문부품의 우에 놓겠는가를 결정. 거짓이면 자식창문부품의 "
+"밑에 놓습니다."
+
+msgid "Whether the expander has been opened to reveal the child widget"
+msgstr "자식창문부품을 보여주는데 쓰이는 확장단추가 열려있는가를 결정"
+
+msgid "Whether the header can be clicked"
+msgstr "머리부가 누르기가능한가를 결정"
+
+msgid "Whether the hidden files and folders should be displayed"
+msgstr "숨겨진 파일과 등록부를 표시하겠는가를 결정"
+
+msgid "Whether the input focus is within this GtkWindow"
+msgstr "입력초점이 GtkWindow에 있는가를 결정"
+
+msgid "Whether the item should be the same size as other homogeneous items"
+msgstr "도구항목들이 모두 같은 크기를 가지는가를 결정"
+
+msgid "Whether the item should receive extra space when the toolbar grows"
+msgstr "도구띠가 커질때 그 도구항목들이 추가공간을 받는가를 결정"
+
+msgid "Whether the label is drawn in the selected font"
+msgstr "선택한 서체로 표식을 그리겠는가를 결정"
+
+msgid "Whether the label is drawn with the selected font size"
+msgstr "선택한 크기로 표식을 그리겠는가를 결정"
+
+msgid "Whether the label is in single line mode"
+msgstr "표식이 한행방식인가를 결정"
+
+msgid "Whether the label text can be selected with the mouse"
+msgstr "표식본문을 마우스로 선택할수 있는가를 결정"
+
+msgid "Whether the menu item is checked"
+msgstr "차림표항목을 선택하겠는가를 결정"
+
+msgid "Whether the menu item looks like a radio menu item"
+msgstr "차림표항목을 라지오차림표항목처럼 보이게 하겠는가를 결정"
+
+msgid "Whether the pixbuf has an alpha channel"
+msgstr "화소완충기에 투명통로가 있는가를 결정"
+
+msgid ""
+"Whether the preview widget should take up the entire space it is allocated"
+msgstr "미리보기창문부품이 할당된 전체 공간을 차지해야 하는가를 결정"
+
+msgid "Whether the progress is shown as text"
+msgstr "진척과정을 본문으로 보겠는가를 결정"
+
+msgid "Whether the proxies for this action look like radio action proxies"
+msgstr "이 동작에 대한 대리기를 라지오동작 대리기모양처럼 하겠는가를 결정"
+
+msgid "Whether the rendered pixbuf should be colorized according to the state"
+msgstr "묘사한 화소완충기의 색이 상태를 따라가겠는가를 결정"
+
+msgid "Whether the selected file(s) should be limited to local file: URLs"
+msgstr "선택할 파일을 국부파일에만 제한되는가를 결정: URL"
+
+msgid "Whether the selected font style is shown in the label"
+msgstr "선택한 서체를 표식에 표시하겠는가를 결정"
+
+msgid "Whether the selection should follow the pointer"
+msgstr "지시자를 따라 선택되는가를 결정"
+
+msgid "Whether the separator is drawn, or just blank"
+msgstr "구분 표시를 그리겠는지 혹은 비워두겠는가를 결정합니다"
+
+msgid ""
+"Whether the spin button should update always, or only when the value is legal"
+msgstr ""
+"회전단추가 언제나 갱신되는지 혹은 그 값이 정확한 경우에만 갱신되는가를 결정’"
+
+msgid "Whether the statusbar has a grip for resizing the toplevel"
+msgstr "상태표시띠에 창문의 크기를 조절하는 그립을 넣겠는가를 결정"
+
+msgid "Whether the text can be modified by the user"
+msgstr "본문을 사용자가 수정할수 있는가를 결정"
+
+msgid ""
+"Whether the toolbar item is considered important. When TRUE, toolbar buttons "
+"show text in GTK_TOOLBAR_BOTH_HORIZ mode"
+msgstr ""
+"도구띠항목이 중요한가를 결정. 참이면, GTK_TOOLBAR_BOTH_HORIZ 방식에서 도구띠"
+"단추에 본문을 표시합니다"
+
+msgid ""
+"Whether the toolbar item is visible when the toolbar is in a horizontal "
+"orientation."
+msgstr "도구띠가 가로방향일때 도구띠항목을 표시하겠는가를 결정."
+
+msgid ""
+"Whether the toolbar item is visible when the toolbar is in a vertical "
+"orientation."
+msgstr "도구띠가 수직방향일때 도구띠항목을 표시하겠는가를 결정."
+
+msgid "Whether the toplevel is the current active window"
+msgstr "현재 활성화된 창문이 제일 웃준위의 창문부품인가를 결정"
+
+msgid "Whether the widget can accept the input focus"
+msgstr "창문부품이 입력초점을 가질수 있는가를 결정"
+
+msgid "Whether the widget can be the default widget"
+msgstr "창문부품이 기본 창문부품으로 될수 있겠는가를 결정"
+
+msgid "Whether the widget has the input focus"
+msgstr "창문부품이 입력초점을 받는가를 결정"
+
+msgid "Whether the widget is part of a composite widget"
+msgstr "창문부품이 여러개로 구성되여있는 창문부품의 한 부분인가를 결정"
+
+msgid "Whether the widget is the default widget"
+msgstr "창문부품이 기본 창문부품인가를 결정"
+
+msgid "Whether the widget is the focus widget within the toplevel"
+msgstr "제일 웃준위창문부품안의 초점창문부품인가를 결정"
+
+msgid "Whether the widget is visible"
+msgstr "창문부품을 보여주겠는가를 결정"
+
+msgid "Whether the widget responds to input"
+msgstr "창문부품이 입력에 반응하겠는가를 결정"
+
+msgid "Whether the window should be decorated by the window manager"
+msgstr "창문관리기에서 이 창문을 장식하겠는가를 결정"
+
+msgid "Whether this tag affects background height"
+msgstr "이 표적이 배경높이에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects indentation"
+msgstr "이 표적이 들여쓰기에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects line wrap mode"
+msgstr "이 표적이 행바꾸기방식에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects paragraph justification"
+msgstr "이 표적이 문절 행맞추기에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects strikethrough"
+msgstr "이 표적이 취소선에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects tabs"
+msgstr "이 표적이 타브에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects text editability"
+msgstr "이 표적이 본문편집가능에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects text visibility"
+msgstr "이 표적이 본문표시여부에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the background color"
+msgstr "이 표적이 배경색에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the background stipple"
+msgstr "이 표적이 배경점선에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the cell background color"
+msgstr "이 표적이 칸배경색에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the ellipsize mode"
+msgstr "이 표적이 행바꾸기에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font family"
+msgstr "이 표적이 서체종류에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font size"
+msgstr "이 표적이 서체크기에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font stretch"
+msgstr "이 표적이 서체늘이기에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font style"
+msgstr "이 표적이 서체종류에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font variant"
+msgstr "이 표적이 서체변형에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the font weight"
+msgstr "이 표적이 서체너비에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the foreground color"
+msgstr "이 표적이 글자색에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the foreground stipple"
+msgstr "이 표적이 글자점선에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the language the text is rendered as"
+msgstr "이 표적이 본문을 그리게 될 언어에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the left margin"
+msgstr "이 표적이 왼쪽여백에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the number of pixels above lines"
+msgstr "이 표적이 행우의 화소에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the number of pixels between wrapped lines"
+msgstr "이 표적이 행바꾸기한 행사이의 화소수에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the paragraph background color"
+msgstr "이 표적이 문절배경색에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the right margin"
+msgstr "이 표적이 오른쪽여백에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects the rise"
+msgstr "이 표적이 떠오름에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag affects underlining"
+msgstr "이 표적이 밑줄에 영향을 미치겠는가를 결정"
+
+msgid "Whether this tag scales the font size by a factor"
+msgstr "이 표적이 서체크기를 인수에 따라 조절하겠는가를 결정"
+
+msgid "Whether this text is hidden."
+msgstr "이 본문을 숨기겠는가를 결정."
+
+msgid ""
+"Whether to activate the default widget (such as the default button in a "
+"dialog) when Enter is pressed"
+msgstr ""
+"Enter 건을 눌렀을때 기정 창문부품을 활성화하겠는가를 결정  (대화창문의 기정 "
+"단추와 같이)"
+
+msgid "Whether to allow multiple files to be selected"
+msgstr "여러개 파일을 선택할수 있도록 허용하겠는가를 결정"
+
+msgid "Whether to antialias Xft fonts; 0=no, 1=yes, -1=default"
+msgstr "Xft 서체에 경계잡음제거를 사용하겠는가를 결정; 0=아니, 1=예, -1=기본값"
+
+msgid "Whether to display a stock label with the name of the previewed file."
+msgstr "미리보기파일의 이름을 재고표식에 보기하겠는가를 결정."
+
+msgid "Whether to display an \"inconsistent\" state"
+msgstr "\"모순된\" 상태를 표시하겠는가를 결정"
+
+msgid "Whether to display the column"
+msgstr "렬을 표시하겠는가를 결정"
+
+msgid "Whether to draw the focus indicator inside widgets"
+msgstr "창문부분안에 초점표시기를 그리겠는가를 결정"
+
+msgid "Whether to expand the child's tab or not"
+msgstr "보조타브를 확장하겠는가를 결정"
+
+msgid "Whether to hint Xft fonts; 0=no, 1=yes, -1=default"
+msgstr "Xft 서체에 기정을 사용하겠는가를 결정; 0=아니, 1=예, -1=기정값"
+
+msgid ""
+"Whether to put a separator between the message dialog's text and the buttons"
+msgstr "통보문대화창의 본문과 단추사이에 구분선을 놓겠는가를 결정"
+
+msgid "Whether to select the contents of an entry when it is focused"
+msgstr "초점이 갈때 항목의 내용을 선택하겠는가를 결정"
+
+msgid "Whether to show a sort indicator"
+msgstr "정렬표시기를 보여줄가를 결정"
+
+msgid "Whether to strike through the text"
+msgstr "본문에 취소선을 긋겠는가를 결정"
+
+msgid ""
+"Whether to use the value from the snap_edge property or a value derived from "
+"handle_position"
+msgstr ""
+"snap_edge 등록정보의 값을 사용할것인지 혹은 handle_position에서 얻은 값을 사"
+"용할것인가를 결정"
+
+msgid ""
+"Whether to wrap lines never, at word boundaries, or at character boundaries"
+msgstr "단어경계나, 문자경계에서 행을 바꾸지 않겠는가를 결정"
+
+msgid "Whether to wrap the license text."
+msgstr "허가규약본문을 행바꾸기 하겠는가를 결정."
+
+msgid ""
+"Whether two cursors should be displayed for mixed left-to-right and right-to-"
+"left text"
+msgstr ""
+"왼쪽에서 오른쪽으로 쓰는 본문과 오른쪽에서 왼쪽으로 쓰는 본문이 섞여있는 경"
+"우 두개의 유표를 표시해야 하는가를 결정"
+
+msgid "Whether words are wrapped at widget edges"
+msgstr "창문부품변두리에서 단어단위로 행을 바꾸겠는가를 결정"
+
+msgid "Which side of the notebook holds the tabs"
+msgstr "학습장의 어디에 타브를 놓겠는가를 결정"
+
+msgid "Widget"
+msgstr "창문부품"
+
+msgid "Widget name"
+msgstr "창문부품이름"
+
+msgid "Widget to put in column header button instead of column title"
+msgstr "렬제목대신에 렬머리부단추안에 넣을 창문부품"
+
+msgid "Widget to use as the item label"
+msgstr "항목표식으로 사용할 창문부품"
+
+msgid "Width"
+msgstr "너비"
+
+msgid "Width In Characters"
+msgstr "너비 (문자단위)"
+
+msgid "Width for each item"
+msgstr "매 항목의 너비"
+
+msgid "Width in chars"
+msgstr "너비문자수"
+
+msgid "Width of border around the button area at the bottom of the dialog"
+msgstr "대화창 아래의 단추령역주위의 테두리 너비"
+
+msgid "Width of border around the label and image in the message dialog"
+msgstr "통보문대화창에서 표식과 화상주위의 테두리 너비"
+
+msgid "Width of border around the main dialog area"
+msgstr "기본 대화창령역주위 테두리의 너비"
+
+msgid "Width of handle"
+msgstr "조종기의 너비"
+
+msgid "Width of scrollbar or scale thumb"
+msgstr "흘림띠 혹은 범위흘림칸의 너비"
+
+msgid "Width of the border around the tab labels"
+msgstr "타브표식주위의 테두리너비"
+
+msgid "Width of the horizontal border of tab labels"
+msgstr "타브표식의 가로테두리의 너비"
+
+msgid "Width of the left margin in pixels"
+msgstr "왼쪽여백의 너비 (화소단위)"
+
+msgid "Width of the right margin in pixels"
+msgstr "오른쪽여백의 너비 (화소단위)"
+
+msgid "Width of the vertical border of tab labels"
+msgstr "타브표식의 수직테두리의 폭"
+
+msgid "Width request"
+msgstr "너비 요청"
+
+msgid "Width, in pixels, between focus indicator and the widget 'box'"
+msgstr "초점표시기와 창문부품'칸' 사이의 거리 (화소단위)"
+
+msgid "Width, in pixels, of the focus indicator line"
+msgstr "초점표시기 행의 너비 (화소단위)."
+
+msgid "Window Placement"
+msgstr "창문위치"
+
+msgid "Window Position"
+msgstr "창문위치"
+
+msgid "Window Role"
+msgstr "창문 역할"
+
+msgid "Window Title"
+msgstr "창문 제목"
+
+msgid "Window Type"
+msgstr "창문 형"
+
+msgid "Word Wrap"
+msgstr "단어잘림 방지"
+
+msgid "Wrap"
+msgstr "넘어감"
+
+msgid "Wrap Mode"
+msgstr "행바꾸기 방식"
+
+msgid "Wrap license"
+msgstr "허가 행바꾸기"
+
+msgid "Wrap mode"
+msgstr "행바꾸기 방식"
+
+msgid "Wrap mode set"
+msgstr "행바꾸기방식 설정"
+
+msgid "Wrap width"
+msgstr "행바꾸기 너비"
+
+msgid "Wrap width for layouting the items in a grid"
+msgstr "매 항목을 살창에 배치할때 행바꾸기 너비"
+
+msgid "X Alignment of the column header text or widget"
+msgstr "렬머리부본문 혹은 창문부품의 가로 정돈"
+
+msgid "X align"
+msgstr "가로정돈"
+
+msgid "X alignment of the child"
+msgstr "자식창문부품의 X 정돈"
+
+msgid "X pad"
+msgstr "가로여백"
+
+msgid "X position"
+msgstr "가로위치"
+
+msgid "X position of child widget"
+msgstr "자식창문부품의 가로위치"
+
+msgid "Xft Antialias"
+msgstr "Xft 경계잡음제거"
+
+msgid "Xft DPI"
+msgstr "Xft DPI"
+
+msgid "Xft Hint Style"
+msgstr "Xft 암시 형식"
+
+msgid "Xft Hinting"
+msgstr "Xft 암시"
+
+msgid "Xft RGBA"
+msgstr "Xft RGBA"
+
+msgid "Y align"
+msgstr "세로정돈"
+
+msgid "Y alignment of the child"
+msgstr "자식창문부분품의 Y 정돈"
+
+msgid "Y pad"
+msgstr "세로여백"
+
+msgid "Y position"
+msgstr "세로위치"
+
+msgid "Y position of child widget"
+msgstr "자식창문부품의 세로위치"
+
+msgid "Year"
+msgstr "년"
+
+msgid "height"
+msgstr "높이"
+
+msgid "mode"
+msgstr "방식"
+
+msgid "the GdkScreen for the renderer"
+msgstr "묘사기가 사용할 GdkScreen"
+
+msgid "visible"
+msgstr "보이기"
+
+msgid "width"
+msgstr "너비"
+
+msgid "xalign"
+msgstr "가로정돈"
+
+msgid "xpad"
+msgstr "가로여백"
+
+msgid "yalign"
+msgstr "세로정돈"
+
+msgid "ypad"
+msgstr "세로여백"
