@@ -1,0 +1,1 @@
+# redstaros_3.0_japanese
