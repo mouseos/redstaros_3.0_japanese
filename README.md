@@ -1,4 +1,4 @@
-# redstaros_3.0_japanese
+# redstaros_3.0_japanese(この方法では動作しません)
 
 ## stage2.imgを展開
 ```bash
