@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-02 20:54-0500\n"
+"PO-Revision-Date: 2022-07-25 15:54+0900\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid ""
+"%s\n"
+"\n"
+"%s:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"An unhandled exception has occurred.  This is most likely a bug.  Please "
+"save the crash dump and file a detailed bug report against %s at https://"
+"bugzilla.redhat.com/bugzilla"
+msgstr ""
+
+msgid "Error parsing line: %s"
+msgstr "行の解析エラー：％s"
+
+msgid "Error: %s: %s"
+msgstr "エラー：％s：％s"
+
+msgid "Exception Occurred"
+msgstr "例外が発生しました"
+
+msgid "Failed to write to file %s."
+msgstr "ファイル％sへの書き込みに失敗しました。"
+
+msgid "Specify a file to save the dump"
+msgstr "ダンプを保存するファイルを指定します"
+
+msgid ""
+"The application's state has been successfully\n"
+"written to the file '%s'."
+msgstr ""
+
+msgid "_Debug"
+msgstr "_デバッグ"
+
+msgid "_Save to file"
+msgstr "_ファイルに保存"
+
+msgid "keyboard|Arabic (azerty)"
+msgstr "キーボード|アラビア語（azerty）"
+
+msgid "keyboard|Arabic (azerty/digits)"
+msgstr "キーボード|アラビア語（AZERTY /桁）"
+
+msgid "keyboard|Arabic (digits)"
+msgstr "キーボード|アラビア語（数字）"
+
+msgid "keyboard|Arabic (qwerty)"
+msgstr "キーボード|アラビア語（qwerty）"
+
+msgid "keyboard|Arabic (qwerty/digits)"
+msgstr "キーボード|アラビア語（qwerty / Digits）"
+
+msgid "keyboard|Belgian (be-latin1)"
+msgstr "キーボード|ベルギー語（be-latin1）"
+
+msgid "keyboard|Bengali (Inscript)"
+msgstr "キーボード|ベンガル語（碑文）"
+
+msgid "keyboard|Bengali (Probhat)"
+msgstr "キーボード|ベンガル語（Probhat）"
+
+msgid "keyboard|Brazilian (ABNT2)"
+msgstr "キーボード|ブラジル（ABNT2）"
+
+msgid "keyboard|Bulgarian"
+msgstr "キーボード|ブルガリア語"
+
+msgid "keyboard|Croatian"
+msgstr "キーボード|クロアチア語"
+
+msgid "keyboard|Czechoslovakian"
+msgstr "キーボード|チェコスロバキア"
+
+msgid "keyboard|Czechoslovakian (qwertz)"
+msgstr "キーボード|チェコスロバキア（qwertz）"
+
+msgid "keyboard|Danish"
+msgstr "キーボード|デンマーク語"
+
+msgid "keyboard|Danish (latin1)"
+msgstr "キーボード|デンマーク語（latin1）"
+
+msgid "keyboard|Devanagari (Inscript)"
+msgstr "キーボード|デーヴァナーガリー（碑文）"
+
+msgid "keyboard|Dutch"
+msgstr "キーボード|オランダ語"
+
+msgid "keyboard|Dvorak"
+msgstr "キーボード| Dvorak"
+
+msgid "keyboard|Estonian"
+msgstr "キーボード|エストニア語"
+
+msgid "keyboard|Finnish"
+msgstr "キーボード|フィンランド語"
+
+msgid "keyboard|Finnish (latin1)"
+msgstr "キーボード|フィンランド語（latin1）"
+
+msgid "keyboard|French"
+msgstr "キーボード|フランス語"
+
+msgid "keyboard|French (latin1)"
+msgstr "キーボード|フランス語（latin1）"
+
+msgid "keyboard|French (latin9)"
+msgstr "キーボード|フランス語（latin9）"
+
+msgid "keyboard|French (pc)"
+msgstr "キーボード|フランス語（pc）"
+
+msgid "keyboard|French Canadian"
+msgstr "キーボード|フランス系カナダ人"
+
+msgid "keyboard|German"
+msgstr "キーボード|ドイツ語"
+
+msgid "keyboard|German (latin1 w/ no deadkeys)"
+msgstr "キーボード|ドイツ語（latin1、デッドキーなし）"
+
+msgid "keyboard|German (latin1)"
+msgstr "キーボード|ドイツ語（latin1）"
+
+msgid "keyboard|Greek"
+msgstr "キーボード|ギリシャ語"
+
+msgid "keyboard|Gujarati (Inscript)"
+msgstr "キーボード|グジャラート語（碑文）"
+
+msgid "keyboard|Hungarian"
+msgstr "キーボード|ハンガリー語"
+
+msgid "keyboard|Hungarian (101 key)"
+msgstr "キーボード|ハンガリー語（101キー）"
+
+msgid "keyboard|Icelandic"
+msgstr "キーボード|アイスランド語"
+
+msgid "keyboard|Italian"
+msgstr "キーボード|イタリア語"
+
+msgid "keyboard|Italian (IBM)"
+msgstr "キーボード|イタリア語（IBM）"
+
+msgid "keyboard|Italian (it2)"
+msgstr "キーボード|イタリア語（it2）"
+
+msgid "keyboard|Japanese"
+msgstr "キーボード|日本語"
+
+msgid "keyboard|Korean"
+msgstr "キーボード|韓国語"
+
+msgid "keyboard|Latin American"
+msgstr "キーボード|ラテンアメリカ"
+
+msgid "keyboard|Macedonian"
+msgstr "キーボード|マケドニア語"
+
+msgid "keyboard|Norwegian"
+msgstr "キーボード|ノルウェー語"
+
+msgid "keyboard|Polish"
+msgstr "キーボード|ポリッシュ"
+
+msgid "keyboard|Portuguese"
+msgstr "キーボード|ポルトガル語"
+
+msgid "keyboard|Punjabi (Inscript)"
+msgstr "キーボード|パンジャブ語（碑文）"
+
+msgid "keyboard|Romanian"
+msgstr "キーボード|ルーマニア語"
+
+msgid "keyboard|Russian"
+msgstr "キーボード|ロシア語"
+
+msgid "keyboard|Russian (Microsoft)"
+msgstr "キーボード|ロシア語（Microsoft）"
+
+msgid "keyboard|Russian (cp1251)"
+msgstr "キーボード|ロシア語（cp1251）"
+
+msgid "keyboard|Russian (ru1)"
+msgstr "キーボード|ロシア語（ru1）"
+
+msgid "keyboard|Russian (ru2)"
+msgstr "キーボード|ロシア語（ru2）"
+
+msgid "keyboard|Russian (utf8ru)"
+msgstr "キーボード|ロシア語（utf8ru）"
+
+msgid "keyboard|Russian (win)"
+msgstr "キーボード|ロシア語（勝利）"
+
+msgid "keyboard|Serbian"
+msgstr "キーボード|セルビア語"
+
+msgid "keyboard|Slovakian"
+msgstr "キーボード|スロバキア語"
+
+msgid "keyboard|Slovenian"
+msgstr "キーボード|スロベニア語"
+
+msgid "keyboard|Spanish"
+msgstr "キーボード|スペイン語"
+
+msgid "keyboard|Swedish"
+msgstr "キーボード|スウェーデン語"
+
+msgid "keyboard|Swiss French"
+msgstr "キーボード|スイスフランス語"
+
+msgid "keyboard|Swiss French (latin1)"
+msgstr "キーボード|スイスフランス語（latin1）"
+
+msgid "keyboard|Swiss German"
+msgstr "キーボード|スイスドイツ語"
+
+msgid "keyboard|Swiss German (latin1)"
+msgstr "キーボード|スイスドイツ語（latin1）"
+
+msgid "keyboard|Tamil (Inscript)"
+msgstr "キーボード|タミル語（碑文）"
+
+msgid "keyboard|Tamil (Typewriter)"
+msgstr "キーボード|タミル語（タイプライター）"
+
+msgid "keyboard|Turkish"
+msgstr "キーボード|トルコ語"
+
+msgid "keyboard|U.S. English"
+msgstr "キーボード|米国"
+
+msgid "keyboard|U.S. International"
+msgstr "キーボード|米国"
+
+msgid "keyboard|Ukrainian"
+msgstr "キーボード|ウクライナ語"
+
+msgid "keyboard|United Kingdom"
+msgstr "キーボード|イギリス"

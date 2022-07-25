@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-03-06 15:13-0500\n"
+"PO-Revision-Date: 2022-07-25 15:56+0900\n"
+"Last-Translator: \n"
+"Language-Team: Korean\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid " X server started successfully."
+msgstr " Xサーバーが正常に起動しました。"
+
+msgid "%d by %d dots per inch"
+msgstr "％d x％dドット/インチ"
+
+msgid "2 Button Mouse (PS/2)"
+msgstr "2ボタンマウス（PS / 2）"
+
+msgid "2 Button Mouse (USB)"
+msgstr "2ボタンマウス（USB）"
+
+msgid "2 Button Mouse (serial)"
+msgstr "2ボタンマウス（シリアル）"
+
+msgid "3 Button Mouse (PS/2)"
+msgstr "3ボタンマウス（PS / 2）"
+
+msgid "3 Button Mouse (USB)"
+msgstr "3ボタンマウス（USB）"
+
+msgid "3 Button Mouse (serial)"
+msgstr "3ボタンマウス（シリアル）"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "Attempting to start VESA driver X server"
+msgstr "VESAドライバーXサーバーを起動しようとしています"
+
+msgid "Attempting to start frame buffer X server"
+msgstr "フレームバッファXサーバーを起動しようとしています"
+
+msgid "Attempting to start native X server"
+msgstr "ネイティブXサーバーを起動しようとしています"
+
+msgid "Attempting to start native X server using resolution %sx%s"
+msgstr "解像度％sx％sを使用してネイティブXサーバーを起動しようとしています"
+
+msgid "C7 Mouse (serial, old C7 type)"
+msgstr "C7マウス（シリアル、旧C7タイプ）"
+
+msgid "CC Series (serial)"
+msgstr "CCシリーズ（シリアル）"
+
+msgid "Compatible Mouse (serial)"
+msgstr "互換性のあるマウス（シリアル）"
+
+msgid "Generic"
+msgstr "ジェネリック"
+
+msgid "Genius"
+msgstr "天才"
+
+msgid "IntelliMouse (serial)"
+msgstr "IntelliMouse（シリアル）"
+
+msgid "Kensington"
+msgstr "ケンジントン"
+
+msgid "Logitech"
+msgstr "ロジクール"
+
+msgid "MM"
+msgstr ""
+
+msgid "MM HitTablet (serial)"
+msgstr "MM HitTablet（シリアル）"
+
+msgid "MM Series (serial)"
+msgstr "MMシリーズ（シリアル）"
+
+msgid "Microsoft"
+msgstr "マイクロソフト"
+
+msgid "MieMouse (serial)"
+msgstr "MieMouse（シリアル）"
+
+msgid "Mouse"
+msgstr "マウス"
+
+msgid "Mouse (serial)"
+msgstr "マウス（シリアル）"
+
+msgid "Mouse Not Detected"
+msgstr "マウスが検出されない"
+
+msgid "Mouse Systems"
+msgstr "マウスシステムズ"
+
+msgid "MouseMan+/FirstMouse+ (serial)"
+msgstr "MouseMan / FirstMouse（シリアル）"
+
+msgid "MouseMan/FirstMouse (serial)"
+msgstr "MouseMan / FirstMouse（シリアル）"
+
+msgid "NetMouse (serial)"
+msgstr "NetMouse（シリアル）"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Probing for monitor type:   %s"
+msgstr "モニタータイプのプローブ：％s"
+
+msgid "Probing for video card:   %s"
+msgstr "ビデオカードのプロービング：％s"
+
+msgid "Probing monitor"
+msgstr "プロービングモニター"
+
+msgid "Probing videocard"
+msgstr "ビデオカードのプロービング"
+
+msgid "Rev 2.1A or higher (serial)"
+msgstr "Rev 2.1A以降（シリアル）"
+
+msgid "Scan for mouse"
+msgstr "マウスをスキャンする"
+
+msgid "Sun"
+msgstr "日"
+
+msgid "Synaptics"
+msgstr "シナプティクス"
+
+msgid "Synaptics Touchpad"
+msgstr "シナプティクスタッチパッド"
+
+msgid "Thinking Mouse (serial)"
+msgstr "Thinking Mouse（シリアル）"
+
+msgid "Unable to probe"
+msgstr "プローブできません"
+
+msgid "Unknown"
+msgstr "不明"
+
+msgid "Use text mode"
+msgstr "テキストモードを使用する"
+
+msgid "Waiting for X server to start...log located in /tmp/X.log\n"
+msgstr "Xサーバーが起動するのを待っています.../tmp/X.logにあるログ\n"
+
+msgid "Wheel Mouse (PS/2)"
+msgstr "ホイールマウス（PS / 2）"
+
+msgid "Wheel Mouse (USB)"
+msgstr "ホイールマウス（USB）"
+
+msgid ""
+"Your mouse was not automatically detected.  To proceed in the graphical "
+"installation mode, please proceed to the next screen and provide your mouse "
+"information. You may also use text mode installation which does not require "
+"a mouse. "
+msgstr ""
+
+msgid ""
+"Your mouse was not automatically detected.  To proceed in the graphical "
+"installation mode, please proceed to the next screen and provide your mouse "
+"information. You may also use text mode installation which does not require "
+"a mouse. Optionally you can have the system probe for a mouse again."
+msgstr ""

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ko\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2006-02-13 13:24-0500\n"
-"PO-Revision-Date: 2022-07-24 17:54+0900\n"
+"PO-Revision-Date: 2022-07-25 15:33+0900\n"
 "Last-Translator: \n"
 "Language-Team: <en@li.org>\n"
 "Language: ja_JP\n"
@@ -18,30 +18,47 @@ msgid ""
 "\n"
 "Press 'OK' to reboot your system."
 msgstr ""
+"\n"
+"\n"
+"OKを押して、システムを再起動します。"
 
 msgid ""
 "\n"
 "\n"
 "The following packages were available in this version but NOT installed:\n"
 msgstr ""
+"\n"
+"\n"
+"次のパッケージは、このバージョンで利用可能ですが、インストールされていませ"
+"ん。\n"
 
 msgid ""
 "\n"
 "\n"
 "The following packages were available in this version but NOT upgraded:\n"
 msgstr ""
+"\n"
+"\n"
+"以下のパッケージは、このバージョンで利用可能でしたが、アップグレードされてい"
+"ません。\n"
 
 msgid ""
 "\n"
 "\n"
 "The installer has detected %s MB of RAM.\n"
 msgstr ""
+"\n"
+"\n"
+"インストーラは、%s MBのRAMを検出しました。\n"
 
 msgid ""
 "\n"
 "\n"
 "WARNING! ALL DATA ON THE TARGET DRIVES WILL BE DESTROYED."
 msgstr ""
+"\n"
+"\n"
+"警告!ターゲット・ドライブ上のすべてのデータが破壊されます。"
 
 msgid ""
 "\n"
@@ -51,6 +68,14 @@ msgid ""
 "if you would like to secure the server.\n"
 "\n"
 msgstr ""
+"\n"
+"\n"
+"警告!!!VNCサーバーがパスワードなしで動作しています！\n"
+"サーバーを安全にしたい場合は、vncpassword=<password>ブートオプションを使用す"
+"ることができます。\n"
+"を使用することができます。\n"
+"\n"
+"</password>\n"
 
 msgid ""
 "\n"
@@ -60,6 +85,12 @@ msgid ""
 "\n"
 "Press 'OK' to continue."
 msgstr ""
+"\n"
+"\n"
+"別の自動パーティショニングオプションを選択するか、「戻る」をクリックして手動"
+"パーティショニングを選択することができます。\n"
+"\n"
+"OKを押して続行します。"
 
 msgid "        Time"
 msgstr "時間"
@@ -69,7 +100,7 @@ msgstr "バイト"
 
 msgid ""
 "    F1-Help     F2-New      F3-Edit   F4-Delete    F5-Reset    F12-OK        "
-msgstr ""
+msgstr "    F1-ヘルプ F2-新規作成 F3-編集 F4-削除 F5-リセット F12-OK        "
 
 msgid "    Packages"
 msgstr "パッケージ"
@@ -77,19 +108,20 @@ msgstr "パッケージ"
 msgid ""
 "  <Tab>/<Alt-Tab> between elements   |  <Space> selects   |  <F12> next "
 "screen"
-msgstr ""
+msgstr "  <Tab>/<Alt-Tab> 要素間｜<Space> 選択｜<F12> 次画面表示"
 
 msgid ""
 "  <Tab>/<Alt-Tab> between elements  | <Space> selects | <F12> next screen "
-msgstr ""
+msgstr "  <Tab>/<Alt-Tab> 要素間｜<Space> 選択｜<F12> 次画面表示 "
 
 msgid ""
 " <F1> for help | <Tab> between elements | <Space> selects | <F12> next screen"
-msgstr ""
+msgstr " <F1>でヘルプ｜<Tab>で要素間｜<Space>で選択｜<F12>で次の画面"
 
 msgid ""
 " <Space> selects button | <F2> select default boot entry | <F12> next screen>"
 msgstr ""
+" <Space> ボタン選択｜<F2> デフォルトブートエントリ選択｜<F12> 次の画面｜など"
 
 msgid " Name   : "
 msgstr "名前："
@@ -135,12 +167,18 @@ msgid ""
 "\n"
 "   %s"
 msgstr ""
+"画像には %s\n"
+"\n"
+"   %s"
 
 msgid ""
 "%s is a wireless network adapter.  Please provide the ESSID and encryption "
 "key needed to access your wireless network.  If no key is needed, leave this "
 "field blank and the install will continue."
 msgstr ""
+"%s はワイヤレスネットワークアダプターです。 ワイヤレスネットワークにアクセス"
+"するために必要なESSIDと暗号化キーを入力してください。 キーが必要ない場合は、"
+"このフィールドを空白のままにしておくと、インストールが続行されます。"
 
 msgid "%s is not a valid hostname."
 msgstr "％sは有効なホスト名ではありません。"
@@ -161,6 +199,11 @@ msgid ""
 "\n"
 "Would you like to format this drive?"
 msgstr ""
+"/dev/%s には現在 %s パーティション・レイアウトがあります。 このディスクを %s "
+"のインストールに使用するには、再初期化する必要があり、このドライブのすべての"
+"データが失われます。\n"
+"\n"
+"このドライブをフォーマットしますか？"
 
 msgid ""
 "/dev/%s has a partition type of 0x82 (Linux swap) but does not appear to be "
@@ -168,6 +211,10 @@ msgid ""
 "\n"
 "Would you like to format this partition as a swap partition?"
 msgstr ""
+"/dev/%s はパーティションタイプが 0x82 (Linux swap) ですが、Linux swap パー"
+"ティションとしてフォーマットされていないようです。\n"
+"\n"
+"このパーティションをスワップパーティションとしてフォーマットしますか？"
 
 msgid "/dev/ttyS0 (COM1 under DOS)"
 msgstr "/ dev / ttyS0（DOSではCOM1）"
@@ -413,8 +460,9 @@ msgid ""
 "exception and file a bug report to 'RedStar' Team"
 msgstr ""
 
+#, fuzzy
 msgid "Apple Bootstrap"
-msgstr ""
+msgstr "AppleBootstrapパーティションを作成する必要があります。"
 
 msgid "Are you sure you want to Delete the logical volume \"%s\"?"
 msgstr "論理ボリューム \"％s \"を削除してもよろしいですか？"
@@ -786,11 +834,12 @@ msgstr ""
 "たパーティションをプライマリパーティションとして割り当てることができませんで"
 "した"
 
+#, fuzzy
 msgid ""
 "Could not allocate requested partitions: \n"
 "\n"
 "%s.%s"
-msgstr ""
+msgstr "要求されたパーティションを割り当てることができませんでした：％s。"
 
 msgid "Could not allocate requested partitions: %s."
 msgstr "要求されたパーティションを割り当てることができませんでした：％s。"
@@ -942,8 +991,12 @@ msgstr "ラベルが重複しています"
 msgid "Dynamic IP"
 msgstr "ダイナミックIP"
 
+#, fuzzy
 msgid "ESSID"
 msgstr ""
+"%s はワイヤレスネットワークアダプターです。 ワイヤレスネットワークにアクセス"
+"するために必要なESSIDと暗号化キーを入力してください。 キーが必要ない場合は、"
+"このフィールドを空白のままにしておくと、インストールが続行されます。"
 
 msgid "Edit"
 msgstr "編集"
@@ -1139,8 +1192,9 @@ msgstr "FCPデバイス"
 msgid "FCP Devices"
 msgstr "FCPデバイス"
 
+#, fuzzy
 msgid "FCP LUN"
-msgstr ""
+msgstr "FCP LUNを指定していないか、番号が無効です。"
 
 msgid "FTP Setup"
 msgstr "FTPセットアップ"
@@ -1763,10 +1817,11 @@ msgstr "マウント"
 msgid "Mount Point"
 msgstr "マウントポイント"
 
+#, fuzzy
 msgid ""
 "Mount Point/\n"
 "RAID/Volume"
-msgstr ""
+msgstr "無効なマウントポイント"
 
 msgid "Mount Point:"
 msgstr "マウントポイント："
@@ -2119,10 +2174,11 @@ msgid ""
 "critical part of system security!"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "Please choose how you would like to prepare the file system on this "
 "partition."
-msgstr ""
+msgstr "このパーティションでファイルシステムをどのように準備しますか？"
 
 msgid "Please connect to %s to begin the install..."
 msgstr "インストールを開始するには％sに接続してください..."
@@ -2238,8 +2294,9 @@ msgstr "アップグレードを続行しますか？"
 msgid "Processing"
 msgstr "処理中"
 
+#, fuzzy
 msgid "RAID"
-msgstr ""
+msgstr "RAIDデバイス"
 
 msgid "RAID Device"
 msgstr "RAIDデバイス"
@@ -2274,8 +2331,9 @@ msgstr ""
 msgid "Re_set"
 msgstr "リセット"
 
+#, fuzzy
 msgid "Re_try"
-msgstr ""
+msgstr "リセット"
 
 msgid "Re_view and modify partitioning layout"
 msgstr "パーティショニングレイアウトを再表示および変更します"
@@ -2301,17 +2359,20 @@ msgstr "再起動しますか？"
 msgid "Rebooting System"
 msgstr "システムの再起動"
 
+#, fuzzy
 msgid "Red Hat Enterprise Linux AS"
-msgstr ""
+msgstr "Red HatEnterpriseLinuxデスクトップ"
 
 msgid "Red Hat Enterprise Linux Desktop"
 msgstr "Red HatEnterpriseLinuxデスクトップ"
 
+#, fuzzy
 msgid "Red Hat Enterprise Linux ES"
-msgstr ""
+msgstr "Red HatEnterpriseLinuxデスクトップ"
 
+#, fuzzy
 msgid "Red Hat Enterprise Linux WS"
-msgstr ""
+msgstr "Red HatEnterpriseLinuxデスクトップ"
 
 msgid "Reinstall System"
 msgstr "システムを再インストールします"
@@ -2440,14 +2501,16 @@ msgstr "実行中..."
 msgid "SCSI Id"
 msgstr "SCSI ID"
 
+#, fuzzy
 msgid "SCSI LUN"
-msgstr ""
+msgstr "SCSI LUNを指定していないか、番号が無効です。"
 
 msgid "SIZE"
 msgstr "サイズ"
 
+#, fuzzy
 msgid "STATE"
-msgstr ""
+msgstr "状態"
 
 msgid "Save"
 msgstr "保存"
@@ -2552,16 +2615,18 @@ msgstr "ホスト名を設定します："
 msgid "Setup Networking"
 msgstr "ネットワークのセットアップ"
 
+#, fuzzy
 msgid "Show _Help"
-msgstr ""
+msgstr "_ヘルプ"
 
 msgid "Size"
 msgstr "サイズ"
 
+#, fuzzy
 msgid ""
 "Size\n"
 "(MB)"
-msgstr ""
+msgstr "サイズ（MB）"
 
 msgid "Size %sGB"
 msgstr "サイズ％sGB"
@@ -2672,8 +2737,9 @@ msgstr "ターゲットドライブ："
 msgid "Target IP address:"
 msgstr "ターゲットIPアドレス："
 
+#, fuzzy
 msgid "Telnet"
-msgstr ""
+msgstr "telnet経由でanacondaを実行しています..."
 
 msgid "Tertiary DNS"
 msgstr "3次DNS"
@@ -2889,11 +2955,12 @@ msgid ""
 "Would you like to continue with your requested partitioning scheme?"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "The hostname is not valid for the following reason:\n"
 "\n"
 "%s"
-msgstr ""
+msgstr "％sは有効なホスト名ではありません。"
 
 msgid ""
 "The image which was just tested has errors. This could be due to a corrupt "
@@ -2939,11 +3006,12 @@ msgstr ""
 msgid "The maximum number of spares with a RAID0 array is 0."
 msgstr "RAID0アレイのスペアの最大数は0です。"
 
+#, fuzzy
 msgid ""
 "The media check %s\n"
 "\n"
 "%s"
-msgstr ""
+msgstr "メディアチェック結果"
 
 msgid ""
 "The mount point \"%s\" is already in use, please choose a different mount "
@@ -3600,10 +3668,11 @@ msgstr "％sへようこそ"
 msgid "Welcome to %s - Rescue Mode"
 msgstr "％sへようこそ-レスキューモード"
 
+#, fuzzy
 msgid ""
 "Welcome to %s!\n"
 "\n"
-msgstr ""
+msgstr "％sへようこそ"
 
 msgid "What device is your mouse located on?"
 msgstr "マウスはどのデバイスにありますか？"
@@ -3697,9 +3766,12 @@ msgstr ""
 "既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
 "既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
 
+#, fuzzy
 msgid ""
 "Would you like to update the preexisting bootloader or install the new one?"
 msgstr ""
+"既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
+"既存のシステムを更新しますか、それとも新しいシステムをインストールしますか？"
 
 msgid "Wrong CDROM"
 msgstr "間違ったCDROM"
@@ -3742,8 +3814,9 @@ msgstr "システムをパーティション'％s'にインストールしよう
 msgid "You are about to install RedStar3.0 bootloader"
 msgstr "RedStar3.0ブートローダーをインストールしようとしています"
 
+#, fuzzy
 msgid "RedStar3.0"
-msgstr ""
+msgstr "RedStar3.0ブートローダーをインストールしようとしています"
 
 msgid ""
 "You can configure the boot loader to boot other operating systems. It will "
@@ -3769,20 +3842,22 @@ msgid ""
 "contains %s"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "You cannot delete this partition:\n"
 "\n"
-msgstr ""
+msgstr "LDL形式のDASDのパーティションを削除することはできません。"
 
 msgid ""
 "You cannot edit this partition, as it is an extended partition which "
 "contains %s"
 msgstr ""
 
+#, fuzzy
 msgid ""
 "You cannot edit this partition:\n"
 "\n"
-msgstr ""
+msgstr "編集するパーティションを選択する必要があります"
 
 msgid ""
 "You cannot remove this physical volume because otherwise the volume group "
@@ -4059,8 +4134,12 @@ msgstr "_削除"
 msgid "_Device"
 msgstr "_デバイス"
 
+#, fuzzy
 msgid "_ESSID"
 msgstr ""
+"%s はワイヤレスネットワークアダプターです。 ワイヤレスネットワークにアクセス"
+"するために必要なESSIDと暗号化キーを入力してください。 キーが必要ない場合は、"
+"このフィールドを空白のままにしておくと、インストールが続行されます。"
 
 msgid "_Edit"
 msgstr "_編集"
@@ -4095,8 +4174,9 @@ msgstr "_ヘルプ"
 msgid "_Install %s"
 msgstr "_インストール％s"
 
+#, fuzzy
 msgid "_LVM"
-msgstr ""
+msgstr "LVMボリュームグループの編集：％s"
 
 msgid "_Logical Volume Name:"
 msgstr "_論理ボリューム名："
@@ -4359,8 +4439,12 @@ msgstr "ナムポ"
 msgid "Network Setup"
 msgstr "ネットワーク設定"
 
+#, fuzzy
 msgid "OK"
 msgstr ""
+"\n"
+"\n"
+"OKを押して、システムを再起動します。"
 
 msgid "Phone Number"
 msgstr "電話番号"
@@ -4419,8 +4503,9 @@ msgstr ""
 msgid "Timezone"
 msgstr "タイムゾーン"
 
+#, fuzzy
 msgid "TimeZone"
-msgstr ""
+msgstr "タイムゾーン"
 
 msgid "To finish setting up your computer, you need to set the date and time"
 msgstr ""
@@ -4464,11 +4549,13 @@ msgstr "_ユーザー名："
 msgid "Please select the nearest city in your time zone."
 msgstr "タイムゾーンで最も近い都市を選択してください。"
 
+#, fuzzy
 msgid "AM"
-msgstr ""
+msgstr "Sh"
 
+#, fuzzy
 msgid "PM"
-msgstr ""
+msgstr "Sh"
 
 msgid "Apply"
 msgstr "適用"
@@ -5949,8 +6036,9 @@ msgstr "メニューバーに日付と時刻を表示する"
 msgid "Show the day of the wee&k"
 msgstr "おしっこの日を表示"
 
+#, fuzzy
 msgid "Singapore - Singapore"
-msgstr ""
+msgstr "アジア/シンガポール"
 
 msgid "Singapore Standard Time"
 msgstr "シンガポール標準時"
@@ -6000,110 +6088,142 @@ msgstr "天津-中国"
 msgid "Time &Zone"
 msgstr "時間"
 
+#, fuzzy
 msgid "Time Zone:"
-msgstr ""
+msgstr "時間"
 
+#, fuzzy
 msgid "Time Zone: %1"
-msgstr ""
+msgstr "時間"
 
+#, fuzzy
 msgid "Timezone Error"
-msgstr ""
+msgstr "新しいタイムゾーンの設定中にエラーが発生しました。"
 
 msgid "To set date and time formats, user International preferences."
 msgstr ""
 
+#, fuzzy
 msgid "Tokyo - Japan"
-msgstr ""
+msgstr "大阪-日本"
 
+#, fuzzy
 msgid "Toronto - Canada"
-msgstr ""
+msgstr "カルガリー-カナダ"
 
+#, fuzzy
 msgid "Tripoli - Libya"
-msgstr ""
+msgstr "アフリカ/トリポリ"
 
+#, fuzzy
 msgid "Tunis - Tunisia"
-msgstr ""
+msgstr "アフリカ/チュニジア"
 
+#, fuzzy
 msgid "US/Central"
-msgstr ""
+msgstr "中央アフリカ時間"
 
+#, fuzzy
 msgid "US/Eastern"
-msgstr ""
+msgstr "カナダ/東部"
 
+#, fuzzy
 msgid "US/Mountain"
-msgstr ""
+msgstr "山岳部夏時間"
 
+#, fuzzy
 msgid "US/Pacific"
-msgstr ""
+msgstr "太平洋/グアム"
 
+#, fuzzy
 msgid "Ulaanbaatar - Mongolia"
-msgstr ""
+msgstr "アジア/ウランバートル"
 
+#, fuzzy
 msgid "Ulan Bator Time"
-msgstr ""
+msgstr "時間"
 
 msgid "Unable to contact time server: %1."
 msgstr ""
 
+#, fuzzy
 msgid "Uruguay Time"
-msgstr ""
+msgstr "モンテビデオ-ウルグアイ"
 
+#, fuzzy
 msgid "Uzbekistan Time"
-msgstr ""
+msgstr "タシケント-ウズベキスタン"
 
+#, fuzzy
 msgid "Vancouver - Canada"
-msgstr ""
+msgstr "アメリカ/バンクーバー"
 
+#, fuzzy
 msgid "Venezuela Time"
-msgstr ""
+msgstr "カラカス-ベネズエラ"
 
 msgid "Victoria - Seychelles"
 msgstr ""
 
+#, fuzzy
 msgid "Vienna - Austria"
-msgstr ""
+msgstr "ヨーロッパ/ウィーン"
 
+#, fuzzy
 msgid "View as:"
-msgstr ""
+msgstr "パーティショニングレイアウトを再表示および変更します"
 
+#, fuzzy
 msgid "Vladivostok - Russia"
-msgstr ""
+msgstr "アジア/ウラジオストク"
 
+#, fuzzy
 msgid "Vladivostok Summer Time"
-msgstr ""
+msgstr "クラスノヤルスク夏時間"
 
+#, fuzzy
 msgid "Volgograd - Russia"
-msgstr ""
+msgstr "クラスノヤルスク-ロシア"
 
+#, fuzzy
 msgid "Volgograd Summer Time"
-msgstr ""
+msgstr "アゼルバイジャンの夏の時間"
 
+#, fuzzy
 msgid "Warsaw - Poland"
-msgstr ""
+msgstr "ヨーロッパ/ワルシャワ"
 
+#, fuzzy
 msgid "Washington, D.C. - U.S.A."
-msgstr ""
+msgstr "アンカレッジ-アメリカ"
 
+#, fuzzy
 msgid "Wellington - New Zealand"
-msgstr ""
+msgstr "ニュージーランド標準時間"
 
+#, fuzzy
 msgid "West Africa Time"
-msgstr ""
+msgstr "東アフリカ時間"
 
+#, fuzzy
 msgid "Western European Summer Time"
-msgstr ""
+msgstr "中央ヨーロッパ夏時間"
 
+#, fuzzy
 msgid "Western European Time"
-msgstr ""
+msgstr "中央ヨーロッパ夏時間"
 
+#, fuzzy
 msgid "Winnipeg - Canada"
-msgstr ""
+msgstr "アメリカ/ウィニペグ"
 
+#, fuzzy
 msgid "Yakutsk - Russia"
-msgstr ""
+msgstr "アジア/ヤクーツク"
 
+#, fuzzy
 msgid "Yakutsk Summer Time"
-msgstr ""
+msgstr "アルメニアの夏の時間"
 
 msgid "Yerevan - Armenia"
 msgstr "エレバン-アルメニア"
@@ -6162,7 +6282,7 @@ msgid "Wed"
 msgstr "水"
 
 msgid "Thr"
-msgstr ""
+msgstr "木"
 
 msgid "Fri"
 msgstr "金"

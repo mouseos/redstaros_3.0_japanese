@@ -1,0 +1,698 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-15 17:18-0400\n"
+"PO-Revision-Date: 2022-07-25 15:52+0900\n"
+"Last-Translator: \n"
+"Language-Team: Korean <aj39@osandok.info.kp>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "%d of %d optional package selected"
+msgid_plural "%d of %d optional packages selected"
+msgstr[0] ""
+
+msgid "%d update available"
+msgid_plural "%d updates available"
+msgstr[0] ""
+
+msgid "%d update successfully installed."
+msgid_plural "%d updates successfully installed."
+msgstr[0] ""
+
+msgid "%s installs"
+msgstr "％sインストール"
+
+msgid "%s is already installed"
+msgstr "％sはすでにインストールされています"
+
+msgid "%s obsoletes %s"
+msgstr "％sは％sを廃止します"
+
+msgid "%s updates %s"
+msgstr "％sは％sを更新します"
+
+msgid "<b>Re_positories</b>"
+msgstr "<b>リポジトリ</ b>"
+
+msgid "<b>_Advanced</b>"
+msgstr "<b>_高度</b>"
+
+msgid "<b>_Description:\t\t</b>"
+msgstr "<b> _説明：\t \t </ b>"
+
+msgid "<b>_GPG Key:</b>"
+msgstr "<b> _GPGキー：</ b>"
+
+msgid "<b>_Location:</b>"
+msgstr "<b> _場所：</ b>"
+
+msgid "<b>_Mirror List:</b>"
+msgstr "<b> _ミラーリスト：</ b>"
+
+msgid "<b>_Name:</b>"
+msgstr "<b> _名前：</ b>"
+
+msgid "<b>_Proxy:</b>"
+msgstr "<b> _Proxy：</ b>"
+
+msgid "<b>_Updates available</b>"
+msgstr "<b>_アップデートが利用可能</b>"
+
+msgid "<i>%s</i>"
+msgstr "<i>％s </ i>"
+
+msgid "<span size=\"large\" >_Browse</span>"
+msgstr "<span size = \\ \"large \"> _Browse </ span>"
+
+msgid ""
+"<span size=\"large\">There are no updated packages currently available for "
+"your system.</span>"
+msgstr ""
+
+msgid "<span size=\"large\">_List</span>"
+msgstr "<span size=\"large\"> _ List </span>"
+
+msgid "<span size=\"large\">_Search</span>"
+msgstr "<span size = \\ \"large \"> _ Search </ span>"
+
+msgid ""
+"<span size=\"xx-large\" weight=\"bold\">Package Manager</span>\n"
+"\n"
+"<i>© 2005  Red Hat, Inc.</i>"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\"\n"
+" size=\"xx-large\">Package Updater</span>"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"x-large\">Installing packages</span>\n"
+"\n"
+"The following packages will be installed."
+msgstr ""
+
+msgid "A newer version than %s is already installed"
+msgstr "％sより新しいバージョンがすでにインストールされています"
+
+msgid "A_vailable packages"
+msgstr "A_vailableパッケージ"
+
+msgid "About..."
+msgstr "概要..."
+
+msgid "Add New Repository"
+msgstr "新しいリポジトリを追加"
+
+msgid "Add/Remove Packages"
+msgstr "パッケージの追加/削除"
+
+msgid "Add/Remove Software"
+msgstr "ソフトウェアの追加/削除"
+
+msgid "Adding for dependencies:\n"
+msgstr "依存関係の追加：\n"
+
+msgid "All _check"
+msgstr "すべて_check"
+
+msgid ""
+"Another application is currently running which is accessing software "
+"information."
+msgstr ""
+
+msgid "Are you sure you wish to delete %s repository?"
+msgstr "％sリポジトリを削除してもよろしいですか？"
+
+msgid "Automatic update installation failed!"
+msgstr "自動更新のインストールに失敗しました！"
+
+msgid "Can't install a different arch of %s than already installed."
+msgstr ""
+"すでにインストールされているものとは異なる％sのアーチをインストールすることは"
+"できません。"
+
+msgid "Cancel?"
+msgstr "キャンセルしますか？"
+
+msgid "Cannot install source packages."
+msgstr "ソースパッケージをインストールできません。"
+
+msgid "Change the software installed on the system"
+msgstr "システムにインストールされているソフトウェアを変更します"
+
+msgid "Cleanup %s"
+msgstr "クリーンアップ％s"
+
+msgid "Config error."
+msgstr "構成エラー。"
+
+msgid "Continue"
+msgstr "続行"
+
+msgid "Dependencies added"
+msgstr "依存関係が追加されました"
+
+msgid "Don't notify me again"
+msgstr "二度と通知しないでください"
+
+msgid "Download was cancelled."
+msgstr "ダウンロードがキャンセルされました。"
+
+msgid "Downloading packages"
+msgstr "パッケージのダウンロード"
+
+msgid ""
+"Due to the updates installed, it is recommended that you reboot your "
+"system.  You can either reboot now or choose to do so at a later time."
+msgstr ""
+
+msgid "Edit Repository"
+msgstr "リポジトリの編集"
+
+msgid "Error downloading headers"
+msgstr "ヘッダーのダウンロード中にエラーが発生しました"
+
+msgid "Error downloading packages"
+msgstr "パッケージのダウンロード中にエラーが発生しました"
+
+msgid "Error file type."
+msgstr "エラーファイルタイプ。"
+
+msgid "Error importing files."
+msgstr "ファイルのインポート中にエラーが発生しました。"
+
+msgid "Error importing repository"
+msgstr "リポジトリのインポート中にエラーが発生しました"
+
+msgid "Error resolving dependencies"
+msgstr "依存関係の解決中にエラーが発生しました"
+
+msgid "Error retrieving update information"
+msgstr "更新情報の取得中にエラーが発生しました"
+
+msgid "Error updating software"
+msgstr "ソフトウェアの更新中にエラーが発生しました"
+
+msgid "Errors were encountered while downloading package headers."
+msgstr "パッケージヘッダーのダウンロード中にエラーが発生しました。"
+
+msgid "Errors were encountered while downloading packages."
+msgstr "パッケージのダウンロード中にエラーが発生しました。"
+
+msgid "Exit"
+msgstr "終了"
+
+msgid "File contains no section header."
+msgstr "ファイルにセクションヘッダーが含まれていません。"
+
+msgid "Import key?"
+msgstr "キーをインポートしますか？"
+
+msgid "Import repository"
+msgstr "リポジトリのインポート"
+
+msgid "Import repository %s as selected"
+msgstr "選択したリポジトリ％sをインポートします"
+
+msgid "Insert CD"
+msgstr "CDを挿入"
+
+msgid "Install and remove packages as selected"
+msgstr "選択したパッケージのインストールと削除"
+
+msgid "Install packages"
+msgstr "パッケージをインストールする"
+
+msgid "Install selected software on the system"
+msgstr "選択したソフトウェアをシステムにインストールする"
+
+msgid "Installation Overview"
+msgstr "インストールの概要"
+
+msgid "Installing packages"
+msgstr "パッケージのインストール"
+
+msgid "Installing software"
+msgstr "ソフトウェアのインストール"
+
+msgid "Installing:"
+msgstr "インストール："
+
+msgid "Invalid URL"
+msgstr "無効なURL"
+
+msgid ""
+"Invalid URL given.  URLs must be begin with http://, https://, ftp://, or "
+"file://"
+msgstr ""
+
+msgid ""
+"Malicious software can damage your computer or cause other harm.  Are you "
+"sure you wish to install this package?"
+msgstr ""
+
+msgid "Must be run as root."
+msgstr "ルートとして実行する必要があります。"
+
+msgid "Must provide a correct description for the repository."
+msgstr "リポジトリの正しい説明を提供する必要があります。"
+
+msgid "Must provide a correct name for the repository."
+msgstr "リポジトリの正しい名前を指定する必要があります。"
+
+msgid "Must provide a description for the repository."
+msgstr "リポジトリの説明を提供する必要があります。"
+
+msgid "Must provide a gpgkey for the repository."
+msgstr "リポジトリにgpgkeyを提供する必要があります。"
+
+msgid "Must provide a name for the repository."
+msgstr "リポジトリの名前を指定する必要があります。"
+
+msgid "Must provide a proxy for the repository."
+msgstr "リポジトリのプロキシを提供する必要があります。"
+
+msgid "Must provide either a location or a mirror list for the repository."
+msgstr "リポジトリの場所またはミラーリストのいずれかを提供する必要があります。"
+
+msgid "No Match for argument: %s"
+msgstr "引数に一致しません：％s"
+
+msgid "No packages were given for installation."
+msgstr "インストール用のパッケージが提供されていません。"
+
+msgid "No packages were selected for upgrade."
+msgstr "アップグレードするパッケージが選択されていません。"
+
+msgid "No repository given to install from."
+msgstr "インストール元のリポジトリが指定されていません。"
+
+msgid "No repository selected"
+msgstr "リポジトリが選択されていません"
+
+msgid "No software matching search found."
+msgstr "ソフトウェア一致検索が見つかりませんでした。"
+
+msgid "No software selected for installation or removal."
+msgstr "インストールまたは削除するソフトウェアが選択されていません。"
+
+msgid "No updates available"
+msgstr "利用可能なアップデートはありません"
+
+msgid "Package %s is already installed, skipping"
+msgstr "パッケージ％sはすでにインストールされており、スキップします"
+
+msgid "Package Manager"
+msgstr "パッケージマネージャー"
+
+msgid "Package Updater"
+msgstr "パッケージアップデータ"
+
+msgid "Package _Details"
+msgstr "パッケージ_詳細"
+
+msgid "Package selections"
+msgstr "パッケージの選択"
+
+msgid "Packages in %s"
+msgstr "％s単位のパッケージ"
+
+msgid "Parsing package install arguments"
+msgstr "パッケージインストール引数の解析"
+
+msgid "Please insert %s (disc %d) into your CD drive"
+msgstr "CDドライブに％s（ディスク％d）を挿入してください"
+
+msgid "Please insert %s into your CD drive"
+msgstr "CDドライブに％sを挿入してください"
+
+msgid "Preparing transaction"
+msgstr "トランザクションの準備"
+
+msgid "Reading software information"
+msgstr "ソフトウェア情報の読み取り"
+
+msgid "Reboot _later"
+msgstr "_laterを再起動します"
+
+msgid "Reboot recommended"
+msgstr "再起動をお勧めします"
+
+msgid "Receive notification of software updates being available."
+msgstr "利用可能なソフトウェアアップデートの通知を受け取ります。"
+
+msgid "Refresh update information"
+msgstr "更新情報を更新する"
+
+msgid "Removing critical software"
+msgstr "重要なソフトウェアの削除"
+
+msgid "Removing for dependencies:\n"
+msgstr "依存関係の削除：\n"
+
+msgid ""
+"Removing this could leave you with no kernels and thus lead to a non-"
+"bootable system.  Are you sure you want to continue?"
+msgstr ""
+
+msgid "Removing:"
+msgstr "削除："
+
+msgid "Repository Manager"
+msgstr "リポジトリマネージャー"
+
+msgid "Repository named %s already exists."
+msgstr "％sという名前のリポジトリがすでに存在します。"
+
+msgid "Resolving dependencies"
+msgstr "依存関係の解決"
+
+msgid "Resolving dependencies for updates"
+msgstr "更新の依存関係を解決する"
+
+msgid "Retrieving %s"
+msgstr "％sを取得しています"
+
+msgid "Retrieving software information"
+msgstr "ソフトウェア情報の取得"
+
+msgid "Retrieving update information"
+msgstr "更新情報を取得しています"
+
+msgid "Searching for '%s'"
+msgstr "「％s」を検索しています"
+
+msgid "Security Updates Available"
+msgstr "利用可能なセキュリティアップデート"
+
+msgid "Select directory to repository in"
+msgstr "リポジトリに保存するディレクトリを選択します"
+
+msgid "Software Installer"
+msgstr "ソフトウェアインストーラー"
+
+msgid "Software Update Notifier"
+msgstr "ソフトウェアアップデート通知機能"
+
+msgid "Software Updater"
+msgstr "ソフトウェアアップデータ"
+
+msgid "Software information"
+msgstr "ソフトウェア情報"
+
+msgid "Software information is required to continue."
+msgstr "続行するにはソフトウェア情報が必要です。"
+
+msgid "Software installation"
+msgstr "ソフトウェアのインストール"
+
+msgid "Software installation and removal"
+msgstr "ソフトウェアのインストールと削除"
+
+msgid "Software installation and removal successfully completed."
+msgstr "ソフトウェアのインストールと削除が正常に完了しました。"
+
+msgid "Software installation successfully completed."
+msgstr "ソフトウェアのインストールが正常に完了しました。"
+
+msgid "Software installed successfully."
+msgstr "ソフトウェアが正常にインストールされました。"
+
+msgid "Software removal"
+msgstr "ソフトウェアの削除"
+
+msgid "Software removal successfully completed."
+msgstr "ソフトウェアの削除が正常に完了しました。"
+
+msgid ""
+"Software selected and not installed.  Would you like to finish installing or "
+"quit anyway, losing all package selections?"
+msgstr ""
+
+msgid "Software update successfully completed."
+msgstr "ソフトウェアの更新が正常に完了しました。"
+
+msgid "Software verify"
+msgstr "ソフトウェア検証"
+
+msgid ""
+"Some of the software which you are removing is either critical software for "
+"system functionality or required by such software.  Are you sure you want to "
+"continue?"
+msgstr ""
+
+msgid ""
+"Some packages associated with this group are not required to be installed "
+"but may provide additional functionality.  Please choose the packages which "
+"you would like to have installed."
+msgstr ""
+
+msgid "System is not receiving updates"
+msgstr "システムがアップデートを受信して​​いません"
+
+msgid ""
+"The package %s is signed with a key %s (0x%s) from %s.  Would you like to "
+"import this key?"
+msgstr ""
+
+msgid "The software was successfully installed."
+msgstr "ソフトウェアは正常にインストールされました。"
+
+msgid "There is <b>%d</b> package update available."
+msgid_plural "There are <b>%d</b> package updates available."
+msgstr[0] ""
+
+msgid ""
+"There were errors encountered in trying to update the software you selected"
+msgstr ""
+
+msgid "This update will require a reboot."
+msgstr "このアップデートには再起動が必要です。"
+
+msgid "Unable file contents."
+msgstr "ファイルの内容を使用できません。"
+
+msgid ""
+"Unable to connect to yum-updatesd.  Please ensure that the yum-updatesd "
+"package is installed and that the service is running."
+msgstr ""
+
+msgid "Unable to find a suitable mirror."
+msgstr "適切なミラーが見つかりません。"
+
+msgid "Unable to import file."
+msgstr "ファイルをインポートできません。"
+
+msgid "Unable to import repository."
+msgstr "リポジトリをインポートできません。"
+
+msgid "Unable to install software.  Error opening files."
+msgstr "ソフトウェアをインストールできません。"
+
+msgid ""
+"Unable to resolve dependencies for some packages selected for installation."
+msgstr ""
+
+msgid "Unable to retrieve software information"
+msgstr "ソフトウェア情報を取得できません"
+
+msgid ""
+"Unable to retrieve software information. This could be caused by not having "
+"a network connection available."
+msgstr ""
+
+msgid "Unable to start due to a configuration error."
+msgstr "設定エラーのため起動できません。"
+
+msgid "Unable to verify %s"
+msgstr "％sを確認できません"
+
+msgid "Uncategorized"
+msgstr "未分類"
+
+msgid "Update Details"
+msgstr "更新の詳細"
+
+msgid "Update Successful"
+msgstr "更新に成功しました"
+
+msgid "Update software installed on the system"
+msgstr "システムにインストールされているソフトウェアを更新する"
+
+msgid "Updated %s packages available"
+msgstr "更新された％sパッケージが利用可能"
+
+msgid "Updates Available"
+msgstr "利用可能なアップデート"
+
+msgid "Updating %s"
+msgstr "％sを更新しています"
+
+msgid "Updating for dependencies:\n"
+msgstr "依存関係の更新：\n"
+
+msgid "Updating software"
+msgstr "ソフトウェアの更新"
+
+msgid ""
+"Updating these packages requires additional package changes for proper "
+"operation."
+msgstr ""
+
+msgid "Updating:"
+msgstr "更新："
+
+msgid "Verifying packages"
+msgstr "パッケージの確認"
+
+msgid "View Updates..."
+msgstr "更新を表示..."
+
+msgid "Will continue in %d second..."
+msgid_plural "Will continue in %d seconds..."
+msgstr[0] ""
+
+msgid "Will reboot in %d second..."
+msgid_plural "Will reboot in %d seconds..."
+msgstr[0] ""
+
+msgid "Will reboot in %d seconds..."
+msgstr "％d秒で再起動します..."
+
+msgid "Would you like to import this repository?"
+msgstr "このリポジトリをインポートしますか？"
+
+msgid "You have selected the following software installations and removals."
+msgstr "次のソフトウェアのインストールと削除を選択しました。"
+
+msgid ""
+"Your system is currently not receiving software updates.  Please check your "
+"network connection and/or set up software updates."
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_All packages"
+msgstr "_すべてのパッケージ"
+
+msgid "_Apply"
+msgstr "_適用"
+
+msgid "_Apply updates"
+msgstr "_更新を適用する"
+
+msgid "_Browse"
+msgstr "_参照"
+
+msgid "_Cancel"
+msgstr "_キャンセル"
+
+msgid "_Close"
+msgstr "_閉じる"
+
+msgid "_Content"
+msgstr "_コンテンツ"
+
+msgid "_Continue retrieval"
+msgstr "_検索を続行"
+
+msgid "_Deselect"
+msgstr "_選択を解除"
+
+msgid "_Deselect all optional packages"
+msgstr "_すべてのオプションパッケージの選択を解除します"
+
+msgid "_Details"
+msgstr "_詳細"
+
+msgid "_Don't quit"
+msgstr "_やめないで"
+
+msgid "_Edit"
+msgstr "_編集"
+
+msgid "_Exit"
+msgstr ""
+
+msgid "_File"
+msgstr "_ファイル"
+
+msgid "_Help"
+msgstr "_ヘルプ"
+
+msgid "_Import key"
+msgstr "_インポートキー"
+
+msgid "_Install anyway"
+msgstr "_とにかくインストール"
+
+msgid "_Installed packages"
+msgstr "_インストールされたパッケージ"
+
+msgid "_List"
+msgstr "_リスト"
+
+msgid "_Optional packages"
+msgstr "_オプションのパッケージ"
+
+msgid "_Quit"
+msgstr "_終了"
+
+msgid "_Quit anyway"
+msgstr "_とにかく終了"
+
+msgid "_Reboot now"
+msgstr "_今すぐ再起動"
+
+msgid "_Refresh"
+msgstr "_リフレッシュ"
+
+msgid "_Refresh updates"
+msgstr "_更新を更新"
+
+msgid "_Remove anyway"
+msgstr "_とにかく削除"
+
+msgid "_Repositories"
+msgstr "_リポジトリ"
+
+msgid "_Retry"
+msgstr "_再試行"
+
+msgid "_Run anyway"
+msgstr "_とにかく実行"
+
+msgid "_Search"
+msgstr "_検索"
+
+msgid "_Select"
+msgstr "_選択"
+
+msgid "_Select all optional packages"
+msgstr "_すべてのオプションパッケージを選択"
+
+msgid "_Skip"
+msgstr "_スキップ"
+
+msgid "_Update Info"
+msgstr "_更新情報"
+
+msgid "_View"
+msgstr "_表示"
+
+msgid "_View Updates..."
+msgstr "_更新を表示..."
+
+msgid "dialog1"
+msgstr ""
+
+msgid "software is already installed."
+msgstr "ソフトウェアはすでにインストールされています。"
