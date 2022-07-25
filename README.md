@@ -10,7 +10,7 @@ sudo fsck.cramfs --extract=fs stage2_new.img
 ```bash
 sudo mkfs.cramfs fs stage2_new.img
 ```
-##iso作成
+## iso作成
 anyburnでisoの/redstar/base/stage2.imgを置き換える
 修正版isolinux.cfgを入れる
 lang=jaになっているほかvirtualboxで起動できるように編集、ログが見れるようにもしてある。
