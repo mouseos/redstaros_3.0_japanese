@@ -1,0 +1,12 @@
+[en]
+Name=English
+Name[ko_KP]=영어
+Name[ja]=英語
+[ko_KP]
+Name=Korean
+Name[ko_KP]=조선어
+Name[ja]=朝鮮語
+[ja]
+Name=Japanese
+Name[ko_KP]=일본어
+Name[ja]=日本語
